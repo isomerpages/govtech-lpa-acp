@@ -3,62 +3,82 @@ title: Hemisphere
 permalink: /permalink/
 description: ""
 ---
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #ffffff;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-    h1 {
-      color: #333333;
-      font-size: 24px;
-      margin-top: 0;
-    }
-    p {
-      color: #666666;
-      font-size: 16px;
-      line-height: 1.5;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-  <div class="container">
-    <h1>Welcome to Example Template</h1>
-    <p>
-      This is an example template for your CMS system. You can customize the content of this template based on your needs.
-    </p>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet tortor sed purus vestibulum finibus. Donec vestibulum eleifend urna, at egestas tellus pellentesque ut. Nulla hendrerit ligula id purus fringilla luctus. <a href="#">Learn more</a>.
-    </p>
-  </div>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  h1 {
+    color: #333333;
+    font-size: 24px;
+    margin-top: 0;
+  }
+  p {
+    color: #666666;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
 
-![](/images/vision-and-mission.png)
+<div class="container">
+  <h1>Example Box 1</h1>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet tortor sed purus vestibulum finibus.
+    Donec vestibulum eleifend urna, at egestas tellus pellentesque ut. Nulla hendrerit ligula id purus fringilla luctus.
+    <a href="#">Learn more</a>.
+  </p>
+</div>
+
+<div class="container">
+  <h1>Example Box 2</h1>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet tortor sed purus vestibulum finibus.
+    Donec vestibulum eleifend urna, at egestas tellus pellentesque ut. Nulla hendrerit ligula id purus fringilla luctus.
+    <a href="#">Learn more</a>.
+  </p>
+</div>
+
+<div class="container">
+  <h1>Example Box 3</h1>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet tortor sed purus vestibulum finibus.
+    Donec vestibulum eleifend urna, at egestas tellus pellentesque ut. Nulla hendrerit ligula id purus fringilla luctus.
+    <a href="#">Learn more</a>.
+  </p>
+</div>
+
 
 <hr>
 
 <h1>Example Text</h1>
 <h2 style="color: red; text-align: center;">This is a red text, aligned center.</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean leo metus, sollicitudin a odio vel, malesuada dignissim orci. Maecenas interdum ex ut urna lacinia porta. Cras eget tellus metus.</p>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean leo metus, sollicitudin a odio vel,
+  malesuada dignissim orci. Maecenas interdum ex ut urna lacinia porta. Cras eget tellus metus.
+</p>
 
 <hr>
 
 <h2>Inline Animation</h2>
 <p>Spinning Wheel:</p>
 
-<p></p><div style="width: 100px; height: 100px; border: 5px solid #ccc; border-top-color: #ff0000; border-radius: 50%; animation: spin 1s linear infinite;" id="spinner"></div><p></p>
+<div style="width: 100px; height: 100px; border: 5px solid #ccc; border-top-color: #ff0000; border-radius: 50%; animation: spin 1s linear infinite;" id="spinner"></div>
 
 <hr>
 
@@ -95,3 +115,5 @@ description: ""
 </tbody></table>
 
 <hr>
+
+
