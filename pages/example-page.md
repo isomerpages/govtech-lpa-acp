@@ -2,6 +2,7 @@
 title: Example Page
 permalink: /example-page/
 ---
+
 <style>
 	.container{
 		width: 1170px;
