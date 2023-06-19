@@ -18,6 +18,10 @@ permalink: /example-page/
     width: 25%;
     PADDING: 0 15px;
 }
+		.col-8 {
+    width: 75%;
+    PADDING: 0 15px;
+}
 	.col-4 {
     width: 33.33%;
     PADDING: 0 15px;
@@ -385,10 +389,23 @@ a.p-button.btn:hover {
 
 
 
-
+<section style="width: 100%" class="banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-6 banner_block">
+         <div class="inner u-align--center">
+            <div class="image">
+              <img alt="The Legacy" src="![](/images/plan@2x.png)">
+            </div>
+            <a class="p-button btn" href="#">Get Started</a>
+         </div>
+        </div>
+      </div>
+    </div>
+  </section>
 <section style="width: 100%" class="feature p-t-80 p-b-80">
 
-<div style="width: 1170px;" class="container">
+<div class="container">
 
 <div class="row">
 
@@ -541,9 +558,8 @@ a.p-button.btn:hover {
       </div>
     </div>    
   </section>
-	
 	<section class="action_">
-    <div class="container action_2 p-t-110 p-b-90">
+    <div style="padding-top:110px; padding-bottom: 90px" class="container action_2">
       <div class="row">
         <div class="col-8 action2_b">
           <h2>We understand that legacy and <br>end-of-life planning is hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
@@ -552,7 +568,7 @@ a.p-button.btn:hover {
         </div>
       </div>
     </div>
-    <div class="container action_3 p-t-80 p-b-60">
+    <div style="padding-top: 80px; padding-bottom: 70px" class="container action_3">
       <div class="row">
         <div class="col-12 action3_b u-align--center">
           <h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
