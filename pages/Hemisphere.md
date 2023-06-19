@@ -4,6 +4,21 @@ permalink: /index/
 description: ""
 ---
 <style>
+	.container{
+		width: 1170px;
+	}
+	.col-3 {
+    width: 25%;
+    PADDING: 0 15px;
+}
+	.col-4 {
+    width: 33.33%;
+    PADDING: 0 15px;
+}
+		.col-6 {
+    width: 50%;
+    PADDING: 0 15px;
+}
 	
 	header#navigation.full-width .row {
     max-width: 100%;
@@ -493,6 +508,29 @@ a.p-button.btn:hover {
 
 </div>
 
-</div>
-
+</div> 
 </section>
+
+<section style="padding-top:80px; padding-bottom: 110px; width: 100%;" class="action">
+    <div class="container">
+      <div class="row">
+        <div class="action_b col-6">
+          <img alt="The Legacy" src="./src/images/action.png">
+        </div>
+        <div class="col-6 action_b">
+          <div class="inner">
+            <p>End-of-life planning may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
+            <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advanced Care Plan</strong> (ACP) can bring about peace of mind and reduce uncertainty for those who care about you the most.</p>
+          </div>
+        </div>
+      </div>
+      <div style="margin-top:60px;" class="row">
+        <div class="col-12 action_b u-align--center">
+            <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. Here are <br>some ways to get started.</h2>
+            
+        </div>
+      </div>
+    </div>
+  </section>
+
+ 
