@@ -2,10 +2,10 @@
 title: Example Page
 permalink: /example-page/
 ---
-
 <style>
 	.container{
 		width: 1170px;
+	margin: 0 auto;
 	}
 		.col-3 {
     width: 25%;
