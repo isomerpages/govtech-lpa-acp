@@ -384,7 +384,7 @@ a.p-button.btn:hover {
 
 <h3>I’m unsure how to begin</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="![arrow icon](/images/arrow-icon.svg)"></a>
+<a href="#"><img alt="The Legacy" class="arrow-btn" src="![](/images/arrow-icon.svg)"></a>
 
 </div>
 
@@ -396,7 +396,7 @@ a.p-button.btn:hover {
 
 <h3>I would like to speak to my family first</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="![arrow icon](/images/arrow-icon.svg)"></a>
+<a href="#"><img alt="The Legacy" class="arrow-btn" src="![](/images/arrow-icon.svg)"></a>
 
 </div>
 
@@ -408,7 +408,7 @@ a.p-button.btn:hover {
 
 <h3>I’m concerned about losing control of my assets and decision-making</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="![arrow icon](/images/arrow-icon.svg)"></a>
+<a href="#"><img alt="The Legacy" class="arrow-btn" src="![](/images/arrow-icon.svg)"></a>
 
 </div>
 
@@ -420,7 +420,7 @@ a.p-button.btn:hover {
 
 <h3>I’m unsure who are the best people to appoint</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="![arrow icon](/images/arrow-icon.svg)"></a>
+<a href="#"><img alt="The Legacy" class="arrow-btn" src="![](/images/arrow-icon.svg)"></a>
 
 </div>
 
@@ -518,5 +518,3 @@ a.p-button.btn:hover {
       </div>
     </div>
   </section>
-
- 
