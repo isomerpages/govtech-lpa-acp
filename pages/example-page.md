@@ -182,6 +182,7 @@ a.play_btn {
 	section.bp-section .bp-container {
     width: 100%!important;
     max-width: 100%!important;
+    padding-top: 0!important;
 }
 .action_b{
     display: flex;
