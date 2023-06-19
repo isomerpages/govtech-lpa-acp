@@ -7,6 +7,10 @@ permalink: /example-page/
 		width: 1170px;
 	margin: 0 auto;
 	}
+	.col.is-8.is-offset-2.print-content {
+    margin-left: 0;
+    width: 100%;
+}
 		.col-3 {
     width: 25%;
     PADDING: 0 15px;
