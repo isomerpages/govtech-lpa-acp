@@ -10,6 +10,15 @@ permalink: /example-page/
 	section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
+	a.p-button.btn {
+    border-color: #01436b;
+    background-color: transparent;
+    border-radius: 30px;
+    color: #01436b;
+    margin-top: 30px;
+    font-weight: 600;
+	text-decoration: none;
+}
 	section.bp-section .bp-container {
     width: 100%!important;
     max-width: 100%!important;
