@@ -7,6 +7,9 @@ permalink: /example-page/
 		width: 1170px;
 	margin: 0 auto;
 	}
+	section.bp-section.is-small.bp-section-pagetitle {
+    display: none;
+}
 	.col.is-8.is-offset-2.print-content {
     margin-left: 0;
     width: 100%;
