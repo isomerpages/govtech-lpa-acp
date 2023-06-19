@@ -179,7 +179,10 @@ a.play_btn {
 }section.bp-section {
     padding: 0;
 }
-	
+	section.bp-section .bp-container {
+    width: 100%!important;
+    max-width: 100%!important;
+}
 .action_b{
     display: flex;
     align-items: center;
