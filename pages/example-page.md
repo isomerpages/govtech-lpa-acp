@@ -7,6 +7,9 @@ permalink: /example-page/
 		width: 1170px;
 	margin: 0 auto;
 	}
+	container-fluid{
+	width: 100%;
+	}
 	section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
@@ -590,7 +593,7 @@ a.p-button.btn:hover {
 			</div>
 		</div>
 	</div>
-	<div style="padding-top: 80px; padding-bottom: 70px" class="container action_3">
+	<div style="padding-top: 80px; padding-bottom: 70px" class="container-fluid action_3">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
 				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
