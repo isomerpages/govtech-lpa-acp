@@ -540,5 +540,24 @@ a.p-button.btn:hover {
              </div>
       </div>
     </div>    
-   
+  </section>
+	
+	<section class="action_">
+    <div class="container action_2 p-t-110 p-b-90">
+      <div class="row">
+        <div class="col-8 action2_b">
+          <h2>We understand that legacy and <br>end-of-life planning is hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
+          <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can</p>
+          <a class="read-more" href="#">start conversations with your family.</a>
+        </div>
+      </div>
+    </div>
+    <div class="container action_3 p-t-80 p-b-60">
+      <div class="row">
+        <div class="col-12 action3_b u-align--center">
+          <h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
+          <a class="btn p-button" href="#">Get Started</a>
+        </div>
+      </div>
+    </div>
   </section>
