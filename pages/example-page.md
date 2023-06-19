@@ -6,6 +6,22 @@ permalink: /example-page/
 	.container{
 		width: 1170px;
 	}
+		.col-3 {
+    width: 25%;
+    PADDING: 0 15px;
+}
+	.col-4 {
+    width: 33.33%;
+    PADDING: 0 15px;
+}
+		.col-6 {
+    width: 50%;
+    PADDING: 0 15px;
+}
+		.col-12 {
+    width: 100%;
+    PADDING: 0 15px;
+}
 	header#navigation.full-width .row {
     max-width: 100%;
 }
