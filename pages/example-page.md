@@ -513,8 +513,8 @@ a.p-button.btn:hover {
       <div style="margin-top:60px;" class="row">
         <div class="col-12 action_b u-align--center">
             <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. Here are <br>some ways to get started.</h2>
-            
-        </div>
+             </div>
       </div>
-    </div>
+    </div>    
+   
   </section>
