@@ -10,6 +10,11 @@ permalink: /example-page/
 	section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
+	section.bp-section .bp-container {
+    width: 100%!important;
+    max-width: 100%!important;
+    padding-top: 0!important;
+}
 	.col.is-8.is-offset-2.print-content {
     margin-left: 0;
     width: 100%;
