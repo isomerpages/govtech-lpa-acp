@@ -176,7 +176,10 @@ a.play_btn {
     font-size: 22px;
     line-height: 34px;
     color: #07477B;
+}section.bp-section {
+    padding: 0;
 }
+	
 .action_b{
     display: flex;
     align-items: center;
