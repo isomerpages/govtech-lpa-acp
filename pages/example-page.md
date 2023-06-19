@@ -392,7 +392,7 @@ a.p-button.btn:hover {
 
 <div class="row">
 
-<div style="margin-bottom: 60px" class="heading u-align--center">
+<div style="margin-bottom: 60px" class="heading u-align--center col-12">
 
 <h2>When creating a Lasting Power of Attorney (LPA) &amp; Advance Care Plan (ACP) <br><strong>how would you describe your situation?</strong></h2>
 
