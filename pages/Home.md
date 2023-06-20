@@ -92,14 +92,6 @@ header#navigation .p-navigation__tagged-logo a.p-navigation__link {
     align-items: center;
     height: 720px;
 }
-a.p-button.btn {
-    border-color: #01436b;
-    background-color: transparent;
-    border-radius: 30px;
-    color: #01436b;
-    margin-top: 30px;
-    font-weight: 600;
-}
 .p-navigation [class*=p-navigation__item].is-selected > .p-navigation__link::before{
     display: none;
 }
