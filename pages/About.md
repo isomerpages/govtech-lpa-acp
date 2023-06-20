@@ -179,32 +179,32 @@ a.p-button.btn {
 	<div class="container">
 		<div class="row">
 			<div class="col-12 accordion_b">
-			<ul class="accordion">
-				<li>
-					<a class="toggle" href="#">Item 1</a>
-					<p class="inner">
-						Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
-					</p>
-				</li>
-				<li>
-					<a class="toggle" href="#">Item 2</a>
-					<p class="inner">
-						Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
-					</p>
-				</li>
-				<li>
-					<a class="toggle" href="#">Item 3</a>
-					<p class="inner">
-						Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
-					</p>
-				</li>
-				<li>
-					<a class="toggle" href="#">Item 4</a>
-					<p class="inner">
-						Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
-					</p>
-				</li>
-			</ul>
+					<ul class="accordion">
+						<li>
+							<a class="toggle" href="#">Item 1</a>
+							<p class="inner">
+								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+							</p>
+						</li>
+						<li>
+							<a class="toggle" href="#">Item 2</a>
+							<p class="inner">
+								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+							</p>
+						</li>
+						<li>
+							<a class="toggle" href="#">Item 3</a>
+							<p class="inner">
+								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+							</p>
+						</li>
+						<li>
+							<a class="toggle" href="#">Item 4</a>
+							<p class="inner">
+								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+							</p>
+						</li>
+					</ul>
 			</div>
 		</div>
 	</div>
