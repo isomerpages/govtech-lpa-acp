@@ -235,13 +235,13 @@ section.action {
     text-decoration: underline;
     font-weight: bold;
 }
-
-.action_3 h2 {
+.action_3 h2, .action_3 h2 i {
     line-height: 52px;
     font-size: 42px;
     font-family: 'Playfair Display';
+    color: #01436b;
+    margin-bottom: 30px;
 }
-
 a.p-button.btn {
     padding: 10px 30px;
 }
