@@ -208,14 +208,14 @@ section.bp-section .bp-container {
 				<ul class="accordion">
 						<li>
 							<label for="accordion_1">
-								<input class="toggle" id="accordion_1" type="checkbox">Item 1</label>
+								<input class="toggle" id="accordion_1" name="accordion" type="radio">Item 1</label>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
 							<label for="accordion_2">
-								<input class="toggle" id="accordion_2" type="checkbox">Item 2</label>
+								<input class="toggle" id="accordion_2" name="accordion" type="radio">Item 2</label>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
@@ -234,35 +234,35 @@ section.bp-section .bp-container {
 				<ul class="accordion">
 						<li>
 							<label for="accordion_3">
-								<input class="toggle" id="accordion_3" type="checkbox">Item 3</label>
+								<input class="toggle" id="accordion_3" name="accordion" type="radio">Item 3</label>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
 							<label for="accordion_4">
-								<input class="toggle" id="accordion_4" type="checkbox">Item 4</label>
+								<input class="toggle" id="accordion_4" name="accordion" type="radio">Item 4</label>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
 							<label for="accordion_5">
-								<input class="toggle" id="accordion_5" type="checkbox">Item 5</label>
+								<input class="toggle" id="accordion_5" name="accordion" type="radio">Item 5</label>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
 							<label for="accordion_6">
-								<input class="toggle" id="accordion_6" type="checkbox">Item 6</label>
+								<input class="toggle" id="accordion_6" name="accordion" type="radio">Item 6</label>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 					<li>
 							<label for="accordion_7">
-								<input class="toggle" id="accordion_7" type="checkbox">Item 7</label>
+								<input class="toggle" id="accordion_7" name="accordion" type="radio">Item 7</label>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
