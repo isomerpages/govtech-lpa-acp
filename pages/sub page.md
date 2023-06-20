@@ -125,7 +125,7 @@ section.bp-section .bp-container {
     overflow: hidden;
     display: none;
     color: #000;
-    padding: 30px;
+    padding: 30px 0;
     margin-top: 0;
 }
 .accordion ul li {
