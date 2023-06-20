@@ -176,7 +176,7 @@ a.p-button.btn {
 				</div>
 			</div>
 			<div class="row">
-						<div class="col-12 about_bb" style="margin-bottom:30px;">
+						<div style="margin-bottom:30px;" class="col-12 about_bb">
 							<div class="inner">
 							<h4>LPA Form 1</h4>
 							<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui <br>dolorem eum fugiat quo voluptas nulla pariatur</p>
@@ -201,25 +201,25 @@ a.p-button.btn {
 			<div class="col-12 accordion_b">
 				<ul class="accordion">
 						<li>
-							<a class="toggle" href="#">Item 1</a>
+							<a href="#" class="toggle">Item 1</a>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a class="toggle" href="#">Item 2</a>
+							<a href="#" class="toggle">Item 2</a>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a class="toggle" href="#">Item 3</a>
+							<a href="#" class="toggle">Item 3</a>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a class="toggle" href="#">Item 4</a>
+							<a href="#" class="toggle">Item 4</a>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
@@ -231,7 +231,7 @@ a.p-button.btn {
 </section>
 
 <section class="action__4">
-	<div class="container" style="padding-top: 90px; padding-bottom: 90px">
+	<div style="padding-top: 90px; padding-bottom: 90px" class="container">
 		<div class="row">
 			<div class="col-12 action__b m-b-80">
 				<h4>Get started on <a href="#">making a Lasting Power Of Athorny</a></h4>
@@ -249,12 +249,12 @@ a.p-button.btn {
 		</div>
 	</div>
 </section>
-<section class="action__" style="width:100%">
-	<div class="container-fluid action_3" style="padding-top: 60px; padding-bottom: 90px">
+<section style="width:100%" class="action__">
+	<div style="padding-top: 60px; padding-bottom: 90px" class="container-fluid action_3">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
 				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
-				<a href="#" class="btn p-button">Get Started</a>
+				<a class="btn p-button" href="#">Get Started</a>
 			</div>
 		</div>
 	</div>
