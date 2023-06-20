@@ -51,4 +51,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2zatkbek6p6qa.amplifyapp.com
 prod: https://master.d2zatkbek6p6qa.amplifyapp.com
+google_analytics:G-D85MR6KN9C
 resources_name: lorem-ipsum
