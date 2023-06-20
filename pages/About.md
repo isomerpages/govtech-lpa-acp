@@ -14,6 +14,9 @@ description: ""
 	section.bp-section .bp-container {
     padding-bottom: 0!important;
 }
+	. m-b-80{
+	margin-bottom: 80px;
+	}
 	container-fluid{
 	width: 100%;
 	}
@@ -81,6 +84,7 @@ a.p-button.btn {
     background-color: #EBE7E5;
     border-radius: 25px;
 }
+	
 	.about_bb h4 {
     color: #1A3554;
     font-weight: bold;
@@ -219,6 +223,13 @@ a.p-button.btn {
 
 <section class="action__4">
 	<div class="container" style="padding-top: 90px; padding-bottom: 90px">
+		<div class="row">
+			<div class="col-12 action__b m-b-80">
+				<h4>Get started on <a href="#">making a Lasting Power Of Athorny</a></h4>
+				<h4>Get started on <a href="#">making a Lasting Power Of Athorny</a></h4>
+				<h4></h4>
+			</div>
+		</div>
 		<div class="row">
 			<div class="col-12">
 				<div class="inner">
