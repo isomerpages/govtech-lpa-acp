@@ -25,7 +25,7 @@ description: ""
     margin-top: 30px;
     font-weight: 600;
     border: 1px solid #01436b;
-	text-decoration: none;
+	 text-decoration: none;
 }
 	section.bp-section .bp-container {
     width: 100%!important;
