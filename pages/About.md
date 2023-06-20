@@ -76,7 +76,6 @@ description: ""
     background-color: #EBE7E5;
     border-radius: 25px;
 }
-	
 	.about_bb h4 {
     color: #1A3554;
     font-weight: bold;
