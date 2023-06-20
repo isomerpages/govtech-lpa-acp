@@ -108,17 +108,14 @@ a.p-button.btn {
   list-style: none;
   padding: 0;
 }
-
 .accordion ul .inner {
   padding-left: 1em;
   overflow: hidden;
   display: none;
 }
-
 .accordion ul li {
   margin: 0.5em 0;
 }
-
 .accordion ul li a.toggle {
   width: 100%;
   display: block;
@@ -128,11 +125,16 @@ a.p-button.btn {
   border-radius: 0.15em;
   transition: background 0.3s ease;
 }
-
 .accordion ul li a.toggle:hover {
   background: rgba(0, 0, 0, 0.9);
 }
-
+.action__4 h2{
+		color: #000;
+	}
+	action__4 p{
+		color: #000;
+		font-size: 22px;
+	}
 	</style>
 <section class="about_ac">
     <div class="container">
