@@ -90,6 +90,9 @@ description: ""
 	.p-t-40{
 	padding-top:40px;
 	}
+		.action_3 {
+    background-color: #C8C6C3;
+}
 	</style>
 <section class="about_ac">
     <div class="container">
@@ -128,4 +131,14 @@ description: ""
 					</div>
 				</div>
     </div>
+  </section>
+	<section class="">
+		<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
+		<div class="row">
+			<div class="col-12 action3_b u-align--center">
+				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
+				<a class="btn p-button" href="#">Get Started</a>
+			</div>
+		</div>
+	</div>
   </section>
