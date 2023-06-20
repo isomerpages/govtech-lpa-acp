@@ -201,13 +201,13 @@ section.bp-section .bp-container {
 			<div class="col-12 accordion_b">
 				<ul class="accordion">
 						<li>
-							<a class="toggle" href="#">Item 1</a>
+							<input class="toggle" type="radio">Item 1
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a class="toggle" href="#">Item 2</a>
+							<input class="toggle" type="radio">Item 2
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
@@ -225,31 +225,31 @@ section.bp-section .bp-container {
 				<div class="col-12 accordion_b">
 				<ul class="accordion">
 						<li>
-							<a class="toggle" href="#">Item 1</a>
-							<p style="display:block" class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
-							</p>
-						</li>
-						<li>
-							<a class="toggle" href="#">Item 2</a>
+							<input checked="" class="toggle" type="radio">Item 1
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a class="toggle" href="#">Item 3</a>
+							<input class="toggle" type="radio">Item 2
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a class="toggle" href="#">Item 4</a>
+							<input class="toggle" type="radio">Item 3
+							<p class="inner">
+								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+							</p>
+						</li>
+						<li>
+							<input class="toggle" type="radio">Item 4
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 					<li>
-							<a class="toggle" href="#">Item 5</a>
+							<input class="toggle" type="radio">Item 5
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
