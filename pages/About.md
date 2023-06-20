@@ -151,6 +151,9 @@ section.bp-section .bp-container {
 	.accordion ul {
     margin: 0;
 }
+	.accordion .toggle{
+	display:none;
+	}
 	</style>
 <section class="about_ac">
     <div class="container">
