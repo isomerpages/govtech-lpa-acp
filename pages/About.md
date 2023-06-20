@@ -96,7 +96,7 @@ description: ""
 	.p-t-40{
 	padding-top:40px;
 	}
-		.action_3 {
+	.action_3 {
     background-color: #C8C6C3;
 }
 	</style>
