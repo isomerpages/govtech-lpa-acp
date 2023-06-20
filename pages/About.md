@@ -114,16 +114,18 @@ a.p-button.btn {
   display: none;
 }
 .accordion ul li {
-  margin: 0.5em 0;
+  margin: 0;
 }
 .accordion ul li a.toggle {
-  width: 100%;
-  display: block;
-  background: rgba(0, 0, 0, 0.78);
-  color: #fefefe;
-  padding: 0.75em;
-  border-radius: 0.15em;
-  transition: background 0.3s ease;
+    width: 100%;
+    background-image: linear-gradient(#a6d9e5, #9ac0c8);
+    display: block;
+    color: #fefefe;
+    padding: 0.75em;
+    border-radius: 0.15em;
+    transition: background 0.3s ease;
+    margin-bottom: 0;
+    border-radius: 0;
 }
 .accordion ul li a.toggle:hover {
   background: rgba(0, 0, 0, 0.9);
