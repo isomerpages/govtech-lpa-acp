@@ -66,9 +66,6 @@ description: ""
     background-color: #ddd;
     border-radius: 25px;
 }
-	.about_bb:not(:last-child) {
-    margin-bottom: 30px;
-}
 	.about_bb h4 {
     color: #1A3554;
     font-weight: bold;
@@ -83,6 +80,9 @@ description: ""
     margin-bottom: 30px;
     color: #000;
 }
+	.m-b-30{
+	margin-bottom: 30px;
+	}
 	</style>
 <section class="about_ac">
     <div class="container">
@@ -107,11 +107,13 @@ description: ""
 					<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h3>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row m-b-30">
 						<div class="col-12 about_bb">
 							<h4>LPA Form 1</h4>
 							<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui <br>dolorem eum fugiat quo voluptas nulla pariatur</p>
 					</div>
+				</div>
+			<div class="row">
 				<div class="col-12 about_bb">
 							<h4>LPA Form 2</h4>
 							<p>ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
