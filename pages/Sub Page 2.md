@@ -168,7 +168,7 @@ section.bp-section .bp-container {
 <section class="accordion p-t-80">
 	<div class="container">
 			<div class="row">
-			<div style="margin-bottom: 60px; margin-top:60px" class="video_acc col-12">
+			<div style="margin-bottom: 60px" class="video_acc col-12">
 				<div style="height: 460px; background-color:#ddd; border-radius:30px" class="inner"></div>
 			</div>
 			</div>
