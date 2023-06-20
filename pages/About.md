@@ -172,7 +172,7 @@ a.p-button.btn {
 				</div>
     </div>
   </section>
-	<section class="accordion">
+	<section class="accordion p-t-80">
 	<div class="container">
 		<div class="row">
 			<div class="col-12 accordion_b">
@@ -202,6 +202,16 @@ a.p-button.btn {
     </p>
   </li>
 </ul>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="action__4">
+	<div class="container" style="padding-top: 90px; padding-bottom: 90px">
+		<div class="row">
+			<div class="col-12">
+				<h2>My Legacy Vault</h2>
+				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<br> cupidatat non proident, sunt in culpa qui</p>
 			</div>
 		</div>
 	</div>
