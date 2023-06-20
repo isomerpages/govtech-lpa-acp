@@ -79,7 +79,10 @@ description: ""
 }.about_a_b h2 {
     color: #1A3554;
 }
-	
+	.heading h3 {
+    margin-bottom: 30px;
+    color: #000;
+}
 	</style>
 <section class="about_ac">
     <div class="container">
