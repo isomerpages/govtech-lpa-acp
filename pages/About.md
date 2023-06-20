@@ -76,7 +76,10 @@ description: ""
 }
 	.about_bb p {
     margin-top: 10px;
+}.about_a_b h2 {
+    color: #1A3554;
 }
+	
 	</style>
 <section class="about_ac">
     <div class="container">
