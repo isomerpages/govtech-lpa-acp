@@ -66,6 +66,14 @@ description: ""
     background-color: #ddd;
     border-radius: 25px;
 }
+	.about_bb:not(:last-child) {
+    margin-bottom: 30px;
+}
+	.about_bb h4 {
+    color: #1A3554;
+    font-weight: bold;
+    margin-bottom: 0;
+}
 	</style>
 <section class="about_ac">
     <div class="container">
