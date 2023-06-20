@@ -63,7 +63,7 @@ description: ""
 	}
 	.about_bb {
     padding: 30px;
-    background-color: #ddd;
+    background-color: #EBE7E5;
     border-radius: 25px;
 }
 	.about_bb h4 {
