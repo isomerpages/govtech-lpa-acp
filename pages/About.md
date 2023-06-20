@@ -4,33 +4,33 @@ permalink: /about/
 description: ""
 ---
 <style>
-	.container{
-		width: 1170px;
-	margin: 0 auto;
-	}
-	section.bp-section {
-    padding: 0;
+.container{
+	width: 1170px;
+margin: 0 auto;
 }
-		.action__b h4{
-	color: #000;
-	font-size: 24px;
-	    margin-top: 30px;
-    margin-bottom: 0;
-	}
-	.action__b h4 a{
-	color: #01436b;
-	} 
-	section.bp-section .bp-container {
-    padding-bottom: 0!important;
+section.bp-section {
+padding: 0;
 }
-	. m-b-80{
-	margin-bottom: 80px;
-	}
-	container-fluid{
-	width: 100%;
-	}
-	section.bp-section.is-small.bp-section-pagetitle {
-    display: none;
+.action__b h4{
+color: #000;
+font-size: 24px;
+margin-top: 15px;
+margin-bottom: 0;
+}
+.action__b h4 a{
+color: #01436b;
+} 
+section.bp-section .bp-container {
+padding-bottom: 0!important;
+}
+.m-b-80{
+margin-bottom: 80px;
+}
+container-fluid{
+width: 100%;
+}
+section.bp-section.is-small.bp-section-pagetitle {
+display: none;
 }
 a.p-button.btn {
     border-color: #01436b;
@@ -43,51 +43,51 @@ a.p-button.btn {
     border: 1px solid #01436b;
     padding: 10px 30px;
 }
-	.action_3 h2, .action_3 h2 i {
+.action_3 h2, .action_3 h2 i {
     line-height: 52px;
     font-size: 42px;
     font-family: 'Playfair Display';
     color: #01436b;
     margin-bottom: 30px;
 }
-	section.bp-section .bp-container {
+section.bp-section .bp-container {
     width: 100%!important;
     max-width: 100%!important;
     padding-top: 0!important;
 }
-	.col.is-8.is-offset-2.print-content {
+.col.is-8.is-offset-2.print-content {
     margin-left: 0;
     width: 100%;
 }
-		.col-3 {
+.col-3 {
     width: 25%;
     PADDING: 0 15px;
 }
-		.col-8 {
+.col-8 {
     width: 75%;
     PADDING: 0 15px;
 }
-	.col-4 {
+.col-4 {
     width: 33.33%;
     PADDING: 0 15px;
 }
-		.col-6 {
+.col-6 {
     width: 50%;
     PADDING: 0 15px;
 }
-		.col-12 {
+.col-12 {
     width: 100%;
     PADDING: 0 15px;
 }
-	.p-t-80 {
+.p-t-80 {
 	padding-top: 80px;
-	}
-	.p-b-80{
+}
+.p-b-80{
 	padding-bottom: 80px;
-	}
-	.u-align--center{
+}
+.u-align--center{
 	text-align:center;
-	}
+}
 	.about_bb .inner {
     padding: 30px;
     background-color: #EBE7E5;
@@ -176,7 +176,7 @@ a.p-button.btn {
 				</div>
 			</div>
 			<div class="row">
-						<div style="margin-bottom:30px;" class="col-12 about_bb">
+						<div class="col-12 about_bb" style="margin-bottom:30px;">
 							<div class="inner">
 							<h4>LPA Form 1</h4>
 							<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui <br>dolorem eum fugiat quo voluptas nulla pariatur</p>
@@ -201,25 +201,25 @@ a.p-button.btn {
 			<div class="col-12 accordion_b">
 				<ul class="accordion">
 						<li>
-							<a href="#" class="toggle">Item 1</a>
+							<a class="toggle" href="#">Item 1</a>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a href="#" class="toggle">Item 2</a>
+							<a class="toggle" href="#">Item 2</a>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a href="#" class="toggle">Item 3</a>
+							<a class="toggle" href="#">Item 3</a>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
 						</li>
 						<li>
-							<a href="#" class="toggle">Item 4</a>
+							<a class="toggle" href="#">Item 4</a>
 							<p class="inner">
 								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
 							</p>
@@ -231,7 +231,7 @@ a.p-button.btn {
 </section>
 
 <section class="action__4">
-	<div style="padding-top: 90px; padding-bottom: 90px" class="container">
+	<div class="container" style="padding-top: 60px; padding-bottom: 90px">
 		<div class="row">
 			<div class="col-12 action__b m-b-80">
 				<h4>Get started on <a href="#">making a Lasting Power Of Athorny</a></h4>
@@ -249,12 +249,12 @@ a.p-button.btn {
 		</div>
 	</div>
 </section>
-<section style="width:100%" class="action__">
-	<div style="padding-top: 60px; padding-bottom: 90px" class="container-fluid action_3">
+<section class="action__" style="width:100%">
+	<div class="container-fluid action_3" style="padding-top: 60px; padding-bottom: 90px">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
 				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
-				<a class="btn p-button" href="#">Get Started</a>
+				<a href="#" class="btn p-button">Get Started</a>
 			</div>
 		</div>
 	</div>
