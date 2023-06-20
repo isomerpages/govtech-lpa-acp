@@ -154,6 +154,7 @@ section.bp-section .bp-container {
     color: #fff;
     display: inline-block;
     width: 100%;
+	 cursor: pointer;
 }
 	.accordion ul li label::before {
     width: 100%;
