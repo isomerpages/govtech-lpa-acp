@@ -3,6 +3,7 @@ title: About
 permalink: /about/
 description: ""
 ---
+
 <style>
 	.container{
 		width: 1170px;
@@ -104,6 +105,35 @@ a.p-button.btn {
 	.action_3 {
     background-color: #C8C6C3;
 }
+	.accordion ul {
+  list-style: none;
+  padding: 0;
+}
+
+.accordion ul .inner {
+  padding-left: 1em;
+  overflow: hidden;
+  display: none;
+}
+
+.accordion ul li {
+  margin: 0.5em 0;
+}
+
+.accordion ul li a.toggle {
+  width: 100%;
+  display: block;
+  background: rgba(0, 0, 0, 0.78);
+  color: #fefefe;
+  padding: 0.75em;
+  border-radius: 0.15em;
+  transition: background 0.3s ease;
+}
+
+.accordion ul li a.toggle:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+
 	</style>
 <section class="about_ac">
     <div class="container">
@@ -129,7 +159,7 @@ a.p-button.btn {
 				</div>
 			</div>
 			<div class="row">
-						<div style="margin-bottom:30px;" class="col-12 about_bb">
+						<div class="col-12 about_bb" style="margin-bottom:30px;">
 							<h4>LPA Form 1</h4>
 							<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui <br>dolorem eum fugiat quo voluptas nulla pariatur</p>
 					</div>
@@ -143,12 +173,49 @@ a.p-button.btn {
 				</div>
     </div>
   </section>
-<section style="width:100%" class="action__">
-	<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
+	<section class="accordion">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 accordion_b">
+			<ul class="accordion">
+  <li>
+    <a class="toggle" href="#">Item 1</a>
+    <p class="inner">
+      Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+    </p>
+  </li>
+  
+  <li>
+    <a class="toggle" href="#">Item 2</a>
+    <p class="inner">
+      Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+    </p>
+  </li>
+  
+  <li>
+    <a class="toggle" href="#">Item 3</a>
+    <p class="inner">
+      Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+    </p>
+  </li>
+  
+  <li>
+    <a class="toggle" href="#">Item 4</a>
+    <p class="inner">
+      Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+    </p>
+  </li>
+</ul>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="action__" style="width:100%">
+	<div class="container-fluid action_3" style="padding-top: 90px; padding-bottom: 90px">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
 				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
-				<a class="btn p-button" href="#">Get Started</a>
+				<a href="#" class="btn p-button">Get Started</a>
 			</div>
 		</div>
 	</div>
