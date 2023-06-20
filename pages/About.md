@@ -129,7 +129,7 @@ section.bp-section .bp-container {
 .accordion ul li {
   margin: 0;
 }
-.accordion ul li a.toggle {
+.accordion ul li label span {
     width: 100%;
     background-image: linear-gradient(#a6d9e5, #9ac0c8);
     display: block;
