@@ -127,9 +127,6 @@ a.p-button.btn {
     margin-bottom: 0;
     border-radius: 0;
 }
-.accordion ul li a.toggle:hover {
-  background: rgba(0, 0, 0, 0.9);
-}
 .action__4 h2{
 		color: #000;
 	}
