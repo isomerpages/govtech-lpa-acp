@@ -104,7 +104,7 @@ description: ""
       </div>
 			<div class="row">
 				<div class="col-12 heading">
-					<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h3>
+					<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br> tempor incididunt ut labore et.</h3>
 				</div>
 			</div>
 			<div class="row">
