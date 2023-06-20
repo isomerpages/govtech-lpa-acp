@@ -138,7 +138,7 @@ description: ""
 				</div>
     </div>
   </section>
-	<section class="action__">
+	<section style="width:100%" class="action__">
 		<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
