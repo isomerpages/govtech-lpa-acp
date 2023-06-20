@@ -176,10 +176,10 @@ a.p-button.btn {
     </div>
   </section>
 	<section class="accordion p-t-80">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 accordion_b">
-			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-12 accordion_b">
+				</div>
 		</div>
 	</div>
 </section>
