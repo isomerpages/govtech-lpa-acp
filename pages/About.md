@@ -3,7 +3,6 @@ title: About
 permalink: /about/
 description: ""
 ---
-
 <style>
 	.container{
 		width: 1170px;
