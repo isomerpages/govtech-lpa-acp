@@ -250,7 +250,7 @@ a.p-button.btn {
 	</div>
 </section>
 <section class="action__" style="width:100%">
-	<div class="container-fluid action_3" style="padding-top: 90px; padding-bottom: 90px">
+	<div class="container-fluid action_3" style="padding-top: 60px; padding-bottom: 90px">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
 				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
