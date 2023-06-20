@@ -125,8 +125,10 @@ section.bp-section .bp-container {
     overflow: hidden;
     display: none;
     color: #000;
-    padding: 30px 0;
+    padding: 30px;
     margin-top: 0;
+    background-color: #EBE7E5;
+    margin-top: 6px;
 }
 .accordion ul li {
   margin: 0;
@@ -150,11 +152,11 @@ section.bp-section .bp-container {
 }
 .accordion ul li label {
     position: relative;
-    padding: 10px 15px;
     color: #fff;
     display: inline-block;
     width: 100%;
-	 cursor: pointer;
+    line-height: 49px;
+    text-indent: 20px;
 }
 	.accordion ul li label::before {
     width: 100%;
