@@ -76,7 +76,7 @@ a.p-button.btn {
 	.u-align--center{
 	text-align:center;
 	}
-	.about_bb {
+	.about_bb .inner {
     padding: 30px;
     background-color: #EBE7E5;
     border-radius: 25px;
@@ -136,6 +136,9 @@ a.p-button.btn {
 		font-size: 22px;
 	line-height: 32px;
 	}
+	.accordion ul {
+    margin: 0;
+}
 	</style>
 <section class="about_ac">
     <div class="container">
@@ -162,15 +165,19 @@ a.p-button.btn {
 			</div>
 			<div class="row">
 						<div class="col-12 about_bb" style="margin-bottom:30px;">
+							<div class="inner">
 							<h4>LPA Form 1</h4>
 							<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui <br>dolorem eum fugiat quo voluptas nulla pariatur</p>
+							</div>
 					</div>
 				</div>
 			<div class="row">
 				<div class="col-12 about_bb">
+					<div class="inner">
 							<h4>LPA Form 2</h4>
 							<p>ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 							<p>unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p>
+					</div>
 					</div>
 				</div>
     </div>
@@ -215,8 +222,10 @@ a.p-button.btn {
 	<div class="container" style="padding-top: 90px; padding-bottom: 90px">
 		<div class="row">
 			<div class="col-12">
+				<div class="inner">
 				<h2>My Legacy Vault</h2>
 				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<br> cupidatat non proident, sunt in culpa qui</p>
+				</div>
 			</div>
 		</div>
 	</div>
