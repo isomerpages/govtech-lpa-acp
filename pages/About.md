@@ -74,6 +74,9 @@ description: ""
     font-weight: bold;
     margin-bottom: 0;
 }
+	.about_bb p {
+    margin-top: 10px;
+}
 	</style>
 <section class="about_ac">
     <div class="container">
