@@ -401,14 +401,15 @@ a.p-button.btn:hover {
     }
     
 }
-	
 	.p-t-80 {
 	padding-top: 80px;
 	}
 	.p-b-80{
 	padding-bottom: 80px;
 	}
-	
+	.action_3 {
+    background-color: #C8C6C3;
+}
 	</style>
 
 
@@ -594,7 +595,7 @@ a.p-button.btn:hover {
 			</div>
 		</div>
 	</div>
-	<div style="padding-top: 80px; padding-bottom: 70px" class="container-fluid action_3">
+	<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
 				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
