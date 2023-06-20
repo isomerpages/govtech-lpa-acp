@@ -14,6 +14,9 @@ description: ""
 	section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
+	.action_3 h2,.action_3 h2 i {
+    color: #01436b!important;
+}
 	a.p-button.btn {
     border-color: #01436b;
     background-color: transparent;
