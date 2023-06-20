@@ -8,6 +8,9 @@ description: ""
 		width: 1170px;
 	margin: 0 auto;
 	}
+	section.bp-section .bp-container {
+    padding-bottom: 0!important;
+}
 	container-fluid{
 	width: 100%;
 	}
@@ -66,6 +69,7 @@ description: ""
     background-color: #EBE7E5;
     border-radius: 25px;
 }
+	
 	.about_bb h4 {
     color: #1A3554;
     font-weight: bold;
