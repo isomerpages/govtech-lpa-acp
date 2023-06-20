@@ -26,6 +26,13 @@ description: ""
     font-weight: 600;
 	text-decoration: none;
 }
+	.action_3 h2, .action_3 h2 i {
+    line-height: 52px;
+    font-size: 42px;
+    font-family: 'Playfair Display';
+    color: #01436b;
+    margin-bottom: 30px;
+}
 	section.bp-section .bp-container {
     width: 100%!important;
     max-width: 100%!important;
