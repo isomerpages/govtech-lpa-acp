@@ -21,7 +21,7 @@ description: ""
     color: #01436b;
     margin-top: 30px;
     font-weight: 600;
-	text-decoration: none;
+    border: 1px solid #01436b;
 }
 	section.bp-section .bp-container {
     width: 100%!important;
