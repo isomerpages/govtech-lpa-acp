@@ -214,10 +214,15 @@ section.bp-section .bp-container {
 						</li>
 					</ul>
 			</div>
+		</div>
+			<div class="row">
 			<div style="margin-bottom: 60px; margin-top:60px" class="video_acc col-12">
 				<div style="height: 460px; background-color:#ddd; border-radius:30px" class="inner"></div>
 			</div>
-			<div class="col-12 accordion_b">
+			</div>
+			<div>
+				<div class="row">
+				<div class="col-12 accordion_b">
 				<ul class="accordion">
 						<li>
 							<a class="toggle" href="#">Item 1</a>
@@ -253,7 +258,7 @@ section.bp-section .bp-container {
 			</div>
 	</div>
 </div>
-</section>
+</div></section>
 
 <section class="action__4">
 	<div class="container" style="padding-top: 60px; padding-bottom: 90px">
