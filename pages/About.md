@@ -122,24 +122,16 @@ section.bp-section .bp-container {
   padding: 0;
 }
 .accordion ul .inner {
-  padding-left: 1em;
-  overflow: hidden;
-  display: none;
+    overflow: hidden;
+    display: none;
+    color: #000;
+    padding: 30px;
+    margin-top: 0;
 }
 .accordion ul li {
   margin: 0;
 }
-.accordion ul li label {
-    width: 100%;
-    background-image: linear-gradient(#a6d9e5, #9ac0c8);
-    display: block;
-    color: #fefefe;
-    padding: 0.75em;
-    border-radius: 0.15em;
-    transition: background 0.3s ease;
-    margin-bottom: 0;
-    border-radius: 0;
-}
+
 .action__4 h2{
 		color: #000;
 	}
@@ -156,6 +148,31 @@ section.bp-section .bp-container {
 	}
 	ul.accordion input.toggle:checked + p {
     display: block;
+}
+.accordion ul li label {
+    position: relative;
+    padding: 10px 15px;
+    color: #fff;
+    display: inline-block;
+    width: 100%;
+}
+	.accordion ul li label::before {
+    width: 100%;
+    background-image: linear-gradient(#a6d9e5, #9ac0c8);
+    display: block;
+    color: #fefefe;
+    padding: 0.75em;
+    border-radius: 0.15em;
+    transition: background 0.3s ease;
+    margin-bottom: 0;
+    border-radius: 0;
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 55px;
+    z-index: -1;
 }
 	</style>
 <section class="about_ac">
