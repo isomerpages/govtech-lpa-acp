@@ -1,4 +1,5 @@
 collections:
   work-in-progress:
     output: true
-    order: []
+    order:
+      - test1.md
