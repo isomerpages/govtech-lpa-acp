@@ -188,6 +188,9 @@ section.bp-section .bp-container {
     margin: 0 auto;
     margin-top: -60px;
 }
+	.video_acc .inner {
+    position: relative;
+}
 	.about_a_b {
     display: flex;
     align-items: center;
