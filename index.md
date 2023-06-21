@@ -18,7 +18,7 @@ sections:
           url: https://google.com
         - title: I would like to speak to my family first
           description: Consectetur adipiscing elit
-          url: https://gmail.com
+          url: /main/
         - title: I'm concerned about losing control of my assets
           description: Donec vehicula turpis
           url: /privacy/
