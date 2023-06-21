@@ -194,6 +194,38 @@ section.bp-section .bp-container {
 	.video_acc .inner {
     position: relative;
 }
+		.accordion ul .inner::after{
+    content: "+";
+    width: 25px;
+    height: 25px;
+    background-color: #fff;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    right: 20px;
+    top: 14px;
+    color: #A1CFDA;
+    text-indent: 0;
+    line-height: 25px;
+}
+	ul.accordion input.toggle:checked + .inner::after {
+    content: "-";
+}
+	ul.accordion input.toggle:checked + p {
+    height: auto;
+    padding: 30px;
+}
+	.accordion ul .inner {
+    overflow: hidden;
+    color: #000;
+    padding: 30px;
+    margin-top: 0;
+    background-color: #EBE7E5;
+    margin-top: 6px;
+    height: 0;
+    padding: 0;
+}
 	@media(max-width: 767px){
 	.action_3 h2,.action_3 h2 i {
         line-height: 38px;
