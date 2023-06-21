@@ -195,6 +195,10 @@ section.bp-section .bp-container {
     position: relative;
 }
 	@media(max-width: 767px){
+	.action_3 h2,.action_3 h2 i {
+        line-height: 38px;
+        font-size: 28px;
+    }
 .container {
     width: 100%;
     padding: 0 15px;
