@@ -108,7 +108,7 @@ header#navigation .p-navigation__tagged-logo a.p-navigation__link {
 
 // Features 
 section.feature{
-    background-image: url(./../images/feature_bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/isomerpages/govtech-lpa-acp/staging/images/video-1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -568,7 +568,7 @@ a.p-button.btn:hover {
     <div class="container">
       <div class="row">
         <div class="action_b col-6">
-          <img alt="The Legacy" src="./src/images/action.png">
+          <img alt="The Legacy" src="https://i.imgur.com/P4W9LRB.png">
         </div>
         <div class="col-6 action_b">
           <div class="inner">
