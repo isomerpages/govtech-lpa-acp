@@ -74,7 +74,7 @@ ul.social-share.p-inline-list li.list__item a {
     font-size: 22px;
 }
 .banner{
-    background-image: url(https://imgur.com/a/wkZsrjz);
+    background-image: url(https://i.imgur.com/GGdOYbL.jpg);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -105,8 +105,6 @@ header#navigation .p-navigation__tagged-logo a.p-navigation__link {
 }.p-navigation__items {
     margin-top: 4px;
 }
-
-// Features 
 section.feature{
     background-image: url(https://i.imgur.com/7lJhb2q.png);
     background-position: center;
