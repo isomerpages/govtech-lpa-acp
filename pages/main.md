@@ -287,9 +287,6 @@ a.p-button.btn:hover {
 		.col-12 {
     width: 100%;
 }
-	.col.is-8.is-offset-2.print-content {
-    padding: 0!important;
-}
 	}
 @media (max-width: 1024px){
     .feature .heading h2 {
