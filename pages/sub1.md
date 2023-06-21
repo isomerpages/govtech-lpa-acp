@@ -145,6 +145,7 @@ section.bp-section .bp-container {
     width: 100%;
     line-height: 49px;
     text-indent: 20px;
+	    cursor: pointer;
 }
 	.accordion ul li label::before {
     width: 100%;
