@@ -408,6 +408,10 @@ a.p-button.btn:hover {
 	section.bp-section .bp-container {
     padding-bottom: 0!important;
 }
+	.banner_block a.p-button.btn {
+    margin-top: 30px;
+    display: inline-block;
+}
 	</style>
 
 
