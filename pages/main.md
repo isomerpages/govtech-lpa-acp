@@ -147,6 +147,7 @@ a.play_btn {
     border-radius: 30px;
     box-shadow: 0 0px 5px 0 rgba(0,0,0,0.4);
     padding: 30px;
+	position: relative;
 }
 .feature_block .inner h3 {
     font-family: $font-primary;
@@ -157,7 +158,8 @@ a.play_btn {
 .feature_block .inner a {
     position: absolute;
     right: 10px;
-    bottom: 0px;
+    bottom: 6px;
+    margin-bottom: 0;
 }
 .feature_video p {
     font-size: 22px;
@@ -185,8 +187,6 @@ a.play_btn {
 .u-align--center{
 	text-align: center
 }
-
-// Action 
 .action_b p {
     font-family: Myriad Pro;
     font-size: 22px;
