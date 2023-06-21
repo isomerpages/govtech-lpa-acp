@@ -208,6 +208,7 @@ section.bp-section .bp-container {
     color: #A1CFDA;
     text-indent: 0;
     line-height: 25px;
+		z-index: 11;
 }
 	ul.accordion input.toggle:checked + .inner::after {
     content: "-";
