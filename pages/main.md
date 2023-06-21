@@ -74,7 +74,7 @@ ul.social-share.p-inline-list li.list__item a {
     font-size: 22px;
 }
 .banner{
-    background-image: url(https://imgur.com/GGdOYbL);
+    background-image: url(https://imgur.com/a/wkZsrjz);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -108,7 +108,7 @@ header#navigation .p-navigation__tagged-logo a.p-navigation__link {
 
 // Features 
 section.feature{
-    background-image: url(https://imgur.com/7lJhb2q);
+    background-image: url(https://i.imgur.com/7lJhb2q.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -204,7 +204,7 @@ a.play_btn {
     align-items: center;
 }
 section.action {
-    background-image: url(https://imgur.com/Zq9NRUG);
+    background-image: url(https://i.imgur.com/Zq9NRUG.jpeg);
     background-position: left bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -247,7 +247,7 @@ a.p-button.btn {
     padding: 10px 30px;
 }
 .action_{
-    background-image: url(https://imgur.com/rLx0bVz);
+    background-image: url(https://i.imgur.com/rLx0bVz.png);
     background-position: 0 -70px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -421,7 +421,7 @@ a.p-button.btn:hover {
         <div class="col-6 banner_block">
          <div class="inner u-align--center">
             <div class="image">
-              <img alt="The Legacy" src="https://imgur.com/VXg0wmw">
+              <img alt="The Legacy" src="https://i.imgur.com/VXg0wmw.png">
             </div>
             <a class="p-button btn" href="#">Get Started</a>
          </div>
@@ -501,7 +501,7 @@ a.p-button.btn:hover {
 
 <div class="video_">
 
-<img alt="The Legacy" src="https://imgur.com/JNFsEAb">
+<img alt="The Legacy" src="https://i.imgur.com/JNFsEAb.png">
 
 <a class="play_btn" href="#"><img alt="The Legacy" src="![The Legacy](/images/play-button.svg)"></a>
 
@@ -519,7 +519,7 @@ a.p-button.btn:hover {
 
 <div class="video_">
 
-<img alt="The Legacy" src="https://imgur.com/yZpNg1M">
+<img alt="The Legacy" src="https://i.imgur.com/yZpNg1M.png">
 
 <a class="play_btn" href="#"><img alt="The Legacy" src="![Play Video](/images/play-button.svg)"></a>
 
@@ -541,7 +541,7 @@ a.p-button.btn:hover {
 
 <div class="video_">
 
-<img alt="The Legacy" src="https://imgur.com/J58JP0R">
+<img alt="The Legacy" src="https://i.imgur.com/J58JP0R.png">
 
 <a class="play_btn" href="#"><img alt="The Legacy" src="![The Legacy](/images/play-button.svg)"></a>
 
@@ -568,7 +568,7 @@ a.p-button.btn:hover {
     <div class="container">
       <div class="row">
         <div class="action_b col-6">
-          <img alt="The Legacy" src="https://imgur.com/IpWeEUv">
+          <img alt="The Legacy" src="https://i.imgur.com/IpWeEUv.png">
         </div>
         <div class="col-6 action_b">
           <div class="inner">
