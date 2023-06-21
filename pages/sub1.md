@@ -177,6 +177,17 @@ section.bp-section .bp-container {
     height: 55px;
     z-index: -1;
 }
+	a.play_btn {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    z-index: 99999;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+    margin-top: -60px;
+}
 	@media(max-width: 767px){
 .container {
     width: 100%;
