@@ -177,6 +177,30 @@ section.bp-section .bp-container {
     height: 55px;
     z-index: -1;
 }
+	@media(max-width: 767px){
+.container {
+    width: 100%;
+    padding: 0 15px;
+}
+			.col-3 {
+    width: 100%;
+}
+		.col-8 {
+    width: 100%;
+}
+	.col-4 {
+    width: 100%;
+}
+		.col-6 {
+    width: 100%;
+}
+		.col-12 {
+    width: 100%;
+}
+	.action_3 {
+    background-color: #C7C6C2;
+}
+	}
 	</style>
 <section class="about_ac">
     <div class="container">
