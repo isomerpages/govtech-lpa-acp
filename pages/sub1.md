@@ -207,12 +207,13 @@ section.bp-section .bp-container {
 	.accordion ul .inner {
     overflow: hidden;
     color: #000;
-    padding: 30px;
     margin-top: 0;
     background-color: #EBE7E5;
     margin-top: 6px;
     height: 0;
-    padding: 0;
+    padding: 0 30px;
+    transition: all ease-in-out .3s;
+		-webkit-transition: all ease-in-out .3s;
 }
 	@media(max-width: 767px){
 	.action_3 h2,.action_3 h2 i {
