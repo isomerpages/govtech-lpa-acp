@@ -267,7 +267,11 @@ a.p-button.btn:hover {
 .container.action_3 {
     background-color: #C7C6C2;
 }
-
+@meida(max-width: 767px){
+	.row.m-t-30 {
+    margin-top: 30px!important;
+}
+	}
 @media (max-width: 1024px){
     .feature .heading h2 {
         font-size: 29px;
