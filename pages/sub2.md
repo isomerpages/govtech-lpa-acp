@@ -216,8 +216,10 @@ section.bp-section .bp-container {
     <div class="container">
       <div class="row p-t-80 p-b-80">
         <div class="col-6 about_a_b">
+					<div class="inner">
 					<h2>Sed ut perspiciatis<br> unde omnis</h2>
 					<p>sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+					</div>
         </div>
 				<div class="col-6 about_a_b">
 					<img alt="The Legacy" src="https://i.imgur.com/IpWeEUv.png">
