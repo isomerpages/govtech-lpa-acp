@@ -195,7 +195,7 @@ section.bp-section .bp-container {
     display: flex;
     align-items: center;
 }
-	.accordion ul label::after {
+	.accordion ul .inner::after{
     content: "+";
     width: 25px;
     height: 25px;
@@ -212,18 +212,6 @@ section.bp-section .bp-container {
 }
 	ul.accordion input.toggle:checked + .inner::after {
     content: "-";
-    width: 25px;
-    height: 25px;
-    background-color: #fff;
-    display: inline-block;
-    text-align: center;
-    border-radius: 50%;
-    position: absolute;
-    right: 20px;
-    top: 14px;
-    color: #A1CFDA;
-    text-indent: 0;
-    line-height: 25px;
 }
 	@media(max-width: 767px){
 	.action_3 h2,.action_3 h2 i {
