@@ -268,7 +268,7 @@ a.p-button.btn:hover {
 .container.action_3 {
     background-color: #C7C6C2;
 }
-@meida(max-width: 767px){
+@media(max-width: 767px){
 .container {
     width: 100%;
 }
