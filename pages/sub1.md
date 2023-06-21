@@ -200,6 +200,9 @@ section.bp-section .bp-container {
         line-height: 38px;
         font-size: 28px;
     }
+	.about_a_b:first-child {
+    margin-bottom: 30px;
+}
 .container {
     width: 100%;
     padding: 0 15px;
