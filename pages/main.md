@@ -80,6 +80,7 @@ ul.social-share.p-inline-list li.list__item a {
     background-size: cover;
     height: 720px;
     background-color: #D6C4AF;
+	    display: inline-block;
 }
 header#navigation .p-navigation__tagged-logo a.p-navigation__link {
     padding: 0;
