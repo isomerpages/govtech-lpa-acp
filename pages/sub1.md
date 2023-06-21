@@ -220,6 +220,9 @@ section.bp-section .bp-container {
         line-height: 38px;
         font-size: 28px;
     }
+	html {
+    overflow-x: hidden;
+}
 	.about_a_b:first-child {
     margin-bottom: 30px;
 }
