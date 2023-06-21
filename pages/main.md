@@ -289,7 +289,7 @@ a.p-button.btn:hover {
 }
 	}
 @media (max-width: 1024px){
-    .feature .heading h2 {
+    .feature .heading h2,.feature .heading h2 strong {
         font-size: 29px;
         line-height: 39px;
     }
@@ -325,7 +325,7 @@ a.p-button.btn:hover {
         background-position: 100% 100%;
     }
     
-    .action_2 h2 {
+    .action_2 h2,.action_2 h2 strong {
         font-size: 25px;
         line-height: 36px;
     }
@@ -337,7 +337,7 @@ a.p-button.btn:hover {
         font-size: 18px;
         line-height: 28px;
     }
-    .action_3 h2 {
+    .action_3 h2,.action_3 h2 strong {
         line-height: 38px;
         font-size: 28px;
     }
@@ -347,8 +347,7 @@ a.p-button.btn:hover {
     footer p {
         margin-top: 2px;
     }
-    .action h2 {
-      
+    .action h2,.action h2 strong {
         font-size: 28px;
         line-height: 38px;
     }
