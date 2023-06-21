@@ -134,8 +134,7 @@ a.play_btn {
 	.feature_block {
     position: relative;
 }
-.feature .heading h2 {
-  font-family: $font-secondary;
+.feature .heading h2,.feature .heading h2 strong {
   font-size : 30px;
   line-height : 50px;
   color : #01436B;
@@ -150,7 +149,6 @@ a.play_btn {
 	position: relative;
 }
 .feature_block .inner h3 {
-    font-family: $font-primary;
     font-size: 21px;
     line-height: 34px;
     color: #D0D0D0;
@@ -177,7 +175,6 @@ a.play_btn {
     margin-top: 20px;
 }
 .feature_video a.read_more {
-    font-family: $font-primary;
     font-weight: bold;
     font-size: 18px;
     line-height: 50px;
@@ -211,13 +208,13 @@ section.action {
     background-size: cover;
 }
 
-.action h2 {
+.action h2,.action h2 strong {
     font-family: Playfair Display;
     font-size: 42px;
     color: #191919;
     line-height: 52px;
 }
-.action_2 h2 {
+.action_2 h2,.action_2 h2 strong {
     font-family: Playfair Display;
     font-size: 42px;
     line-height: 52px;
