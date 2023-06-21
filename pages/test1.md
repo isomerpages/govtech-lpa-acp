@@ -247,7 +247,7 @@ a.p-button.btn {
     padding: 10px 30px;
 }
 .action_{
-    background-image: url(./../images/action3-bg.png);
+    background-image: url(![auntie](/images/video-1.png));
     background-position: 0 -70px;
     background-repeat: no-repeat;
     background-size: cover;
