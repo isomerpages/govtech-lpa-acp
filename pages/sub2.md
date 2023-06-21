@@ -187,6 +187,10 @@ section.bp-section .bp-container {
     margin: 0 auto;
     margin-top: -60px;
 }
+	.about_a_b {
+    display: flex;
+    align-items: center;
+}
 	@media(max-width: 767px){
 .container {
     width: 100%;
