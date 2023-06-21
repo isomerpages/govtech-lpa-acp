@@ -405,9 +405,6 @@ a.p-button.btn:hover {
 	.p-b-80{
 	padding-bottom: 80px;
 	}
-	.action_3 {
-    background-color: #C8C6C3;
-}
 	section.bp-section .bp-container {
     padding-bottom: 0!important;
 }
