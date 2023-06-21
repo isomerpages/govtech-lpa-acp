@@ -74,7 +74,7 @@ ul.social-share.p-inline-list li.list__item a {
     font-size: 22px;
 }
 .banner{
-    background-image: url(![](/images/banner.jpg));
+    background-image: url(![](![hero](/images/banner.jpg)));
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
