@@ -225,6 +225,7 @@ section.bp-section .bp-container {
       </div>
 			<div class="row p-b-80">
         <div class="col-6 about_a_b">
+					<img alt="The Legacy" src="https://i.imgur.com/IpWeEUv.png">
         </div>
 				<div class="col-6 about_a_b">
 					<h2>Sed ut perspiciatis<br> unde omnis</h2>
