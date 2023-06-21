@@ -218,7 +218,7 @@ section.bp-section .bp-container {
 	</style>
 <section class="about_ac">
     <div class="container">
-      <div class="row p-t-80 p-b-80">
+      <div class="row p-t-80">
         <div class="col-6 about_a_b">
 					<div class="inner">
 					<h2>Sed ut perspiciatis<br> unde omnis</h2>
