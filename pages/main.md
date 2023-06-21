@@ -451,7 +451,7 @@ a.p-button.btn:hover {
 
 <h3>I’m unsure how to begin</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="![](/images/arrow-icon.svg)"></a>
+<a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/ZOsbYpp.png"></a>
 
 </div>
 
@@ -463,7 +463,7 @@ a.p-button.btn:hover {
 
 <h3>I would like to speak to my family first</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="![](/images/arrow-icon.svg)"></a>
+<a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/ZOsbYpp.png"></a>
 
 </div>
 
@@ -475,7 +475,7 @@ a.p-button.btn:hover {
 
 <h3>I’m concerned about losing control of my assets and decision-making</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="![](/images/arrow-icon.svg)"></a>
+<a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/ZOsbYpp.png"></a>
 
 </div>
 
@@ -487,7 +487,7 @@ a.p-button.btn:hover {
 
 <h3>I’m unsure who are the best people to appoint</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="![](/images/arrow-icon.svg)"></a>
+<a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/ZOsbYpp.png"></a>
 
 </div>
 
@@ -503,7 +503,7 @@ a.p-button.btn:hover {
 
 <img alt="The Legacy" src="https://i.imgur.com/JNFsEAb.png">
 
-<a class="play_btn" href="#"><img alt="The Legacy" src="![The Legacy](/images/play-button.svg)"></a>
+<a class="play_btn" href="#"><img alt="The Legacy" src="https://i.imgur.com/r12czaA.png"></a>
 
 </div>
 
@@ -521,7 +521,7 @@ a.p-button.btn:hover {
 
 <img alt="The Legacy" src="https://i.imgur.com/yZpNg1M.png">
 
-<a class="play_btn" href="#"><img alt="The Legacy" src="![Play Video](/images/play-button.svg)"></a>
+<a class="play_btn" href="#"><img alt="The Legacy" src="https://i.imgur.com/r12czaA.png"></a>
 
 </div>
 
@@ -543,7 +543,7 @@ a.p-button.btn:hover {
 
 <img alt="The Legacy" src="https://i.imgur.com/J58JP0R.png">
 
-<a class="play_btn" href="#"><img alt="The Legacy" src="![The Legacy](/images/play-button.svg)"></a>
+<a class="play_btn" href="#"><img alt="The Legacy" src="https://i.imgur.com/r12czaA.png"></a>
 
 </div>
 
