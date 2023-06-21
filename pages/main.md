@@ -207,7 +207,9 @@ section.action {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+	.m-t-30 {
+    margin-top: 30px!important;
+}
 .action h2,.action h2 strong {
     font-family: Playfair Display;
     font-size: 42px;
