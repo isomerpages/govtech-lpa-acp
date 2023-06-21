@@ -273,23 +273,18 @@ a.p-button.btn:hover {
 }
 			.col-3 {
     width: 100%;
-    PADDING: 0 15px;
 }
 		.col-8 {
     width: 100%;
-    PADDING: 0 15px;
 }
 	.col-4 {
-    width: 33.33%;
-    PADDING: 0 15px;
+    width: 100%;
 }
 		.col-6 {
     width: 100%;
-    PADDING: 0 15px;
 }
 		.col-12 {
     width: 100%;
-    PADDING: 0 15px;
 }
 	}
 @media (max-width: 1024px){
