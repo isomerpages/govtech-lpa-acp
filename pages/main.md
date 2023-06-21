@@ -337,7 +337,7 @@ a.p-button.btn:hover {
         font-size: 18px;
         line-height: 28px;
     }
-    .action_3 h2,.action_3 h2 strong {
+    .action_3 h2,.action_3 h2 i {
         line-height: 38px;
         font-size: 28px;
     }
