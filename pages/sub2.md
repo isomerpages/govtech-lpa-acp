@@ -191,6 +191,9 @@ section.bp-section .bp-container {
     display: flex;
     align-items: center;
 }
+	.video_acc .inner {
+    position: relative;
+}
 	@media(max-width: 767px){
 .container {
     width: 100%;
