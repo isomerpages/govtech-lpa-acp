@@ -358,12 +358,10 @@ a.p-button.btn:hover {
         margin-top: 0px;
     }
     .action_ {
-       
         background-position: 0px -22px;
     }
     section.action {
         background-image: none;
-       
         background-color: #e6e6e6;
     }
     .p-navigation__banner {
