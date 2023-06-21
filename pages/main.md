@@ -287,6 +287,9 @@ a.p-button.btn:hover {
 		.col-12 {
     width: 100%;
 }
+	.action_3 {
+    background-color: #C7C6C2;
+}
 	}
 @media (max-width: 1024px){
     .feature .heading h2,.feature .heading h2 strong {
