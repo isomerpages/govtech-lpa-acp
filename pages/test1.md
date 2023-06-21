@@ -501,7 +501,7 @@ a.p-button.btn:hover {
 
 <div class="video_">
 
-<img alt="The Legacy" src="![The Legacy](/images/video-1.png)">
+<img alt="The Legacy" src="![The Legacy](![hero](/images/hero-banner.png))">
 
 <a class="play_btn" href="#"><img alt="The Legacy" src="![The Legacy](/images/play-button.svg)"></a>
 
