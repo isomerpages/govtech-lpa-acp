@@ -2,7 +2,6 @@ collections:
   work-in-progress:
     output: true
     order:
-      - test5.md
       - test2.md
       - test3.md
       - test4.md
