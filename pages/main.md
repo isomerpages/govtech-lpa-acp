@@ -131,6 +131,9 @@ a.play_btn {
     margin: 0 auto;
     margin-top: -60px;
 }
+	.feature_block {
+    position: relative;
+}
 .feature .heading h2 {
   font-family: $font-secondary;
   font-size : 30px;
