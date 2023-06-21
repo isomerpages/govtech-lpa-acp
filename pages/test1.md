@@ -108,7 +108,7 @@ header#navigation .p-navigation__tagged-logo a.p-navigation__link {
 
 // Features 
 section.feature{
-    background-image: url(https://raw.githubusercontent.com/isomerpages/govtech-lpa-acp/staging/images/video-1.png);
+    background-image: url(![star](/images/hero-banner.png));
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
