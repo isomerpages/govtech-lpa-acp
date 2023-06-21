@@ -121,19 +121,9 @@ section.bp-section .bp-container {
   list-style: none;
   padding: 0;
 }
-.accordion ul .inner {
-    overflow: hidden;
-    display: none;
-    color: #000;
-    padding: 30px;
-    margin-top: 0;
-    background-color: #EBE7E5;
-    margin-top: 6px;
-}
 .accordion ul li {
   margin: 0;
 }
-
 .action__4 h2{
 		color: #000;
 	}
@@ -148,9 +138,6 @@ section.bp-section .bp-container {
 	.accordion .toggle{
 	display:none;
 	}
-	ul.accordion input.toggle:checked + p {
-    display: block;
-}
 .accordion ul li label {
     position: relative;
     color: #fff;
@@ -212,6 +199,20 @@ section.bp-section .bp-container {
 }
 	ul.accordion input.toggle:checked + .inner::after {
     content: "-";
+}
+	ul.accordion input.toggle:checked + p {
+    height: auto;
+    padding: 30px;
+}
+	.accordion ul .inner {
+    overflow: hidden;
+    color: #000;
+    padding: 30px;
+    margin-top: 0;
+    background-color: #EBE7E5;
+    margin-top: 6px;
+    height: 0;
+    padding: 0;
 }
 	@media(max-width: 767px){
 	.action_3 h2,.action_3 h2 i {
