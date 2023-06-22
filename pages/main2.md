@@ -79,13 +79,18 @@ ul.social-share.p-inline-list li.list__item a {
 	    display: inline-block;
 	    position: relative;
 }
-	.banner::after{
-	content: "";
-	  background-image: url(https://i.imgur.com/Zvi3B0j.png);
+.banner::after {
+    content: "";
+    background-image: url(https://i.imgur.com/Zvi3B0j.png);
     background-position: bottom;
     background-repeat: no-repeat;
-    background-size: cover;
-	}
+    background-size: contain;
+    position: absolute;
+    left: 30%;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
 header#navigation .p-navigation__tagged-logo a.p-navigation__link {
     padding: 0;
     margin-top: 8px;
