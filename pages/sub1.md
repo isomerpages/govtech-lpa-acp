@@ -8,7 +8,7 @@ description: ""
 	width: 1170px;
 margin: 0 auto;
 }
-			.heading  {
+.heading  {
     position: relative;
 }
 section.bp-section {
