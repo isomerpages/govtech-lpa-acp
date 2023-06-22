@@ -81,16 +81,15 @@ ul.social-share.p-inline-list li.list__item a {
 }
 .banner::after {
     content: "";
-    background-image: url(https://i.imgur.com/O97XFDx.png);
+    background-image: url(https://i.imgur.com/2AGstSd.png);
     background-position: bottom;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     position: absolute;
     right: 0;
     top: 0;
     bottom: 0;
-    left: 0;
-    z-index: -1;
+    left: 35%;
 }
 header#navigation .p-navigation__tagged-logo a.p-navigation__link {
     padding: 0;
