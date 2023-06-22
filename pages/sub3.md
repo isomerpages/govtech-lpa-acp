@@ -265,6 +265,9 @@ section.bp-section .bp-container {
 }
 	
 	@media(max-width: 767px){
+	.heading::after,section.action__4 .container,.action__4{
+	display:none;
+	}
 		.p-lr-50{
 	padding: 0;
 	}
