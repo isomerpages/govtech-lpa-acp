@@ -235,6 +235,20 @@ section.bp-section .bp-container {
     z-index: 99999999;
     height: 200px;
 }
+	section.action__4 .container::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 300px;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(https://i.imgur.com/4gIO8gl.png);
+}
+	.container {
+    position: relative;
+}
 	@media(max-width: 767px){
 		.p-lr-50{
 	padding: 0;
