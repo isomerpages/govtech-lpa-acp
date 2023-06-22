@@ -337,7 +337,7 @@ section.bp-section .bp-container {
 				</div>
 			</div>
 			</div>
-				<div class="row">
+				<div class="row p-lr-50">
 				<div class="col-12 accordion_b">
 				<ul class="accordion">
 						<li>
@@ -383,14 +383,14 @@ section.bp-section .bp-container {
 
 <section class="action__4">
 	<div class="container" style="padding-top: 60px; padding-bottom: 90px">
-		<div class="row">
+		<div class="row p-lr-50">
 			<div class="col-12 action__b m-b-80">
 				<h4>Get started on <a href="#">making a Lasting Power Of Athorny</a></h4>
 				<h4>Get started on <a href="#">making a Lasting Power Of Athorny</a></h4>
 				<h4></h4>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row p-lr-50">
 			<div class="col-12">
 				<div class="inner">
 				<h2>My Legacy Vault</h2>
