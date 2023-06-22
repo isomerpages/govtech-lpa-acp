@@ -264,12 +264,12 @@ section.bp-section .bp-container {
 					</div>
         </div>
 				<div class="col-6 about_a_b">
-					<img alt="The Legacy" src="https://i.imgur.com/IpWeEUv.png">
+					<img alt="The Legacy" src="https://i.imgur.com/AOSCWSm.png">
         </div>
       </div>
 			<div class="row">
         <div class="col-6 about_a_b">
-					<img alt="The Legacy" src="https://i.imgur.com/IpWeEUv.png">
+					<img alt="The Legacy" src="https://i.imgur.com/FOfBtij.png">
         </div>
 				<div class="col-6 about_a_b">
 					<div class="inner">
