@@ -219,6 +219,20 @@ section.bp-section .bp-container {
 		.p-lr-50{
 	padding: 0 50px;
 	}
+	section.action__4 {
+    position: relative;
+}
+	.action__4::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(https://i.imgur.com/ymZBFhy.png);
+}
 	@media(max-width: 767px){
 		.p-lr-50{
 	padding: 0;
