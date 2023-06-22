@@ -8,6 +8,9 @@ description: ""
 	width: 1170px;
 margin: 0 auto;
 }
+			.heading  {
+    position: relative;
+}
 section.bp-section {
 padding: 0;
 }
@@ -247,9 +250,6 @@ section.bp-section .bp-container {
     background-image: url(https://i.imgur.com/4gIO8gl.png);
 }
 	.container{
-    position: relative;
-}
-		.heading  {
     position: relative;
 }
 .heading::after {
