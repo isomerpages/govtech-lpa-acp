@@ -77,6 +77,7 @@ ul.social-share.p-inline-list li.list__item a {
     height: 720px;
     background-color: #D6C4AF;
 	    display: inline-block;
+	    position: relative;
 }
 		.banner::after{
 	content: "";
