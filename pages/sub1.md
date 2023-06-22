@@ -246,8 +246,19 @@ section.bp-section .bp-container {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/4gIO8gl.png);
 }
-	.container {
+	.container,.heading  {
     position: relative;
+}
+.heading::after {
+    content: "";
+    position: absolute;
+    right: -50px;
+    top: -28px;
+    width: 300px;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
 	@media(max-width: 767px){
 		.p-lr-50{
