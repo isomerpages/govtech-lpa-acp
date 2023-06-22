@@ -249,7 +249,7 @@ section.bp-section .bp-container {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/4gIO8gl.png);
 }
-	.container,.heading  {
+	.container, .heading  {
     position: relative;
 }
 .heading::after {
