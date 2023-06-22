@@ -82,7 +82,7 @@ ul.social-share.p-inline-list li.list__item a {
 .banner::after {
     content: "";
     background-image: url(https://i.imgur.com/2AGstSd.png);
-    background-position: bottom;
+     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
@@ -273,7 +273,6 @@ a.p-button.btn:hover {
 .p-navigation [class*=p-navigation__item] > .p-navigation__link:hover {
     color: #01436b;
 }
-
 .container.action_3 {
     background-color: #C7C6C2;
 }
@@ -434,8 +433,13 @@ a.p-button.btn:hover {
     .video_ img {
         width: 100%;
     }
-    
 }
+	@media(min-width: 767px)and (max-width: 1170px){
+	.banner::after {
+    background-position: bottom right;
+    left: 20%;
+}
+	}
 	.p-t-80 {
 	padding-top: 80px;
 	}
