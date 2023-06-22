@@ -610,7 +610,7 @@ a.p-button.btn:hover {
     <div class="container">
       <div class="row">
         <div class="action_b col-6">
-          <img alt="The Legacy" src="https://i.imgur.com/IpWeEUv.png">
+          <img alt="The Legacy" src="https://i.imgur.com/seA1bcZ.png">
         </div>
         <div class="col-6 action_b">
           <div class="inner">
