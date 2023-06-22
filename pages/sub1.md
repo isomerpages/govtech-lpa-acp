@@ -331,7 +331,6 @@ section.bp-section .bp-container {
 				</div>
 			</div>
 			</div>
-			<div>
 				<div class="row">
 				<div class="col-12 accordion_b">
 				<ul class="accordion">
@@ -374,7 +373,7 @@ section.bp-section .bp-container {
 			</div>
 	</div>
 </div>
-</div></section>
+</section>
 
 <section class="action__4">
 	<div class="container" style="padding-top: 60px; padding-bottom: 90px">
