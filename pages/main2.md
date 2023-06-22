@@ -445,7 +445,7 @@ a.p-button.btn:hover {
         <div class="col-6 banner_block">
          <div class="inner u-align--center">
             <div class="image">
-              <img alt="The Legacy" src="https://i.imgur.com/VXg0wmw.png">
+              <img alt="The Legacy" src="https://i.imgur.com/5vVqE3i.png">
             </div>
             <a class="p-button btn" href="#">Get Started</a>
          </div>
