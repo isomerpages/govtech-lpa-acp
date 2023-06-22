@@ -82,7 +82,7 @@ ul.social-share.p-inline-list li.list__item a {
 .banner::after {
     content: "";
     background-image: url(blob:https://i.imgur.com/C2s0IgT.png);
-    background-position: bottom;
+      background-position: bottom right;
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
