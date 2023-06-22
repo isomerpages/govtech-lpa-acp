@@ -74,7 +74,7 @@ ul.social-share.p-inline-list li.list__item a {
     font-size: 22px;
 }
 .banner{
-    height: 720px;
+    height:620px;
     background-color: #D6C4AF;
 	    display: inline-block;
 	    position: relative;
