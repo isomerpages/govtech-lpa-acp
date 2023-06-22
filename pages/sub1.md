@@ -246,8 +246,10 @@ section.bp-section .bp-container {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/4gIO8gl.png);
 }
-	.container, 
-	.heading  {
+	.container{
+    position: relative;
+}
+		.heading  {
     position: relative;
 }
 .heading::after {
@@ -262,8 +264,12 @@ section.bp-section .bp-container {
     background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
 	@media(max-width: 767px){
-	.heading::after, 
-	section.action__4 .container, 
+	.heading::after{
+	display:none;
+	}
+		section.action__4 .container{
+	display:none;
+	}
 	.action__4{
 	display:none;
 	}
