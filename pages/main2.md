@@ -194,12 +194,12 @@ a.play_btn {
 .u-align--center{
 	text-align: center
 }
-.action_b p {
-    font-family: Myriad Pro;
+.action_b p,.action_b strong {
     font-size: 22px;
     line-height: 34px;
     color: #07477B;
-}section.bp-section {
+}
+	section.bp-section {
     padding: 0;
 }
 	section.bp-section .bp-container {
