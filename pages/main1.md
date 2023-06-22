@@ -74,14 +74,17 @@ ul.social-share.p-inline-list li.list__item a {
     font-size: 22px;
 }
 .banner{
-    background-image: url(https://i.imgur.com/GGdOYbL.jpg);
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 720px;
     background-color: #D6C4AF;
 	    display: inline-block;
 }
+		.banner::after{
+	content: "";
+	  background-image: url(https://i.imgur.com/Zvi3B0j.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
 header#navigation .p-navigation__tagged-logo a.p-navigation__link {
     padding: 0;
     margin-top: 8px;
