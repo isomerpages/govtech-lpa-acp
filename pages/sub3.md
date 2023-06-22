@@ -219,7 +219,13 @@ section.bp-section .bp-container {
     transition: all ease-in-out .3s;
 		-webkit-transition: all ease-in-out .3s;
 }
+		.p-lr-50{
+	padding: 0 50px;
+	}
 	@media(max-width: 767px){
+		.p-lr-50{
+	padding: 0;
+	}
 	.action_3 h2,.action_3 h2 i {
         line-height: 38px;
         font-size: 28px;
