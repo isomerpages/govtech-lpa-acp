@@ -277,6 +277,9 @@ a.p-button.btn:hover {
     background-color: #C7C6C2;
 }
 @media(max-width: 767px){
+		.banner::after {
+    left: 0;
+}
 .container {
     width: 100%;
     padding: 0 15px;
