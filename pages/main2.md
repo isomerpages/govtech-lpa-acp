@@ -74,14 +74,17 @@ ul.social-share.p-inline-list li.list__item a {
     font-size: 22px;
 }
 .banner{
-    background-image: url(https://i.imgur.com/GGdOYbL.jpg);
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 720px;
     background-color: #D6C4AF;
 	    display: inline-block;
 }
+	.banner::after{
+	content: "";
+	  background-image: url(https://i.imgur.com/GGdOYbL.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
 header#navigation .p-navigation__tagged-logo a.p-navigation__link {
     padding: 0;
     margin-top: 8px;
@@ -264,7 +267,6 @@ a.p-button.btn:hover {
 .p-navigation [class*=p-navigation__item] > .p-navigation__link:hover {
     color: #01436b;
 }
-
 .container.action_3 {
     background-color: #C7C6C2;
 }
@@ -397,7 +399,6 @@ a.p-button.btn:hover {
     }
 }
 @media(max-width: 500px){
-    
     .banner_block {
         align-items: unset;
         height: unset;
@@ -409,7 +410,6 @@ a.p-button.btn:hover {
     .banner {
         height: 360px;
         background-size: contain;
-       
     }
     .banner_block {
         height: 360px;
@@ -433,10 +433,6 @@ a.p-button.btn:hover {
     display: inline-block;
 }
 	</style>
-
-
-
-
 <section style="width: 100%" class="banner">
     <div class="container">
       <div class="row">
