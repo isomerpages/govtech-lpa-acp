@@ -81,7 +81,7 @@ ul.social-share.p-inline-list li.list__item a {
 }
 .banner::after {
     content: "";
-    background-image: url(https://i.imgur.com/Zvi3B0j.png);
+    background-image: url(blob:https://i.imgur.com/C2s0IgT.png);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: contain;
