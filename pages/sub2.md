@@ -265,6 +265,9 @@ section.bp-section .bp-container {
     background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
 	@media(max-width: 767px){
+	.heading::after,section.action__4 .container,.action__4{
+	display:none;
+	}
 		.p-lr-50{
 	padding: 0;
 	}
