@@ -222,16 +222,18 @@ section.bp-section .bp-container {
 	section.action__4 {
     position: relative;
 }
-	.action__4::before {
+.action__4::before {
     content: "";
     position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 300px;
+    left: 30px;
+    bottom: -4px;
+    width: 200px;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/ymZBFhy.png);
+    z-index: 99999999;
+    height: 200px;
 }
 	@media(max-width: 767px){
 		.p-lr-50{
