@@ -278,6 +278,9 @@ a.p-button.btn:hover {
     background-color: #C7C6C2;
 }
 @media(max-width: 767px){
+	.banner::after {
+    left: 0;
+}
 .container {
     width: 100%;
     padding: 0 15px;
@@ -302,6 +305,10 @@ a.p-button.btn:hover {
 }
 	}
 @media (max-width: 1024px){
+	.container {
+    width: 100%;
+    padding: 0 15px;
+}
     .feature .heading h2,.feature .heading h2 strong {
         font-size: 29px;
         line-height: 39px;
