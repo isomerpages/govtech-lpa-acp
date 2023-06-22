@@ -250,7 +250,8 @@ section.bp-section .bp-container {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/4gIO8gl.png);
 }
-	.container, .heading  {
+	.container, 
+	.heading  {
     position: relative;
 }
 .heading::after {
@@ -265,7 +266,9 @@ section.bp-section .bp-container {
     background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
 	@media(max-width: 767px){
-	.heading::after,section.action__4 .container,.action__4{
+	.heading::after,
+	section.action__4 .container,
+	.action__4{
 	display:none;
 	}
 		.p-lr-50{
