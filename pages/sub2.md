@@ -397,8 +397,8 @@ section.bp-section .bp-container {
 	<div class="container" style="padding-top: 60px; padding-bottom: 90px">
 		<div class="row p-lr-50">
 			<div class="col-12 action__b m-b-80">
-				<h4>Get started on <a href="#">making a Lasting Power Of Athorny</a></h4>
-				<h4>Get started on <a href="#">making a Lasting Power Of Athorny</a></h4>
+				<h4>Get started on <a href="#">making a Lasting Power Of Attorney</a></h4>
+				<h4>Get started on <a href="#">making a Lasting Power Of Attorney</a></h4>
 				<h4></h4>
 			</div>
 		</div>
