@@ -520,7 +520,7 @@ a.p-button.btn:hover {
 
 <div class="inner">
 
-<h3>I’m concerned about losing control of my assets and decision-making</h3>
+<h3>I have further concerns and questions</h3>
 
 <a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
 
@@ -596,9 +596,9 @@ a.p-button.btn:hover {
 
 <div class="content_">
 
-<h3>Advanced Care Plan</h3>
+<h3>Advance Care Plan</h3>
 
-<p>An Advanced Care Plan (ACP) outlines your healthcare preferences when you are no longer able to express them yourself.</p>
+<p>An Advance Care Plan (ACP) outlines your healthcare preferences when you are no longer able to express them yourself.</p>
 
 <a class="read_more" href="#">Read More</a>
 
@@ -620,7 +620,7 @@ a.p-button.btn:hover {
         <div class="col-6 action_b">
           <div class="inner">
             <p>End-of-life planning may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
-            <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advanced Care Plan</strong> (ACP) can bring about peace of mind and reduce uncertainty for those who care about you the most.</p>
+            <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can bring about peace of mind and reduce uncertainty for those who care about you the most.</p>
           </div>
         </div>
       </div>
@@ -637,7 +637,7 @@ a.p-button.btn:hover {
 		<div class="row">
 			<div class="col-8 action2_b">
 				<h2>We understand that legacy and <br>end-of-life planning is hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
-				<p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can</p>
+				<p>The first step in engaging family members on the<br> topic is to start talking together, even beyond<br> estate planning. Here are some ways you can</p>
 				<a class="read-more" href="#">start conversations with your family.</a>
 			</div>
 		</div>
@@ -645,7 +645,7 @@ a.p-button.btn:hover {
 	<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
-				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
+				<h2>I'm ready to start planning for our <br><strong><i>LPA and ACP </i></strong> today!</h2>
 				<a class="btn p-button" href="#">Get Started</a>
 			</div>
 		</div>
