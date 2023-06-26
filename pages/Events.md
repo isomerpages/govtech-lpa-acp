@@ -126,6 +126,17 @@ section.bp-section .bp-container {
 	.heading h2 {
     color: #000;
 }
+	.events ul {
+    margin: 0;
+    list-style: none;
+}
+	.events ul span:first-child {
+    font-weight: bold;
+    margin-right: 15px;
+}
+	.events ul li {
+    color: #000;
+}
 	</style>
 <section class="event_banner">
 	<div class="container-fluid">
@@ -153,7 +164,7 @@ section.bp-section .bp-container {
 		<div class="col-12">
 		<ul>
 			<li><span>05.04.23 - Saturday</span><span>6pm - 9pm</span></li>
-			<li><span>Esplanade  </span><span>- Theatres on the Bay, singapore</span></li>
+			<li><span>Esplanade</span><span>- Theatres on the Bay, singapore</span></li>
 		</ul>
 		</div>
 	</div>
