@@ -324,7 +324,7 @@ section.bp-section .bp-container {
       <div class="row p-t-80">
         <div class="col-6 about_a_b">
 					<div class="inner">
-					<h2>Speaking to<br> loved ones</h2>
+					<h2>How do I speak to<br>my family about this?</h2>
 					<p>It’s not easy to broach the topic of pre-planning, and you’re not alone!  However, making arrangements can be empowering for both yourself and your loved ones. By being prepared, your loved ones will be guided and supported when you are not able to make decisions for yourself. As they are certain about your choices, they do not need to bear the burden of making difficult decisions on your behalf during trying times, Legacy and pre-planning are also a reflection of your personal values and goals for healthy ageing.
 </p>
 					</div>
