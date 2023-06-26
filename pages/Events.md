@@ -8,6 +8,9 @@ description: ""
 	width: 1170px;
 margin: 0 auto;
 }
+	section{
+	width: 100%;
+	}
 section.bp-section {
 padding: 0;
 }
