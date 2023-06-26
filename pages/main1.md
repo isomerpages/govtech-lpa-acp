@@ -645,7 +645,7 @@ a.p-button.btn:hover {
 	<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
-				<h3>My Legacy Vault <br>lets you plan, store and share your legal, healthcare, and estate matters safely with the people you trust.</h3>
+				<h2>My Legacy Vault <br>lets you plan, store and share your legal, healthcare, and estate matters safely with the people you trust.</h2>
 				<a class="btn p-button" href="#">Find our more</a>
 			</div>
 		</div>
