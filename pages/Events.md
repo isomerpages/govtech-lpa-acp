@@ -110,8 +110,11 @@ section.bp-section .bp-container {
     padding: 0 15px;
 }
 	}
+	section.event_banner {
+    background-color: #F6E3CE;
+}
 	</style>
-<section class="event_banner p-t-80 p-b-80">
+<section class="event_banner">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-12 banner_b u-align--center">
