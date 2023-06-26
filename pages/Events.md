@@ -116,6 +116,10 @@ section.bp-section .bp-container {
 	section.event_banner {
     background-color: #F6E3CE;
 }
+	.event_banner img {
+    height: 650px;
+    object-fit: contain;
+}
 	</style>
 <section class="event_banner">
 	<div class="container-fluid">
