@@ -123,6 +123,9 @@ section.bp-section .bp-container {
     height: 650px;
     object-fit: contain;
 }
+	.heading h2 {
+    color: #000;
+}
 	</style>
 <section class="event_banner">
 	<div class="container-fluid">
