@@ -179,7 +179,7 @@ section.bp-section .bp-container {
 		<div class="col-12 m-t-40">
 		<ul>
 			<li><img style="width: 17px" src="https://i.imgur.com/Siv8OQ1.png"><span>05.04.23 - Saturday</span><span>6pm - 9pm</span></li>
-			<li><img src="https://i.imgur.com/nwsizzh.png" style="width: 20px"><span>Esplanade</span><span>- Theatres on the Bay, singapore</span></li>
+			<li><img src="https://i.imgur.com/ljZDljx.png" style="height: 20px; width: 20px; object-fit: contain"><span>Esplanade</span><span>- Theatres on the Bay, singapore</span></li>
 		</ul>
 		</div>
 	</div>
