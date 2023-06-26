@@ -111,7 +111,6 @@ section.bp-section .bp-container {
 }
 	}
 	</style>
-	
 <section class="event_banner p-t-80 p-b-80">
 	<div class="container-fluid">
 		<div class="row">
