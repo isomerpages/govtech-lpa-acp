@@ -157,6 +157,12 @@ section.bp-section .bp-container {
     height: 300px;
 }
 	}
+			@media(min-width: 767px)and (max-width: 1140px){
+	.container {
+    padding: 0 15px;
+    width: 100%;
+}
+	}
 	</style>
 <section class="event_banner">
 	<div class="container-fluid">
