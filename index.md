@@ -31,8 +31,11 @@ sections:
       alt: elderly-young
       url: Test
       image: /images/psd_landingpage_subpages-04.png
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+  - infobar:
+      title: MY LEGACY VAULT
+      subtitle: START PRE-PLANNING TODAY
+      description: "My Legacy Vault lets you plan, store, and share your legal,
+        healthcare and estate matters safely with the people you trust. "
+      button: FIND OUT MORE
+      url: "#"
 ---
