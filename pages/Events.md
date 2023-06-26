@@ -78,6 +78,9 @@ section.bp-section .bp-container {
 	.m-b-30{
 	margin-bottom: 30px;
 	}
+	.m-b-60{
+	margin-bottom: 60px;
+	}
 	.p-t-40{
 	padding-top:40px;
 	}
@@ -134,7 +137,7 @@ section.bp-section .bp-container {
 <section class="events p-t-80 p-b-80">
 <div class="container-fluid">
 	<div class="row">
-		<div class="col-12 heading u-align--center">
+		<div class="col-12 heading u-align--center m-b-60">
 			<h2>Upcoming Events</h2>
 		</div>
 	</div>
