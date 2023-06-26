@@ -85,6 +85,9 @@ section.bp-section .bp-container {
 	.m-b-60{
 	margin-bottom: 60px;
 	}
+	.m-t-40{
+	margin-top: 40px;
+	}
 	.p-t-40{
 	padding-top:40px;
 	}
@@ -165,7 +168,7 @@ section.bp-section .bp-container {
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-12">
+		<div class="col-12 m-t-40">
 		<ul>
 			<li><span>05.04.23 - Saturday</span><span>6pm - 9pm</span></li>
 			<li><span>Esplanade</span><span>- Theatres on the Bay, singapore</span></li>
