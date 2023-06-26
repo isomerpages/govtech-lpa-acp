@@ -175,7 +175,7 @@ section.bp-section .bp-container {
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-12 u-align--center">
+		<div class="col-12 u-align--center m-t-80">
 			<a class="p-button btn" href="#">Get Tickets</a>
 		</div>
 	</div>
