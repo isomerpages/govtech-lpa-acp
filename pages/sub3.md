@@ -316,6 +316,7 @@ section.bp-section .bp-container {
 		@media(min-width: 767px)and (max-width: 1140px){
 	.container {
     padding: 0 15px;
+    width: 100%;
 }
 	}
 	</style>
