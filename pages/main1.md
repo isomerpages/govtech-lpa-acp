@@ -484,7 +484,7 @@ a.p-button.btn:hover {
 
 <div style="margin-bottom: 60px" class="heading u-align--center col-12">
 
-<h2>When creating a Lasting Power of Attorney (LPA) &amp; Advance Care Plan (ACP) <br><strong>how would you describe your situation?</strong></h2>
+<h2>When making a Lasting Power of Attorney (LPA) and an Advance Care Plan (ACP) <br><strong>how would you describe your situation?</strong></h2>
 
 </div>
 
@@ -508,7 +508,7 @@ a.p-button.btn:hover {
 
 <div class="inner">
 
-<h3>I would like to speak to my family first</h3>
+<h3>How do I speak to my family about this?</h3>
 
 <a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
 
@@ -520,7 +520,7 @@ a.p-button.btn:hover {
 
 <div class="inner">
 
-<h3>I have further concerns and questions</h3>
+<h3>Will I still have control over my assets?</h3>
 
 <a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
 
@@ -532,7 +532,7 @@ a.p-button.btn:hover {
 
 <div class="inner">
 
-<h3>I’m unsure who are the best people to appoint</h3>
+<h3>I’m ready to start planning</h3>
 
 <a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
 
@@ -576,7 +576,7 @@ a.p-button.btn:hover {
 
 <h3>Lasting Power of Attorney</h3>
 
-<p>A Lasting Power of Attorney (LPA) allows you to appoint a trusted individual or individuals to make decisions on your behalf when you lose mental capacity.</p>
+<p>An LPA allows you to appoint trusted individual(s) to make decisions on your behalf if you lose your capacity to make decisions.</p>
 
 <a class="read_more" href="#">Read More</a>
 
@@ -598,7 +598,7 @@ a.p-button.btn:hover {
 
 <h3>Advance Care Plan</h3>
 
-<p>An Advance Care Plan (ACP) outlines your healthcare preferences when you are no longer able to express them yourself.</p>
+<p>An ACP helps you to communicate your values and healthcare preferences when you are no longer able to express them yourself. </p>
 
 <a class="read_more" href="#">Read More</a>
 
@@ -619,8 +619,8 @@ a.p-button.btn:hover {
         </div>
         <div class="col-6 action_b">
           <div class="inner">
-            <p>End-of-life planning may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
-            <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can bring about peace of mind and reduce uncertainty for those who care about you the most.</p>
+            <p>Pre-planning may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
+            <p>Making an <strong>LPA</strong> and an <strong>ACP</strong> can bring about peace of mind and reduce uncertainty for yourself and those who care about you the most.</p>
           </div>
         </div>
       </div>
@@ -636,8 +636,8 @@ a.p-button.btn:hover {
 	<div style="padding-top:110px; padding-bottom: 90px" class="container action_2">
 		<div class="row">
 			<div class="col-8 action2_b">
-				<h2>We understand that legacy and <br>end-of-life planning is hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
-				<p>The first step in engaging family members on the<br> topic is to start talking together, even beyond<br> estate planning. Here are some ways you can</p>
+				<h2>We understand that legacy and <br>pre-planning matters are hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
+				<p>The first step in engaging family members on the<br> topic is to start having open and meaningful discussions together, even beyond<br> estate planning. Here are some ways you can</p>
 				<a class="read-more" href="#">start conversations with your family.</a>
 			</div>
 		</div>
@@ -645,8 +645,8 @@ a.p-button.btn:hover {
 	<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
 		<div class="row">
 			<div class="col-12 action3_b u-align--center">
-				<h2>I'm ready to start planning for our <br><strong><i>LPA and ACP </i></strong> today!</h2>
-				<a class="btn p-button" href="#">Get Started</a>
+				<h3>My Legacy Vault <br>lets you plan, store and share your legal, healthcare, and estate matters safely with the people you trust.</h3>
+				<a class="btn p-button" href="#">Find our more</a>
 			</div>
 		</div>
 	</div>
