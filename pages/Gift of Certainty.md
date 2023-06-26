@@ -4,21 +4,21 @@ permalink: /home/
 description: ""
 ---
 <style>
-	.container{
-		width: 1170px;
-	margin: 0 auto;
-	}
-	container-fluid{
-	width: 100%;
-	}
-	section.bp-section.is-small.bp-section-pagetitle {
+    .container{
+        width: 1170px;
+    margin: 0 auto;
+    }
+    container-fluid{
+    width: 100%;
+    }
+    section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
 .action_3 h2, .action_3 h2 i {
     color: #01436b!important;
     margin-bottom: 30px;
 }
-	a.p-button.btn {
+    a.p-button.btn {
     border-color: #01436b;
     background-color: transparent;
     border-radius: 30px;
@@ -26,38 +26,38 @@ description: ""
     margin-top: 30px;
     font-weight: 600;
     border: 1px solid #01436b;
-	 text-decoration: none;
+     text-decoration: none;
 }
-	section.bp-section .bp-container {
+    section.bp-section .bp-container {
     width: 100%!important;
     max-width: 100%!important;
     padding-top: 0!important;
 }
-	.col.is-8.is-offset-2.print-content {
+    .col.is-8.is-offset-2.print-content {
     margin-left: 0;
     width: 100%;
 }
-		.col-3 {
+        .col-3 {
     width: 25%;
     PADDING: 0 15px;
 }
-		.col-8 {
+        .col-8 {
     width: 75%;
     PADDING: 0 15px;
 }
-	.col-4 {
+    .col-4 {
     width: 33.33%;
     PADDING: 0 15px;
 }
-		.col-6 {
+        .col-6 {
     width: 50%;
     PADDING: 0 15px;
 }
-		.col-12 {
+        .col-12 {
     width: 100%;
     PADDING: 0 15px;
 }
-	header#navigation.full-width .row {
+    header#navigation.full-width .row {
     max-width: 100%;
 }
 ul.social-share.p-inline-list li.list__item {
@@ -76,8 +76,8 @@ ul.social-share.p-inline-list li.list__item a {
 .banner{
     height:620px;
     background-color: #D6C4AF;
-	    display: inline-block;
-	    position: relative;
+        display: inline-block;
+        position: relative;
 }
 .banner::after {
     content: "";
@@ -141,7 +141,7 @@ a.play_btn {
     margin: 0 auto;
     margin-top: -60px;
 }
-	.feature_block {
+    .feature_block {
     position: relative;
 }
 .feature .heading h2,.feature .heading h2 strong {
@@ -156,7 +156,7 @@ a.play_btn {
     border-radius: 30px;
     box-shadow: 0 0px 5px 0 rgba(0,0,0,0.4);
     padding: 30px;
-	position: relative;
+    position: relative;
 }
 .feature_block .inner h3 {
     font-size: 21px;
@@ -192,17 +192,17 @@ a.play_btn {
     text-decoration: underline;
 }
 .u-align--center{
-	text-align: center
+    text-align: center
 }
 .action_b p,.action_b strong {
     font-size: 22px;
     line-height: 34px;
     color: #07477B;
 }
-	section.bp-section {
+    section.bp-section {
     padding: 0;
 }
-	section.bp-section .bp-container {
+    section.bp-section .bp-container {
     width: 100%!important;
     max-width: 100%!important;
     padding-top: 0!important;
@@ -217,7 +217,7 @@ section.action {
     background-repeat: no-repeat;
     background-size: cover;
 }
-	.m-t-30 {
+    .m-t-30 {
     margin-top: 30px!important;
 }
 .action h2,.action h2 strong {
@@ -277,32 +277,32 @@ a.p-button.btn:hover {
     background-color: #C7C6C2;
 }
 @media(max-width: 767px){
-		.banner::after {
+        .banner::after {
     left: 0;
 }
 .container {
     width: 100%;
     padding: 0 15px;
 }
-			.col-3 {
+            .col-3 {
     width: 100%;
 }
-		.col-8 {
+        .col-8 {
     width: 100%;
 }
-	.col-4 {
+    .col-4 {
     width: 100%;
 }
-		.col-6 {
+        .col-6 {
     width: 100%;
 }
-		.col-12 {
+        .col-12 {
     width: 100%;
 }
-	.action_3 {
+    .action_3 {
     background-color: #C7C6C2;
 }
-	}
+    }
 @media (max-width: 1024px){
     .feature .heading h2,.feature .heading h2 strong {
         font-size: 29px;
@@ -415,12 +415,12 @@ a.p-button.btn:hover {
         margin-top: 42px;
     }
 }
-		@media(max-width: 1170px){
-	.container {
+        @media(max-width: 1170px){
+    .container {
     width: 100%;
     padding: 0 15px;
 }
-	}
+    }
 @media(min-width: 500px)and (max-width: 1024px){
     .banner {
         height: 360px;
@@ -433,30 +433,30 @@ a.p-button.btn:hover {
         width: 100%;
     }
     }
-		@media(min-width: 767px)and (max-width: 1170px){
-	.banner::after {
+        @media(min-width: 767px)and (max-width: 1170px){
+    .banner::after {
     background-position: bottom right;
     left: 20%;
 }
-	.feature_block .inner h3 {
+    .feature_block .inner h3 {
     font-size: 18px;
     line-height: 25px;
 }
-	}
-	.p-t-80 {
-	padding-top: 80px;
-	}
-	.p-b-80{
-	padding-bottom: 80px;
-	}
-	section.bp-section .bp-container {
+    }
+    .p-t-80 {
+    padding-top: 80px;
+    }
+    .p-b-80{
+    padding-bottom: 80px;
+    }
+    section.bp-section .bp-container {
     padding-bottom: 0!important;
 }
-	.banner_block a.p-button.btn {
+    .banner_block a.p-button.btn {
     margin-top: 30px;
     display: inline-block;
 }
-	</style>
+    </style>
 <section style="width: 100%" class="banner">
     <div class="container">
       <div class="row">
@@ -493,7 +493,7 @@ a.p-button.btn:hover {
 
 <h3>I’m unsure how to begin</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/i-am-unsure-how-to-begin/"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -505,7 +505,7 @@ a.p-button.btn:hover {
 
 <h3>I would like to speak to my family first</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/how-do-i-speak-to-my-family-about-this/"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -517,7 +517,7 @@ a.p-button.btn:hover {
 
 <h3>I’m concerned about losing control of my assets and decision-making</h3>
 
-<a href="#"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/will-i-still-have-control-over-my-assets/"><img alt="The Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -626,23 +626,24 @@ a.p-button.btn:hover {
       </div>
     </div>    
   </section>
-	
+    
 <section class="action_">
-	<div style="padding-top:110px; padding-bottom: 90px" class="container action_2">
-		<div class="row">
-			<div class="col-8 action2_b">
-				<h2>We understand that legacy and <br>end-of-life planning is hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
-				<p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can</p>
-				<a class="read-more" href="#">start conversations with your family.</a>
-			</div>
-		</div>
-	</div>
-	<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
-		<div class="row">
-			<div class="col-12 action3_b u-align--center">
-				<h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
-				<a class="btn p-button" href="#">Get Started</a>
-			</div>
-		</div>
-	</div>
+    <div style="padding-top:110px; padding-bottom: 90px" class="container action_2">
+        <div class="row">
+            <div class="col-8 action2_b">
+                <h2>We understand that legacy and <br>end-of-life planning is hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
+                <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can</p>
+                <a class="read-more" href="#">start conversations with your family.</a>
+            </div>
+        </div>
+    </div>
+    <div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
+        <div class="row">
+            <div class="col-12 action3_b u-align--center">
+                <h2>I'm ready to start <br><strong><i>Pre-planning</i></strong> Today!</h2>
+                <a class="btn p-button" href="#">Get Started</a>
+            </div>
+        </div>
+    </div>
   </section>
+
