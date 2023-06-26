@@ -320,7 +320,7 @@ section.bp-section .bp-container {
       <div class="row p-t-80 p-b-80">
         <div class="col-6 about_a_b">
 					<div class="inner">
-					<h2>Get started<br>with ease</h2>
+					<h2>Unsure how to begin?<br>Get started with ease</h2>
 					<p>Getting your affairs in order may feel intimidating, especially when it seems like there’s so much to do. It’s not difficult to begin legacy and pre-planning once you’re armed with the right tools to get started.</p>
 					</div>
         </div>
