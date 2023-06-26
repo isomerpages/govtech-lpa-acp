@@ -4,7 +4,7 @@ title: Gift of Certainty
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Apply for an LPA & ACP today.
+notification: ""
 sections:
   - hero:
       title: Plan Today
