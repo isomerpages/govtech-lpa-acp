@@ -135,7 +135,7 @@ section.bp-section .bp-container {
   </section>
 	
 <section class="events p-t-80 p-b-80">
-<div class="container-fluid">
+<div class="container">
 	<div class="row">
 		<div class="col-12 heading u-align--center m-b-60">
 			<h2>Upcoming Events</h2>
