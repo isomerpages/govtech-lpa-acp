@@ -324,8 +324,9 @@ section.bp-section .bp-container {
       <div class="row p-t-80">
         <div class="col-6 about_a_b">
 					<div class="inner">
-					<h2>Sed ut perspiciatis<br> unde omnis</h2>
-					<p>sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+					<h2>Speaking to<br> loved ones</h2>
+					<p>It’s not easy to broach the topic of pre-planning, and you’re not alone!  However, making arrangements can be empowering for both yourself and your loved ones. By being prepared, your loved ones will be guided and supported when you are not able to make decisions for yourself. As they are certain about your choices, they do not need to bear the burden of making difficult decisions on your behalf during trying times, Legacy and pre-planning are also a reflection of your personal values and goals for healthy ageing.
+</p>
 					</div>
         </div>
 				<div class="col-6 about_a_b">
@@ -349,41 +350,30 @@ section.bp-section .bp-container {
 				<ul class="accordion">
 						<li>
 							<label for="accordion_1">
-								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">Item 1
+								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">I have yet to discuss with my family about LPA and ACP 
 							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								o	Initiating a conversation with your parents about making an LPA and ACP can be daunting, particularly if your intentions aren't clear from the start. To begin, emphasise the significance of this process and the benefits it can have on the family. The initial conversation doesn't have to revolve immediately around their assets or care preferences. Instead, broach the topic empathetically, allowing your family to share their thoughts and concerns. An open and understanding atmosphere lays the groundwork for a productive conversation about the process.<br>
+								o	Over a series of open conversations, you’ll find that it may become easier to discuss more difficult topics such as their estate planning and how they’d like to be cared for if they lose mental capacity. If you belong to a large family, it’s also important to include your siblings in the discussions to ensure that it becomes an effective conversation and everyone is aligned.
 							</p>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_2">
-								<input class="toggle" id="accordion_2" name="accordion" type="radio">Item 2
+								<input class="toggle" id="accordion_2" name="accordion" type="radio">I have yet to discuss with my family about my LPA and ACP
 							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								o	It’s not easy to discuss pre-planning matters with your family, especially since talking about losing mental capacity can be an uncomfortable conversation to have. It’s crucial to begin the discussion by explaining your intentions and the benefits of planning for it early.<br>
+								o	Your conversations with your family have to be honest and open about your values and preferences for medical care. A close relationship with them does not guarantee that they are clear about what you want.<br>
+								o	It is crucial to keep your family informed whenever there are changes in your LPA or ACP so they can stay up to date with what you want as you age.
 							</p>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_3">
-								<input class="toggle" id="accordion_3" name="accordion" type="radio">Item 3
+								<input class="toggle" id="accordion_3" name="accordion" type="radio">I am single and I do not have anyone in mind to nominate.
 							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
-							</p>
-							</label>
-						</li>
-						<li>
-							<label for="accordion_4">
-								<input class="toggle" id="accordion_4" name="accordion" type="radio">Item 4
-							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
-							</p>
-							</label>
-						</li>
-					<li>
-							<label for="accordion_5">
-								<input class="toggle" id="accordion_5" name="accordion" type="radio">Item 5
-							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+							o	It is a common misconception that you can only involve immediate family members in your LPA and ACP. It is encouraged to discuss your healthcare preferences and values with people who know you best, and sometimes these individuals may not be your direct family members.<br>
+							o	Your Donee(s) (LPA) and nominated healthcare spokesperson(s) (ACP) can be your family member or relative. In the event that you do not have a family member to appoint as your Donee, you may appoint others such as a friend, Professional Donee or a licensed trust company for property and affairs matters only (applicable LPA Form 2). What matters most is that these chosen individuals know you well and will prioritise your care preferences and beliefs.<br>
+							It is crucial that these chosen individuals have the ability to communicate your values and care preferences to the healthcare team and other loved ones. They must also be able to handle the responsibility of enforcing your known care wishes in stressful situations.
 							</p>
 							</label>
 						</li>
@@ -397,8 +387,8 @@ section.bp-section .bp-container {
 	<div class="container" style="padding-top: 60px; padding-bottom: 90px">
 		<div class="row p-lr-50">
 			<div class="col-12 action__b m-b-80">
-				<h4>Get started on <a href="#">making a Lasting Power Of Attorney</a></h4>
-				<h4>Get started on <a href="#">making a Lasting Power Of Attorney</a></h4>
+				<h4>Get started on <a href="#">making a Lasting Power Of Attorney</a>.</h4>
+				<h4>Get started on <a href="#">making an Advance Care Plan</a>.</h4>
 				<h4></h4>
 			</div>
 		</div>
@@ -406,7 +396,7 @@ section.bp-section .bp-container {
 			<div class="col-12">
 				<div class="inner">
 				<h2>My Legacy Vault</h2>
-				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<br> cupidatat non proident, sunt in culpa qui</p>
+				<p>My Legacy Vault lets you plan, store, and share your legal, healthcare and estate matters safely with the people you trust. <a href="#">Find out more</a>.</p>
 				</div>
 			</div>
 		</div>
