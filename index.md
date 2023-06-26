@@ -13,7 +13,7 @@ sections:
       dropdown:
         title: Describe your situation...
         options:
-          - title: I want to learn more.
+          - title: I want to learn more
             url: "#"
           - title: I'm ready to start planning
             url: "#"
