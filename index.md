@@ -21,4 +21,10 @@ sections:
             url: /will-i-still-have-control-over-my-assets/
           - title: I'm ready to start planning
             url: "#"
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
