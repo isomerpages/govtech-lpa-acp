@@ -11,6 +11,10 @@ margin: 0 auto;
 	section{
 	width: 100%;
 	}
+	.col.is-8.is-offset-2.print-content {
+    margin-left: 0;
+    width: 100%;
+}
 section.bp-section {
 padding: 0;
 }
