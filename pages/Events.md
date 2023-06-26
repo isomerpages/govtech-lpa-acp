@@ -98,25 +98,26 @@ section.bp-section .bp-container {
 	.col-4 {
     width: 100%;
 }
-		.col-6 {
+.col-6 {
     width: 100%;
 }
-		.col-12 {
+.col-12 {
     width: 100%;
 }
 	}
-		@media(min-width: 767px)and (max-width: 1140px){
+@media(min-width: 767px)and (max-width: 1140px){
 	.container {
     padding: 0 15px;
 }
 	}
 	</style>
-	<section class="event_banner p-t-80 p-b-80">
-    <div class="container-fluid">
-      <div class="row">
-				<div class="col-12 banner_b">
-				<img alt="Legacy Events" src="https://i.imgur.com/C2s0IgT.png">
-				</div>
-      </div>
-    </div>
+	
+<section class="event_banner p-t-80 p-b-80">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-12 banner_b">
+			<img alt="Legacy Events" src="https://i.imgur.com/C2s0IgT.png">
+			</div>
+		</div>
+	</div>
   </section>
