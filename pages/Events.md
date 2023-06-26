@@ -114,7 +114,7 @@ section.bp-section .bp-container {
 <section class="event_banner p-t-80 p-b-80">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-12 banner_b">
+			<div class="col-12 banner_b u-align--center">
 			<img alt="Legacy Events" src="https://i.imgur.com/C2s0IgT.png">
 			</div>
 		</div>
