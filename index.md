@@ -14,9 +14,9 @@ sections:
         title: Describe your situation...
         options:
           - title: I want to learn more
-            url: "#"
+            url: /home/
           - title: I'm ready to start planning
-            url: "#"
+            url: https://go.gov.sg/mylegacy-lpa-acp
   - infopic:
       title: Plan Today
       subtitle: GET STARTED
