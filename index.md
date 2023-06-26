@@ -7,16 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Plan Today
-      subtitle: Make your LPA & ACP
-      background: /images/hero-banner-plan-today.png
-      dropdown:
-        title: Describe your situation...
-        options:
-          - title: I want to learn more
-            url: /home/
-          - title: I'm ready to start planning
-            url: https://go.gov.sg/mylegacy-lpa-acp
+      background: /images/psd_banner.png
   - infopic:
       title: Plan Today
       subtitle: GET STARTED
