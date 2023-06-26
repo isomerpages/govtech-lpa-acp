@@ -22,9 +22,17 @@ sections:
           - title: I'm ready to start planning
             url: "#"
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Plan Today
+      subtitle: GET STARTED
+      description: Pre-planning may feel overwhelming for yourself but also your loved
+        ones. Making a Lasting Power of Attorney and an Advance Care Plan can
+        reduce uncertainty.
+      button: Learn more
+      alt: elderly-young
+      url: Test
+      image: /images/psd_landingpage_subpages-04.png
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
