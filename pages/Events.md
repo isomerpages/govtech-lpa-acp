@@ -147,6 +147,11 @@ section.bp-section .bp-container {
 	.events ul li {
     color: #000;
 }
+	.events ul li img {
+    float: left;
+    margin-top: 9px;
+    margin-right: 10px;
+}
 	</style>
 <section class="event_banner">
 	<div class="container-fluid">
@@ -173,7 +178,7 @@ section.bp-section .bp-container {
 	<div class="row">
 		<div class="col-12 m-t-40">
 		<ul>
-			<li><img style="width: 20px" src="https://i.imgur.com/Siv8OQ1.png"><span>05.04.23 - Saturday</span><span>6pm - 9pm</span></li>
+			<li><img style="width: 17px" src="https://i.imgur.com/Siv8OQ1.png"><span>05.04.23 - Saturday</span><span>6pm - 9pm</span></li>
 			<li><img src="https://i.imgur.com/nwsizzh.png" style="width: 20px"><span>Esplanade</span><span>- Theatres on the Bay, singapore</span></li>
 		</ul>
 		</div>
