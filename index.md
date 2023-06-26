@@ -8,6 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/psd_banner.png
+      url: "#"
+      key_highlights:
+        - title: I am ready to start planning
+          description: "Lorem ipsum "
+          url: "#"
+        - title: I want to learn more
+          description: Learn more about ACP & LPA
+          url: "#"
   - infopic:
       title: Plan Today
       subtitle: GET STARTED
