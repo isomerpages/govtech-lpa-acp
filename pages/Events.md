@@ -130,7 +130,7 @@ section.bp-section .bp-container {
     background-color: #F6E3CE;
 }
 	.event_banner img {
-    height: 650px;
+    height: 720px;
     object-fit: contain;
 }
 	.heading h2 {
