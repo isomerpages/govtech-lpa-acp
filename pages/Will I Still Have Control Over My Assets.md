@@ -324,8 +324,8 @@ section.bp-section .bp-container {
       <div class="row p-t-80">
         <div class="col-6 about_a_b">
 					<div class="inner">
-					<h2>Sed ut perspiciatis<br> unde omnis</h2>
-					<p>sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+					<h2>Will I still have control over my assets?</h2>
+					<p>It’s understandable to be worried about the safety of your assets and the potential for abuse by your Donee(s) or loved ones. However, it’s important to understand that making an LPA and ACP does not mean that you lose control of your decision-making and assets as they can only manage your matters on your behalf when you lack the mental capacity to do so. In fact, they are helpful tools for you to regain and exercise control over what’s important to you.</p>
 					</div>
         </div>
 				<div class="col-6 about_a_b">
@@ -349,41 +349,70 @@ section.bp-section .bp-container {
 				<ul class="accordion">
 						<li>
 							<label for="accordion_1">
-								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">Item 1
+								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">I don’t want to sign away my control over decisions
 							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.<br>
+								o	<b>LPA</b><br>
+								Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity.<br>
+								o	<b>ACP</b><br>
+								When you make an ACP, you are communicating your personal values and healthcare preferences to your loved ones and medical team. By appointing a nominated healthcare spokesperson, you are regaining control of your future healthcare and personal care needs by putting it into writing. This ensures that your recorded wishes are respected and your interests are protected by all parties involved.
 							</p>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_2">
-								<input class="toggle" id="accordion_2" name="accordion" type="radio">Item 2
+								<input class="toggle" id="accordion_2" name="accordion" type="radio">I’m worried that my assets will be misused
 							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								o	<b>LPA</b>
+								▪	The misappropriation of assets is a valid concern. That’s why it’s important to choose a Donee you trust. With the option to appoint more than one Donee and specifications on how they should make decisions – the risk of misuse is greatly reduced. Additionally, Donees are legally obligated to act in your best interests and can be prosecuted for any misuse of your assets.<br>
+								▪	Any individual can report a Donee to the Office of the Public Guardian if there is suspected abuse. An application can be made to the Court to remove the Donee’s appointment in the LPA if the Donee:<br>
+									▪	Is found to have abused his or her powers granted in the LPA<br>
+									▪	Used fraud or undue pressure to persuade the Donor to make the LPA<br>
+									▪	Does not act in the Donor’s best interests<br>
+									▪	If a Donee abuses his or her power, he or she may face severe penalties (e.g. fine or imprisonment, under section 42 of the Mental Capacity Act).
 							</p>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_3">
-								<input class="toggle" id="accordion_3" name="accordion" type="radio">Item 3
+								<input class="toggle" id="accordion_3" name="accordion" type="radio">I’m concerned that my loved ones will fight over my assets
 							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								o	Making an LPA and ACP can actually help reduce the likelihood of family disputes. By clearly specifying your wishes for your future healthcare and personal care needs, you can help prevent disagreements among family members.<br>
+								o	Additionally, appointing a Donee to make decisions on your behalf can help reduce the stress and tension that can arise when family members disagree on important decisions.
 							</p>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_4">
-								<input class="toggle" id="accordion_4" name="accordion" type="radio">Item 4
+								<input class="toggle" id="accordion_4" name="accordion" type="radio">What if my Donee(s) inflict harm on me to gain control over my assets?
 							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
-							</p>
-							</label>
-						</li>
+								o	There are safeguards provided in the Mental Capacity Act to protect people who lack mental capacity:<br>
+									▪	The Public Guardian, which is supported by the Office of the Public Guardian, has supervisory and investigative powers, including looking into alleged abuses or misuse of powers. Where the Public Guardian finds that the Donee has not behaved in the best interests of the person lacking in capacity, the Public Guardian may apply to Court to revoke the power of that Donee.<br>
+									▪	The Act prohibits certain decisions (e.g. excluded decisions) from being made on behalf of persons who lack capacity.<br>
+									▪	To encourage reporting of suspected abuse, caregivers are provided with whistle-blowing protection.<br>
+									▪	The Act also makes the ill-treatment of persons who lack capacity a criminal offence.<br>
+								o	To supplement the aforementioned Mental Capacity Act, Donors can also include specific instructions and limitations in their LPA to guide their Donee’s decision-making, and the Donee must seek the Court’s approval before making any decisions that are not covered by the LPA.
+							
+						</p></label></li>
 					<li>
 							<label for="accordion_5">
-								<input class="toggle" id="accordion_5" name="accordion" type="radio">Item 5
+								<input class="toggle" id="accordion_5" name="accordion" type="radio">What if I change my mind?
 							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								o	Your LPA and ACP are not set in stone. You have the liberty to update or change your LPA and ACP at any given time, provided you have the mental capacity to do so.<br>
+								o	<b>LPA</b><br>
+								▪	To change the terms of an existing LPA, the Donor must revoke their registered LPA and make a new one.<br>
+								▪	The Donor can then choose to appoint the same Donee or a different one in the new LPA.<br>
+								▪	The Donor can also make changes to the scope of authority or instructions provided to the Donee.<br>
+								▪	The Donor can revoke their LPA by submitting a revocation form to the Office of the Public Guardian.<br>
+								▪	It costs $30 to revoke a registered LPA.<br>
+								o	<b>ACP</b><br>
+								▪	You should review your ACP:<br>
+									▪	When your preferences change
+									▪	At every significant life stage or milestone
+									▪	After a medical diagnosis of life-limiting illness
+									▪	After a significant change in your functional ability that may affect your daily activities later in life.
+								▪	You are encouraged to keep your loved ones and healthcare team updated through ongoing conversations when you review your ACP.<br>
+								▪	Contact your ACP facilitator for help updating your ACP.
 							</p>
 							</label>
 						</li>
@@ -398,7 +427,7 @@ section.bp-section .bp-container {
 		<div class="row p-lr-50">
 			<div class="col-12 action__b m-b-80">
 				<h4>Get started on <a href="#">making a Lasting Power Of Attorney</a></h4>
-				<h4>Get started on <a href="#">making a Lasting Power Of Attorney</a></h4>
+				<h4>Get started on <a href="#">making an Advance Care Plan</a></h4>
 				<h4></h4>
 			</div>
 		</div>
@@ -406,7 +435,7 @@ section.bp-section .bp-container {
 			<div class="col-12">
 				<div class="inner">
 				<h2>My Legacy Vault</h2>
-				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<br> cupidatat non proident, sunt in culpa qui</p>
+				<p>My Legacy Vault lets you plan, store and share your legal, healthcare, and estate matters safely with the people you trust. <a href="#">Find out more</a>.</p>
 				</div>
 			</div>
 		</div>
