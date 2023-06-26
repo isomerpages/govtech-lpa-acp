@@ -129,9 +129,10 @@ section.bp-section .bp-container {
 	section.event_banner {
     background-color: #F6E3CE;
 }
-	.event_banner img {
+.event_banner img {
     height: 700px;
     object-fit: contain;
+    object-position: bottom;
 }
 	.heading h2 {
     color: #000;
@@ -151,6 +152,11 @@ section.bp-section .bp-container {
     margin-top: 9px;
     margin-right: 10px;
 }
+	@media(max-width: 767px){
+	.event_banner img {
+    height: 300px;
+}
+	}
 	</style>
 <section class="event_banner">
 	<div class="container-fluid">
