@@ -11,7 +11,7 @@ sections:
       url: "#"
       key_highlights:
         - title: I am ready to start planning
-          description: "Lorem ipsum "
+          description: Lorem ipsum
           url: "#"
         - title: I want to learn more
           description: Learn more about ACP & LPA
@@ -33,4 +33,8 @@ sections:
         healthcare and estate matters safely with the people you trust.
       button: FIND OUT MORE
       url: "#"
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
