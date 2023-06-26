@@ -13,12 +13,8 @@ sections:
       dropdown:
         title: Describe your situation...
         options:
-          - title: I'm unsure how to begin
-            url: /i-am-unsure-how-to-begin/
-          - title: How do I speak to my family?
-            url: /how-do-i-speak-to-my-family-about-this/
-          - title: Will I still have control?
-            url: /will-i-still-have-control-over-my-assets/
+          - title: I want to learn more.
+            url: "#"
           - title: I'm ready to start planning
             url: "#"
   - infopic:
@@ -34,8 +30,8 @@ sections:
   - infobar:
       title: MY LEGACY VAULT
       subtitle: START PRE-PLANNING TODAY
-      description: "My Legacy Vault lets you plan, store, and share your legal,
-        healthcare and estate matters safely with the people you trust. "
+      description: My Legacy Vault lets you plan, store, and share your legal,
+        healthcare and estate matters safely with the people you trust.
       button: FIND OUT MORE
       url: "#"
 ---
