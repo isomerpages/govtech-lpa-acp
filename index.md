@@ -21,6 +21,4 @@ sections:
             url: /will-i-still-have-control-over-my-assets/
           - title: I'm ready to start planning
             url: "#"
-          - title: Hero Dropdown Element Title
-            url: ""
 ---
