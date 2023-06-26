@@ -591,9 +591,9 @@ a.p-button.btn:hover {
 
 <div class="content_">
 
-<h3>Advanced Care Plan</h3>
+<h3>Advance Care Plan</h3>
 
-<p>An Advanced Care Plan (ACP) outlines your healthcare preferences when you are no longer able to express them yourself.</p>
+<p>An Advance Care Plan (ACP) outlines your healthcare preferences when you are no longer able to express them yourself.</p>
 
 <a class="read_more" href="#">Read More</a>
 
@@ -646,4 +646,3 @@ a.p-button.btn:hover {
         </div>
     </div>
   </section>
-
