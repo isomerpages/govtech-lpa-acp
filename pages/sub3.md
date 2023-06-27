@@ -271,7 +271,7 @@ section.bp-section .bp-container {
     position: absolute;
     right: 20px;
     top: 14px;
-    color: #A1CFDA;
+    color: #1A3554;
     text-indent: 0;
     line-height: 25px;
 }
