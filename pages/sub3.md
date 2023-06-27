@@ -477,34 +477,58 @@ section.bp-section .bp-container {
 						</li>
 						<li>
 							<label for="accordion_2">
-								<input class="toggle" id="accordion_2" name="accordion" type="radio">Item 2
-							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								<input class="toggle" id="accordion_2" name="accordion" type="radio">I’m worried that my assets will be misused
+							<div class="inner">
+								<p>
+								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
 							</p>
+								<h4>LPA</h4>
+								<p>Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity. </p>
+								<h4>ACP</h4>
+								<p>When you make an ACP, you are communicating your personal values and healthcare preferences to your loved ones and medical team. By appointing a nominated healthcare spokesperson, you are regaining control of your future healthcare and personal care needs by putting it into writing. This ensures that your recorded wishes are respected and your interests are protected by all parties involved.</p>
+								</div>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_3">
-								<input class="toggle" id="accordion_3" name="accordion" type="radio">Item 3
-							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								<input class="toggle" id="accordion_3" name="accordion" type="radio">I’m concerned that my loved ones will fight over my assets
+							<div class="inner">
+								<p>
+								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
 							</p>
+								<h4>LPA</h4>
+								<p>Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity. </p>
+								<h4>ACP</h4>
+								<p>When you make an ACP, you are communicating your personal values and healthcare preferences to your loved ones and medical team. By appointing a nominated healthcare spokesperson, you are regaining control of your future healthcare and personal care needs by putting it into writing. This ensures that your recorded wishes are respected and your interests are protected by all parties involved.</p>
+								</div>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_4">
-								<input class="toggle" id="accordion_4" name="accordion" type="radio">Item 4
-							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								<input class="toggle" id="accordion_4" name="accordion" type="radio">What if my Donee(s) inflict harm on me to gain control over my assets?
+							<div class="inner">
+								<p>
+								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
 							</p>
+								<h4>LPA</h4>
+								<p>Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity. </p>
+								<h4>ACP</h4>
+								<p>When you make an ACP, you are communicating your personal values and healthcare preferences to your loved ones and medical team. By appointing a nominated healthcare spokesperson, you are regaining control of your future healthcare and personal care needs by putting it into writing. This ensures that your recorded wishes are respected and your interests are protected by all parties involved.</p>
+								</div>
 							</label>
 						</li>
 					<li>
 							<label for="accordion_5">
-								<input class="toggle" id="accordion_5" name="accordion" type="radio">Item 5
-							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								<input class="toggle" id="accordion_5" name="accordion" type="radio">What if I change my mind?
+							<div class="inner">
+								<p>
+								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
 							</p>
+								<h4>LPA</h4>
+								<p>Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity. </p>
+								<h4>ACP</h4>
+								<p>When you make an ACP, you are communicating your personal values and healthcare preferences to your loved ones and medical team. By appointing a nominated healthcare spokesperson, you are regaining control of your future healthcare and personal care needs by putting it into writing. This ensures that your recorded wishes are respected and your interests are protected by all parties involved.</p>
+								</div>
 							</label>
 						</li>
 					</ul>
