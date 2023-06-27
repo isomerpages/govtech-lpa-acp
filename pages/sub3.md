@@ -450,7 +450,7 @@ section.bp-section .bp-container {
 	<div class="container">
 			<div class="row">
 			<div style="margin-bottom: 60px;" class="video_acc col-12">
-				<div style="height: 460px; background-color:#ddd; border-radius:30px" class="inner">
+				<div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
 				<a class="play_btn" href="#"><img alt="The Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
 				</div>
 			</div>
