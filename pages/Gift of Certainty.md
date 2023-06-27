@@ -304,6 +304,9 @@ a.play_btn {
     section.bp-section {
     padding: 0;
 }
+	.action_b img {
+    width: 500px;
+}
     section.bp-section .bp-container {
     width: 100%!important;
     max-width: 100%!important;
