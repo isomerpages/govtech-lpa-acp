@@ -4,6 +4,91 @@ permalink: /plan-today/
 description: ""
 ---
 <style>
+		/\* cyrillic \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTjYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/\* vietnamese \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTPYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/\* latin-ext \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTLYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/\* latin \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTzYgEM86xQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/\* cyrillic \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTjYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/\* vietnamese \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTPYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/\* latin-ext \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTLYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/\* latin \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTzYgEM86xQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'proxima_nova_bold';
+    src: url('http://chodri.com/legacy/src/fonts/Proxima-Nova-Alt-Bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('http://chodri.com/legacy/src/fonts/Myriad-Web-Pro-Regular.ttf');
+    src: url('http://chodri.com/legacy/src/fonts/Myriad-Web-Pro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 	.container{
 		width: 1170px;
 	margin: 0 auto;
@@ -11,6 +96,9 @@ description: ""
 	container-fluid{
 	width: 100%;
 	}
+		strong i {
+    font-family: Playfair Display;
+}
 	section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
@@ -637,17 +725,26 @@ a.p-button.btn:hover {
 		<div class="row">
 			<div class="col-8 action2_b">
 				<h2>We understand that legacy and <br>pre-planning matters are hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
-				<p>The first step in engaging family members on the<br> topic is to start having open and meaningful discussions together, even beyond<br> estate planning. Here are some ways you can</p>
-				<a class="read-more" href="#">start conversations with your family.</a>
+				<p>The first step in engaging family members on the<br> topic is to start having open and meaningful discussions together, even beyond<br> estate planning. Here are some ways you can <a class="read-more" href="#">start conversations with your family.</a></p>
 			</div>
 		</div>
-	</div>
-	<div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
-		<div class="row">
-			<div class="col-12 action3_b u-align--center">
-				<h2>My Legacy Vault <br>lets you plan, store and share your legal, healthcare, and estate matters safely with the people you trust.</h2>
-				<a class="btn p-button" href="#">Find our more</a>
+		<div class="row p-t-80 action__5">
+			<div class="col-8">
+				<div class="inner">
+				<h2>My Legacy Vault</h2>
+				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur<br> sint occaecat cupidatat non proident <a class="read-more" href="#">Find out more</a></p>
+				</div>
 			</div>
 		</div>
 	</div>
   </section>
+	<section style="padding-top: 90px; padding-bottom: 90px" class="action_3">
+<div class="container">
+        <div class="row">
+            <div class="col-12 action3_b u-align--center">
+                <h2>I'm ready to start <br><strong><i>on my LPA &amp; ACP</i></strong> Today!</h2>
+                <a class="btn p-button" href="#">Get Started</a>
+            </div>
+        </div>
+    </div>
+</section>
