@@ -749,7 +749,7 @@ a.p-button.btn:hover {
     </div>    
   </section>
     
-<section style="padding-top:110px; padding-bottom: 90px" class="action_">
+<section style="padding-top:90px; padding-bottom: 90px" class="action_">
     <div class="container action_2">
         <div class="row">
             <div class="col-8 action2_b">
