@@ -318,6 +318,7 @@ a.play_btn {
 }
 section.action {
     background-color: #DADADA;
+	position: relative;
 }
 	section.action::before {
     content: "";
