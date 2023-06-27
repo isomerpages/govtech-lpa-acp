@@ -119,7 +119,7 @@ a.p-button.btn {
     line-height: 52px;
     font-size: 42px;
     font-family: 'Playfair Display';
-    color: #01436b;
+    color: #000;
     margin-bottom: 30px;
 }
 section.bp-section .bp-container {
@@ -165,7 +165,6 @@ section.bp-section .bp-container {
     background-color: #EBE7E5;
     border-radius: 25px;
 }
-	
 	.about_bb h4 {
     color: #1A3554;
     font-weight: bold;
@@ -173,7 +172,8 @@ section.bp-section .bp-container {
 }
 	.about_bb p {
     margin-top: 10px;
-}.about_a_b h2 {
+}
+	.about_a_b h2 {
     color: #1A3554;
 }
 	.heading h3 {
