@@ -189,13 +189,18 @@ section.bp-section .bp-container {
 }
 	.about_bb p {
     margin-top: 10px;
-}.about_a_b h2 {
+}
+	.about_a_b h2 {
     color: #1A3554;
+	font-family:'Playfair Display';
 }
 	.heading h3 {
     margin-bottom: 30px;
     color: #000;
 }
+	.content a{
+		color: #1A3554!important;
+	}
 	.m-b-30{
 	margin-bottom: 30px;
 	}
@@ -214,6 +219,7 @@ section.bp-section .bp-container {
 }
 .action__4 h2{
 		color: #000;
+	  font-family:'Playfair Display';
 	}
 	.action__4 p{
 		color: #000;
