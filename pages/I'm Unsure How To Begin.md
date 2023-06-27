@@ -4,6 +4,91 @@ permalink: /i-am-unsure-how-to-begin/
 description: ""
 ---
 <style>
+	/\* cyrillic \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTjYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/\* vietnamese \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTPYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/\* latin-ext \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTLYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/\* latin \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTzYgEM86xQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/\* cyrillic \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTjYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/\* vietnamese \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTPYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/\* latin-ext \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTLYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/\* latin \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTzYgEM86xQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'proxima_nova_bold';
+    src: url('http://chodri.com/legacy/src/fonts/Proxima-Nova-Alt-Bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('http://chodri.com/legacy/src/fonts/Myriad-Web-Pro-Regular.ttf');
+    src: url('http://chodri.com/legacy/src/fonts/Myriad-Web-Pro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 .container{
 	width: 1170px;
 margin: 0 auto;
@@ -143,12 +228,13 @@ section.bp-section .bp-container {
 	}
 .accordion ul li label {
     position: relative;
-    color: #fff;
+    color: #1A3554;
     display: inline-block;
     width: 100%;
     line-height: 49px;
     text-indent: 20px;
-	    cursor: pointer;
+    cursor: pointer;
+    font-weight: bold;
 }
 	.accordion ul li label::before {
     width: 100%;
@@ -179,14 +265,14 @@ section.bp-section .bp-container {
     margin: 0 auto;
     margin-top: -60px;
 }
+.about_a_b {
+    display: flex;
+    align-items: center;
+}	
 	.video_acc .inner {
     position: relative;
 }
-	.about_a_b {
-    display: flex;
-    align-items: center;
-}
-	.accordion ul .inner::after{
+		.accordion ul .inner::after{
     content: "+";
     width: 25px;
     height: 25px;
@@ -197,20 +283,19 @@ section.bp-section .bp-container {
     position: absolute;
     right: 20px;
     top: 14px;
-    color: #A1CFDA;
+    color: #1A3554;
     text-indent: 0;
     line-height: 25px;
 }
 	ul.accordion input.toggle:checked + .inner::after {
     content: "-";
 }
-	ul.accordion input.toggle:checked + p {
+	ul.accordion input.toggle:checked + .inner {
     height: auto;
     padding: 30px;
 }
 	.accordion ul .inner {
     overflow: hidden;
-    color: #000;
     margin-top: 0;
     background-color: #EBE7E5;
     margin-top: 6px;
@@ -218,7 +303,22 @@ section.bp-section .bp-container {
     padding: 0 30px;
     transition: all ease-in-out .3s;
 		-webkit-transition: all ease-in-out .3s;
+	 text-indent: 0;
 }
+	.accordion ul .inner p {
+	 font-weight: 500;
+    font-size: 15px;
+	  color: #1A3554;
+	margin-top: 0;
+	line-height: 30px;
+	}
+	.accordion ul .inner h4 {
+	 font-weight: bold;
+    font-size: 22px;
+	  color: #1A3554;
+	  margin-top: 0;
+	  margin-bottom: 0;
+	}
 		.p-lr-50{
 	padding: 0 50px;
 	}
