@@ -178,7 +178,9 @@ section.bp-section .bp-container {
     background-color: #EBE7E5;
     border-radius: 25px;
 }
-	
+		.about_a_b img {
+    width: 500px;
+}
 	.about_bb h4 {
     color: #1A3554;
     font-weight: bold;
@@ -186,8 +188,10 @@ section.bp-section .bp-container {
 }
 	.about_bb p {
     margin-top: 10px;
-}.about_a_b h2 {
+}
+	.about_a_b h2 {
     color: #1A3554;
+	font-family: 'Playfair Display';
 }
 	.heading h3 {
     margin-bottom: 30px;
@@ -446,7 +450,7 @@ ul.accordion input.toggle:checked + .inner {
 	<div class="container">
 			<div class="row">
 			<div style="margin-bottom: 60px" class="video_acc col-12">
-				<div style="height: 460px; background-color:#ddd; border-radius:30px" class="inner">
+				<div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
 				<a class="play_btn" href="#"><img alt="The Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
 				</div>
 			</div>
