@@ -490,21 +490,23 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
 						<li>
 							<label for="accordion_1">
 								<input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
-							<p class="inner">
-1.  Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).<br>
-2.  Fill in the online LPA forms at <a href="#">MyLegacy</a>.  <br>
-3.  Find an <a href="#">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.<br>
+								<div class="inner">
+							<p>
+1.  Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).<br><br>
+2.  Fill in the online LPA forms at <a href="#">MyLegacy</a>.  <br><br>
+3.  Find an <a href="#">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.<br><br>
 ●   Your Donee(s) and Replacement Donee (if any) can log in to <a href="#">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.<br>
 ●   Visit the certificate issuer of your choice to certify your LPA. <br>
 ●   You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. <br>
 ●   In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.
-</p>
+									</p></div>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_2">
 								<input class="toggle" id="accordion_2" name="accordion" type="radio">Making an Advance Care Plan (ACP)
-							<p class="inner">
+								<div class="inner">
+							<p>
 1.  Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.<br>
 2.  Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.<br>
 3.  Prepare your <a href="#">ACP online</a>. <br>
@@ -512,13 +514,14 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
 ●   After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. <br>
 ●   Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.<br>
 ●   You may also wish to upload a soft copy of your completed ACP form in the <a href="#">My Legacy Vault</a> for your own records and to share them with your Trusted Persons.</p>
+								</div>
 								</label>
 						</li>
 					</ul>
 			</div>
 		</div>
 			<div class="row">
-			<div style="margin-bottom: 60px; margin-top:60px" class="video_acc col-12">
+			<div style="margin-bottom: 60px; margin-top:30px" class="video_acc col-12">
 				<div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
 				<a class="play_btn" href="#"><img alt="The Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
 				</div>
