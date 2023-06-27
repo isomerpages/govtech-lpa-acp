@@ -308,13 +308,13 @@ section.bp-section .bp-container {
     content: "";
     position: absolute;
     left: 30px;
-    bottom: -4px;
+    bottom: -7px;
     width: 200px;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/ymZBFhy.png);
-    z-index: 99999999;
+    z-index: -1;
     height: 200px;
 }
 	.about_a_b img {
