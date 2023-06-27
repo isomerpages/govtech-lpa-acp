@@ -8,11 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/psd_banner.png
-      url: "#"
       key_highlights:
         - title: I want to learn more
           description: Learn more about ACP & LPA
-          url: "#"
+          url: /home/
         - title: I am ready to start planning
           description: Lorem ipsum
           url: "#"
