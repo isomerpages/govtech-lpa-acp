@@ -507,10 +507,10 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
 								<input class="toggle" id="accordion_2" name="accordion" type="radio">Making an Advance Care Plan (ACP)
 								<div class="inner">
 							<p>
-1.  Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.<br>
-2.  Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.<br>
-3.  Prepare your <a href="#">ACP online</a>. <br>
-4.  Find a <a href="#">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br>
+1.  Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.<br><br>
+2.  Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.<br><br>
+3.  Prepare your <a href="#">ACP online</a>. <br><br>
+4.  Find a <a href="#">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br><br>
 ●   After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. <br>
 ●   Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.<br>
 ●   You may also wish to upload a soft copy of your completed ACP form in the <a href="#">My Legacy Vault</a> for your own records and to share them with your Trusted Persons.</p>
@@ -550,17 +550,17 @@ Without an LPA, your family members or loved ones would need to apply to the Cou
 								<input class="toggle" id="accordion_4" name="accordion" type="radio">Who can I appoint as my LPA Donee(s)?
 								<div class="inner">
 							<p>
-1. Your Donee must be 21 years of age or older. They could be:<br>
+1. Your Donee must be 21 years of age or older. They could be:<br><br>
 ▪   Your spouse or partner<br>
 ▪   A family member or relative<br>
 ▪   A friend<br>
 ▪   A licensed trust company for property and affairs matters only (applicable for LPA Form 2)<br>
 ▪   A Professional Donee who is registered as a Professional Deputy with the Office of the Public Guardian.<br>
-2. It’s important that your Donee is someone you trust and they are not bankrupt if you wish to grant them powers to manage your property and affairs.<br>
-3. If you’re appointing more than one person to be your Donee(s), you must decide whether they will make decisions:<br>
+2. It’s important that your Donee is someone you trust and they are not bankrupt if you wish to grant them powers to manage your property and affairs.<br><br>
+3. If you’re appointing more than one person to be your Donee(s), you must decide whether they will make decisions:<br><br>
 ▪   Jointly – the Donee(s) have to act together and agree on all decisions.<br>
 ▪   Jointly and severally – the Donee(s) can make the decisions together or separately.<br>
-4. You can also choose to let your Donee(s) make some decisions ‘jointly’, and others ‘jointly and severally’.<br>
+4. You can also choose to let your Donee(s) make some decisions ‘jointly’, and others ‘jointly and severally’.<br><br>
 5. When you make your LPA, you can nominate another trusted person as your Replacement Donee. The Replacement Donee will replace your appointed Donee(s) when they are unable to act on your behalf anymore.<br>
 							</p>
 								</div>
@@ -571,12 +571,12 @@ Without an LPA, your family members or loved ones would need to apply to the Cou
 								<input class="toggle" id="accordion_5" name="accordion" type="radio">Who can I choose as my ACP’s nominated healthcare spokesperson(s)?
 							<div class="inner">
 								<p>
-o   Your nominated healthcare spokesperson should be 21 years of age or older. They could be:<br>
+o   Your nominated healthcare spokesperson should be 21 years of age or older. They could be:<br><br>
 ▪   Your spouse or partner<br>
 ▪   A family member or relative<br>
 ▪   A friend<br>
-o   It’s important that your nominated healthcare spokesperson has the mental capacity and maturity to represent and articulate your care preferences.<br>
-o   If you’re appointing more than one person to be your healthcare spokespersons, they should all:<br>
+o   It’s important that your nominated healthcare spokesperson has the mental capacity and maturity to represent and articulate your care preferences.<br><br>
+o   If you’re appointing more than one person to be your healthcare spokespersons, they should all:<br><br>
 ▪   Know your care wishes very well<br>
 ▪   Agree on what your care preferences are<br>
 							</p>
