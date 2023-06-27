@@ -389,7 +389,7 @@ section.action::after {
     line-height: 52px;
     font-size: 42px;
     font-family: 'Playfair Display';
-    color: #000;
+    color: #01436b;
     margin-bottom: 30px;
 }
 a.p-button.btn {
