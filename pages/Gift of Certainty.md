@@ -106,6 +106,12 @@ description: ""
     font-size: 24px;
     color: #000;
 }
+	.action__5 p a.read-more {
+    color: #375780;
+}
+	.content a {
+    color: #375780;
+}
     a.p-button.btn {
     border-color: #01436b;
     background-color: transparent;
