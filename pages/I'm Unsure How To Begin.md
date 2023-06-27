@@ -280,6 +280,9 @@ section.bp-section .bp-container {
     display: flex;
     align-items: center;
 }	
+	.about_bb p, .about_bb li, .about_bb p, .about_bb .inner {
+    color: #1A3554;
+}
 	.video_acc .inner {
     position: relative;
 }
