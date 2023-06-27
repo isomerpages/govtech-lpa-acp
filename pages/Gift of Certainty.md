@@ -734,6 +734,14 @@ a.p-button.btn:hover {
                 <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can<br><a class="read-more" href="#">start conversations with your family.</a></p>
             </div>
         </div>
+			<div class="row p-t-80 action__5">
+			<div class="col-12">
+				<div class="inner">
+				<h2>My Legacy Vault</h2>
+				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<br> cupidatat non proident, sunt in culpa qui <a class="read-more" href="#">Find out more</a></p>
+				</div>
+			</div>
+		</div>
     </div>
   </section>
 <section style="padding-top: 90px; padding-bottom: 90px" class="action_3">
