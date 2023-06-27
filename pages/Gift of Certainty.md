@@ -262,6 +262,9 @@ a.play_btn {
     top: 0;
     left: 0;
 }
+	strong i {
+    font-family: Playfair Display;
+}
 .feature_video p {
     font-size: 22px;
     line-height: 36px;
