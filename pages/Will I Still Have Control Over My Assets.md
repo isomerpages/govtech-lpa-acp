@@ -463,9 +463,9 @@ ul.accordion input.toggle:checked + .inner {
 								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">I don’t want to sign away my control over decisions
 								<div class="inner">
 							<p>
-								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.<br>
+								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.<br><br>
 								o	<b>LPA</b><br>
-								Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity.<br>
+								Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity.<br><br>
 								o	<b>ACP</b><br>
 								When you make an ACP, you are communicating your personal values and healthcare preferences to your loved ones and medical team. By appointing a nominated healthcare spokesperson, you are regaining control of your future healthcare and personal care needs by putting it into writing. This ensures that your recorded wishes are respected and your interests are protected by all parties involved.
 							</p>
@@ -477,7 +477,7 @@ ul.accordion input.toggle:checked + .inner {
 								<input class="toggle" id="accordion_2" name="accordion" type="radio">I’m worried that my assets will be misused
 									<div class="inner">
 							<p>
-								o	<b>LPA</b>
+								o	<b>LPA</b><br>
 								▪	The misappropriation of assets is a valid concern. That’s why it’s important to choose a Donee you trust. With the option to appoint more than one Donee and specifications on how they should make decisions – the risk of misuse is greatly reduced. Additionally, Donees are legally obligated to act in your best interests and can be prosecuted for any misuse of your assets.<br>
 								▪	Any individual can report a Donee to the Office of the Public Guardian if there is suspected abuse. An application can be made to the Court to remove the Donee’s appointment in the LPA if the Donee:<br>
 									▪	Is found to have abused his or her powers granted in the LPA<br>
@@ -493,7 +493,7 @@ ul.accordion input.toggle:checked + .inner {
 								<input class="toggle" id="accordion_3" name="accordion" type="radio">I’m concerned that my loved ones will fight over my assets
 									<div class="inner">
 							<p>
-								o	Making an LPA and ACP can actually help reduce the likelihood of family disputes. By clearly specifying your wishes for your future healthcare and personal care needs, you can help prevent disagreements among family members.<br>
+								o	Making an LPA and ACP can actually help reduce the likelihood of family disputes. By clearly specifying your wishes for your future healthcare and personal care needs, you can help prevent disagreements among family members.<br><br>
 								o	Additionally, appointing a Donee to make decisions on your behalf can help reduce the stress and tension that can arise when family members disagree on important decisions.
 							</p>
 								</div>
@@ -508,7 +508,7 @@ ul.accordion input.toggle:checked + .inner {
 									▪	The Public Guardian, which is supported by the Office of the Public Guardian, has supervisory and investigative powers, including looking into alleged abuses or misuse of powers. Where the Public Guardian finds that the Donee has not behaved in the best interests of the person lacking in capacity, the Public Guardian may apply to Court to revoke the power of that Donee.<br>
 									▪	The Act prohibits certain decisions (e.g. excluded decisions) from being made on behalf of persons who lack capacity.<br>
 									▪	To encourage reporting of suspected abuse, caregivers are provided with whistle-blowing protection.<br>
-									▪	The Act also makes the ill-treatment of persons who lack capacity a criminal offence.<br>
+									▪	The Act also makes the ill-treatment of persons who lack capacity a criminal offence.<br><br>
 								o	To supplement the aforementioned Mental Capacity Act, Donors can also include specific instructions and limitations in their LPA to guide their Donee’s decision-making, and the Donee must seek the Court’s approval before making any decisions that are not covered by the LPA.
 						</p>
 								</div>
@@ -519,13 +519,13 @@ ul.accordion input.toggle:checked + .inner {
 								<input class="toggle" id="accordion_5" name="accordion" type="radio">What if I change my mind?
 									<div class="inner">
 							<p>
-								o	Your LPA and ACP are not set in stone. You have the liberty to update or change your LPA and ACP at any given time, provided you have the mental capacity to do so.<br>
+								o	Your LPA and ACP are not set in stone. You have the liberty to update or change your LPA and ACP at any given time, provided you have the mental capacity to do so.<br><br>
 								o	<b>LPA</b><br>
 								▪	To change the terms of an existing LPA, the Donor must revoke their registered LPA and make a new one.<br>
 								▪	The Donor can then choose to appoint the same Donee or a different one in the new LPA.<br>
 								▪	The Donor can also make changes to the scope of authority or instructions provided to the Donee.<br>
 								▪	The Donor can revoke their LPA by submitting a revocation form to the Office of the Public Guardian.<br>
-								▪	It costs $30 to revoke a registered LPA.<br>
+								▪	It costs $30 to revoke a registered LPA.<br><br>
 								o	<b>ACP</b><br>
 								▪	You should review your ACP:<br>
 									▪	When your preferences change
