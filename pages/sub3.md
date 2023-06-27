@@ -292,6 +292,9 @@ section.bp-section .bp-container {
     transition: all ease-in-out .3s;
 		-webkit-transition: all ease-in-out .3s;
 }
+	.about_a_b p {
+    color: #1A3554;
+}
 		.p-lr-50{
 	padding: 0 50px;
 	}
@@ -310,6 +313,9 @@ section.bp-section .bp-container {
     background-image: url(https://i.imgur.com/ymZBFhy.png);
     z-index: 99999999;
     height: 200px;
+}
+	.about_a_b img {
+    width: 400px;
 }
 	section.action__4 .container::after {
     content: "";
