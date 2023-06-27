@@ -89,8 +89,8 @@ description: ""
     font-weight: normal;
     font-style: normal;
 }
-	body{
-	font-family: 'proxima_nova_bold';
+	body, p, li{
+	font-family: 'proxima_nova_bold!important';
 	}
 .container{
 	width: 1170px;
