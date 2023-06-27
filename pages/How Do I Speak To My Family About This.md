@@ -4,6 +4,94 @@ permalink: /how-do-i-speak-to-my-family-about-this/
 description: ""
 ---
 <style>
+		/\* cyrillic \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTjYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/\* vietnamese \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTPYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/\* latin-ext \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTLYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/\* latin \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTzYgEM86xQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/\* cyrillic \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTjYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/\* vietnamese \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTPYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/\* latin-ext \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTLYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/\* latin \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTzYgEM86xQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'proxima_nova_bold';
+    src: url('http://chodri.com/legacy/src/fonts/Proxima-Nova-Alt-Bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('http://chodri.com/legacy/src/fonts/Myriad-Web-Pro-Regular.ttf');
+    src: url('http://chodri.com/legacy/src/fonts/Myriad-Web-Pro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body, p, li{
+	font-family: 'proxima_nova_bold!important';
+	}
 .container{
 	width: 1170px;
 margin: 0 auto;
@@ -143,12 +231,13 @@ section.bp-section .bp-container {
 }
 .accordion ul li label {
     position: relative;
-    color: #fff;
+    color: #1A3554;
     display: inline-block;
     width: 100%;
     line-height: 49px;
     text-indent: 20px;
-	    cursor: pointer;
+    cursor: pointer;
+    font-weight: bold;
 }
 	.accordion ul li label::before {
     width: 100%;
@@ -205,13 +294,12 @@ section.bp-section .bp-container {
 	ul.accordion input.toggle:checked + .inner::after {
     content: "-";
 }
-	ul.accordion input.toggle:checked + p {
+ul.accordion input.toggle:checked + .inner {
     height: auto;
     padding: 30px;
 }
 	.accordion ul .inner {
     overflow: hidden;
-    color: #000;
     margin-top: 0;
     background-color: #EBE7E5;
     margin-top: 6px;
@@ -219,8 +307,23 @@ section.bp-section .bp-container {
     padding: 0 30px;
     transition: all ease-in-out .3s;
 		-webkit-transition: all ease-in-out .3s;
+	 text-indent: 0;
 }
-	.p-lr-50{
+	.accordion ul .inner p {
+	 font-weight: 500;
+    font-size: 15px;
+	  color: #1A3554;
+	margin-top: 0;
+	line-height: 30px;
+	}
+	.accordion ul .inner h4 {
+	 font-weight: bold;
+    font-size: 22px;
+	  color: #1A3554;
+	  margin-top: 0;
+	  margin-bottom: 0;
+	}
+	p-lr-50{
 	padding: 0 50px;
 	}
 		section.action__4 {
@@ -350,31 +453,37 @@ section.bp-section .bp-container {
 				<ul class="accordion">
 						<li>
 							<label for="accordion_1">
-								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">I have yet to discuss with my family about LPA and ACP 
-							<p class="inner">
-								o	Initiating a conversation with your parents about making an LPA and ACP can be daunting, particularly if your intentions aren't clear from the start. To begin, emphasise the significance of this process and the benefits it can have on the family. The initial conversation doesn't have to revolve immediately around their assets or care preferences. Instead, broach the topic empathetically, allowing your family to share their thoughts and concerns. An open and understanding atmosphere lays the groundwork for a productive conversation about the process.<br>
+								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">I have yet to discuss with my family about LPA and ACP
+								<div class="inner">
+							<p>
+								o	Initiating a conversation with your parents about making an LPA and ACP can be daunting, particularly if your intentions aren't clear from the start. To begin, emphasise the significance of this process and the benefits it can have on the family. The initial conversation doesn't have to revolve immediately around their assets or care preferences. Instead, broach the topic empathetically, allowing your family to share their thoughts and concerns. An open and understanding atmosphere lays the groundwork for a productive conversation about the process.<br><br>
 								o	Over a series of open conversations, you’ll find that it may become easier to discuss more difficult topics such as their estate planning and how they’d like to be cared for if they lose mental capacity. If you belong to a large family, it’s also important to include your siblings in the discussions to ensure that it becomes an effective conversation and everyone is aligned.
 							</p>
+								</div>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_2">
 								<input class="toggle" id="accordion_2" name="accordion" type="radio">I have yet to discuss with my family about my LPA and ACP
-							<p class="inner">
-								o	It’s not easy to discuss pre-planning matters with your family, especially since talking about losing mental capacity can be an uncomfortable conversation to have. It’s crucial to begin the discussion by explaining your intentions and the benefits of planning for it early.<br>
-								o	Your conversations with your family have to be honest and open about your values and preferences for medical care. A close relationship with them does not guarantee that they are clear about what you want.<br>
+							<div class="inner">
+								<p>
+								o	It’s not easy to discuss pre-planning matters with your family, especially since talking about losing mental capacity can be an uncomfortable conversation to have. It’s crucial to begin the discussion by explaining your intentions and the benefits of planning for it early.<br><br>
+								o	Your conversations with your family have to be honest and open about your values and preferences for medical care. A close relationship with them does not guarantee that they are clear about what you want.<br><br>
 								o	It is crucial to keep your family informed whenever there are changes in your LPA or ACP so they can stay up to date with what you want as you age.
 							</p>
+								</div>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_3">
 								<input class="toggle" id="accordion_3" name="accordion" type="radio">I am single and I do not have anyone in mind to nominate.
-							<p class="inner">
-							o	It is a common misconception that you can only involve immediate family members in your LPA and ACP. It is encouraged to discuss your healthcare preferences and values with people who know you best, and sometimes these individuals may not be your direct family members.<br>
-							o	Your Donee(s) (LPA) and nominated healthcare spokesperson(s) (ACP) can be your family member or relative. In the event that you do not have a family member to appoint as your Donee, you may appoint others such as a friend, Professional Donee or a licensed trust company for property and affairs matters only (applicable LPA Form 2). What matters most is that these chosen individuals know you well and will prioritise your care preferences and beliefs.<br>
+								<div class="inner">
+							<p>
+							o	It is a common misconception that you can only involve immediate family members in your LPA and ACP. It is encouraged to discuss your healthcare preferences and values with people who know you best, and sometimes these individuals may not be your direct family members.<br><br>
+							o	Your Donee(s) (LPA) and nominated healthcare spokesperson(s) (ACP) can be your family member or relative. In the event that you do not have a family member to appoint as your Donee, you may appoint others such as a friend, Professional Donee or a licensed trust company for property and affairs matters only (applicable LPA Form 2). What matters most is that these chosen individuals know you well and will prioritise your care preferences and beliefs.<br><br>
 							It is crucial that these chosen individuals have the ability to communicate your values and care preferences to the healthcare team and other loved ones. They must also be able to handle the responsibility of enforcing your known care wishes in stressful situations.
 							</p>
+								</div>
 							</label>
 						</li>
 					</ul>
