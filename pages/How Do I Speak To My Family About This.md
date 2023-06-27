@@ -511,7 +511,7 @@ ul.accordion input.toggle:checked + .inner {
 			</div>
 		</div>
 		<div class="row p-lr-50 action__5">
-			<div class="col-12">
+			<div class="col-8">
 				<div class="inner">
 				<h2>My Legacy Vault</h2>
 				<p>My Legacy Vault lets you plan, store, and share your legal, healthcare and estate matters safely with the people you trust. <a href="#">Find out more</a>.</p>
