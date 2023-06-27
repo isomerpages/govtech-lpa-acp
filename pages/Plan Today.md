@@ -444,6 +444,12 @@ a.p-button.btn:hover {
 }
 	}
 @media (max-width: 1024px){
+	section.action::before,section.action_::after{
+	display: none;
+	}
+		.col.is-8.is-offset-2.print-content {
+    padding-right: 0;
+}
     .feature .heading h2,.feature .heading h2 strong {
         font-size: 29px;
         line-height: 39px;
