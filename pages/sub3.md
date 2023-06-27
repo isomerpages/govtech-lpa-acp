@@ -175,6 +175,7 @@ section.bp-section .bp-container {
 }
 	.about_a_b h2 {
     color: #1A3554;
+	font-family: "Playfair Display";
 }
 	.heading h3 {
     margin-bottom: 30px;
