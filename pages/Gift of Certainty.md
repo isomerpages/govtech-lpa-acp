@@ -450,6 +450,9 @@ a.p-button.btn:hover {
 }
     }
 @media (max-width: 1024px){
+	section.action::after{
+	display: none;
+	}
     .feature .heading h2,.feature .heading h2 strong {
         font-size: 29px;
         line-height: 39px;
