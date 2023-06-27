@@ -194,6 +194,9 @@ section.bp-section .bp-container {
     color: #1A3554;
 	  font-family: 'Playfair Display';
 }
+	.action__5 a{
+	color: #1A3554;
+	}
 	.heading h3 {
     margin-bottom: 30px;
     color: #000;
