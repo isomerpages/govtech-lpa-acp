@@ -358,6 +358,9 @@ a.p-button.btn {
     background-repeat: no-repeat;
     background-size: cover;
 }
+	.action_3 {
+    background-color: #c7c6c2;
+}
 ul.social-share.p-inline-list li.list__item a img {
     width: 20px;
 }
