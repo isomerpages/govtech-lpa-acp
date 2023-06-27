@@ -102,10 +102,6 @@ description: ""
     section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
-.action_3 h2, .action_3 h2 i {
-    color: #01436b!important;
-    margin-bottom: 30px;
-}
     a.p-button.btn {
     border-color: #01436b;
     background-color: transparent;
@@ -376,7 +372,7 @@ a.p-button.btn:hover {
     background-color: #C7C6C2;
 }
 @media(max-width: 767px){
-        .banner::after {
+ .banner::after {
     left: 0;
 }
 .container {
