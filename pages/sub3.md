@@ -556,11 +556,11 @@ section.bp-section .bp-container {
 				<h4></h4>
 			</div>
 		</div>
-		<div class="row p-lr-50">
+		<div class="row p-lr-50 action__5">
 			<div class="col-12">
 				<div class="inner">
 				<h2>My Legacy Vault</h2>
-				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<br> cupidatat non proident, sunt in culpa qui</p>
+				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<br> cupidatat non proident, sunt in culpa qui <a class="read-more" href="#">Find out more</a></p>
 				</div>
 			</div>
 		</div>
