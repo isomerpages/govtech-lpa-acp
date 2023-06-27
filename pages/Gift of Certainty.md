@@ -339,7 +339,7 @@ section.action {
     bottom: 30px;
     width: 400px;
     height: 400px;
-    background-image: url(https://i.imgur.com/9XE1n0e.png);
+    background-image: url(https://i.imgur.com/GExZXiY.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
