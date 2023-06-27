@@ -235,6 +235,9 @@ section.bp-section .bp-container {
 	ul.accordion input.toggle:checked + p {
     display: block;
 }
+	.p-lr-50{
+	padding: 0 50px;
+	}
 .accordion ul li label {
     position: relative;
     color: #1A3554;
