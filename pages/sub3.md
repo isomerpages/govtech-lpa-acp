@@ -370,6 +370,9 @@ section.bp-section .bp-container {
 		.heading::after{
 	display:none;
 	}
+		.col.is-8.is-offset-2.print-content {
+    padding-right: 0;
+}
 		section.action__4 .container{
 	display:none;
 	}
