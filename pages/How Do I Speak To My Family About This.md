@@ -287,6 +287,9 @@ section.bp-section .bp-container {
 	.about_a_b p {
     color: #1A3554;
 }
+	.content a{
+		color: #1A3554!important;
+	}
 		.accordion ul .inner::after{
     content: "+";
     width: 25px;
