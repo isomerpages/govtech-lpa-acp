@@ -319,6 +319,32 @@ a.play_btn {
 section.action {
     background-color: #DADADA;
 }
+	section.action::before {
+    content: "";
+    position: absolute;
+    left: 50px;
+    bottom: 30px;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://i.imgur.com/e25qwc2.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 11;
+}
+	section.action::after {
+    content: "";
+    position: absolute;
+    right: 50px;
+    bottom: 30px;
+    width: 400px;
+    height: 400px;
+    background-image: url(https://i.imgur.com/9XE1n0e.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 11;
+}
 	section.action_::after {
     content: "";
     position: absolute;
