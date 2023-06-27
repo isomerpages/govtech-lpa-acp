@@ -317,7 +317,7 @@ section.bp-section .bp-container {
 	margin-top: 0;
 	}
 	.accordion ul .inner h4 {
-	 font-weight: 500;
+	 font-weight: bold;
     font-size: 22px;
 	  color: #1A3554;
 	  margin-top: 0;
