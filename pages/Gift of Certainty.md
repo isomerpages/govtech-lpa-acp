@@ -331,7 +331,7 @@ section.action {
 .action2_b p {
     font-size: 24px;
     line-height: 37px;
-    color: #375780;
+    color: #000;
     margin-top: 30px;
     margin-bottom: 10px;
 }
