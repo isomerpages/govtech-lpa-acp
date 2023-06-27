@@ -450,7 +450,7 @@ a.p-button.btn:hover {
 }
     }
 @media (max-width: 1024px){
-	section.action::before{
+	section.action::before,section.action_::after{
 	display: none;
 	}
     .feature .heading h2,.feature .heading h2 strong {
@@ -520,9 +520,6 @@ a.p-button.btn:hover {
     }
     .action .row.m-t-60 {
         margin-top: 0px;
-    }
-    .action_ {
-        background-position: 0px -22px;
     }
     section.action {
         background-image: none;
