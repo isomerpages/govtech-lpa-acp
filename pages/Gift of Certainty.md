@@ -317,10 +317,7 @@ a.play_btn {
     align-items: center;
 }
 section.action {
-    background-image: url(https://i.imgur.com/Zq9NRUG.jpeg);
-    background-position: left bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #DADADA;
 }
 	section.action_::after {
     content: "";
