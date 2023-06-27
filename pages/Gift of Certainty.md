@@ -450,7 +450,7 @@ a.p-button.btn:hover {
 }
     }
 @media (max-width: 1024px){
-	section.action::after{
+	section.action::before{
 	display: none;
 	}
     .feature .heading h2,.feature .heading h2 strong {
