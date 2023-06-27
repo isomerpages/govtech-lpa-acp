@@ -527,19 +527,23 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
 						<li>
 							<label for="accordion_3">
 								<input checked="" class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
-							<p class="inner">
+								<div class="inner">
+							<p>
 ●   <b>LPA</b><br>
 Without an LPA, your family members or loved ones would need to apply to the Court to become your Deputy in order to make decisions for you. This can be a lengthy, costly, and risky process as the Court may not appoint your ideal person to make decisions on your behalf. More information on deputyship application can be found <a target="_blank" href="https://judiciary.gov.sg/family/deputyship">here</a>. <br><br>
 								●   <b>ACP</b><br>
 ▪   Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="#">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.<br>
 ▪   It can be stressful for your loved ones to predict what kind of treatment you may want. Differing views may arise which can sometimes cause disputes amongst family members.<br>
 ▪   In some cases, healthcare providers may make decisions on your behalf based on their professional judgement and any available information about your medical history.
-							</p></label>
+							</p>
+								</div>
+									</label>
 						</li>
 						<li>
 							<label for="accordion_4">
 								<input class="toggle" id="accordion_4" name="accordion" type="radio">Who can I appoint as my LPA Donee(s)?
-							<p class="inner">
+								<div class="inner">
+							<p>
 1. Your Donee must be 21 years of age or older. They could be:<br>
 ▪   Your spouse or partner<br>
 ▪   A family member or relative<br>
@@ -552,12 +556,15 @@ Without an LPA, your family members or loved ones would need to apply to the Cou
 ▪   Jointly and severally – the Donee(s) can make the decisions together or separately.<br>
 4. You can also choose to let your Donee(s) make some decisions ‘jointly’, and others ‘jointly and severally’.<br>
 5. When you make your LPA, you can nominate another trusted person as your Replacement Donee. The Replacement Donee will replace your appointed Donee(s) when they are unable to act on your behalf anymore.<br>
-							</p></label>
+							</p>
+								</div>
+									</label>
 						</li>
 						<li>
 							<label for="accordion_5">
 								<input class="toggle" id="accordion_5" name="accordion" type="radio">Who can I choose as my ACP’s nominated healthcare spokesperson(s)?
-							<p class="inner">
+							<div class="inner">
+								<p>
 o   Your nominated healthcare spokesperson should be 21 years of age or older. They could be:<br>
 ▪   Your spouse or partner<br>
 ▪   A family member or relative<br>
@@ -566,12 +573,15 @@ o   It’s important that your nominated healthcare spokesperson has the mental 
 o   If you’re appointing more than one person to be your healthcare spokespersons, they should all:<br>
 ▪   Know your care wishes very well<br>
 ▪   Agree on what your care preferences are<br>
-							</p></label>
+							</p>
+								</div>
+								</label>
 						</li>
 						<li>
 							<label for="accordion_6">
 								<input class="toggle" id="accordion_6" name="accordion" type="radio">Is it expensive to make an LPA and ACP?
-							<p class="inner">
+								<div class="inner">
+							<p>
 								<u>Cost of LPA</u><br>
 								<img src="https://i.imgur.com/EbZsS6Z.png"><br>
 								Payment can made on <a href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a>. <br>*Note: Cheque collection has ceased.<br>
@@ -580,15 +590,20 @@ As of Jan 2023, the majority of the top 10 most visited accredited medical pract
 							<u>Cost of ACP</u><br>
 							There is no charge for completing the ACP with trained facilitators from <a href="#">government-appointed providers</a> across Singapore. <br>
 							However, some organisations may charge a nominal fee for doing an ACP. Please kindly check in with the respective organisations on the fees.
-							</p></label>
+							</p>
+								</div>
+									</label>
 						</li>
 					<li>
 							<label for="accordion_7">
 								<input class="toggle" id="accordion_7" name="accordion" type="radio">I am concerned about the legal process
-							<p class="inner">
+								<div class="inner">
+							<p>
 You will only need to engage a lawyer if you wish to make an LPA Form 2.<br>
 The ACP is not a legal document and you do not need a lawyer to help you make one.
-							</p></label>
+							</p>
+								</div>
+									</label>
 						</li>
 					</ul>
 			</div>
