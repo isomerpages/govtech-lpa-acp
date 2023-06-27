@@ -135,7 +135,7 @@ a.p-button.btn {
     line-height: 52px;
     font-size: 42px;
     font-family: 'Playfair Display';
-    color: #01436b;
+    color: #000;
     margin-bottom: 30px;
 }
 section.bp-section .bp-container {
@@ -189,8 +189,10 @@ section.bp-section .bp-container {
 }
 	.about_bb p {
     margin-top: 10px;
-}.about_a_b h2 {
+}
+	.about_a_b h2 {
     color: #1A3554;
+	  font-family: 'Playfair Display';
 }
 	.heading h3 {
     margin-bottom: 30px;
@@ -212,8 +214,12 @@ section.bp-section .bp-container {
 .accordion ul li {
   margin: 0;
 }
+	.about_a_b img {
+    width: 500px;
+}
 .action__4 h2{
 		color: #000;
+	 font-family: 'Playfair Display';
 	}
 	.action__4 p{
 		color: #000;
