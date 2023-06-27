@@ -448,7 +448,7 @@ section.bp-section .bp-container {
       </div>
 			<div style="position: relative;" class="row">
 				<div class="col-12 heading">
-					<h3>Before you begin, it’s important to understand that there are two types of <br>LPA forms:</h3>
+					<h3>Before you begin, it’s important to understand that there are two types <br>of LPA forms:</h3>
 				</div>
 			</div>
 			<div class="row">
@@ -469,7 +469,7 @@ section.bp-section .bp-container {
     <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
 </ul>
 You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
-After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.
+After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.
 <p></p>
 					</div>
 					</div>
