@@ -295,7 +295,7 @@ section.bp-section .bp-container {
 	ul.accordion input.toggle:checked + .inner::after {
     content: "-";
 }
-	ul.accordion input.toggle:checked + p {
+	ul.accordion input.toggle:checked + .inner {
     height: auto;
     padding: 30px;
 }
@@ -463,10 +463,16 @@ section.bp-section .bp-container {
 				<ul class="accordion">
 						<li>
 							<label for="accordion_1">
-								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">Item 1
-							<p class="inner">
-								Let's make a nice big leafy tree. You have to make those little noises or it won't work. Let's put some happy little clouds in our world. We don't really know where this goes - and I'm not sure we really care. When you do it your way you can go anywhere you choose. No worries. No cares. Just float and wait for the wind to blow you around.
+								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">I don’t want to sign away my control over decisions
+							<div class="inner">
+								<p>
+								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
 							</p>
+								<h4>LPA</h4>
+								<p>Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity. </p>
+								<h4>ACP</h4>
+								<p>When you make an ACP, you are communicating your personal values and healthcare preferences to your loved ones and medical team. By appointing a nominated healthcare spokesperson, you are regaining control of your future healthcare and personal care needs by putting it into writing. This ensures that your recorded wishes are respected and your interests are protected by all parties involved.</p>
+								</div>
 							</label>
 						</li>
 						<li>
