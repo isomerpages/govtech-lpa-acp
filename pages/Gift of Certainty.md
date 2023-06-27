@@ -333,15 +333,15 @@ section.action {
     background-repeat: no-repeat;
     z-index: 11;
 }
-	section.action::after {
+section.action::after {
     content: "";
     position: absolute;
-    right: 50px;
-    bottom: 30px;
+    right: 0;
+    bottom: 0;
     width: 400px;
     height: 400px;
     background-image: url(https://i.imgur.com/GExZXiY.png);
-    background-position: center;
+    background-position: bottom right;
     background-size: contain;
     background-repeat: no-repeat;
     z-index: 11;
