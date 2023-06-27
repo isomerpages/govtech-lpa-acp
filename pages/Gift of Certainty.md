@@ -360,9 +360,9 @@ a.p-button.btn {
 }
 .action_ {
     background-image: url(https://i.imgur.com/ursOeJR.png);
-    background-position: 0 -70px;
+    background-position: bottom right;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 	.action_3 {
     background-color: #c7c6c2;
