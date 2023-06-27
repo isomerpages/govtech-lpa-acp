@@ -181,7 +181,9 @@ section.bp-section .bp-container {
     background-color: #EBE7E5;
     border-radius: 25px;
 }
-	
+	.about_a_b p {
+    color: #1A3554;
+}
 	.about_bb h4 {
     color: #1A3554;
     font-weight: bold;
