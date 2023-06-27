@@ -211,6 +211,12 @@ section.feature{
 }
 img.arrow-btn {
     width: 70px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.action_b img {
+    width: 500px;
 }
 .video_ {
     position: relative;
@@ -237,14 +243,14 @@ a.play_btn {
   line-height : 50px;
   color : #01436B;
 }
-.feature_block .inner{
+.feature_block .inner {
     height: 300px;
     width: 100%;
-    background-image: linear-gradient(#4089a1, #638aa1, #4089a1);
+    background-image: linear-gradient(#2793AC, #2793AC, #2793AC);
     border-radius: 30px;
     box-shadow: 0 0px 5px 0 rgba(0,0,0,0.4);
     padding: 30px;
-	position: relative;
+    position: relative;
 }
 .feature_block .inner h3 {
     font-size: 21px;
@@ -253,9 +259,11 @@ a.play_btn {
 }
 .feature_block .inner a {
     position: absolute;
-    right: 10px;
-    bottom: 6px;
+    right: 0;
+    bottom: 0;
     margin-bottom: 0;
+    top: 0;
+    left: 0;
 }
 .feature_video p {
     font-size: 22px;
@@ -300,10 +308,34 @@ a.play_btn {
     align-items: center;
 }
 section.action {
-    background-image: url(https://i.imgur.com/Zq9NRUG.jpeg);
-    background-position: left bottom;
+    background-color: #DADADA;
+    position: relative;
+}
+section.action::before {
+    content: "";
+    position: absolute;
+    left: 50px;
+    bottom: 30px;
+    width: 300px;
+    height: 300px;
+    background-image: url(https://i.imgur.com/e25qwc2.png);
+    background-position: center;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-size: cover;
+    z-index: 11;
+}
+section.action::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 400px;
+    height: 400px;
+    background-image: url(https://i.imgur.com/GExZXiY.png);
+    background-position: bottom right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 11;
 }
 	.m-t-30 {
     margin-top: 30px!important;
@@ -344,11 +376,28 @@ section.action {
 a.p-button.btn {
     padding: 10px 30px;
 }
-.action_{
-    background-image: url(https://i.imgur.com/rLx0bVz.png);
-    background-position: 0 -70px;
+.action_3 {
+    background-color: #c7c6c2;
+}
+section.action_::after {
+    content: "";
+    position: absolute;
+    right: 100px;
+    bottom: 30px;
+    background-image: url(https://i.imgur.com/BwEg9oQ.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-position: center;
+    background-size: contain;
+    width: 300px;
+    z-index: 111;
+    height: 300px;
+}
+.action_ {
+    background-image: url(https://i.imgur.com/ursOeJR.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
 }
 ul.social-share.p-inline-list li.list__item a img {
     width: 20px;
