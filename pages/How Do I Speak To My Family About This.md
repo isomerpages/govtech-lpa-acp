@@ -507,7 +507,7 @@ ul.accordion input.toggle:checked + .inner {
 				<h4></h4>
 			</div>
 		</div>
-		<div class="row p-lr-50">
+		<div class="row p-lr-50 action__5">
 			<div class="col-12">
 				<div class="inner">
 				<h2>My Legacy Vault</h2>
