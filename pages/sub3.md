@@ -198,6 +198,7 @@ section.bp-section .bp-container {
 }
 .action__4 h2{
 		color: #000;
+		font-family: Playfair Display;
 	}
 	.action__4 p{
 		color: #000;
@@ -397,7 +398,7 @@ section.bp-section .bp-container {
       <div class="row p-t-80 p-b-80">
         <div class="col-6 about_a_b">
 					<div class="inner">
-					<h2>Sed ut perspiciatis<br> unde omnis</h2>
+					<h2>Will I still have<br> control over my<br> assets?</h2>
 					<p>sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 					</div>
         </div>
