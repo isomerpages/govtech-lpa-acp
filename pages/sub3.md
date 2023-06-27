@@ -301,7 +301,6 @@ section.bp-section .bp-container {
 }
 	.accordion ul .inner {
     overflow: hidden;
-    color: #000;
     margin-top: 0;
     background-color: #EBE7E5;
     margin-top: 6px;
@@ -309,9 +308,21 @@ section.bp-section .bp-container {
     padding: 0 30px;
     transition: all ease-in-out .3s;
 		-webkit-transition: all ease-in-out .3s;
-	  font-weight: 500;
-    font-size: 16px;
+	 text-indent: 0;
 }
+	.accordion ul .inner p {
+	 font-weight: 500;
+    font-size: 15px;
+	  color: #000;
+	margin-top: 0;
+	}
+	.accordion ul .inner h4 {
+	 font-weight: 500;
+    font-size: 22px;
+	  color: #1A3554;
+	  margin-top: 0;
+	  margin-bottom: 0;
+	}
 	.about_a_b p {
     color: #1A3554;
 }
@@ -465,8 +476,7 @@ section.bp-section .bp-container {
 							<label for="accordion_1">
 								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">I don’t want to sign away my control over decisions
 							<div class="inner">
-								<p>
-								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
+								<p>It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
 							</p>
 								<h4>LPA</h4>
 								<p>Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity. </p>
