@@ -216,12 +216,13 @@ section.bp-section .bp-container {
 }
 .accordion ul li label {
     position: relative;
-    color: #fff;
+    color: #1A3554;
     display: inline-block;
     width: 100%;
     line-height: 49px;
     text-indent: 20px;
-	    cursor: pointer;
+    cursor: pointer;
+    font-weight: bold;
 }
 	.accordion ul li label::before {
     width: 100%;
@@ -291,6 +292,8 @@ section.bp-section .bp-container {
     padding: 0 30px;
     transition: all ease-in-out .3s;
 		-webkit-transition: all ease-in-out .3s;
+	  font-weight: 500;
+    font-size: 16px;
 }
 	.about_a_b p {
     color: #1A3554;
