@@ -102,6 +102,10 @@ description: ""
     section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
+	.action__5 p {
+    font-size: 24px;
+    color: #000;
+}
     a.p-button.btn {
     border-color: #01436b;
     background-color: transparent;
