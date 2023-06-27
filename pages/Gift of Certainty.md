@@ -723,8 +723,8 @@ a.p-button.btn:hover {
     </div>    
   </section>
     
-<section class="action_">
-    <div style="padding-top:110px; padding-bottom: 90px" class="container action_2">
+<section style="padding-top:110px; padding-bottom: 90px" class="action_">
+    <div class="container action_2">
         <div class="row">
             <div class="col-8 action2_b">
                 <h2>We understand that legacy and <br>end-of-life planning is hard to<br> talk about. <strong><i>You are not alone</i></strong>.</h2>
@@ -732,7 +732,9 @@ a.p-button.btn:hover {
             </div>
         </div>
     </div>
-    <div style="padding-top: 90px; padding-bottom: 90px" class="container-fluid action_3">
+  </section>
+	<section style="padding-top: 90px; padding-bottom: 90px" class="action_3">
+<div class="container">
         <div class="row">
             <div class="col-12 action3_b u-align--center">
                 <h2>I'm ready to start <br><strong><i>on my LPA &amp; ACP</i></strong> Today!</h2>
@@ -740,4 +742,4 @@ a.p-button.btn:hover {
             </div>
         </div>
     </div>
-  </section>
+</section>
