@@ -346,7 +346,7 @@ section.action {
     line-height: 52px;
     font-size: 42px;
     font-family: 'Playfair Display';
-    color: #01436b;
+    color: #000;
     margin-bottom: 30px;
 }
 a.p-button.btn {
