@@ -341,13 +341,13 @@ ul.accordion input.toggle:checked + .inner {
     content: "";
     position: absolute;
     left: 30px;
-    bottom: -4px;
+    bottom: -7px;
     width: 200px;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/ymZBFhy.png);
-    z-index: 99999999;
+    z-index: -1;
     height: 200px;
 }
 	section.action__4 .container::after {
