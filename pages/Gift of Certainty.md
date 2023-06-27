@@ -352,8 +352,8 @@ section.action {
 a.p-button.btn {
     padding: 10px 30px;
 }
-.action_{
-    background-image: url(https://i.imgur.com/rLx0bVz.png);
+.action_ {
+    background-image: url(https://i.imgur.com/ursOeJR.png);
     background-position: 0 -70px;
     background-repeat: no-repeat;
     background-size: cover;
