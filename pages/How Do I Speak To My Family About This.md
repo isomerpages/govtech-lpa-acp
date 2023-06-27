@@ -284,6 +284,9 @@ section.bp-section .bp-container {
 	.video_acc .inner {
     position: relative;
 }
+	.about_a_b p {
+    color: #1A3554;
+}
 		.accordion ul .inner::after{
     content: "+";
     width: 25px;
