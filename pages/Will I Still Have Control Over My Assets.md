@@ -4,6 +4,91 @@ permalink: /will-i-still-have-control-over-my-assets/
 description: ""
 ---
 <style>
+		/\* cyrillic \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTjYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/\* vietnamese \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTPYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/\* latin-ext \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTLYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/\* latin \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTzYgEM86xQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/\* cyrillic \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTjYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/\* vietnamese \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTPYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/\* latin-ext \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTLYgEM86xRbPQ.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/\* latin \*/
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/playfairdisplay/v30/nuFiD-vYSZviVYUb\_rj3ij\_\_anPXDTzYgEM86xQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'proxima_nova_bold';
+    src: url('http://chodri.com/legacy/src/fonts/Proxima-Nova-Alt-Bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('http://chodri.com/legacy/src/fonts/Myriad-Web-Pro-Regular.ttf');
+    src: url('http://chodri.com/legacy/src/fonts/Myriad-Web-Pro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 .container{
 	width: 1170px;
 margin: 0 auto;
@@ -126,6 +211,7 @@ section.bp-section .bp-container {
 }
 .action__4 h2{
 		color: #000;
+	 font-family: 'Playfair Display';
 	}
 	.action__4 p{
 		color: #000;
@@ -143,12 +229,13 @@ section.bp-section .bp-container {
 }
 .accordion ul li label {
     position: relative;
-    color: #fff;
+    color: #1A3554;
     display: inline-block;
     width: 100%;
     line-height: 49px;
     text-indent: 20px;
-	    cursor: pointer;
+    cursor: pointer;
+    font-weight: bold;
 }
 	.accordion ul li label::before {
     width: 100%;
@@ -186,6 +273,12 @@ section.bp-section .bp-container {
 	.video_acc .inner {
     position: relative;
 }
+	.about_a_b p {
+    color: #1A3554;
+}
+	.content a{
+		color: #1A3554!important;
+	}
 		.accordion ul .inner::after{
     content: "+";
     width: 25px;
@@ -197,7 +290,7 @@ section.bp-section .bp-container {
     position: absolute;
     right: 20px;
     top: 14px;
-    color: #A1CFDA;
+    color: #1A3554;
     text-indent: 0;
     line-height: 25px;
 		z-index: 11;
@@ -205,13 +298,12 @@ section.bp-section .bp-container {
 	ul.accordion input.toggle:checked + .inner::after {
     content: "-";
 }
-	ul.accordion input.toggle:checked + p {
+ul.accordion input.toggle:checked + .inner {
     height: auto;
     padding: 30px;
 }
 	.accordion ul .inner {
     overflow: hidden;
-    color: #000;
     margin-top: 0;
     background-color: #EBE7E5;
     margin-top: 6px;
@@ -219,7 +311,22 @@ section.bp-section .bp-container {
     padding: 0 30px;
     transition: all ease-in-out .3s;
 		-webkit-transition: all ease-in-out .3s;
+	 text-indent: 0;
 }
+	.accordion ul .inner p {
+	 font-weight: 500;
+    font-size: 15px;
+	  color: #1A3554;
+	margin-top: 0;
+	line-height: 30px;
+	}
+	.accordion ul .inner h4 {
+	 font-weight: bold;
+    font-size: 22px;
+	  color: #1A3554;
+	  margin-top: 0;
+	  margin-bottom: 0;
+	}
 	.p-lr-50{
 	padding: 0 50px;
 	}
@@ -350,19 +457,22 @@ section.bp-section .bp-container {
 						<li>
 							<label for="accordion_1">
 								<input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">I don’t want to sign away my control over decisions
-							<p class="inner">
+								<div class="inner">
+							<p>
 								It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.<br>
 								o	<b>LPA</b><br>
 								Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity.<br>
 								o	<b>ACP</b><br>
 								When you make an ACP, you are communicating your personal values and healthcare preferences to your loved ones and medical team. By appointing a nominated healthcare spokesperson, you are regaining control of your future healthcare and personal care needs by putting it into writing. This ensures that your recorded wishes are respected and your interests are protected by all parties involved.
 							</p>
+								</div>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_2">
 								<input class="toggle" id="accordion_2" name="accordion" type="radio">I’m worried that my assets will be misused
-							<p class="inner">
+									<div class="inner">
+							<p>
 								o	<b>LPA</b>
 								▪	The misappropriation of assets is a valid concern. That’s why it’s important to choose a Donee you trust. With the option to appoint more than one Donee and specifications on how they should make decisions – the risk of misuse is greatly reduced. Additionally, Donees are legally obligated to act in your best interests and can be prosecuted for any misuse of your assets.<br>
 								▪	Any individual can report a Donee to the Office of the Public Guardian if there is suspected abuse. An application can be made to the Court to remove the Donee’s appointment in the LPA if the Donee:<br>
@@ -371,33 +481,40 @@ section.bp-section .bp-container {
 									▪	Does not act in the Donor’s best interests<br>
 									▪	If a Donee abuses his or her power, he or she may face severe penalties (e.g. fine or imprisonment, under section 42 of the Mental Capacity Act).
 							</p>
+								</div>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_3">
 								<input class="toggle" id="accordion_3" name="accordion" type="radio">I’m concerned that my loved ones will fight over my assets
-							<p class="inner">
+									<div class="inner">
+							<p>
 								o	Making an LPA and ACP can actually help reduce the likelihood of family disputes. By clearly specifying your wishes for your future healthcare and personal care needs, you can help prevent disagreements among family members.<br>
 								o	Additionally, appointing a Donee to make decisions on your behalf can help reduce the stress and tension that can arise when family members disagree on important decisions.
 							</p>
+								</div>
 							</label>
 						</li>
 						<li>
 							<label for="accordion_4">
 								<input class="toggle" id="accordion_4" name="accordion" type="radio">What if my Donee(s) inflict harm on me to gain control over my assets?
-							<p class="inner">
+									<div class="inner">
+							<p>
 								o	There are safeguards provided in the Mental Capacity Act to protect people who lack mental capacity:<br>
 									▪	The Public Guardian, which is supported by the Office of the Public Guardian, has supervisory and investigative powers, including looking into alleged abuses or misuse of powers. Where the Public Guardian finds that the Donee has not behaved in the best interests of the person lacking in capacity, the Public Guardian may apply to Court to revoke the power of that Donee.<br>
 									▪	The Act prohibits certain decisions (e.g. excluded decisions) from being made on behalf of persons who lack capacity.<br>
 									▪	To encourage reporting of suspected abuse, caregivers are provided with whistle-blowing protection.<br>
 									▪	The Act also makes the ill-treatment of persons who lack capacity a criminal offence.<br>
 								o	To supplement the aforementioned Mental Capacity Act, Donors can also include specific instructions and limitations in their LPA to guide their Donee’s decision-making, and the Donee must seek the Court’s approval before making any decisions that are not covered by the LPA.
-							
-						</p></label></li>
+						</p>
+								</div>
+										</label>
+								</li>
 					<li>
 							<label for="accordion_5">
 								<input class="toggle" id="accordion_5" name="accordion" type="radio">What if I change my mind?
-							<p class="inner">
+									<div class="inner">
+							<p>
 								o	Your LPA and ACP are not set in stone. You have the liberty to update or change your LPA and ACP at any given time, provided you have the mental capacity to do so.<br>
 								o	<b>LPA</b><br>
 								▪	To change the terms of an existing LPA, the Donor must revoke their registered LPA and make a new one.<br>
@@ -414,6 +531,7 @@ section.bp-section .bp-container {
 								▪	You are encouraged to keep your loved ones and healthcare team updated through ongoing conversations when you review your ACP.<br>
 								▪	Contact your ACP facilitator for help updating your ACP.
 							</p>
+								</div>
 							</label>
 						</li>
 					</ul>
