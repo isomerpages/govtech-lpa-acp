@@ -120,6 +120,9 @@ width: 100%;
 section.bp-section.is-small.bp-section-pagetitle {
 display: none;
 }
+	.about_a_b img {
+    width: 460px;
+}
 a.p-button.btn {
     border-color: #01436b;
     background-color: transparent;
