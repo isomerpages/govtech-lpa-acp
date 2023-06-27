@@ -313,7 +313,7 @@ section.bp-section .bp-container {
 	.accordion ul .inner p {
 	 font-weight: 500;
     font-size: 15px;
-	  color: #000;
+	  color: #1A3554;
 	margin-top: 0;
 	}
 	.accordion ul .inner h4 {
