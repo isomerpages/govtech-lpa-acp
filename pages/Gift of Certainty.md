@@ -525,6 +525,9 @@ a.p-button.btn:hover {
         background-image: none;
         background-color: #e6e6e6;
     }
+	.col.is-8.is-offset-2.print-content {
+    padding-right: 0;
+}
     .p-navigation__banner {
         padding-left: 0;
     }
