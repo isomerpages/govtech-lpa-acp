@@ -211,6 +211,9 @@ section.feature{
 }
 img.arrow-btn {
     width: 70px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
 }
 .video_ {
     position: relative;
@@ -253,9 +256,11 @@ a.play_btn {
 }
 .feature_block .inner a {
     position: absolute;
-    right: 10px;
-    bottom: 6px;
+    right: 0;
+    bottom: 0;
     margin-bottom: 0;
+    top: 0;
+    left: 0;
 }
 .feature_video p {
     font-size: 22px;
