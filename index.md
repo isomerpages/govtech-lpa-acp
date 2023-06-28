@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/psd_banner.png
+      background: /images/psd-banner.png
       key_highlights:
         - title: Upcoming Events
           description: Learn more about LPA and ACP at our free talks
