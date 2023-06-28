@@ -131,7 +131,7 @@ th{
 tr.bg {
   background-color: #83A1D3;
 }
-	.signup p {
+	.signup p,.signup p strong {
 	color: #000;
 	}
 .events ul li {
