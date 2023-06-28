@@ -154,13 +154,13 @@ tr.bg {
     position: absolute;
     right: 50px;
     bottom: -7px;
-    width: 200px;
+    width: 300px;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/ymZBFhy.png);
     z-index: -1;
-    height: 200px;
+    height: 300px;
 }
 	.play_today p {
     margin-top: 10px;
