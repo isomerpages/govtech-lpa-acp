@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Leave a legacy of love and certainty for the people who matter most
+  to you. Here are some ways to get started.
 permalink: none
 baseurl: ""
 exclude:
@@ -53,7 +54,7 @@ staging: https://staging.d2zatkbek6p6qa.amplifyapp.com
 prod: https://master.d2zatkbek6p6qa.amplifyapp.com
 resources_name: lorem-ipsum
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: ""
 is_government: true
 google_analytics: ""
 google_analytics_ga4: G-D85MR6KN9C
