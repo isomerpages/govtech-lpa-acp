@@ -109,6 +109,9 @@ padding-bottom: 0!important;
 .m-b-80{
 margin-bottom: 80px;
 }
+	.content a {
+    color: #01436b;
+}
 container-fluid{
 width: 100%;
 }
