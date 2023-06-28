@@ -129,6 +129,29 @@ td, th {
 tr.bg {
   background-color: #dddddd;
 }
+.events ul li {
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
+	.play_today h3 {
+    font-size: 30px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+	.play_today p {
+    margin-top: 10px;
+    color: #000;
+}
+	.play_today {
+    padding: 30px;
+    background-color: #F6E3CE;
+}
+.content ul > li:last-child {
+    margin-bottom: 0;
+}	
 container-fluid{
 width: 100%;
 }
@@ -307,7 +330,6 @@ section.bp-section .bp-container {
 Available for: Singapore citizens aged 50 years old and above, with blue and orange CHAS cards.<br>
 					<small>*Limited slots available </small>
 </p>
-				<a class="p-button btn" href="">SIGN UP NOW! </a>
 			</div>
 		</div>
 	</div>
@@ -372,6 +394,11 @@ Language: English and Malay
 			<p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required.<br> Programmes and speakers are subjected to changes by organizers without prior notice. </p>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-12 u-align--center m-t-80">
+			<a class="p-button btn" href="#">SIGN UP NOW! </a>
+		</div>
 	</div>
-
+	</div>
+	
   </section>
