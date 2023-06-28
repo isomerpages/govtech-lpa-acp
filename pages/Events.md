@@ -323,7 +323,7 @@ section.bp-section .bp-container {
 				<h3>Plan Today</h3>
 				<p><strong>Learn more about Lasting Power of Attorney (LPA) and Advance Care Plan (ACP) at our talks!</strong> </p>
 				<ul>
-					<li><img src="https://i.imgur.com/ljZDljx.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Our Tampines Hub (Level 1, Festive Walk East, Central Plaza) </span></li>
+					<li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Our Tampines Hub (Level 1, Festive Walk East, Central Plaza) </span></li>
 					<li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>22 – 23 July 2023 </span></li>
 			<li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
 			<li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>1 Tampines Walk, Singapore 528523</span></li>
