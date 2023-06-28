@@ -1,6 +1,6 @@
 title: Gift of Certainty
 url: https://giftofcertainty.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -54,7 +54,7 @@ staging: https://staging.d2zatkbek6p6qa.amplifyapp.com
 prod: https://master.d2zatkbek6p6qa.amplifyapp.com
 resources_name: lorem-ipsum
 facebook-pixel: ""
-shareicon: ""
+shareicon: /images/mylegacy.svg
 is_government: true
 google_analytics: ""
 google_analytics_ga4: G-D85MR6KN9C
