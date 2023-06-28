@@ -112,6 +112,22 @@ margin-bottom: 80px;
 	.content a {
     color: #01436b;
 }
+	table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+	border: 1px solid #dddddd;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr.bg {
+  background-color: #dddddd;
+}
 container-fluid{
 width: 100%;
 }
@@ -281,7 +297,7 @@ section.bp-section .bp-container {
     <th>Timing </th>
     <th>Programme^ (Free Admission) </th>
   </tr>
-  <tr>
+  <tr class="bg">
 		<td><strong>Day 1 - 22 July 2023 </strong></td>
     <td></td>
   </tr>
@@ -308,7 +324,7 @@ Details: Find out more about how you can start your legacy planning. Learn<br> m
 Language: English and Malay 
 </td>
   </tr>
-			<tr>
+			<tr class="bg">
 				<td><strong>Day 2 - 23 July 2023 </strong></td>
     <td></td>
   </tr>
