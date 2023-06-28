@@ -283,8 +283,9 @@ section.bp-section .bp-container {
     object-fit: contain;
     object-position: bottom;
 }
-	.heading h2 {
+	.heading h2,.play_today h3 {
     color: #000;
+	font-family:'Playfair Display';
 }
 	.events ul {
     margin: 0;
