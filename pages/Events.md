@@ -162,15 +162,15 @@ section.bp-section.is-small.bp-section-pagetitle {
 display: none;
 }
 a.p-button.btn {
-    border-color: #01436b;
     background-color: transparent;
     border-radius: 30px;
-    color: #01436b;
+    color: #fff;
     margin-top: 30px;
     font-weight: 600;
     text-decoration: none;
-    border: 1px solid #01436b;
     padding: 10px 30px;
+    background-color: #83A1D3;
+    border: 1px solid #83A1D3;
 }
 section.bp-section .bp-container {
     width: 100%!important;
