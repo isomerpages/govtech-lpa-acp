@@ -790,7 +790,7 @@ a.p-button.btn:hover {
 			<div class="col-8">
 				<div class="inner">
 				<h2>My Legacy Vault</h2>
-				<p>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur<br> sint occaecat cupidatat non proident <a class="read-more" href="#">Find out more</a></p>
+				<p>My Legacy Vault lets you plan, store, and share your legal, healthcare, <br> and estate matters safely with the people you trust. <a class="read-more" href="#">Find out more</a></p>
 				</div>
 			</div>
 		</div>
