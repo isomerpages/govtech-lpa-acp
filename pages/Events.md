@@ -152,7 +152,7 @@ tr.bg {
 .events::before {
     content: "";
     position: absolute;
-    left: 30px;
+    right: 30px;
     bottom: -7px;
     width: 200px;
     background-position: center;
