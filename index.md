@@ -13,4 +13,8 @@ sections:
           description: Learn more about Lasting Power of Attorney (LPA) and Advance Care
             Plan (ACP) at our talks!
           url: /events/
+        - title: Book LPA and ACP session
+          description: Learn more about Lasting Power of Attorney (LPA) and Advance Care
+            Plan (ACP) at our talks!
+          url: ""
 ---
