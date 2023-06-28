@@ -338,7 +338,7 @@ section.bp-section .bp-container {
 		<div class="col-12  m-b-40">
 			<div class="play_today">
 				<h3>Plan Today</h3>
-				<p><strong>Learn more about Lasting Power of Attorney (LPA) and Advance Care Plan (ACP) at our talks!</strong> </p>
+				<p><strong>Learn more about Lasting Power of Attorney (LPA) and Advance Care Planning (ACP) at our talks!</strong> </p>
 				<ul>
 					<li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Our Tampines Hub (Level 1, Festive Walk East, Central Plaza) </span></li>
 					<li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>22 – 23 July 2023 </span></li>
@@ -351,7 +351,7 @@ section.bp-section .bp-container {
 	<div class="row">
 		<div class="col-12">
 			<div class="signup">
-				<p><strong>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Plan (ACP) Facilitation Session* </strong><br>
+				<p><strong>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session* </strong><br>
 Available for: Singapore citizens aged 50 years old and above, with blue and orange CHAS cards.<br>
 					<small>*Limited slots available </small>
 </p>
