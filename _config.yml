@@ -54,7 +54,7 @@ staging: https://staging.d2zatkbek6p6qa.amplifyapp.com
 prod: https://master.d2zatkbek6p6qa.amplifyapp.com
 resources_name: lorem-ipsum
 facebook-pixel: ""
-shareicon: /images/mylegacy.svg
+shareicon: /images/mylegacy-logo.png
 is_government: true
 google_analytics: ""
 google_analytics_ga4: G-D85MR6KN9C
