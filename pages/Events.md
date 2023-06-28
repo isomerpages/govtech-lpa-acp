@@ -131,6 +131,9 @@ th{
 tr.bg {
   background-color: #83A1D3;
 }
+	.signup p {
+	color: #000;
+	}
 .events ul li {
     color: #000;
     font-size: 16px;
