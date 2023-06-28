@@ -3,7 +3,7 @@ layout: homepage
 title: Gift of Certainty
 description: Leave a legacy of love and certainty for the people who matter most
   to you. Here are some ways to get started.
-image: /images/mylegacy.svg
+image: /images/mylegacy-logo.png
 permalink: /
 notification: ""
 sections:
