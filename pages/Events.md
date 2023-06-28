@@ -152,7 +152,7 @@ tr.bg {
 .events::before {
     content: "";
     position: absolute;
-    right: 30px;
+    right: 50px;
     bottom: -7px;
     width: 200px;
     background-position: center;
@@ -303,6 +303,9 @@ section.bp-section .bp-container {
     margin-right: 10px;
 }
 	@media(max-width: 767px){
+	.events::before {
+	display:none;
+	}
 	.event_banner img {
     height: 300px;
 }
