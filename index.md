@@ -9,10 +9,8 @@ sections:
   - hero:
       background: /images/psd_banner.png
       key_highlights:
-        - title: I want to learn more
-          description: Learn more about ACP & LPA
-          url: /home/
-        - title: I am ready to start planning
-          description: Start pre-planning today
-          url: "#"
+        - title: Upcoming Events
+          description: Learn more about Lasting Power of Attorney (LPA) and Advance Care
+            Plan (ACP) at our talks!
+          url: /events/
 ---
