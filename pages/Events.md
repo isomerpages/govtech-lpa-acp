@@ -135,6 +135,9 @@ tr.bg {
     margin-bottom: 0px;
     margin-top: 3px;
 }
+	.m-b-40{
+	margin-bottom: 40px;
+	}
 	.play_today h3 {
     font-size: 30px;
     color: #000;
@@ -309,7 +312,7 @@ section.bp-section .bp-container {
 			<h2>Upcoming Events</h2>
 		</div>
 	</div>
-	<div class="row">
+	<div class="row m-b-40">
 		<div class="col-12">
 			<div class="play_today">
 				<h3>Plan Today</h3>
