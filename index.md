@@ -10,8 +10,7 @@ sections:
       background: /images/psd_banner.png
       key_highlights:
         - title: Upcoming Events
-          description: Learn more about Lasting Power of Attorney (LPA) and Advance Care
-            Plan (ACP) at our talks!
+          description: Learn more about LPA and ACP at our free talks
           url: /events/
         - title: Book LPA and ACP session
           description: Sign up for a free LPA and ACP session at our upcoming mobile
