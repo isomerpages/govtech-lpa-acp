@@ -125,9 +125,11 @@ td, th {
   padding: 8px;
   border-width: 1px!important;
 }
-
+th{
+	background-color:#D4DFF1;
+	}
 tr.bg {
-  background-color: #dddddd;
+  background-color: #83A1D3;
 }
 .events ul li {
     color: #000;
