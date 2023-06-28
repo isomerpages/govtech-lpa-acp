@@ -304,7 +304,7 @@ section.bp-section .bp-container {
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-12 banner_b u-align--center">
-			<img alt="Legacy Events" src="https://i.imgur.com/C2s0IgT.png">
+			<img alt="Legacy Events" src="https://i.imgur.com/2AGstSd.png">
 			</div>
 		</div>
 	</div>
