@@ -149,6 +149,19 @@ tr.bg {
     font-weight: bold;
     margin-bottom: 0;
 }
+.events::before {
+    content: "";
+    position: absolute;
+    left: 30px;
+    bottom: -7px;
+    width: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(https://i.imgur.com/ymZBFhy.png);
+    z-index: -1;
+    height: 200px;
+}
 	.play_today p {
     margin-top: 10px;
     color: #000;
