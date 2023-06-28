@@ -273,16 +273,65 @@ section.bp-section .bp-container {
 	</div>
 	<div class="row">
 		<div class="col-12 m-t-40">
-		<ul>
-			<li><img style="width: 17px" src="https://i.imgur.com/Siv8OQ1.png"><span style="font-weight: bold; margin-right: 15px;">05.04.23 - Saturday</span><span>6pm - 9pm</span></li>
-			<li><img src="https://i.imgur.com/ljZDljx.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Esplanade</span><span>- Theatres on the Bay, singapore</span></li>
-		</ul>
-		</div>
-	</div>
-	<div class="row">
-		<div class="content col-12">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur</p>
+		<table>
+  <tbody><tr>
+    <th>Timing </th>
+    <th>Programme^ (Free Admission) </th>
+  </tr>
+  <tr>
+		<td><strong>Day 1 - 22 July 2023 </strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10.00am to 11.30am</td>
+    <td>Talk: Planning for the footprints of My Legacy! 计划我生命的足跡! <br>Speaker: Mr Victor Tang<br><br>
+Language: English and Mandarin <br><br>
+Details: Find out more about how you can start your legacy planning. Learn<br> more about Lasting Power of Attorney and Advance Care Planning. 
+</td>
+  </tr>
+			<tr>
+    <td>12.00pm to 1.30pm</td>
+    <td>Break</td>
+  </tr>
+				<tr>
+    <td>2.00pm to 3.30pm</td>
+    <td>Launch of Lasting Power of Attorney and Advance Care Planning Campaign <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;-	Micapella Singing Performance <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-	Launch of campaign by Guest of Honour, Minister Masagos </td>
+  </tr>
+			<tr>
+    <td>4.00pm to 5.30pm</td>
+    <td>Talk: All About Lasting Power of Attorney and Advance Care Planning <br>
+Language: English and Malay 
+</td>
+  </tr>
+			<tr>
+				<td><strong>Day 2 - 23 July 2023 </strong></td>
+    <td></td>
+  </tr>
+			<tr>
+				<td>10.00am to 11.30am</td>
+    <td>Talk: Learn more about CPF Nomination </td>
+  </tr>
+			<tr>
+				<td>12.00pm to 1.30pm</td>
+    <td>Break</td>
+  </tr>
+			<tr>
+				<td>2.00pm to 3.30pm</td>
+    <td>Talk: Services Provided by Special Needs Trust Company (SNTC) </td>
+  </tr>
+			<tr>
+				<td>4.00pm to 5.30pm</td>
+    <td>Talk: All About Lasting Power of Attorney and Advance Care Planning<br> 
+Language: English and Malay 
+
+</td>
+  </tr>
+</tbody></table>
+			<p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organizers without prior notice. </p>
+			<p>Click <a href="https://staging.d2zatkbek6p6qa.amplifyapp.com/plan-today/">here</a> to find out more about LPA and ACP.
+</p>
 		</div>
 	</div>
 	<div class="row">
