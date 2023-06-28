@@ -288,7 +288,16 @@ section.bp-section .bp-container {
 	</div>
 	<div class="row">
 		<div class="col-12">
-		<img alt="Legacy Events" src="https://i.imgur.com/d2sE3C8.jpg">
+			<div class="play_today">
+				<h3>Plan Today</h3>
+				<p>Learn more about Lasting Power of Attorney (LPA) and Advance Care Plan (ACP) at our talks! </p>
+				<ul>
+					<li><img src="https://i.imgur.com/ljZDljx.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Our Tampines Hub (Level 1, Festive Walk East, Central Plaza) </span></li>
+					<li><img style="width: 17px" src="https://i.imgur.com/Siv8OQ1.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>22 – 23 July 2023 </span></li>
+			<li><img style="width: 17px" src="https://i.imgur.com/Siv8OQ1.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
+			<li><img src="https://i.imgur.com/ljZDljx.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>1 Tampines Walk, Singapore 528523</span></li>
+		</ul>
+			</div>
 		</div>
 	</div>
 	<div class="row">
@@ -349,9 +358,7 @@ Language: English and Malay
 </td>
   </tr>
 </tbody></table>
-			<p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organizers without prior notice. </p>
-			<p>Click <a href="https://staging.d2zatkbek6p6qa.amplifyapp.com/plan-today/">here</a> to find out more about LPA and ACP.
-</p>
+			<p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required.<br> Programmes and speakers are subjected to changes by organizers without prior notice. </p>
 		</div>
 	</div>
 	</div>
