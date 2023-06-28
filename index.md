@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Gift of Certainty
-description: An Isomer site of the Singapore Government
+description: Leave a legacy of love and certainty for the people who matter most
+  to you. Here are some ways to get started.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
