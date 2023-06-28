@@ -314,8 +314,8 @@ section.bp-section .bp-container {
 			<h2>Upcoming Events</h2>
 		</div>
 	</div>
-	<div class="row m-b-40">
-		<div class="col-12">
+	<div class="row">
+		<div class="col-12  m-b-40">
 			<div class="play_today">
 				<h3>Plan Today</h3>
 				<p><strong>Learn more about Lasting Power of Attorney (LPA) and Advance Care Plan (ACP) at our talks!</strong> </p>
