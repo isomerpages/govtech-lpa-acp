@@ -164,7 +164,7 @@ display: none;
 a.p-button.btn {
     background-color: transparent;
     border-radius: 30px;
-    color: #fff;
+    color: #000;
     margin-top: 30px;
     font-weight: 600;
     text-decoration: none;
