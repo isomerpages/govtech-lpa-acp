@@ -13,6 +13,6 @@ sections:
           description: Learn more about ACP & LPA
           url: /home/
         - title: I am ready to start planning
-          description: Lorem ipsum
+          description: Start pre-planning today
           url: "#"
 ---
