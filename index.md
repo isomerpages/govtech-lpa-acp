@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/isomer-banner-05.png
+      background: /images/isomer-banner-sm.png
       key_highlights:
         - title: Learn more
           description: Free talks and resources.
