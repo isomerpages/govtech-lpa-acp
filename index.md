@@ -8,13 +8,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/psd-banner.png
+      background: /images/isomer-banner-05.png
       key_highlights:
         - title: Learn more
           description: Free talks and resources.
           url: /events/
         - title: Book a LPA and ACP session
-          description: "Sign up for a free LPA and ACP session at our upcoming mobile
-            clinics. "
-          url: plantoday.sg
+          description: Sign up for a free LPA and ACP session at our upcoming mobile
+            clinics.
+          url: https://plantoday.sg
 ---
