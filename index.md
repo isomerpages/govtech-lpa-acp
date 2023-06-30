@@ -8,10 +8,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/isomer-banner-sm.png
+      background: /images/pt_isomer_sm.png
       key_highlights:
-        - title: Learn more
-          description: Free talks and resources.
+        - title: Upcoming events
+          description: Learn more about LPA and ACP at our talks. See our upcoming events
+            here.
           url: /events/
         - title: Book a LPA and ACP session
           description: Sign up for a free LPA and ACP session at our upcoming mobile
