@@ -1,32 +1,22 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Gift of Certainty
+description: Leave a legacy of love and certainty for the people who matter most
+  to you. Here are some ways to get started.
+image: /images/mylegacy-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: For further assistance or enquiries, please call 1800-111-2222 or
+  email us at enquiries@mylegacy.gov.sg
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/pt_banner_bg.png
+      key_highlights:
+        - title: Upcoming events
+          description: Learn more about LPA and ACP at our talks. See our upcoming events
+            here.
+          url: /events/
+        - title: Book a LPA and ACP session
+          description: Sign up for a free LPA and ACP session at our upcoming mobile
+            clinics.
+          url: https://plantoday.sg
 ---
-
