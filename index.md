@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pt_isomer_sm.png
+      background: /images/pt_banner_bg.png
       key_highlights:
         - title: Upcoming events
           description: Learn more about LPA and ACP at our talks. See our upcoming events
