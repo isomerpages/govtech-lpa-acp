@@ -187,8 +187,8 @@ a.p-button.btn {
     font-weight: 600;
     text-decoration: none;
     padding: 10px 30px;
-    background-color: #83A1D3;
-    border: 1px solid #83A1D3;
+    background-color: #a5ded1;
+    border: 1px solid #a5ded1;
 }
 section.bp-section .bp-container {
     width: 100%!important;
@@ -355,6 +355,9 @@ section.bp-section .bp-container {
 Available for: Singapore citizens aged 50 years old and above, with blue and orange CHAS cards.<br>
 					<small>*Limited slots available </small>
 </p>
+    <div class="col-12 u-align--left m-t-2">
+            <a class="p-button btn" href="https://plantoday.sg">SIGN UP NOW! </a>
+    </div>
 			</div>
 		</div>
 	</div>
@@ -417,11 +420,6 @@ Language: English and Malay
   </tr>
 </tbody></table>
 			<p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required.<br> Programmes and speakers are subjected to changes by organizers without prior notice. </p>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-12 u-align--center m-t-80">
-			<a class="p-button btn" href="#">SIGN UP NOW! </a>
 		</div>
 	</div>
 	</div>
