@@ -408,6 +408,9 @@ ul.accordion input.toggle:checked + .inner {
     .action__4 .container::after,.action__4::before{
     display:none;
     }
+	.col.is-1.has-float-btns.is-position-relative.is-hidden-touch {
+    display: none;
+}
         .p-lr-50{
     padding: 0;
     }
