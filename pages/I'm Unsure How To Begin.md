@@ -121,10 +121,13 @@ container-fluid{
 width: 100%;
 }
 section.bp-section.is-small.bp-section-pagetitle {
-display: none;
+	display: none;
 }
     .about_a_b img {
     width: 460px;
+}
+	.content ul > li:last-child {
+    margin-bottom: 0;
 }
 	.video_acc .inner::after{
 	display:none!important;
