@@ -321,6 +321,9 @@ section.bp-section .bp-container {
     ul.accordion input.toggle:checked + .inner::after {
     content: "-";
 }
+		.inner > ul > li:not(:last-child) {
+    margin-bottom: 30px;
+}
 ul.accordion input.toggle:checked + .inner {
     height: auto;
     padding: 30px 20px;
@@ -336,7 +339,7 @@ ul.accordion input.toggle:checked + .inner {
         -webkit-transition: all ease-in-out .3s;
      text-indent: 0;
 }
-    .accordion ul .inner p {
+    .accordion ul .inner p,.accordion ul .inner li {
      font-weight: 500;
     font-size: 18px;
       color: #1A3554;
@@ -484,9 +487,11 @@ ul.accordion input.toggle:checked + .inner {
                             <label for="accordion_1">
                                 <input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">My parents have yet to make an LPA and ACP
                                 <div class="inner">
-																	<p><span>o</span>Initiating a conversation with your parents about making an LPA and ACP can be daunting, particularly if your intentions aren't clear from the start. To begin, emphasise the significance of this process and the benefits it can have on the family. The initial conversation doesn't have to revolve immediately around their assets or care preferences. Instead, broach the topic empathetically, allowing your family to share their thoughts and concerns. An open and understanding atmosphere lays the groundwork for a productive conversation about the process.</p>
-                                <p><span>o</span>Over a series of open conversations, you’ll find that it may become easier to discuss more difficult topics such as their estate planning and how they’d like to be cared for if they lose mental capacity. If you belong to a large family, it’s also important to include your siblings in the discussions to ensure that it becomes an effective conversation and everyone is aligned.
-                            </p>
+																	<ul>
+																	<li>Initiating a conversation with your parents about making an LPA and ACP can be daunting, particularly if your intentions aren't clear from the start. To begin, emphasise the significance of this process and the benefits it can have on the family. The initial conversation doesn't have to revolve immediately around their assets or care preferences. Instead, broach the topic empathetically, allowing your family to share their thoughts and concerns. An open and understanding atmosphere lays the groundwork for a productive conversation about the process.</li>
+                                <li>Over a series of open conversations, you’ll find that it may become easier to discuss more difficult topics such as their estate planning and how they’d like to be cared for if they lose mental capacity. If you belong to a large family, it’s also important to include your siblings in the discussions to ensure that it becomes an effective conversation and everyone is aligned.
+                            </li>
+																	</ul>
                                 </div>
                             </label>
                         </li>
@@ -494,9 +499,11 @@ ul.accordion input.toggle:checked + .inner {
                             <label for="accordion_2">
                                 <input class="toggle" id="accordion_2" name="accordion" type="radio">I have yet to discuss with my family about my LPA and ACP
                             <div class="inner">
-                                <p><span>o</span>It’s not easy to discuss future planning matters with your family, especially since talking about losing mental capacity can be an uncomfortable conversation to have. It’s crucial to begin the discussion by explaining your intentions and the benefits of planning for it early.</p>
-                               <p><span>o</span>Your conversations with your family have to be honest and open about your values and preferences for medical care. A close relationship with them does not guarantee that they are clear about what you want.</p>
-                               <p><span>o</span>It is crucial to keep your family informed whenever there are changes in your LPA or ACP so they can stay up to date with what you want as you age.</p>
+															<ul>
+                                <li>It’s not easy to discuss future planning matters with your family, especially since talking about losing mental capacity can be an uncomfortable conversation to have. It’s crucial to begin the discussion by explaining your intentions and the benefits of planning for it early.</li>
+                               <li>Your conversations with your family have to be honest and open about your values and preferences for medical care. A close relationship with them does not guarantee that they are clear about what you want.</li>
+                               <li>It is crucial to keep your family informed whenever there are changes in your LPA or ACP so they can stay up to date with what you want as you age.</li>
+																</ul>
                                 </div>
                             </label>
                         </li>
@@ -504,9 +511,11 @@ ul.accordion input.toggle:checked + .inner {
                             <label for="accordion_3">
                                 <input class="toggle" id="accordion_3" name="accordion" type="radio">I am single and I do not have anyone in mind to nominate.
                                 <div class="inner">
-                            <p><span>o</span>It is a common misconception that you can only involve immediate family members in your LPA and ACP. It is encouraged to discuss your healthcare preferences and values with people who know you best, and sometimes these individuals may not be your direct family members.</p>
-                            <p><span>o</span>Your Donee(s) (LPA) and nominated healthcare spokesperson(s) (ACP) can be your family member or relative. In the event that you do not have a family member to appoint as your Donee, you may appoint others such as a friend, Professional Donee or a licensed trust company for property and affairs matters only (applicable LPA Form 2). What matters most is that these chosen individuals know you well and will prioritise your care preferences and beliefs.</p>
-                            <p><span>o</span> It is crucial that these chosen individuals have the ability to communicate your values and care preferences to the healthcare team and other loved ones. They must also be able to handle the responsibility of enforcing your known care wishes in stressful situations.</p>
+																	<ul>
+                            <li>It is a common misconception that you can only involve immediate family members in your LPA and ACP. It is encouraged to discuss your healthcare preferences and values with people who know you best, and sometimes these individuals may not be your direct family members.</li>
+                            <li>Your Donee(s) (LPA) and nominated healthcare spokesperson(s) (ACP) can be your family member or relative. In the event that you do not have a family member to appoint as your Donee, you may appoint others such as a friend, Professional Donee or a licensed trust company for property and affairs matters only (applicable LPA Form 2). What matters most is that these chosen individuals know you well and will prioritise your care preferences and beliefs.</li>
+                            <li>It is crucial that these chosen individuals have the ability to communicate your values and care preferences to the healthcare team and other loved ones. They must also be able to handle the responsibility of enforcing your known care wishes in stressful situations.</li>
+																		</ul>
                                 </div>
                             </label>
                         </li>
