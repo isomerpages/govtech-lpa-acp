@@ -471,7 +471,7 @@ padding: 0 15px;
                     <img alt="My Legacy" src="https://i.imgur.com/hPD630G.png">
         </div>
                 <div class="col-6 about_a_b">
-                    <div class="inner">
+                    <div class="inner"><br>
                     <h2>Planning ahead</h2>
                     <p>By being prepared, your loved ones will be guided and supported when you are not able to make decisions for yourself. As they are certain about your choices, they do not need to bear the burden of making difficult decisions on your behalf during trying times.</p>
                 <p>Getting started on your Lasting Power of Attorney (LPA) and Advance Care Plan (ACP) can also be a useful exercise to reflect on your personal values and goals.</p>
