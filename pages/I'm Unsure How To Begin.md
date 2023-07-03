@@ -607,15 +607,48 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                             <label for="accordion_6">
                                 <input class="toggle" id="accordion_6" name="accordion" type="radio">Is it expensive to make an LPA and ACP?
                                 <div class="inner">
-                            <p>
-                                <u>Cost of LPA</u><br>
-                                <img src="https://i.imgur.com/EbZsS6Z.png"><br>
-                                Payment can made on <a href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a>. <br>*Note: Cheque collection has ceased.<br>
-                                There is also a fee to engage an accredited medical practitioner, psychiatrist or lawyer to certify your LPA. More information on certification fees can be found <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer">here</a>.<br>
-                                As of Jan 2023, the majority of the top 10 most visited accredited medical practitioners charged $59 or less.<br>
-                                <u>Cost of ACP</u><br>
-                                There is no charge for completing the ACP with trained facilitators from <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">government-appointed providers</a> across Singapore. <br>
-                                However, some organisations may charge a nominal fee for doing an ACP. Please kindly check in with the respective organisations on the fees.
+															<strong><u>Cost of LPA</u></strong><br>
+<h5>Lasting Power of Attorney (LPA) Fees</h5>	
+<h6>Application Fees<br> Table 1:</h6>
+<table>
+  <tbody><tr>
+    <th></th>
+    <th style="text-align:center">LPA Form 1 Fee<br> (inc. GST)</th>
+    <th style="text-align:center">LPA Form 2 Fee<br> (inc. GST)</th>
+  </tr>
+  <tr>
+    <td>Singapore Citizens</td>
+    <td style="text-align:center">$0<br>(fee of $75 waived until <br>31 march 2026)</td>
+    <td style="text-align:center">$0</td>
+  </tr>
+  <tr>
+    <td>Singapore Permanent<br> Residents</td>
+    <td style="text-align:center">$100</td>
+    <td style="text-align:center">$250</td>
+  </tr>
+	<tr>
+    <td>Foreigners</td>
+    <td style="text-align:center">$250</td>
+    <td style="text-align:center">$300</td>
+  </tr>
+</tbody></table>
+<h6>Cancellation Fees<br> Table 2:</h6>
+<table>
+  <tbody><tr>
+    <th></th>
+    <th style="text-align:center">Fee (inc. GST)</th>
+  </tr>
+  <tr>
+    <td>Cancellation of registration of an LPA</td>
+    <td style="text-align:center">$25<br>(fee will be $30 with <br>effect from 1 april 2023)</td>
+  </tr>
+</tbody></table>
+                                <p>Payment can made on <a href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a>.<br>*Note: Cheque collection has ceased.</p>
+                                <p>There is also a fee to engage an accredited medical practitioner, psychiatrist or lawyer to certify your LPA. More information on certification fees can be found <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer">here</a>.</p>
+                                <p>As of Jan 2023, the majority of the top 10 most visited accredited medical practitioners charged $59 or less.</p>
+                                <strong><u>Cost of ACP</u></strong>
+                                <p>There is no charge for completing the ACP with trained facilitators from <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">government-appointed providers</a> across Singapore. </p>
+                                <p>However, some organisations may charge a nominal fee for doing an ACP. Please kindly check in with the respective organisations on the fees.
                             </p>
                                 </div>
                                     </label>
