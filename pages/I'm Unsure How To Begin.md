@@ -504,9 +504,9 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                                 <div class="inner">
                             <p>
 1.  Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).<br><br>
-2.  Fill in the online LPA forms at <a href="#">My Legacy</a>.  <br><br>
-3.  Find an <a href="#">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.<br><br>
-●   Your Donee(s) and Replacement Donee (if any) can log in to <a href="#">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.<br>
+2.  Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>.  <br><br>
+3.  Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.<br><br>
+●   Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.<br>
 ●   Visit the certificate issuer of your choice to certify your LPA. <br>
 ●   You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. <br>
 ●   In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.
@@ -520,8 +520,8 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                             <p>
 1.  Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.<br><br>
 2.  Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.<br><br>
-3.  Prepare your <a href="#">ACP online</a>. <br><br>
-4.  Find a <a href="#">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br><br>
+3.  Prepare your <a href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/">ACP online</a>. <br><br>
+4.  Find a <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br><br>
 ●   After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. <br>
 ●   Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.<br>
 ●   You may also wish to upload a soft copy of your completed ACP form in the <a href="https://mylegacy.life.gov.sg/vault/">My Legacy Vault</a> for your own records and to share them with your Trusted Persons.</p>
@@ -605,7 +605,7 @@ o   If you’re appointing more than one person to be your healthcare spokespers
                                 There is also a fee to engage an accredited medical practitioner, psychiatrist or lawyer to certify your LPA. More information on certification fees can be found <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer">here</a>.<br>
                                 As of Jan 2023, the majority of the top 10 most visited accredited medical practitioners charged $59 or less.<br>
                                 <u>Cost of ACP</u><br>
-                                There is no charge for completing the ACP with trained facilitators from <a href="#">government-appointed providers</a> across Singapore. <br>
+                                There is no charge for completing the ACP with trained facilitators from <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">government-appointed providers</a> across Singapore. <br>
                                 However, some organisations may charge a nominal fee for doing an ACP. Please kindly check in with the respective organisations on the fees.
                             </p>
                                 </div>
@@ -632,8 +632,8 @@ The ACP is not a legal document and you do not need a lawyer to help you make on
     <div class="container" style="padding-top: 60px; padding-bottom: 90px">
         <div class="row p-lr-50">
             <div class="col-12 action__b m-b-80">
-                <h4>Get started on <a href="#">making a Lasting Power Of Attorney</a>.</h4>
-                <h4>Get started on <a href="#">making an Advance Care Plan</a>.</h4>
+                <h4>Get started on <a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true">making a Lasting Power Of Attorney</a>.</h4>
+                <h4>Get started on <a href="https://plantoday.sg/acp.html">making an Advance Care Plan</a>.</h4>
                 <h4></h4>
             </div>
         </div>
