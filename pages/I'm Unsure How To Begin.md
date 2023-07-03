@@ -662,7 +662,7 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
     <th style="text-align:center">Fee (inc. GST)</th>
   </tr>
   <tr>
-    <td>Cancellation of registration of an LPA</td>
+    <td>Cancellation of <br>registration of an LPA</td>
     <td style="text-align:center">$25<br>(fee will be $30 with <br>effect from 1 april 2023)</td>
   </tr>
 </tbody></table>
