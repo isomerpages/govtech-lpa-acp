@@ -767,7 +767,7 @@ display: inline-block;
   </div>
   <div style="margin-top:60px;" class="row">
     <div class="col-12 action_bb u-align--center">
-        <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. <a href="/i-am-unsure-how-to-begin/">Here are <br>some ways to get started.</a></h2>
+        <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. <br><a href="/i-am-unsure-how-to-begin/">Here are some ways to get started.</a></h2>
          </div>
   </div>
 </div>    
@@ -785,7 +785,7 @@ display: inline-block;
         <div class="col-8">
             <div class="inner">
             <h2>My Legacy Vault</h2>
-            <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+            <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy Vault</a> for secure storage and share them with those you trust.</p>
             </div>
         </div>
     </div>
