@@ -438,6 +438,9 @@ section.bp-section .bp-container {
         line-height: 38px;
         font-size: 28px;
     }
+	.col.is-1.has-float-btns.is-position-relative.is-hidden-touch {
+    display: none;
+}
     html {
     overflow-x: hidden;
 }
