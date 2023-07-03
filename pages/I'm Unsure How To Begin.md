@@ -342,8 +342,8 @@ section.bp-section .bp-container {
     text-align: center;
     border-radius: 50%;
     position: absolute;
-    right: 20px;
-    top: 14px;
+         right: 0;
+    top: -40px;
     color: #1A3554;
     text-indent: 0;
     line-height: 25px;
