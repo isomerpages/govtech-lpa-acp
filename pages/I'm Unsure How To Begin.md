@@ -273,6 +273,18 @@ section.bp-section .bp-container {
     height: 55px;
     z-index: -1;
 }
+	.accordion ul .inner li strong {
+    color: #1A3554;
+}
+	.accordion ul {
+    margin: 0!important;
+}
+	ul.accordion ul ul {
+    padding-left: 30px;
+}
+	.inner > ul > li:not(:last-child) {
+    margin-bottom: 30px;
+}
     a.play_btn {
     position: absolute;
     left: 0;
