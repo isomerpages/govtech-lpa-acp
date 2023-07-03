@@ -186,6 +186,7 @@ section.bp-section .bp-container {
 }
     .about_bb p {
     margin-top: 10px;
+    font-size: 18px;
 }
     .about_a_b h2 {
     color: #1A3554;
@@ -234,6 +235,7 @@ section.bp-section .bp-container {
     }
     ul.accordion input.toggle:checked + p {
     display: block;
+    font-size: 18px;
 }
     .p-lr-50{
     padding: 0 50px;
@@ -287,6 +289,7 @@ section.bp-section .bp-container {
 }
     .about_a_b p {
     color: #1A3554;
+    font-size: 18px;
 }
     .content a{
         color: #1A3554!important;
@@ -523,7 +526,7 @@ ul.accordion input.toggle:checked + .inner {
             <div class="col-8">
                 <div class="inner">
                 <h2>My Legacy Vault</h2>
-                <p>My Legacy Vault lets you plan, store, and share your legal, healthcare and estate matters safely with the people you trust. <a href="#">Find out more</a>.</p>
+                <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
                 </div>
             </div>
         </div>
