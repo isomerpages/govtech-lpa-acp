@@ -225,6 +225,25 @@ section.bp-section .bp-container {
     .action_3 {
     background-color: #C8C6C3;
 }
+	.accordion h5 {
+    margin-top: 0;
+    color: #1A3554;
+}
+	.accordion table th {
+    color: #1A3554;
+}
+	.accordion table {
+    width: 100%;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}
+	.content strong {
+    color: #1A3554;
+}
+	.accordion h6 {
+    margin-top: 20px;
+    line-height: 30px;
+}
     .accordion ul {
   list-style: none;
   padding: 0;
