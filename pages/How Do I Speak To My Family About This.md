@@ -447,9 +447,9 @@ ul.accordion input.toggle:checked + .inner {
     background-color: #C7C6C2;
 }
     }
-    @media(min-width: 767px)and (max-width: 1140px){
+    @media(min-width: 767px)and (max-width: 1170px){
     .container {
-	  width: 100%
+	  width: 100%;
     padding: 0 15px;
 }
     }
