@@ -424,7 +424,7 @@ section.bp-section .bp-container {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
-    @media(max-width: 767px){
+    @media(max-width: 1024px){
     .heading::after{
     display:none;
     }
