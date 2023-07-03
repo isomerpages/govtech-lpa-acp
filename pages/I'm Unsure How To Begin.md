@@ -236,6 +236,7 @@ section.bp-section .bp-container {
     width: 100%;
     border: 1px solid #ddd;
     background-color: #fff;
+	margin-bottom: 30px;
 }
 	.content strong {
     color: #1A3554;
