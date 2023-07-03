@@ -114,6 +114,9 @@ margin-bottom: 80px;
 container-fluid{
 width: 100%;
 }
+	.accordion ul {
+    margin: 0!important;
+}
 section.bp-section.is-small.bp-section-pagetitle {
 display: none;
 }
