@@ -538,7 +538,7 @@ ul.accordion input.toggle:checked + .inner {
                                 <input type="radio" name="accordion" id="accordion_5" class="toggle">What if I change my mind?
                                     <div class="inner">
                             <ul>
-                                <li>Your LPA and ACP are not set in stone. You have the liberty to update or change your LPA and ACP at any given time, provided you have the mental capacity to do so.</li>
+                                <p>Your LPA and ACP are not set in stone. You have the liberty to update or change your LPA and ACP at any given time, provided you have the mental capacity to do so.</p>
                                 <li><b>LPA</b>
 																	<ul>
                                 <li>To change the terms of an existing LPA, the Donor must revoke their registered LPA and make a new one.</li>
