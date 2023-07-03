@@ -401,7 +401,7 @@ ul.accordion input.toggle:checked + .inner {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
-    @media(max-width: 767px){
+    @media(max-width: 1024){
     .heading::after{
     display:none;
     }
