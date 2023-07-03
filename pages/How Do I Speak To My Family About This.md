@@ -323,7 +323,7 @@ section.bp-section .bp-container {
 }
 ul.accordion input.toggle:checked + .inner {
     height: auto;
-    padding: 30px;
+    padding: 30px 20px;
 }
     .accordion ul .inner {
     overflow: hidden;
@@ -331,7 +331,7 @@ ul.accordion input.toggle:checked + .inner {
     background-color: #EBE7E5;
     margin-top: 6px;
     height: 0;
-    padding: 0 30px;
+    padding: 0 20px;
     transition: all ease-in-out .3s;
         -webkit-transition: all ease-in-out .3s;
      text-indent: 0;
@@ -505,7 +505,7 @@ ul.accordion input.toggle:checked + .inner {
                                 <input class="toggle" id="accordion_3" name="accordion" type="radio">I am single and I do not have anyone in mind to nominate.
                                 <div class="inner">
                             <p><span>o</span>It is a common misconception that you can only involve immediate family members in your LPA and ACP. It is encouraged to discuss your healthcare preferences and values with people who know you best, and sometimes these individuals may not be your direct family members.</p>
-                            o   Your Donee(s) (LPA) and nominated healthcare spokesperson(s) (ACP) can be your family member or relative. In the event that you do not have a family member to appoint as your Donee, you may appoint others such as a friend, Professional Donee or a licensed trust company for property and affairs matters only (applicable LPA Form 2). What matters most is that these chosen individuals know you well and will prioritise your care preferences and beliefs.<p></p>
+                            <p><span>o</span>Your Donee(s) (LPA) and nominated healthcare spokesperson(s) (ACP) can be your family member or relative. In the event that you do not have a family member to appoint as your Donee, you may appoint others such as a friend, Professional Donee or a licensed trust company for property and affairs matters only (applicable LPA Form 2). What matters most is that these chosen individuals know you well and will prioritise your care preferences and beliefs.</p>
                             <p><span>o</span> It is crucial that these chosen individuals have the ability to communicate your values and care preferences to the healthcare team and other loved ones. They must also be able to handle the responsibility of enforcing your known care wishes in stressful situations.</p>
                                 </div>
                             </label>
