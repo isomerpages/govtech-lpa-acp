@@ -475,6 +475,9 @@ section.bp-section .bp-container {
 	 width: 100%;
     padding: 0 15px;
 }
+	 .action__4 .container::after,.action__4::before{
+    display:none;
+    }
     }
     </style>
 <section class="about_ac">
