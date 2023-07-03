@@ -194,6 +194,9 @@ section.bp-section .bp-container {
     font-weight: bold;
     font-style: italic;
 }
+	.content ul > li:last-child {
+    margin-bottom: 0;
+}
 	ul.accordion ul {
     padding-left: 20px;
 }
