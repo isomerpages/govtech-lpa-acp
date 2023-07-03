@@ -111,6 +111,9 @@ color: #01436b;
 section.bp-section .bp-container {
 padding-bottom: 0!important;
 }
+.accordion ul .inner span {
+    margin-right: 15px;
+}	
 .m-b-80{
 margin-bottom: 80px;
 }
@@ -200,6 +203,8 @@ section.bp-section .bp-container {
     .about_a_b h2 {
     color: #1A3554;
     font-family:'Playfair Display';
+		font-style: italic;
+		font-weight: bold;
 }
     .heading h3 {
     margin-bottom: 30px;
@@ -323,7 +328,7 @@ section.bp-section .bp-container {
         -webkit-transition: all ease-in-out .3s;
      text-indent: 0;
 }
-    .accordion ul .inner p {
+    .accordion ul .inner p, .accordion ul .inner li {
      font-weight: 500;
     font-size: 18px;
       color: #1A3554;
@@ -502,29 +507,32 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                             <label for="accordion_1">
                                 <input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
                                 <div class="inner">
-                            <p>
-1.  Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).<br><br>
-2.  Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>.  <br><br>
-3.  Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.<br><br>
-●   Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.<br>
-●   Visit the certificate issuer of your choice to certify your LPA. <br>
-●   You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. <br>
-●   In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.
-                                    </p></div>
+                            <ul>
+															<li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
+<li>Fill in the online LPA forms at<a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
+<li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
+<ul>
+<li> Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
+<li>Visit the certificate issuer of your choice to certify your LPA. </li>
+<li>You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. </li>
+<li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.
+	</li></ul></li></ul></div>
                             </label>
                         </li>
                         <li>
                             <label for="accordion_2">
                                 <input class="toggle" id="accordion_2" name="accordion" type="radio">Making an Advance Care Plan (ACP)
                                 <div class="inner">
-                            <p>
-1.  Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.<br><br>
-2.  Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.<br><br>
-3.  Prepare your <a href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/">ACP online</a>. <br><br>
-4.  Find a <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br><br>
-●   After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. <br>
-●   Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.<br>
-●   You may also wish to upload a soft copy of your completed ACP form in the <a href="https://mylegacy.life.gov.sg/vault/">My Legacy Vault</a> for your own records and to share them with your Trusted Persons.</p>
+                            <ul>
+<li>Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.</li>
+<li>Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.</li>
+<li>Prepare your <a href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/">ACP online</a>. </li>
+<li>Find a <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.
+<ul>
+<li>After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. </li>
+<li>Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.</li>
+<li>You may also wish to upload a soft copy of your completed ACP form in the <a href="https://mylegacy.life.gov.sg/vault/">My Legacy Vault</a> for your own records and to share them with your Trusted Persons.</li>
+															</ul></li></ul>
                                 </div>
                                 </label>
                         </li>
@@ -545,14 +553,15 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                             <label for="accordion_3">
                                 <input checked="" class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
                                 <div class="inner">
-                            <p>
-●   <b>LPA</b><br>
-Without an LPA, your family members or loved ones would need to apply to the Court to become your Deputy in order to make decisions for you. This can be a lengthy, costly, and risky process as the Court may not appoint your ideal person to make decisions on your behalf. More information on deputyship application can be found <a target="_blank" href="https://judiciary.gov.sg/family/deputyship">here</a>. <br><br>
-                                ●   <b>ACP</b><br>
-▪   Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="#">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.<br>
-▪   It can be stressful for your loved ones to predict what kind of treatment you may want. Differing views may arise which can sometimes cause disputes amongst family members.<br>
-▪   In some cases, healthcare providers may make decisions on your behalf based on their professional judgement and any available information about your medical history.
-                            </p>
+                            <ul>
+															<li><strong>LPA</strong>
+<p>Without an LPA, your family members or loved ones would need to apply to the Court to become your Deputy in order to make decisions for you. This can be a lengthy, costly, and risky process as the Court may not appoint your ideal person to make decisions on your behalf. More information on deputyship application can be found <a target="_blank" href="https://judiciary.gov.sg/family/deputyship">here</a>. </p></li>
+<li><strong>LPA</strong>
+	<ul>
+<li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="#">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
+<li>It can be stressful for your loved ones to predict what kind of treatment you may want. Differing views may arise which can sometimes cause disputes amongst family members.</li>
+<li>In some cases, healthcare providers may make decisions on your behalf based on their professional judgement and any available information about your medical history.</li>
+	</ul></li></ul>
                                 </div>
                                     </label>
                         </li>
@@ -560,20 +569,24 @@ Without an LPA, your family members or loved ones would need to apply to the Cou
                             <label for="accordion_4">
                                 <input class="toggle" id="accordion_4" name="accordion" type="radio">Who can I appoint as my LPA Donee(s)?
                                 <div class="inner">
-                            <p>
-1. Your Donee must be 21 years of age or older. They could be:<br><br>
-▪   Your spouse or partner<br>
-▪   A family member or relative<br>
-▪   A friend<br>
-▪   A licensed trust company for property and affairs matters only (applicable for LPA Form 2)<br>
-▪   A Professional Donee who is registered as a Professional Deputy with the Office of the Public Guardian.<br>
-2. It’s important that your Donee is someone you trust and they are not bankrupt if you wish to grant them powers to manage your property and affairs.<br><br>
-3. If you’re appointing more than one person to be your Donee(s), you must decide whether they will make decisions:<br><br>
-▪   Jointly – the Donee(s) have to act together and agree on all decisions.<br>
-▪   Jointly and severally – the Donee(s) can make the decisions together or separately.<br>
-4. You can also choose to let your Donee(s) make some decisions ‘jointly’, and others ‘jointly and severally’.<br><br>
-5. When you make your LPA, you can nominate another trusted person as your Replacement Donee. The Replacement Donee will replace your appointed Donee(s) when they are unable to act on your behalf anymore.<br>
-                            </p>
+                            <ul>
+<li>Your Donee must be 21 years of age or older. They could be:</li>
+<ul>
+<li>Your spouse or partner</li>
+<li>A family member or relative</li>
+<li>A friend</li>
+<li>A licensed trust company for property and affairs matters only (applicable for LPA Form 2)</li>
+<li>A Professional Donee who is registered as a Professional Deputy with the Office of the Public Guardian.</li></ul>
+<li>It’s important that your Donee is someone you trust and they are not bankrupt if you wish to grant them powers to manage your property and affairs.</li>
+<li>If you’re appointing more than one person to be your Donee(s), you must decide whether they will make decisions:
+	<ul>
+<li>Jointly – the Donee(s) have to act together and agree on all decisions.</li>
+<li>Jointly and severally – the Donee(s) can make the decisions together or separately.</li>
+		</ul>
+</li><li>You can also choose to let your Donee(s) make some decisions ‘jointly’, and others ‘jointly and severally’.</li>
+<li>When you make your LPA, you can nominate another trusted person as your Replacement Donee. The Replacement Donee will replace your appointed Donee(s) when they are unable to act on your behalf anymore.
+                            </li>
+																	</ul>
                                 </div>
                                     </label>
                         </li>
@@ -581,16 +594,19 @@ Without an LPA, your family members or loved ones would need to apply to the Cou
                             <label for="accordion_5">
                                 <input class="toggle" id="accordion_5" name="accordion" type="radio">Who can I choose as my ACP’s nominated healthcare spokesperson(s)?
                             <div class="inner">
-                                <p>
-o   Your nominated healthcare spokesperson should be 21 years of age or older. They could be:<br><br>
-▪   Your spouse or partner<br>
-▪   A family member or relative<br>
-▪   A friend<br>
-o   It’s important that your nominated healthcare spokesperson has the mental capacity and maturity to represent and articulate your care preferences.<br><br>
-o   If you’re appointing more than one person to be your healthcare spokespersons, they should all:<br><br>
-▪   Know your care wishes very well<br>
-▪   Agree on what your care preferences are<br>
-                            </p>
+                                <ul class="circle">
+<li>Your nominated healthcare spokesperson should be 21 years of age or older. They could be:
+	<ul>
+<li>Your spouse or partner</li>
+<li>A family member or relative</li>
+<li>A friend</li>
+	</ul>
+</li><li>It’s important that your nominated healthcare spokesperson has the mental capacity and maturity to represent and articulate your care preferences.</li>
+<li>If you’re appointing more than one person to be your healthcare spokespersons, they should all:
+	<ul>
+<li>Know your care wishes very well</li>
+<li>Agree on what your care preferences are</li>
+                            </ul></li></ul>
                                 </div>
                                 </label>
                         </li>
