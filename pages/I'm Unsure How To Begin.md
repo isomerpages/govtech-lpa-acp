@@ -428,7 +428,7 @@ section.bp-section .bp-container {
     .heading::after{
     display:none;
     }
-      section.action__4 .container::after{
+      .action__4 .container::after,.action__4::before{
     display:none;
     }
         .p-lr-50{
