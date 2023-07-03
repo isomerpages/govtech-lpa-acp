@@ -337,6 +337,7 @@ ul.accordion input.toggle:checked + .inner {
     transition: all ease-in-out .3s;
         -webkit-transition: all ease-in-out .3s;
      text-indent: 0;
+	 position:relative;
 }
     .accordion ul .inner p, .accordion ul .inner li {
      font-weight: 500;
