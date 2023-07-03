@@ -187,12 +187,6 @@ section.bp-section .bp-container {
     .about_bb p {
     margin-top: 10px;
     font-size: 18px;
-}
-	.accordion ul .inner p {
-    display: flex;
-}
-.accordion ul .inner span {
-    margin-right: 15px;
 }	
 .about_a_b h2 {
     color: #1A3554;
