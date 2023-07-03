@@ -276,7 +276,7 @@ section.bp-section .bp-container {
     display: inline-block;
     width: 100%;
     line-height: 49px;
-   padding: 0 20px;
+    text-indent: 20px;
     cursor: pointer;
     font-weight: bold;
     font-size: 18px;
@@ -296,7 +296,7 @@ section.bp-section .bp-container {
     left: 0;
     right: 0;
     top: 0;
-     bottom: 0;
+    height: 55px;
     z-index: -1;
 }
 	.accordion ul .inner li strong {
@@ -342,8 +342,8 @@ section.bp-section .bp-container {
     text-align: center;
     border-radius: 50%;
     position: absolute;
-         right: 0;
-    top: -40px;
+    right: 20px;
+    top: 14px;
     color: #1A3554;
     text-indent: 0;
     line-height: 25px;
@@ -353,18 +353,18 @@ section.bp-section .bp-container {
 }
     ul.accordion input.toggle:checked + .inner {
     height: auto;
-    padding: 30px 0;
+    padding: 30px;
 }
     .accordion ul .inner {
+    overflow: hidden;
     margin-top: 0;
     background-color: #EBE7E5;
     margin-top: 6px;
     height: 0;
-    padding: 0;
+    padding: 0 30px;
     transition: all ease-in-out .3s;
         -webkit-transition: all ease-in-out .3s;
      text-indent: 0;
-	 position:relative;
 }
     .accordion ul .inner p, .accordion ul .inner li {
      font-weight: 500;
@@ -424,16 +424,6 @@ section.bp-section .bp-container {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
-		.accordion ul .inner::before {
-    content: "";
-    position: absolute;
-    left: -20px;
-    right: -20px;
-    top: 0;
-    bottom: 0;
-    background-color: #EBE7E5;
-    z-index: -1;
-}
     @media(max-width: 1024px){
     .heading::after{
     display:none;
@@ -480,10 +470,6 @@ section.bp-section .bp-container {
     background-color: #C7C6C2;
 }
     }
-		@media(max-width: 560px){
-	.accordion ul li label {
-    padding: 0 40px 0 20px;
-}
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
 	 width: 100%;
