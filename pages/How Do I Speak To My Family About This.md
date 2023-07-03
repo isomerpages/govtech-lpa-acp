@@ -254,7 +254,7 @@ section.bp-section .bp-container {
     display: inline-block;
     width: 100%;
     line-height: 49px;
-    text-indent: 20px;
+     padding: 0 20px;
     cursor: pointer;
     font-weight: bold;
     font-size: 18px;
