@@ -258,6 +258,7 @@ section.bp-section .bp-container {
     cursor: pointer;
     font-weight: bold;
     font-size: 18px;
+	background: linear-gradient(#a6d9e5, #9ac0c8);
 }
     .accordion ul li label::before {
     width: 100%;
