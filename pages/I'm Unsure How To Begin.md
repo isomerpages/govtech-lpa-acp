@@ -126,6 +126,9 @@ display: none;
     .about_a_b img {
     width: 460px;
 }
+	.video_acc .inner::after{
+	display:none!important;
+	}
 a.p-button.btn {
     border-color: #01436b;
     background-color: transparent;
