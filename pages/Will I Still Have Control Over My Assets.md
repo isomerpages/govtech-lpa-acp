@@ -485,7 +485,7 @@ padding: 0 15px;
                             <input type="radio" name="accordion" id="accordion_1" class="toggle" checked="">I don’t want to sign away my control over decisions
                             <div class="inner">
                         <ul>
-                            <p>It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.<br><br>
+                            <p>It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
                             </p><li><b>LPA</b><br>
                             <p>Making an LPA means giving your Donee(s) powers over your personal welfare and property and affairs only when you lack the mental capacity to manage your affairs. Donee(s) do not have the authority to manage your matters for you when you have or have regained mental capacity.</p><p></p></li>
                             <li><b>ACP</b><br>
@@ -529,7 +529,7 @@ padding: 0 15px;
                                 <div class="inner">
                         <ul>
                             <li>There are safeguards provided in the Mental Capacity Act to protect people who lack mental capacity:</li>
-                                <li>The Public Guardian, which is supported by the Office of the Public Guardian, has supervisory and investigative powers, including looking into alleged abuses or misuse of powers. Where the Public Guardian finds that the Donee has not behaved in the best interests of the person lacking in capacity, the Public Guardian may apply to Court to revoke the power of that Donee.
+                                <li>The Public Guardian, which is supported by the Office of the Public Guardian, has supervisory and investigative powers, including looking into alleged abuses or misuse of powers. Where the Public Guardian finds that the Donee has not behaved in the best interests of the person lacking in capacity, the Public Guardian may apply to Court to revoke the power of that Donee.<br>
                                                                         <ul>
                                 <li>The Act prohibits certain decisions (e.g. excluded decisions) from being made on behalf of persons who lack capacity.</li>
                                 <li>To encourage reporting of suspected abuse, caregivers are provided with whistle-blowing protection.</li>
@@ -587,7 +587,7 @@ padding: 0 15px;
         <div class="col-8">
             <div class="inner">
             <h2>My Legacy Vault</h2>
-            <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a href="https://mylegacy.life.gov.sg/vault/" class="read-more">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+            <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a href="https://mylegacy.life.gov.sg/vault/" class="read-more">My Legacy Vault</a> for secure storage and share them with those you trust.</p>
             </div>
         </div>
     </div>
