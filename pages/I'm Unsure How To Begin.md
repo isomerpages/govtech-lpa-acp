@@ -424,6 +424,16 @@ section.bp-section .bp-container {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
+		.accordion ul .inner::before {
+    content: "";
+    position: absolute;
+    left: -20px;
+    right: -20px;
+    top: 0;
+    bottom: 0;
+    background-color: #EBE7E5;
+    z-index: -1;
+}
     @media(max-width: 1024px){
     .heading::after{
     display:none;
