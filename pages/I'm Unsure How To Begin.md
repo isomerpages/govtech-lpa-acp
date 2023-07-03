@@ -424,11 +424,14 @@ section.bp-section .bp-container {
     background-repeat: no-repeat;
     background-image: url(https://i.imgur.com/AxzRdOk.png);
 }
-    @media(max-width: 1024px){
+    @media(max-width: 767px){
     .heading::after{
     display:none;
     }
-      .action__4 .container::after,.action__4::before{
+        section.action__4 .container{
+    display:none;
+    }
+    .action__4{
     display:none;
     }
         .p-lr-50{
@@ -438,9 +441,6 @@ section.bp-section .bp-container {
         line-height: 38px;
         font-size: 28px;
     }
-	.col.is-1.has-float-btns.is-position-relative.is-hidden-touch {
-    display: none;
-}
     html {
     overflow-x: hidden;
 }
@@ -472,12 +472,8 @@ section.bp-section .bp-container {
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
-	 width: 100%;
     padding: 0 15px;
 }
-	 .action__4 .container::after,.action__4::before{
-    display:none;
-    }
     }
     </style>
 <section class="about_ac">
