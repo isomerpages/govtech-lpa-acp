@@ -353,7 +353,7 @@ section.bp-section .bp-container {
 }
     ul.accordion input.toggle:checked + .inner {
     height: auto;
-    padding: 30px;
+    padding: 30px 0;
 }
     .accordion ul .inner {
     overflow: hidden;
@@ -361,7 +361,7 @@ section.bp-section .bp-container {
     background-color: #EBE7E5;
     margin-top: 6px;
     height: 0;
-    padding: 0 30px;
+    padding: 0;
     transition: all ease-in-out .3s;
         -webkit-transition: all ease-in-out .3s;
      text-indent: 0;
