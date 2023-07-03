@@ -460,14 +460,29 @@ padding: 0 15px;
                 <div class="inner">
                 <h2>How do I speak to<br>my family about this?</h2>
                 <p>It’s not easy to broach the topic of planning ahead, and you’re not alone! However, making arrangements can be empowering for both yourself and your loved ones.</p>
-                <p>By being prepared, your loved ones will be guided and supported when you are not able to make decisions for yourself. As they are certain about your choices, they do not need to bear the burden of making difficult decisions on your behalf during trying times.</p>
-                <p>Getting started on your Lasting Power of Attorney (LPA) and Advance Care Plan (ACP) can also be a useful exercise to reflect on your personal values and goals.</p>
                 </div>
     </div>
             <div class="col-6 about_a_b">
-                <img alt="My Legacy" src="https://i.imgur.com/if4UL7S.png">
+                <img alt="My Legacy" src="https://i.imgur.com/uW1RlCR.jpg">
     </div>
   </div>
+              <div class="row p-b-80">
+        <div class="col-6 about_a_b">
+                    <img alt="My Legacy" src="https://i.imgur.com/hPD630G.png">
+        </div>
+                <div class="col-6 about_a_b">
+                    <div class="inner">
+                    <h2>Planning ahead</h2>
+                    <p>By being prepared, your loved ones will be guided and supported when you are not able to make decisions for yourself. As they are certain about your choices, they do not need to bear the burden of making difficult decisions on your behalf during trying times.</p>
+                <p>Getting started on your Lasting Power of Attorney (LPA) and Advance Care Plan (ACP) can also be a useful exercise to reflect on your personal values and goals.</p>
+                </div>
+        </div>
+      </div>
+            <div style="position: relative;" class="row">
+                <div class="col-12 heading">
+                    <h3>Before you begin, it’s important to understand that there are two types <br>of LPA forms:</h3>
+                </div>
+            </div>
 </div>
 </section>
 
@@ -537,7 +552,7 @@ padding: 0 15px;
         <div class="col-8">
             <div class="inner">
             <h2>My Legacy Vault</h2>
-            <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+            <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy Vault</a> for secure storage and share them with those you trust.</p>
             </div>
         </div>
     </div>
