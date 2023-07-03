@@ -491,7 +491,7 @@ a.p-button.btn {
     line-height: 36px;
 }
 .action2_b p {
-    font-size: 15px;
+    font-size: 18px;
     line-height: 28px;
 }
 .action2_b a.read-more {
