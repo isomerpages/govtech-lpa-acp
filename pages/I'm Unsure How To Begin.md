@@ -470,6 +470,10 @@ section.bp-section .bp-container {
     background-color: #C7C6C2;
 }
     }
+		@media(max-width: 560px){
+	.accordion ul li label {
+    padding: 0 40px 0 20px;
+}
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
 	 width: 100%;
