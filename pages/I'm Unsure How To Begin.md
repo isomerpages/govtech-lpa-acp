@@ -472,29 +472,6 @@ section.bp-section .bp-container {
                     <h3>Before you begin, it’s important to understand that there are two types <br>of LPA forms:</h3>
                 </div>
             </div>
-            <div class="row">
-                        <div class="col-12 about_bb" style="margin-bottom:30px;">
-                            <div class="inner">
-                            <h4>LPA Form 1</h4>
-                            <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p>
-                            </div>
-                    </div>
-                </div>
-            <div class="row">
-                <div class="col-12 about_bb">
-                    <div class="inner">
-                            <h4>LPA Form 2</h4>
-                            <p>For Donors who want to:
-</p><ul>
-    <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
-    <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
-</ul>
-You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
-After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.
-<p></p>
-                    </div>
-                    </div>
-                </div>
     </div>
   </section>
     
@@ -516,7 +493,24 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
 <li>Visit the certificate issuer of your choice to certify your LPA. </li>
 <li>You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. </li>
 <li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.
-	</li></ul></li></ul></div>
+	</li>
+	</ul></li>
+			<li><strong>LPA Form 1</strong>
+          <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p></li>
+															<li> <strong>LPA Form 2</strong>
+                            <p>For Donors who want to:</p>
+																<ul>
+    <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
+    <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
+</ul>
+<p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
+After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
+		</li></ul>	<div style="margin-bottom: 60px; margin-top:30px" class="video_acc col-12">
+                <div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
+                <a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
+                </div>
+            </div>
+															</div>
                             </label>
                         </li>
                         <li>
@@ -536,20 +530,7 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                                 </div>
                                 </label>
                         </li>
-                    </ul>
-            </div>
-        </div>
-            <div class="row">
-            <div style="margin-bottom: 60px; margin-top:30px" class="video_acc col-12">
-                <div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
-                <a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
-                </div>
-            </div>
-            </div>
-                <div class="row p-lr-50">
-                <div class="col-12 accordion_b">
-                <ul class="accordion">
-                        <li>
+									<li>
                             <label for="accordion_3">
                                 <input checked="" class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
                                 <div class="inner">
@@ -640,7 +621,7 @@ The ACP is not a legal document and you do not need a lawyer to help you make on
                         </li>
                     </ul>
             </div>
-    </div>
+        </div>
 </div>
 </section>
 
