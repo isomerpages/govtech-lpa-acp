@@ -609,7 +609,7 @@ a.p-button.btn:hover {
         <div class="col-6 banner_block">
          <div class="inner u-align--center">
             <div class="image">
-              <img alt="My Legacy" src="https://i.imgur.com/5vVqE3i.png">
+              <img alt="My Legacy" src="https://i.imgur.com/AFZlBG9.png">
             </div>
             <a class="p-button btn" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Make your LPA and ACP today</a>
          </div>
