@@ -315,7 +315,7 @@ section.bp-section .bp-container {
 }
 ul.accordion input.toggle:checked + .inner {
     height: auto;
-    padding: 30px 20px;
+    padding: 30px;
 }
     .accordion ul .inner {
     overflow: hidden;
