@@ -274,7 +274,7 @@ section.bp-section .bp-container {
     left: 0;
     right: 0;
     top: 0;
-    height: 55px;
+    bottom: 0;
     z-index: -1;
 }
     a.play_btn {
