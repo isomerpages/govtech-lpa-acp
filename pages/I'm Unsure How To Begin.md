@@ -520,7 +520,7 @@ section.bp-section .bp-container {
 </ul>
 <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
 After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
-		</li></ul>	<div style="margin-bottom: 60px; margin-top:30px" class="video_acc col-12">
+		</li></ul>	<div style="margin-bottom: 60px; margin-top:30px;padding: 0 0;" class="video_acc col-12">
                 <div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
                 <a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
                 </div>
