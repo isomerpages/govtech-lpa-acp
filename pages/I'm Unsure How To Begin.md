@@ -186,6 +186,7 @@ section.bp-section .bp-container {
 }
     .about_a_b p {
     color: #1A3554;
+    font-size: 18px;
 }
     .about_bb h4 {
     color: #1A3554;
@@ -194,6 +195,7 @@ section.bp-section .bp-container {
 }
     .about_bb p {
     margin-top: 10px;
+    font-size: 18px;    
 }
     .about_a_b h2 {
     color: #1A3554;
@@ -246,6 +248,7 @@ section.bp-section .bp-container {
     text-indent: 20px;
     cursor: pointer;
     font-weight: bold;
+    font-size: 18px;
 }
     .accordion ul li label::before {
     width: 100%;
@@ -282,6 +285,7 @@ section.bp-section .bp-container {
 }   
     .about_bb p, .about_bb li, .about_bb p, .about_bb .inner {
     color: #1A3554;
+    font-size: 18px;
 }
     .video_acc .inner {
     position: relative;
@@ -321,7 +325,7 @@ section.bp-section .bp-container {
 }
     .accordion ul .inner p {
      font-weight: 500;
-    font-size: 15px;
+    font-size: 18px;
       color: #1A3554;
     margin-top: 0;
     line-height: 30px;
