@@ -194,6 +194,9 @@ section.bp-section .bp-container {
     font-weight: bold;
     font-style: italic;
 }
+	ul.accordion ul {
+    padding-left: 20px;
+}
     .action__5 a{
     color: #1A3554;
     }
