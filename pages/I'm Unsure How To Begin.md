@@ -356,7 +356,6 @@ section.bp-section .bp-container {
     padding: 30px 0;
 }
     .accordion ul .inner {
-    overflow: hidden;
     margin-top: 0;
     background-color: #EBE7E5;
     margin-top: 6px;
