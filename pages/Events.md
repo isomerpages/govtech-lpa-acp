@@ -298,6 +298,9 @@ a.p-button.btn {
     padding: 10px 30px;
     background-color: #a5ded1;
     border: 1px solid #a5ded1;
+	display: inline-block;
+    margin: 0;
+}
 }
 section.bp-section .bp-container {
     width: 100%!important;
