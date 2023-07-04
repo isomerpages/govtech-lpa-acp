@@ -457,7 +457,7 @@ padding: 0 15px;
   <div class="row p-t-80">
     <div class="col-6 about_a_b">
                 <div class="inner">
-                <h2>Will I still have control over my assets?</h2>
+                <h2>I have further concerns</h2>
                 <p>It’s understandable to be worried about the safety of your assets and the potential for abuse by your Donee(s) or loved ones. However, it’s important to understand that making an LPA and ACP does not mean that you lose control of your decision-making and assets as they can only manage your matters on your behalf when you lack the mental capacity to do so. In fact, they are helpful tools for you to regain and exercise control over what’s important to you.</p>
                 </div>
     </div>
@@ -496,7 +496,7 @@ padding: 0 15px;
                     </li>
                     <li>
                         <label for="accordion_2">
-                            <input type="radio" name="accordion" id="accordion_2" class="toggle">I’m worried that my assets will be misused
+                            <input type="radio" name="accordion" id="accordion_2" class="toggle">I’m worried that my assets will be misused when I lose mental capacity. 
                                 <div class="inner">
                         <ul>
                             <li><b>LPA</b>
@@ -587,7 +587,7 @@ padding: 0 15px;
         <div class="col-8">
             <div class="inner">
             <h2>My Legacy Vault</h2>
-            <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a href="https://mylegacy.life.gov.sg/vault/" class="read-more">My Legacy Vault</a> for secure storage and share them with those you trust.</p>
+            <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a href="https://mylegacy.life.gov.sg/vault/" class="read-more">My Legacy vault</a> for secure storage and share them with those you trust.</p>
             </div>
         </div>
     </div>
