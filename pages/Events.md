@@ -271,6 +271,9 @@ tr.bg {
     z-index: -1;
     height: 250px;
 }
+	.p-b-110{
+	padding-bottom:110px;
+	}
 .play_today p {
     margin-top: 10px;
     color: #000;
@@ -442,7 +445,7 @@ section.bp-section .bp-container {
 	</div>
   </section>
 	
-<section class="events p-t-80 p-b-80">
+<section class="events p-t-80 p-b-110">
 <div class="container">
 	<div class="row">
 		<div class="col-12 heading u-align--center m-b-60">
