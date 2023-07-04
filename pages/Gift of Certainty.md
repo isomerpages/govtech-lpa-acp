@@ -880,7 +880,7 @@ display: inline-block;
   </div>
   <div style="margin-top:60px;" class="row">
     <div class="col-12 action_bb u-align--center">
-        <h3>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. <br><a href="/i-am-unsure-how-to-begin/">Here are some ways to get started.</a></h3>
+        <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. <br><a href="/i-am-unsure-how-to-begin/">Here are some ways to get started.</a></h2>
          </div>
   </div>
 </div>    
