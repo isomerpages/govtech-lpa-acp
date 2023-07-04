@@ -337,6 +337,7 @@ width: 500px;
 .action__4 h2{
   color: #000;
   font-family: 'Playfair Display';
+	font-weight:400;
 }
 .action__4 p{
     color: #000;
@@ -430,7 +431,7 @@ ul.accordion input.toggle:checked + .inner::after {
 content: "-";
 }
     .inner > ul > li:not(:last-child) {
-margin-bottom: 30px;
+margin-bottom: 15px;
 }
 ul.accordion input.toggle:checked + .inner {
 height: auto;
