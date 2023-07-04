@@ -271,9 +271,10 @@ tr.bg {
     z-index: -1;
     height: 250px;
 }
-	.play_today p {
+.play_today p {
     margin-top: 10px;
     color: #000;
+    font-size: 16px;
 }
 	.play_today {
     padding: 30px;
