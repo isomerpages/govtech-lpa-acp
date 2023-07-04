@@ -461,6 +461,9 @@ display: none;
     font-size: 30px;
     line-height: 40px;
 }
+.feature_block .inner red {
+    background-color: #52b9a1;
+}
 a.play_btn {
     width: 80px;
     height: 80px;
@@ -649,18 +652,6 @@ display: inline-block;
 
 <div class="inner">
 
-<h3>I would like to speak to my family first</h3>
-
-<a href="/how-do-i-speak-to-my-family-about-this/"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
-
-</div>
-
-</div>
-
-<div class="feature_block col-3">
-
-<div class="inner">
-
 <h3>I have further concerns</h3>
 
 <a href="/will-i-still-have-control-over-my-assets/"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
@@ -672,6 +663,18 @@ display: inline-block;
 <div class="feature_block col-3">
 
 <div class="inner">
+
+<h3>I would like to speak to my family first</h3>
+
+<a href="/how-do-i-speak-to-my-family-about-this/"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+
+</div>
+
+</div>
+
+<div class="feature_block col-3">
+
+<div class="inner red">
 
 <h3>I’m ready to start planning</h3>
 
