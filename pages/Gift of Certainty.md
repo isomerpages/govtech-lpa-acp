@@ -717,7 +717,7 @@ display: inline-block;
 
 <h3>Lasting Power of Attorney</h3>
 
-<p>A Lasting Power of Attorney (LPA) allows you to appoint a trusted individual or individuals to make decisions on your behalf when you lose mental capacity.</p>
+<p>A Lasting Power of Attorney (LPA) allows you to appoint a trusted individual(s) to make decisions on your behalf when you lose mental capacity.</p>
 
 <a class="read_more" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney/">Read More</a>
 
