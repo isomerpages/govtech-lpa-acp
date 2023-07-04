@@ -113,7 +113,7 @@ padding-bottom: 0!important;
 }
 .accordion ul .inner span {
     margin-right: 15px;
-}	
+}   
 .m-b-80{
 margin-bottom: 80px;
 }
@@ -121,17 +121,17 @@ container-fluid{
 width: 100%;
 }
 section.bp-section.is-small.bp-section-pagetitle {
-	display: none;
+    display: none;
 }
     .about_a_b img {
     width: 460px;
 }
-	.content ul > li:last-child {
+    .content ul > li:last-child {
     margin-bottom: 0;
 }
-	.video_acc .inner::after{
-	display:none!important;
-	}
+    .video_acc .inner::after{
+    display:none!important;
+    }
 a.p-button.btn {
     border-color: #01436b;
     background-color: transparent;
@@ -209,8 +209,8 @@ section.bp-section .bp-container {
     .about_a_b h2 {
     color: #1A3554;
     font-family:'Playfair Display';
-		font-style: italic;
-		font-weight: bold;
+        font-style: italic;
+        font-weight: bold;
 }
     .heading h3 {
     margin-bottom: 30px;
@@ -228,23 +228,23 @@ section.bp-section .bp-container {
     .action_3 {
     background-color: #C8C6C3;
 }
-	.accordion h5 {
+    .accordion h5 {
     margin-top: 0;
     color: #1A3554;
 }
-	.accordion table th {
+    .accordion table th {
     color: #1A3554;
 }
-	.accordion table {
+    .accordion table {
     width: 100%;
     border: 1px solid #ddd;
     background-color: #fff;
-	margin-bottom: 30px;
+    margin-bottom: 30px;
 }
-	.content strong {
+    .content strong {
     color: #1A3554;
 }
-	.accordion h6 {
+    .accordion h6 {
     margin-top: 20px;
     line-height: 30px;
 }
@@ -299,16 +299,16 @@ section.bp-section .bp-container {
     height: 55px;
     z-index: -1;
 }
-	.accordion ul .inner li strong {
+    .accordion ul .inner li strong {
     color: #1A3554;
 }
-	.accordion ul {
+    .accordion ul {
     margin: 0!important;
 }
-	ul.accordion ul ul {
+    ul.accordion ul ul {
     padding-left: 30px;
 }
-	.inner > ul > li:not(:last-child) {
+    .inner > ul > li:not(:last-child) {
     margin-bottom: 30px;
 }
     a.play_btn {
@@ -523,7 +523,7 @@ section.bp-section .bp-container {
                                 <input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
                                 <div class="inner">
                             <ul>
-															<li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
+                                                            <li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
 <li>Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
 <li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
 <ul><br>
@@ -531,24 +531,24 @@ section.bp-section .bp-container {
 <li>Visit the certificate issuer of your choice to certify your LPA. </li>
 <li>You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. </li>
 <li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.
-	</li>
-	</ul></li>
-			<li><strong>LPA Form 1</strong>
+    </li>
+    </ul></li>
+            <li><strong>LPA Form 1</strong>
           <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p></li>
-															<li> <strong>LPA Form 2</strong>
+                                                            <li> <strong>LPA Form 2</strong>
                             <p>For Donors who want to:</p>
-																<ul>
+                                                                <ul>
     <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
     <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
 </ul><br>
 <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
 After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
-		</li></ul>	<div style="margin-bottom: 60px; margin-top:30px;padding: 0 0;" class="video_acc col-12">
+        </li></ul>  <div style="margin-bottom: 60px; margin-top:30px;padding: 0 0;" class="video_acc col-12">
                 <div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
                 <a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
                 </div>
             </div>
-															</div>
+                                                            </div>
                             </label>
                         </li>
                         <li>
@@ -563,24 +563,24 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
 <ul>
 <li>After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. </li>
 <li>Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.</li>
-<li>You may also wish to upload a soft copy of your completed ACP form in the <a href="https://mylegacy.life.gov.sg/vault/">My Legacy Vault</a> for your own records and to share them with your Trusted Persons.</li>
-															</ul></li></ul>
+<li>You may also wish to upload a soft copy of your completed ACP form in the <a href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for your own records and to share them with your Trusted Persons.</li>
+                                                            </ul></li></ul>
                                 </div>
                                 </label>
                         </li>
-									<li>
+                                    <li>
                             <label for="accordion_3">
                                 <input checked="" class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
                                 <div class="inner">
                             <ul>
-															<li><strong>LPA</strong>
+                                                            <li><strong>LPA</strong>
 <p>Without an LPA, your family members or loved ones would need to apply to the Court to become your Deputy in order to make decisions for you. This can be a lengthy, costly, and risky process as the Court may not appoint your ideal person to make decisions on your behalf. More information on deputyship application can be found <a target="_blank" href="https://judiciary.gov.sg/family/deputyship">here</a>. </p></li>
 <li><strong>LPA</strong>
-	<ul>
+    <ul>
 <li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="#">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
 <li>It can be stressful for your loved ones to predict what kind of treatment you may want. Differing views may arise which can sometimes cause disputes amongst family members.</li>
 <li>In some cases, healthcare providers may make decisions on your behalf based on their professional judgement and any available information about your medical history.</li>
-	</ul></li></ul>
+    </ul></li></ul>
                                 </div>
                                     </label>
                         </li>
@@ -598,14 +598,14 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
 <li>A Professional Donee who is registered as a Professional Deputy with the Office of the Public Guardian.</li></ul><br>
 <li>It’s important that your Donee is someone you trust and they are not bankrupt if you wish to grant them powers to manage your property and affairs.</li>
 <li>If you’re appointing more than one person to be your Donee(s), you must decide whether they will make decisions:
-	<ul>
+    <ul>
 <li>Jointly – the Donee(s) have to act together and agree on all decisions.</li>
 <li>Jointly and severally – the Donee(s) can make the decisions together or separately.</li>
-		</ul>
+        </ul>
 </li><li>You can also choose to let your Donee(s) make some decisions ‘jointly’, and others ‘jointly and severally’.</li>
 <li>When you make your LPA, you can nominate another trusted person as your Replacement Donee. The Replacement Donee will replace your appointed Donee(s) when they are unable to act on your behalf anymore.
                             </li>
-																	</ul>
+                                                                    </ul>
                                 </div>
                                     </label>
                         </li>
@@ -615,14 +615,14 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                             <div class="inner">
                                 <ul class="circle">
 <li>Your nominated healthcare spokesperson should be 21 years of age or older. They could be:
-	<ul>
+    <ul>
 <li>Your spouse or partner</li>
 <li>A family member or relative</li>
 <li>A friend</li>
-	</ul>
+    </ul>
 </li><li>It’s important that your nominated healthcare spokesperson has the mental capacity and maturity to represent and articulate your care preferences.</li>
 <li>If you’re appointing more than one person to be your healthcare spokespersons, they should all:
-	<ul>
+    <ul>
 <li>Know your care wishes very well</li>
 <li>Agree on what your care preferences are</li>
                             </ul></li></ul>
@@ -633,7 +633,7 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                             <label for="accordion_6">
                                 <input class="toggle" id="accordion_6" name="accordion" type="radio">Is it expensive to make an LPA and ACP?
                                 <div class="inner">
-<h5>Lasting Power of Attorney (LPA) Fees</h5>	
+<h5>Lasting Power of Attorney (LPA) Fees</h5>   
 <h6><strong>Table 1: Application Fees</strong></h6>
 <table>
   <tbody><tr>
@@ -651,7 +651,7 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
     <td style="text-align:center">$100</td>
     <td style="text-align:center">$250</td>
   </tr>
-	<tr>
+    <tr>
     <td>Foreigners</td>
     <td style="text-align:center">$250</td>
     <td style="text-align:center">$300</td>
@@ -706,7 +706,7 @@ The ACP is not a legal document and you do not need a lawyer to help you make on
             <div class="col-8">
                 <div class="inner">
                 <h2>My Legacy Vault</h2>
-                <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy Vault</a> for secure storage and share them with those you trust.</p>
+                <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
                 </div>
             </div>
         </div>
