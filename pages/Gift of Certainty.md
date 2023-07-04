@@ -419,6 +419,9 @@ width: 100%!important;
 max-width: 100%!important;
 padding-top: 0!important;
 }
+	.action h2 a {
+    font-size: 28px;
+}
 .action_b{
 display: flex;
 align-items: center;
