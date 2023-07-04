@@ -459,7 +459,7 @@ section.bp-section .bp-container {
 Available for: Singapore citizens aged 50 years old and above, with blue and orange CHAS cards.<br>
 					<small>*Limited slots available </small>
 </p>
-    <div class="col-12 u-align--left">
+    <div style="padding: 0" class="col-12 u-align--left">
             <a class="p-button btn" href="https://plantoday.sg">SIGN UP NOW! </a>
     </div>
 			</div>
