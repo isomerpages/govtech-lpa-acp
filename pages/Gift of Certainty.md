@@ -461,9 +461,6 @@ display: none;
     font-size: 30px;
     line-height: 40px;
 }
-.feature_block .inner red {
-    background-color: #52b9a1;
-}
 a.play_btn {
     width: 80px;
     height: 80px;
@@ -636,7 +633,7 @@ display: inline-block;
 
 <div class="row">
 
-<div class="feature_block col-3">
+<div class="feature_block col-3 red">
 
 <div class="inner">
 
@@ -674,7 +671,7 @@ display: inline-block;
 
 <div class="feature_block col-3">
 
-<div class="inner red">
+<div class="inner">
 
 <h3>I’m ready to start planning</h3>
 
