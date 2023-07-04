@@ -361,6 +361,7 @@ section.bp-section .bp-container {
 .action__4 h2{
         color: #000;
       font-family:'Playfair Display';
+	font-weight:400;
     }
     .action__4 p{
         color: #000;
