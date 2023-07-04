@@ -257,6 +257,7 @@ tr.bg {
     font-weight: 400;
     margin-bottom: 0;
 	font-family: 'Playfair Display';
+	font-style: italic;
 }
 .events::before {
     content: "";
