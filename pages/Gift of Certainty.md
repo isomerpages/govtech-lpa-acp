@@ -783,7 +783,7 @@ display: inline-block;
 
 <div class="feature_block col-3">
 
-<div class="inner">
+<div style="background-image: linear-gradient(#5ab79a,&nbsp;#5ab79a,&nbsp;#5ab79a);" class="inner">
 
 <h3>I’m ready to get started on my LPA and ACP</h3>
 
