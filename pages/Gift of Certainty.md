@@ -503,6 +503,7 @@ font-size: 42px;
 font-family: 'Playfair Display';
 color: #01436b;
 margin-bottom: 30px;
+font-weight:400;
 }
 a.p-button.btn {
 padding: 10px 30px;
