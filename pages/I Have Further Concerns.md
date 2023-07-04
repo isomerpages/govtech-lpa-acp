@@ -333,7 +333,8 @@ margin: 0;
 }
 .action__4 h2{
     color: #000;
- font-family: 'Playfair Display';
+		 font-family: 'Playfair Display';
+	font-weight:400;
 }
 .action__4 p{
     color: #000;
@@ -394,7 +395,7 @@ margin-top: -60px;
 padding-left: 30px;
 }
         .inner > ul > li:not(:last-child) {
-margin-bottom: 30px;
+margin-bottom:15px;
 }
 .about_a_b {
 display: flex;
