@@ -272,7 +272,7 @@ font-size: 18px;
 color: #1A3554;
 font-family: 'Playfair Display';
   font-style:italic;
-  font-weight: bold;
+  font-weight: 400;
 }
 .heading h3 {
 margin-bottom: 30px;
