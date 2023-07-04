@@ -673,9 +673,9 @@ display: inline-block;
 
 <div class="inner">
 
-<h3>I’m unsure who are the best people to appoint</h3>
+<h3>I’m ready to start planning</h3>
 
-<a href="#"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="https://plantoday.sg"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
