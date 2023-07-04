@@ -263,7 +263,7 @@ font-size: 18px;
 .about_a_b h2 {
 color: #1A3554;
 font-family: 'Playfair Display'!important;
-font-weight: bold;
+font-weight: 400;
 font-style: italic;
 }
 .content ul > li:last-child {
