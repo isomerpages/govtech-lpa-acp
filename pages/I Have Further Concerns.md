@@ -624,7 +624,7 @@ padding: 0 15px;
                     </li>
                     <li>
                         <label for="accordion_3">
-                            <input type="radio" name="accordion" id="accordion_3" class="toggle">I’m concerned that my loved ones will fight over my assets
+                            <input type="radio" name="accordion" id="accordion_3" class="toggle">I’m concerned that my loved ones will fight over my assets and healthcare decisions.
                                 <div class="inner">
                         <ul>
                             <li>Making an LPA and ACP can actually help reduce the likelihood of family disputes. By clearly specifying your wishes for your future healthcare and personal care needs, you can help prevent disagreements among family members.</li>
