@@ -440,7 +440,7 @@ description: ""
     <div class="container-fluid">
       <div class="row">
         <div class="col-12 banner_b u-align--center">
-        <img alt="Legacy Events" src="https://i.imgur.com/Fe1hYx7.png">
+        <img alt="Legacy Events" src="https://i.imgur.com/CI7i2Vv.png">
         </div>
       </div>
     </div>
