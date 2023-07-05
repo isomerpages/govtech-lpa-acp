@@ -404,7 +404,8 @@ description: ""
   }
     .heading h2,.play_today h3 {
       color: #000;
-    font-family:'Playfair Display';
+      font-family:'Playfair Display';
+      font-weight: 400;
   }
     .events ul {
       margin: 0;
