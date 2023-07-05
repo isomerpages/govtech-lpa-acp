@@ -398,7 +398,7 @@ description: ""
       background-color: #F6E3CE;
   }
   .event_banner img {
-      height: 500px;
+      height: 250px;
       object-fit: contain;
       object-position: bottom;
   }
