@@ -646,7 +646,7 @@ section.bp-section .bp-container {
     <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
 </ul><br>
 <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
-After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
+After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
         </li></ul>  <div style="margin-bottom: 60px; margin-top:30px;padding: 0 0;" class="video_acc col-12">
                 <div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
                 <a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
@@ -768,7 +768,7 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
     <th style="text-align:center">Fee (inc. GST)</th>
   </tr>
   <tr>
-    <td>Cancellation of <br>registration of an LPA</td>
+    <td>Cancellation of registration of an LPA</td>
     <td style="text-align:center">$25<br>(fee will be $30 with <br>effect from 1 april 2023)</td>
   </tr>
 </tbody></table>
