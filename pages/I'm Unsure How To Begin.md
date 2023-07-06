@@ -603,6 +603,10 @@ ul.accordion input.toggle:checked + .inner {
 	.accordion ul .inner::after {
     right: 5px;
 }
+		.accordion ul li label::before {
+    height: unset;
+    bottom: 0;
+}
 		.faq_sect {
     padding: 0 15px;
 }
