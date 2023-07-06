@@ -306,6 +306,9 @@ font-style: italic;
 margin-top: 10px;
 font-size: 18px;
 }
+.faq_sect {
+padding: 0 15px;
+}
 .about_bb h4 {
 color: #1A3554;
 font-weight: bold;
@@ -587,10 +590,11 @@ padding: 0 15px;
     </div>
         <div style="position: relative;" class="row">
         <div class="faq_sect">
+            <div class="inner">
             <h2>Frequently Asked Questions</h2>
             <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones the certainty of knowing your preferences should the worst happen.
             Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
-        </div>
+       </div></div>
   </div>
 </div>
 </section>
