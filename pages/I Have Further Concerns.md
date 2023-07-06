@@ -405,7 +405,7 @@ margin: 0 auto;
 margin-top: -60px;
 }
     ul.accordion ul ul {
-padding-left: 30px;
+padding-left: 45px;
 }
         .inner > ul > li:not(:last-child) {
 margin-bottom:15px;
@@ -448,7 +448,7 @@ content: "-";
 }
 ul.accordion input.toggle:checked + .inner {
 height: auto;
-padding: 30px 20px;
+padding: 45px 20px;
 }
 .accordion ul .inner {
 overflow: hidden;
