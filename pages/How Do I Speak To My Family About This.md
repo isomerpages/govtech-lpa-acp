@@ -551,6 +551,10 @@ ul.accordion input.toggle:checked + .inner {
     background: linear-gradient(#a6d9e5, #9ac0c8);
     padding: 0;
 }
+	.accordion ul li label::before {
+    height: unset;
+    bottom: 0;
+}
     section.action__4 .container{
 display:none;
 }
