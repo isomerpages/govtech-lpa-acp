@@ -420,7 +420,7 @@ section.bp-section .bp-container {
     margin: 0!important;
 }
     ul.accordion ul ul {
-    padding-left: 30px;
+    padding-left: 45px;
 }
     .inner > ul > li:not(:last-child) {
     margin-bottom:15px;
@@ -467,7 +467,7 @@ section.bp-section .bp-container {
 }
     ul.accordion input.toggle:checked + .inner {
     height: auto;
-    padding: 30px;
+    padding: 45px;
 }
     .accordion ul .inner {
     overflow: hidden;
