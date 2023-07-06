@@ -591,6 +591,10 @@ ul.accordion input.toggle:checked + .inner {
 	.accordion ul .inner::after {
     right: 5px;
 }
+		.accordion ul li label::before {
+    height: unset;
+    bottom: 0;
+}
 .accordion ul .inner {
     background: linear-gradient(#a6d9e5, #9ac0c8);
     padding: 0;
