@@ -614,7 +614,7 @@ padding: 0 15px;
             <ul class="accordion">
                     <li>
                         <label for="accordion_1">
-                            <input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">Letting loved ones know of your decisions in your LPA &amp; ACP
+                            <input class="toggle" id="accordion_1" name="accordion" type="radio">Letting loved ones know of your decisions in your LPA &amp; ACP
                             <div class="inner">
                             <p>These conversations may be difficult especially if you and your family don’t typically speak about affairs of this nature.
                             Below is a step-by-step plan on how to have these conversations. Every individual and family is different so feel free to adjust the plan accordingly.</p>
@@ -634,7 +634,7 @@ padding: 0 15px;
                     </li>
                     <li>
                     <label for="accordion_2">
-                            <input checked="" class="toggle" id="accordion_2" name="accordion" type="radio">Encouraging my parents/elderly to make their LPA &amp; ACP
+                            <input class="toggle" id="accordion_2" name="accordion" type="radio">Encouraging my parents/elderly to make their LPA &amp; ACP
                             <div class="inner">
                             <p>We understand that initiating a conversation with your parents/elderly about making an LPA and ACP can be daunting, particularly if your intentions are misunderstood or if your loved ones find the conversation as such taboo.<br>
                             Below is a step-by-step plan on how to have these conversations. Every individual and family is different so feel free to adjust the plan accordingly.</p>
