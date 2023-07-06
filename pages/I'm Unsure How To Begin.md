@@ -583,6 +583,30 @@ section.bp-section .bp-container {
     .action_3 {
     background-color: #C7C6C2;
 }
+		.accordion ul li label {
+    line-height: 29px;
+    text-indent: 0;
+    font-size: 15px;
+    background: linear-gradient(#a6d9e5, #9ac0c8);
+    padding: 0 15px;
+    padding-right: 35px;
+}
+ul.accordion input.toggle:checked + .inner {
+    padding: 15px 0;
+}
+	.accordion ul .inner p, .accordion ul .inner li {
+    font-size: 15px;
+}
+	section.accordion {
+    margin-bottom: 50px;
+}
+	.accordion ul .inner::after {
+    right: 5px;
+}
+	
+.accordion ul .inner {
+    background: linear-gradient(#a6d9e5, #9ac0c8);
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
