@@ -591,9 +591,9 @@ ul.accordion input.toggle:checked + .inner {
 	.accordion ul .inner::after {
     right: 5px;
 }
-	
 .accordion ul .inner {
     background: linear-gradient(#a6d9e5, #9ac0c8);
+    padding: 0;
 }
 }
 @media(min-width: 767px)and (max-width: 1140px){
