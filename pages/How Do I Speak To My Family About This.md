@@ -543,6 +543,7 @@ ul.accordion input.toggle:checked + .inner {
 }
 	.accordion ul .inner::after {
     right: 5px;
+	top: 5px;
 }
 	.faq_sect {
     padding: 0 15px;
