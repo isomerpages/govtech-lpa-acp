@@ -300,6 +300,16 @@ section.bp-section .bp-container {
     color: #1A3554;
     font-size: 18px;
 }
+    .faq_sect h2 {
+    color: #1A3554;
+    font-family: 'Playfair Display'!important;
+    font-weight: 400;
+    font-style: italic;
+}
+    .faq_sect p {
+    margin-top: 10px;
+    font-size: 18px;
+}
     .about_bb h4 {
     color: #1A3554;
     font-weight: bold;
@@ -610,8 +620,10 @@ section.bp-section .bp-container {
         </div>
       </div>
             <div style="position: relative;" class="row">
-                <div class="col-12 heading">
-                    <h3>Before you begin, it’s important to understand that there are two types <br>of LPA forms:</h3>
+                <div class="faq_sect">
+                    <h2>Frequently Asked Questions</h2>
+                    <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones the certainty of knowing your preferences should the worst happen.
+                    Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
                 </div>
             </div>
     </div>
@@ -801,16 +813,10 @@ The ACP is not a legal document and you do not need a lawyer to help you make on
 <section class="action__4">
     <div class="container" style="padding-top: 60px; padding-bottom: 90px">
         <div class="row p-lr-50">
-            <div class="col-12 action__b m-b-80">
-                <h4>Get started on <a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true">making a Lasting Power Of Attorney</a>.</h4>
-                <h4>Get started on <a href="https://plantoday.sg/acp.html">making an Advance Care Plan</a>.</h4>
-            </div>
-        </div>
-        <div class="row p-lr-50">
             <div class="col-8">
                 <div class="inner">
                 <h2>My Legacy Vault</h2>
-                <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy Vault</a> for secure storage and share them with those you trust.</p>
+                <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
                 </div>
             </div>
         </div>
