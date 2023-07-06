@@ -300,6 +300,16 @@ section.bp-section .bp-container {
     color: #1A3554;
     font-size: 18px;
 }
+    .faq_sect h2 {
+    color: #1A3554;
+    font-family: 'Playfair Display'!important;
+    font-weight: 400;
+    font-style: italic;
+}
+    .faq_sect p {
+    margin-top: 10px;
+    font-size: 18px;
+}
     .about_bb h4 {
     color: #1A3554;
     font-weight: bold;
@@ -410,7 +420,7 @@ section.bp-section .bp-container {
     margin: 0!important;
 }
     ul.accordion ul ul {
-    padding-left: 30px;
+    padding-left: 45px;
 }
     .inner > ul > li:not(:last-child) {
     margin-bottom:15px;
@@ -457,7 +467,7 @@ section.bp-section .bp-container {
 }
     ul.accordion input.toggle:checked + .inner {
     height: auto;
-    padding: 30px;
+    padding: 45px;
 }
     .accordion ul .inner {
     overflow: hidden;
@@ -610,13 +620,14 @@ section.bp-section .bp-container {
         </div>
       </div>
             <div style="position: relative;" class="row">
-                <div class="col-12 heading">
-                    <h3>Before you begin, it’s important to understand that there are two types <br>of LPA forms:</h3>
+                <div class="faq_sect">
+                    <h2>Frequently Asked Questions</h2>
+                    <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones the certainty of knowing your preferences should the worst happen.
+                    Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
                 </div>
             </div>
     </div>
-  </section>
-    
+  </section>   
 <section class="accordion p-t-80">
     <div class="container">
         <div class="row">
@@ -627,31 +638,27 @@ section.bp-section .bp-container {
                                 <input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
                                 <div class="inner">
                             <ul>
-                                                            <li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
-<li>Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
-<li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
-<ul>
-<li> Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
-<li>Visit the certificate issuer of your choice to certify your LPA. </li>
-<li>You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. </li>
-<li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.
-    </li>
-    </ul></li>
-            <li><strong>LPA Form 1</strong>
-          <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p></li>
-                                                            <li> <strong>LPA Form 2</strong>
-                            <p>For Donors who want to:</p>
-                                                                <ul>
-    <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
-    <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
-</ul><br>
-<p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
-After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
-        </li></ul>  <div style="margin-bottom: 60px; margin-top:30px;padding: 0 0;" class="video_acc col-12">
-                <div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
-                <a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
-                </div>
-            </div>
+                                <li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
+                                <li>Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
+                                <li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
+                                    <ul>
+                                    <li> Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
+                                    <li>Visit the certificate issuer of your choice to certify your LPA. </li>
+                                    <li>You (the ‘Donor’) and the LPA Certificate Issuer will need to digitally sign on the LPA using your Singpass app. </li>
+                                    <li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.</li>
+                                    </ul>
+                                </li>
+                                 <li><strong>LPA Form 1</strong>
+                                 <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p></li>
+                                <li> <strong>LPA Form 2</strong>
+                                <p>For Donors who want to:</p>
+                                    <ul>
+                                        <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
+                                        <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
+                                    </ul><br>
+                                <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
+                                After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
+                                   </li></ul>  
                                                             </div>
                             </label>
                         </li>
@@ -674,14 +681,14 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
                         </li>
                                     <li>
                             <label for="accordion_3">
-                                <input checked="" class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
+                                <input class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
                                 <div class="inner">
                             <ul>
                                                             <li><strong>LPA</strong>
 <p>Without an LPA, your family members or loved ones would need to apply to the Court to become your Deputy in order to make decisions for you. This can be a lengthy, costly, and risky process as the Court may not appoint your ideal person to make decisions on your behalf. More information on deputyship application can be found <a target="_blank" href="https://judiciary.gov.sg/family/deputyship">here</a>. </p></li>
-<li><strong>LPA</strong>
+<li><strong>ACP</strong>
     <ul>
-<li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="#">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
+<li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="https://mylegacy.life.gov.sg/end-of-life-planning/what-is-palliative-care/">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
 <li>It can be stressful for your loved ones to predict what kind of treatment you may want. Differing views may arise which can sometimes cause disputes amongst family members.</li>
 <li>In some cases, healthcare providers may make decisions on your behalf based on their professional judgement and any available information about your medical history.</li>
     </ul></li></ul>
@@ -768,7 +775,7 @@ After you accept the lawyer’s draft, the LPA must be sent to the <br>Donee(s) 
     <th style="text-align:center">Fee (inc. GST)</th>
   </tr>
   <tr>
-    <td>Cancellation of <br>registration of an LPA</td>
+    <td>Cancellation of registration of an LPA</td>
     <td style="text-align:center">$25<br>(fee will be $30 with <br>effect from 1 april 2023)</td>
   </tr>
 </tbody></table>
@@ -800,12 +807,6 @@ The ACP is not a legal document and you do not need a lawyer to help you make on
 
 <section class="action__4">
     <div class="container" style="padding-top: 60px; padding-bottom: 90px">
-        <div class="row p-lr-50">
-            <div class="col-12 action__b m-b-80">
-                <h4>Get started on <a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true">making a Lasting Power Of Attorney</a>.</h4>
-                <h4>Get started on <a href="https://plantoday.sg/acp.html">making an Advance Care Plan</a>.</h4>
-            </div>
-        </div>
         <div class="row p-lr-50">
             <div class="col-8">
                 <div class="inner">

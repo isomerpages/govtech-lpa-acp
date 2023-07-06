@@ -406,7 +406,7 @@ text-align: center
 .action_b p,.action_b strong {
 font-size: 22px;
 line-height: 34px;
-color: #07477B;
+color: #000;
 }
 section.bp-section {
 padding: 0;
@@ -894,7 +894,7 @@ display: inline-block;
     <div class="row">
         <div class="col-8 action2_b">
             <h2>We understand that planning ahead for the unexpected is hard to talk about. <strong><i>You are not alone</i></strong>.</h2>
-            <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can<br><a class="read-more" href="/i-would-like-to-speak-to-my-family-about-this/">start conversations with your family.</a></p>
+            <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can<br><a class="read-more" href="/how-do-i-speak-to-my-family-about-this/">start conversations with your family.</a></p>
         </div>
     </div>
         <div class="row p-t-80 action__5">

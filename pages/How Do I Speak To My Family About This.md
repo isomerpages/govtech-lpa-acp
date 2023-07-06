@@ -302,6 +302,16 @@ font-family: 'Playfair Display'!important;
 font-weight: 400;
 font-style: italic;
 }
+.faq_sect h2 {
+color: #1A3554;
+font-family: 'Playfair Display'!important;
+font-weight: 400;
+font-style: italic;
+}
+.faq_sect p {
+margin-top: 10px;
+font-size: 18px;
+}
 .content ul > li:last-child {
 margin-bottom: 0;
 }
@@ -435,7 +445,7 @@ margin-bottom: 15px;
 }
 ul.accordion input.toggle:checked + .inner {
 height: auto;
-padding: 30px 20px;
+padding: 45px 20px;
 }
 .accordion ul .inner {
 overflow: hidden;
@@ -588,61 +598,111 @@ padding: 0 15px;
         </div>
       </div>
             <div style="position: relative;" class="row">
-                <div class="col-12 heading">
-                    <h3>Before you begin, it’s important to understand that there are two types <br>of LPA forms:</h3>
+                <div class="faq_sect">
+                    <h2>Frequently Asked Questions</h2>
+                    <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones the certainty of knowing your preferences should the worst happen.
+                    Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
                 </div>
             </div>
 </div>
 </section>
-
 <section class="accordion p-t-80">
 <div class="container">
-        <div class="row">
-        <div style="margin-bottom: 60px" class="video_acc col-12">
-            <div style="height: 460px; background-color:#ddd; border-radius:30px" class="inner">
-            <a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
-            </div>
-        </div>
-        </div>
             <div class="row p-lr-50">
             <div class="col-12 accordion_b">
             <ul class="accordion">
                     <li>
                         <label for="accordion_1">
-                            <input checked="" class="toggle" id="accordion_1" name="accordion" type="radio">My parents have yet to make an LPA and ACP
+                            <input class="toggle" id="accordion_1" name="accordion" type="radio">Letting loved ones know of your decisions in your LPA &amp; ACP
                             <div class="inner">
-                                                                <ul>
-                                                                <li>Initiating a conversation with your parents about making an LPA and ACP can be daunting, particularly if your intentions aren't clear from the start. To begin, emphasise the significance of this process and the benefits it can have on the family. The initial conversation doesn't have to revolve immediately around their assets or care preferences. Instead, broach the topic empathetically, allowing your family to share their thoughts and concerns. An open and understanding atmosphere lays the groundwork for a productive conversation about the process.</li>
-                            <li>Over a series of open conversations, you’ll find that it may become easier to discuss more difficult topics such as their estate planning and how they’d like to be cared for if they lose mental capacity. If you belong to a large family, it’s also important to include your siblings in the discussions to ensure that it becomes an effective conversation and everyone is aligned.
-                        </li>
-                                                                </ul>
+                            <p>These conversations may be difficult especially if you and your family don’t typically speak about affairs of this nature.</p>
+                            <p>Below is a step-by-step plan on how to have these conversations. Every individual and family is different so feel free to adjust the plan accordingly.</p>
+                                <ul>
+                                    <li><strong>Plan Your Setting</strong><br>
+                                        <p>Schedule a quiet moment with your loved ones letting them know the agenda. This allows them to be in the right headspace to discuss the matter instead of brushing the conversation aside. Be sure to give them context ahead of time so that they aren’t anxious about the conversation.</p>
+                                    </li>
+                                    <li><strong>Share Your Motivation</strong><br>
+                                    <p>It is often helpful to share a personal story of something you know or a story you heard to set the context. It is important to share that making an LPA &amp; ACP is for yourself and for your loved ones. It gives you more control of your life and guidance to your loved ones to prevent future misunderstandings. It is also recommended that you list down your thoughts and motivations on paper ahead of time in case the conversation gets too emotional and things are left unsaid.</p>
+                                    </li>
+                                    <li><strong>Interest Them To Do It Too</strong><br>
+                                    <p>It is easier for your loved ones to understand why it's important to you when they put themselves in your position. You can even get your LPA and ACP certified together. It is important to let your loved ones also know that a certified practitioner will advise them should they have any questions and that the decisions made can be changed at any time as long as one is still of sound mind.</p>
+                                    </li>
+                                </ul>
                             </div>
                         </label>
                     </li>
                     <li>
-                        <label for="accordion_2">
-                            <input class="toggle" id="accordion_2" name="accordion" type="radio">I have yet to discuss with my family about my LPA and ACP
-                        <div class="inner">
-                                                        <ul>
-                            <li>It’s not easy to discuss future planning matters with your family, especially since talking about losing mental capacity can be an uncomfortable conversation to have. It’s crucial to begin the discussion by explaining your intentions and the benefits of planning for it early.</li>
-                           <li>Your conversations with your family have to be honest and open about your values and preferences for medical care. A close relationship with them does not guarantee that they are clear about what you want.</li>
-                           <li>It is crucial to keep your family informed whenever there are changes in your LPA or ACP so they can stay up to date with what you want as you age.</li>
-                                                            </ul>
+                    <label for="accordion_2">
+                            <input class="toggle" id="accordion_2" name="accordion" type="radio">Encouraging my parents/elderly to make their LPA &amp; ACP
+                            <div class="inner">
+                            <p>We understand that initiating a conversation with your parents/elderly about making an LPA and ACP can be daunting, particularly if your intentions are misunderstood or if your loved ones find the conversation as such taboo.</p>
+                            <p>Below is a step-by-step plan on how to have these conversations. Every individual and family is different so feel free to adjust the plan accordingly.</p>
+                                <ul>
+                                    <li><strong>Go through the process yourself</strong><br>
+                                        <p>It is helpful for you to better understand the process and what to discuss after having done it yourself. Go through the online forms first to get a sense of the decisions to be made and at the same time, discover whether your choices might be aligned with your family's expectations. This exercise may help you and your loved ones better understand why these conversations are necessary.</p>
+                                    </li>
+                                    <li><strong>Plan Your Setting</strong><br>
+                                    <p>Schedule a quiet moment with your loved ones letting them know the agenda. This allows them to be in the right headspace to discuss the matter instead of brushing the conversation aside. Be sure to give them context ahead of time so that they aren’t anxious about the conversation.</p>
+                                    </li>
+                                    <li><strong>Focus on the Gift of Certainty</strong><br>
+                                    <p>Your loved ones may be more receptive to the idea if they understand how this affects them personally, and how it also affects their family and loved ones. Making their LPA and ACP allows them to have more control over their affairs and well-being should they lose their mental capacity. They also help their family by participating in the decision-making now, when they are of sound mind. By doing so, they could help to alleviate guilt and financial stress that often leads to family quarrels and misunderstandings.
+                                    </p>
+                                    </li>
+                                    <li><strong>Get Certified Together</strong><br>
+                                    <p>Make time to book an appointment for your loved ones and show up together if it's appropriate. Make it a family day out to reward yourselves for giving each other the Gift of Certainty. It’s important to note that your LPA and ACP can be amended again at any time as long as one is of sound mind.
+                                    </p>
+                                    </li>
+                                </ul>
                             </div>
                         </label>
                     </li>
                     <li>
                         <label for="accordion_3">
-                            <input class="toggle" id="accordion_3" name="accordion" type="radio">I am single and I do not have anyone in mind to nominate.
+                            <input class="toggle" id="accordion_3" name="accordion" type="radio">Common Concerns &amp; Misconceptions
                             <div class="inner">
-                                                                <ul>
-                        <li>It is a common misconception that you can only involve immediate family members in your LPA and ACP. It is encouraged to discuss your healthcare preferences and values with people who know you best, and sometimes these individuals may not be your direct family members.</li>
-                        <li>Your Donee(s) (LPA) and nominated healthcare spokesperson(s) (ACP) can be your family member or relative. In the event that you do not have a family member to appoint as your Donee, you may appoint others such as a friend, Professional Donee or a licensed trust company for property and affairs matters only (applicable LPA Form 2). What matters most is that these chosen individuals know you well and will prioritise your care preferences and beliefs.</li>
-                        <li>It is crucial that these chosen individuals have the ability to communicate your values and care preferences to the healthcare team and other loved ones. They must also be able to handle the responsibility of enforcing your known care wishes in stressful situations.</li>
-                                                                    </ul>
+                            <p>It's not unusual to feel doubtful about the intentions of others, especially when it comes to talking about touchy matters like assets and financial powers.
+                            Learning how to communicate appropriately with your loved ones is essential in mitigating conflict arising between relationships. 
+                            </p></div>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="accordion_4">
+                            <input class="toggle" id="accordion_4" name="accordion" type="radio">If I lose my mental capacity, my family members can easily act on my behalf even without an LPA
+                            <div class="inner">
+                            <p>This is untrue. When one loses the mental capacity to make decisions for themselves, their family members do not automatically gain the right to be their Lasting Power of Attorney.</p>
+                           <p>In order to act on your behalf in controlling your assets, your loved ones may need to engage a lawyer and be granted the rights in court. This process may be financially and emotionally draining and often take months or years.</p>
+                           <p>In some cases, one may wish for their donee to be a relative or friend instead of an immediate family member. Making an LPA allows you to decide for yourself.</p>
                             </div>
                         </label>
                     </li>
+                    <li>
+                        <label for="accordion_5">
+                            <input class="toggle" id="accordion_5" name="accordion" type="radio">My donee(s) can easily gain control of my assets and decision-making powers
+                            <div class="inner">
+                            <p>This is untrue. In order for your Lasting Power of Attorney (LPA) or Advance Care Plan (ACP) to come into effect, it is required that a certified medical professional declare that you have lost your mental capacity. Your appointed Donee(s) or family members are not able to decide when your LPA and ACP come into effect.</p>
+                           <p>In the making of your LPA, you are also able to set monetary limits or give limited control to your Donee(s) such that they are only allowed to manage what you allow. You can also clarify any doubts with your LPA Certificate Issuer when making an LPA.
+                            </p>
+                            </div>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="accordion_6">
+                            <input class="toggle" id="accordion_6" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA) or Advance Care Plan (ACP) is for the wealthy or those of more senior ages
+                            <div class="inner">
+                            <p>This is untrue. Singapore citizens and residents are encouraged to make both their LPA and ACP as long as they are above 21 years of age.
+                            </p>
+                           <p>You can always update it in the future should your wishes change. We do not know what may happen to us and it is best to plan ahead so that we do not burden our loved ones with uncertainty and additional financial stress should they need to:
+                            </p>
+                            <ul>
+                                <li>i. access your bank accounts to pay for your care/responsibilities;</li>
+                                <li>ii. sell your property to reduce/remove your mortgage responsibilities;</li>
+                                <li>iii. know your healthcare preferences; or</li>
+                                <li>iv. a combination of the above and more</li>
+                            </ul>
+                            <p>By making your LPA and ACP, you can choose who can act on your behalf and set limits to what they are able to control and access.</p>
+                            </div>
+                        </label>
+                    </li>                    
                 </ul>
         </div>
 </div>
@@ -651,12 +711,6 @@ padding: 0 15px;
 
 <section class="action__4">
 <div class="container" style="padding-top: 60px; padding-bottom: 90px">
-    <div class="row p-lr-50">
-        <div class="col-12 action__b m-b-80">
-            <h4>Get started on <a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true">making a Lasting Power Of Attorney</a>.</h4>
-            <h4>Get started on <a href="https://plantoday.sg/acp.html">making an Advance Care Plan</a>.</h4>
-        </div>
-    </div>
     <div class="row p-lr-50 action__5">
         <div class="col-8">
             <div class="inner">

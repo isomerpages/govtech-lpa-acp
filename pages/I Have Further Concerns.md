@@ -296,6 +296,19 @@ border-radius: 25px;
 .about_a_b img {
 width: 500px;
 }
+.faq_sect h2 {
+color: #1A3554;
+font-family: 'Playfair Display'!important;
+font-weight: 400;
+font-style: italic;
+}
+.faq_sect p {
+margin-top: 10px;
+font-size: 18px;
+}
+.faq_sect {
+padding: 0 20px;
+}
 .about_bb h4 {
 color: #1A3554;
 font-weight: bold;
@@ -392,7 +405,7 @@ margin: 0 auto;
 margin-top: -60px;
 }
     ul.accordion ul ul {
-padding-left: 30px;
+padding-left: 45px;
 }
         .inner > ul > li:not(:last-child) {
 margin-bottom:15px;
@@ -435,7 +448,7 @@ content: "-";
 }
 ul.accordion input.toggle:checked + .inner {
 height: auto;
-padding: 30px 20px;
+padding: 45px 20px;
 }
 .accordion ul .inner {
 overflow: hidden;
@@ -566,33 +579,33 @@ padding: 0 15px;
 <div class="container">
   <div class="row p-t-80">
     <div class="col-6 about_a_b">
-                <div class="inner">
-                <h2>I have further concerns</h2>
-                <p>It’s understandable to be worried about the safety of your assets and the potential for abuse by your Donee(s) or loved ones. However, it’s important to understand that making an LPA and ACP does not mean that you lose control of your decision-making and assets as they can only manage your matters on your behalf when you lack the mental capacity to do so. In fact, they are helpful tools for you to regain and exercise control over what’s important to you.</p>
-                </div>
+        <div class="inner">
+            <h2>I have further concerns</h2>
+            <p>It’s understandable to be worried about the safety of your assets and the potential for abuse by your Donee(s) or loved ones. However, it’s important to understand that making an LPA and ACP does not mean that you lose control of your decision-making and assets as they can only manage your matters on your behalf when you lack the mental capacity to do so. In fact, they are helpful tools for you to regain and exercise control over what’s important to you.</p>
+        </div>
     </div>
-            <div class="col-6 about_a_b">
-                <img src="https://i.imgur.com/if4UL7S.png" alt="The Legacy">
+    <div class="col-6 about_a_b">
+        <img src="https://i.imgur.com/if4UL7S.png" alt="The Legacy">
     </div>
+    </div>
+        <div style="position: relative;" class="row">
+        <div class="faq_sect">
+            <div class="inner">
+            <h2>Frequently Asked Questions</h2>
+            <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones the certainty of knowing your preferences should the worst happen.
+            Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
+       </div></div>
   </div>
 </div>
 </section>
-
 <section class="accordion p-t-80">
 <div class="container">
-        <div class="row">
-        <div class="video_acc col-12" style="margin-bottom: 60px">
-            <div class="inner" style="height: 560px; background-color:#c5c3c3; border-radius:30px">
-            <a href="#" class="play_btn"><img src="https://i.imgur.com/gm1Wmuu.png" alt="The Legacy"></a>
-            </div>
-        </div>
-        </div>
             <div class="row p-lr-50">
             <div class="col-12 accordion_b">
             <ul class="accordion">
                     <li>
                         <label for="accordion_1">
-                            <input type="radio" name="accordion" id="accordion_1" class="toggle" checked="">I don’t want to sign away my control over decisions
+                            <input type="radio" name="accordion" id="accordion_1" class="toggle">I don’t want to sign away my control over decisions
                             <div class="inner">
                         <ul>
                             <p>It’s a common misconception that making an LPA and ACP means signing away your autonomy and assets, but that’s not the case.
@@ -624,7 +637,7 @@ padding: 0 15px;
                     </li>
                     <li>
                         <label for="accordion_3">
-                            <input type="radio" name="accordion" id="accordion_3" class="toggle">I’m concerned that my loved ones will fight over my assets
+                            <input type="radio" name="accordion" id="accordion_3" class="toggle">I’m concerned that my loved ones will fight over my assets and healthcare decisions.
                                 <div class="inner">
                         <ul>
                             <li>Making an LPA and ACP can actually help reduce the likelihood of family disputes. By clearly specifying your wishes for your future healthcare and personal care needs, you can help prevent disagreements among family members.</li>
@@ -688,10 +701,6 @@ padding: 0 15px;
 <section class="action__4">
 <div style="padding-top: 60px; padding-bottom: 90px" class="container">
     <div class="row p-lr-50">
-        <div class="col-12 action__b m-b-80">
-            <h4>Get started on <a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true">making a Lasting Power Of Attorney</a>.</h4>
-            <h4>Get started on <a href="https://plantoday.sg/acp.html">making an Advance Care Plan</a>.</h4>
-        </div>
     </div>
     <div class="row p-lr-50">
         <div class="col-8">
