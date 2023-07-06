@@ -668,7 +668,7 @@ padding: 0 15px;
                     </li>
                     <li>
                         <label for="accordion_4">
-                            <input class="toggle" id="accordion_4" name="accordion" type="radio">If I lose my mental capacity, my family members can easily act on my behalf even without an LPA.
+                            <input class="toggle" id="accordion_4" name="accordion" type="radio">If I lose my mental capacity, my family members can easily act on my behalf even without an LPA
                             <div class="inner">
                             <p>This is untrue. When one loses the mental capacity to make decisions for themselves, their family members do not automatically gain the right to be their Lasting Power of Attorney.</p>
                            <p>In order to act on your behalf in controlling your assets, your loved ones may need to engage a lawyer and be granted the rights in court. This process may be financially and emotionally draining and often take months or years.</p>
@@ -678,7 +678,7 @@ padding: 0 15px;
                     </li>
                     <li>
                         <label for="accordion_5">
-                            <input class="toggle" id="accordion_5" name="accordion" type="radio">My donee(s) can easily gain control of my assets and decision-making powers.
+                            <input class="toggle" id="accordion_5" name="accordion" type="radio">My donee(s) can easily gain control of my assets and decision-making powers
                             <div class="inner">
                             <p>This is untrue. In order for your Lasting Power of Attorney (LPA) or Advance Care Plan (ACP) to come into effect, it is required that a certified medical professional declare that you have lost your mental capacity. Your appointed Donee(s) or family members are not able to decide when your LPA and ACP come into effect.</p>
                            <p>In the making of your LPA, you are also able to set monetary limits or give limited control to your Donee(s) such that they are only allowed to manage what you allow. You can also clarify any doubts with your LPA Certificate Issuer when making an LPA.
@@ -688,7 +688,7 @@ padding: 0 15px;
                     </li>
                     <li>
                         <label for="accordion_6">
-                            <input class="toggle" id="accordion_6" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA) or Advance Care Plan (ACP) is for the wealthy or those of more senior ages.
+                            <input class="toggle" id="accordion_6" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA) or Advance Care Plan (ACP) is for the wealthy or those of more senior ages
                             <div class="inner">
                             <p>This is untrue. Singapore citizens and residents are encouraged to make both their LPA and ACP as long as they are above 21 years of age.
                             </p>
