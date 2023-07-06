@@ -670,7 +670,7 @@ padding: 0 15px;
                         <label for="accordion_4">
                             <input class="toggle" id="accordion_4" name="accordion" type="radio">If I lose my mental capacity, my family members can easily act on my behalf even without an LPA.
                             <div class="inner">
-                            <p>This is untrue. When one loses the mental capacity to make decisions for themselves, their family members do not automatically gain the right to be their lasting power of attorney.</p>
+                            <p>This is untrue. When one loses the mental capacity to make decisions for themselves, their family members do not automatically gain the right to be their Lasting Power of Attorney.</p>
                            <p>In order to act on your behalf in controlling your assets, your loved ones may need to engage a lawyer and be granted the rights in court. This process may be financially and emotionally draining and often take months or years.</p>
                            <p>In some cases, one may wish for their donee to be a relative or friend instead of an immediate family member. Making an LPA allows you to decide for yourself.</p>
                             </div>
