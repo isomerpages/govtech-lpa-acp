@@ -688,10 +688,6 @@ padding: 0 15px;
 <section class="action__4">
 <div style="padding-top: 60px; padding-bottom: 90px" class="container">
     <div class="row p-lr-50">
-        <div class="col-12 action__b m-b-80">
-            <h4>Get started on <a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true">making a Lasting Power Of Attorney</a>.</h4>
-            <h4>Get started on <a href="https://plantoday.sg/acp.html">making an Advance Care Plan</a>.</h4>
-        </div>
     </div>
     <div class="row p-lr-50">
         <div class="col-8">
