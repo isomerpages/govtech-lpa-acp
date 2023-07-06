@@ -695,9 +695,9 @@ padding: 0 15px;
                            <p>You can always update it in the future should your wishes change. We do not know what may happen to us and it is best to plan ahead so that we do not burden our loved ones with uncertainty and additional financial stress should they need to:
                             </p>
                             <ul>
-                                <li>i. Access your bank accounts to pay for your care/responsibilities.</li>
-                                <li>ii. Sell your property to reduce/remove your mortgage responsibilities.</li>
-                                <li>iii. Know your healthcare preferences</li>
+                                <li>i. access your bank accounts to pay for your care/responsibilities;</li>
+                                <li>ii. sell your property to reduce/remove your mortgage responsibilities;</li>
+                                <li>iii. know your healthcare preferences; or</li>
                                 <li>iv. a combination of the above and more</li>
                             </ul>
                             <p>By making your LPA and ACP, you can choose who can act on your behalf and set limits to what they are able to control and access.</p>
