@@ -576,25 +576,24 @@ padding: 0 15px;
 <div class="container">
   <div class="row p-t-80">
     <div class="col-6 about_a_b">
-                <div class="inner">
-                <h2>I have further concerns</h2>
-                <p>It’s understandable to be worried about the safety of your assets and the potential for abuse by your Donee(s) or loved ones. However, it’s important to understand that making an LPA and ACP does not mean that you lose control of your decision-making and assets as they can only manage your matters on your behalf when you lack the mental capacity to do so. In fact, they are helpful tools for you to regain and exercise control over what’s important to you.</p>
-                </div>
+        <div class="inner">
+            <h2>I have further concerns</h2>
+            <p>It’s understandable to be worried about the safety of your assets and the potential for abuse by your Donee(s) or loved ones. However, it’s important to understand that making an LPA and ACP does not mean that you lose control of your decision-making and assets as they can only manage your matters on your behalf when you lack the mental capacity to do so. In fact, they are helpful tools for you to regain and exercise control over what’s important to you.</p>
+        </div>
     </div>
-            <div class="col-6 about_a_b">
-                <img src="https://i.imgur.com/if4UL7S.png" alt="The Legacy">
+    <div class="col-6 about_a_b">
+        <img src="https://i.imgur.com/if4UL7S.png" alt="The Legacy">
+    </div>
+    <div style="position: relative;" class="row">
+        <div class="faq_sect">
+            <h2>Frequently Asked Questions</h2>
+            <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones the certainty of knowing your preferences should the worst happen.
+            Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
+        </div>
     </div>
   </div>
 </div>
-            <div style="position: relative;" class="row">
-                <div class="faq_sect">
-                    <h2>Frequently Asked Questions</h2>
-                    <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones the certainty of knowing your preferences should the worst happen.
-                    Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
-                </div>
-            </div>
 </section>
-
 <section class="accordion p-t-80">
 <div class="container">
             <div class="row p-lr-50">
