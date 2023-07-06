@@ -590,6 +590,7 @@ ul.accordion input.toggle:checked + .inner {
 }
 	.accordion ul .inner::after {
     right: 5px;
+		top: 5px;
 }
 		.accordion ul li label::before {
     height: unset;
