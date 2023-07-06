@@ -787,7 +787,7 @@ display: inline-block;
 
 <div class="feature_block col-3">
 
-<div style="background: linear-gradient(#5ab79a, #5ab79a, #5ab79a);" class="inner">
+<div style="background: linear-gradient(#325647, #325647, #325647);" class="inner">
 
 <h3>I’m ready to get started on my LPA and ACP</h3>
 
@@ -799,35 +799,9 @@ display: inline-block;
 
 </div>
 
-<div style="margin-top: 60px" class="row">
-
-<div class="feature_video col-12">
-
-<div class="video_">
-
-<img alt="My Legacy" src="https://i.imgur.com/JNFsEAb.png">
-
-<a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
-
-</div>
-
-</div>
-
-</div>
-
-
-
 <div class="row m-t-30">
 
 <div class="feature_video col-6">
-
-<div class="video_">
-
-<img alt="My Legacy" src="https://i.imgur.com/yZpNg1M.png">
-
-<a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
-
-</div>
 
 <div class="content_">
 
@@ -842,14 +816,6 @@ display: inline-block;
 </div>
 
 <div class="feature_video col-6">
-
-<div class="video_">
-
-<img alt="My Legacy" src="https://i.imgur.com/J58JP0R.png">
-
-<a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
-
-</div>
 
 <div class="content_">
 
