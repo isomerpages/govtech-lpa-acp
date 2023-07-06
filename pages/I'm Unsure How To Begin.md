@@ -639,27 +639,28 @@ section.bp-section .bp-container {
                                 <input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
                                 <div class="inner">
                             <ul>
-                                                            <li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
-<li>Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
-<li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
-<ul>
-<li> Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
-<li>Visit the certificate issuer of your choice to certify your LPA. </li>
-<li>You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. </li>
-<li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.
-    </li>
-    </ul></li>
-            <li><strong>LPA Form 1</strong>
-          <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p></li>
-                                                            <li> <strong>LPA Form 2</strong>
-                            <p>For Donors who want to:</p>
-                                                                <ul>
-    <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
-    <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
-</ul><br>
-<p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
-After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
-        </li></ul>  <div style="margin-bottom: 60px; margin-top:30px;padding: 0 0;" class="video_acc col-12">
+                                <li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
+                                <li>Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
+                                <li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
+                                    <ul>
+                                    <li> Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
+                                    <li>Visit the certificate issuer of your choice to certify your LPA. </li>
+                                    <li>You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. </li>
+                                    <li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.</li>
+                                    </ul>
+                                </li>
+                                 <li><strong>LPA Form 1</strong>
+                                 <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p></li>
+                                <li> <strong>LPA Form 2</strong>
+                                <p>For Donors who want to:</p>
+                                    <ul>
+                                        <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
+                                        <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
+                                    </ul><br>
+                                <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
+                                After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
+                                   </li></ul>  
+        <div style="margin-bottom: 60px; margin-top:30px;padding: 0 0;" class="video_acc col-12">
                 <div style="height: 560px; background-color:#c5c3c3; border-radius:30px" class="inner">
                 <a class="play_btn" href="#"><img alt="My Legacy" src="https://i.imgur.com/gm1Wmuu.png"></a>
                 </div>
@@ -686,7 +687,7 @@ After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and 
                         </li>
                                     <li>
                             <label for="accordion_3">
-                                <input checked="" class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
+                                <input class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
                                 <div class="inner">
                             <ul>
                                                             <li><strong>LPA</strong>
