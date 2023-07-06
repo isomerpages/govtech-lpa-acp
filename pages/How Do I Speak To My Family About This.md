@@ -616,8 +616,8 @@ padding: 0 15px;
                         <label for="accordion_1">
                             <input class="toggle" id="accordion_1" name="accordion" type="radio">Letting loved ones know of your decisions in your LPA &amp; ACP
                             <div class="inner">
-                            <p>These conversations may be difficult especially if you and your family don’t typically speak about affairs of this nature.
-                            Below is a step-by-step plan on how to have these conversations. Every individual and family is different so feel free to adjust the plan accordingly.</p>
+                            <p>These conversations may be difficult especially if you and your family don’t typically speak about affairs of this nature.</p>
+                            <p>Below is a step-by-step plan on how to have these conversations. Every individual and family is different so feel free to adjust the plan accordingly.</p>
                                 <ul>
                                     <li><strong>Plan Your Setting</strong><br>
                                         <p>Schedule a quiet moment with your loved ones letting them know the agenda. This allows them to be in the right headspace to discuss the matter instead of brushing the conversation aside. Be sure to give them context ahead of time so that they aren’t anxious about the conversation.</p>
@@ -636,8 +636,8 @@ padding: 0 15px;
                     <label for="accordion_2">
                             <input class="toggle" id="accordion_2" name="accordion" type="radio">Encouraging my parents/elderly to make their LPA &amp; ACP
                             <div class="inner">
-                            <p>We understand that initiating a conversation with your parents/elderly about making an LPA and ACP can be daunting, particularly if your intentions are misunderstood or if your loved ones find the conversation as such taboo.<br>
-                            Below is a step-by-step plan on how to have these conversations. Every individual and family is different so feel free to adjust the plan accordingly.</p>
+                            <p>We understand that initiating a conversation with your parents/elderly about making an LPA and ACP can be daunting, particularly if your intentions are misunderstood or if your loved ones find the conversation as such taboo.</p>
+                            <p>Below is a step-by-step plan on how to have these conversations. Every individual and family is different so feel free to adjust the plan accordingly.</p>
                                 <ul>
                                     <li><strong>Go through the process yourself</strong><br>
                                         <p>It is helpful for you to better understand the process and what to discuss after having done it yourself. Go through the online forms first to get a sense of the decisions to be made and at the same time, discover whether your choices might be aligned with your family's expectations. This exercise may help you and your loved ones better understand why these conversations are necessary.</p>
