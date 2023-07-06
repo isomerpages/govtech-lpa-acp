@@ -576,6 +576,9 @@ background-color: #C7C6C2;
     padding: 0 15px;
     padding-right: 35px;
 }
+		.faq_sect {
+    padding: 0 15px;
+}
 ul.accordion input.toggle:checked + .inner {
     padding: 15px 0;
 }
