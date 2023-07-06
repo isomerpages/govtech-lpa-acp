@@ -445,7 +445,7 @@ margin-bottom: 15px;
 }
 ul.accordion input.toggle:checked + .inner {
 height: auto;
-padding: 30px 20px;
+padding: 45px 20px;
 }
 .accordion ul .inner {
 overflow: hidden;
@@ -606,7 +606,6 @@ padding: 0 15px;
             </div>
 </div>
 </section>
-
 <section class="accordion p-t-80">
 <div class="container">
             <div class="row p-lr-50">
