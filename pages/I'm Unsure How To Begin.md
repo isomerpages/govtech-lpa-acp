@@ -688,7 +688,7 @@ section.bp-section .bp-container {
 <p>Without an LPA, your family members or loved ones would need to apply to the Court to become your Deputy in order to make decisions for you. This can be a lengthy, costly, and risky process as the Court may not appoint your ideal person to make decisions on your behalf. More information on deputyship application can be found <a target="_blank" href="https://judiciary.gov.sg/family/deputyship">here</a>. </p></li>
 <li><strong>ACP</strong>
     <ul>
-<li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="#">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
+<li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="https://mylegacy.life.gov.sg/end-of-life-planning/what-is-palliative-care/">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
 <li>It can be stressful for your loved ones to predict what kind of treatment you may want. Differing views may arise which can sometimes cause disputes amongst family members.</li>
 <li>In some cases, healthcare providers may make decisions on your behalf based on their professional judgement and any available information about your medical history.</li>
     </ul></li></ul>
