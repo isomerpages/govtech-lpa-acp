@@ -307,7 +307,7 @@ margin-top: 10px;
 font-size: 18px;
 }
 .faq_sect {
-padding: 0 15px;
+padding: 0 20px;
 }
 .about_bb h4 {
 color: #1A3554;
