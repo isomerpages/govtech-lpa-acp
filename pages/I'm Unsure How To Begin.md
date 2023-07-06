@@ -641,11 +641,11 @@ section.bp-section .bp-container {
                             <ul>
                                 <li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
                                 <li>Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
-                                <li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA certificate issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
+                                <li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
                                     <ul>
                                     <li> Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
                                     <li>Visit the certificate issuer of your choice to certify your LPA. </li>
-                                    <li>You (the ‘Donor’) and the LPA certificate issuer will need to digitally sign on the LPA using your Singpass app. </li>
+                                    <li>You (the ‘Donor’) and the LPA Certificate Issuer will need to digitally sign on the LPA using your Singpass app. </li>
                                     <li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.</li>
                                     </ul>
                                 </li>
