@@ -11,6 +11,9 @@ sections:
   - hero:
       background: /images/pt_banner_bg.png
       key_highlights:
+        - title: Find out more
+          description: About LPA & ACP and how to get started.
+          url: www.giftofcertainty.gov.sg/home
         - title: Upcoming events
           description: Learn more about LPA and ACP at our talks. See our upcoming events
             here.
