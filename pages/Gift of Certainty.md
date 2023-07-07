@@ -456,6 +456,7 @@ background-position: bottom right;
 background-size: contain;
 background-repeat: no-repeat;
 z-index: 11;
+	pointer-events: none;
 }
 section.action_::after {
 content: "";
