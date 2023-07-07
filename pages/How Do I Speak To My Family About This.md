@@ -524,6 +524,12 @@ background-image: url(https://i.imgur.com/AxzRdOk.png);
 .heading::after{
 display:none;
 }
+	.container {
+    padding: 0;
+}
+	.col.is-8.is-offset-2.print-content {
+    padding: 0.75rem;
+}
 		.accordion ul li label {
     line-height: 29px;
     text-indent: 0;
