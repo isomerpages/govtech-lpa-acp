@@ -600,6 +600,7 @@ ul.accordion input.toggle:checked + .inner {
     bottom: 0;
 }
 .accordion ul .inner {
+	background-color: transparent;
     padding: 0;
 }
 	.col.is-8.is-offset-2.print-content {
