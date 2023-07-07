@@ -570,6 +570,9 @@ width: 100%;
 .action_3 {
 background-color: #C7C6C2;
 }
+	.banner {
+    height: 550px;
+}
 }
 @media (max-width: 1024px){
 section.action::before,section.action_::after{
