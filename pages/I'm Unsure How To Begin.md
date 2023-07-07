@@ -591,7 +591,6 @@ section.bp-section .bp-container {
     padding-right: 35px;
 }
 	.accordion > li {
-    background: linear-gradient(#a6d9e5, #9ac0c8);
     margin-bottom: 10px!important;
 }
 ul.accordion input.toggle:checked + .inner {
@@ -615,8 +614,8 @@ ul.accordion input.toggle:checked + .inner {
     padding: 0 15px;
 }
 .accordion ul .inner {
-	background-color: transparent;
-    padding: 0;
+    width: calc(100% + 50px);
+    margin-left: -15px;
 }
 	.col.is-8.is-offset-2.print-content {
     padding: 0;
