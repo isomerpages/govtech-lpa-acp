@@ -552,7 +552,6 @@ ul.accordion input.toggle:checked + .inner {
     padding: 0 15px;
 }
 .accordion ul .inner {
-    background: linear-gradient(#a6d9e5, #9ac0c8);
     padding: 0;
 }
 	
