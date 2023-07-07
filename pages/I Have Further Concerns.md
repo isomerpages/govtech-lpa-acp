@@ -576,7 +576,6 @@ background-color: #C7C6C2;
     padding-right: 35px;
 }
 	.accordion > li {
-    background: linear-gradient(#a6d9e5, #9ac0c8);
     margin-bottom: 10px!important;
 }
         .faq_sect {
@@ -600,8 +599,8 @@ ul.accordion input.toggle:checked + .inner {
     bottom: 0;
 }
 .accordion ul .inner {
-	background-color: transparent;
-    padding: 0;
+    width: calc(100% + 50px);
+    margin-left: -15px;
 }
 	.col.is-8.is-offset-2.print-content {
     padding: 0;
