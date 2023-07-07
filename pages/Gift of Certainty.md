@@ -289,6 +289,7 @@ left: 30%;
 right: 0;
 bottom: 0;
 top: 0;
+	 pointer-events: none;
 }
 header#navigation .p-navigation__tagged-logo a.p-navigation__link {
 padding: 0;
@@ -685,10 +686,9 @@ a.p-navigation__toggle--close {
     margin-top: 42px;
 }
 .banner::after {
-    left: 0;
     background-size: contain;
-    background-position: center bottom;
-}	
+    pointer-events: none;
+}
 }
     @media(max-width: 1170px){
 .container {
