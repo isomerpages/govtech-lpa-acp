@@ -599,12 +599,6 @@ ul.accordion input.toggle:checked + .inner {
     .accordion ul .inner p, .accordion ul .inner li {
     font-size: 15px;
 }
-		.container {
-    padding: 0;
-}
-	.col.is-8.is-offset-2.print-content {
-    padding: 0.75rem;
-}
     section.accordion {
     margin-bottom: 50px;
 }
@@ -622,6 +616,9 @@ ul.accordion input.toggle:checked + .inner {
 .accordion ul .inner {
     width: calc(100% + 50px);
     margin-left: -15px;
+}
+	.col.is-8.is-offset-2.print-content {
+    padding: 0;
 }
 	section.bp-section .bp-container > .row {
     margin: 0;
