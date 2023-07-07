@@ -524,7 +524,6 @@ background-image: url(https://i.imgur.com/AxzRdOk.png);
 .heading::after{
 display:none;
 }
-
 		.accordion ul li label {
     line-height: 29px;
     text-indent: 0;
@@ -600,14 +599,11 @@ width: 100%;
 .action_3 {
 background-color: #C7C6C2;
 }
-	section.bp-section .bp-container > .row {
-    margin: 0;
-}
-		.container {
+	.col.is-8.is-offset-2.print-content {
     padding: 0;
 }
-	.col.is-8.is-offset-2.print-content {
-    padding: 0.75rem;
+	section.bp-section .bp-container > .row {
+    margin: 0;
 }
 }
 @media(min-width: 767px)and (max-width: 1140px){
