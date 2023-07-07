@@ -614,7 +614,10 @@ section.action {
     background-color: #e6e6e6;
 }
 .col.is-8.is-offset-2.print-content {
-padding-right: 0;
+    padding: 0;
+}
+	section.bp-section .bp-container > .row {
+    margin: 0;
 }
 .p-navigation__banner {
     padding-left: 0;
