@@ -658,8 +658,8 @@ ul.accordion input.toggle:checked + .inner {
                     <h2>Apply with a <br>peace of mind</h2>
                     <p>If you’re overwhelmed, fret not. Check out the following guides to help you learn more about a Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), and how you can get started:
                         </p><ul>
-                            <li><a target="_blank" href="https://www.msf.gov.sg/docs/default-source/opg/lpa_infographic_2022.pdf">Guide to Making a LPA</a></li>
-                            <li><a target="_blank" href="https://www.aic.sg/resources/Documents/Brochures/ACP%20Publications/Infosheet/ACP%20InfoSheet-EN.pdf">Guide to Making a ACP</a></li>
+                            <li><a target="_blank" href="https://www.msf.gov.sg/docs/default-source/opg/lpa_infographic_2022.pdf">Guide to Making an LPA</a></li>
+                            <li><a target="_blank" href="https://www.aic.sg/resources/Documents/Brochures/ACP%20Publications/Infosheet/ACP%20InfoSheet-EN.pdf">Guide to Making an ACP</a></li>
                         </ul>
                         <p>Also, you can try completing the <a target="_blank" href="#">ACP Readiness Checklist</a> to decide whether you’re ready to begin your ACP journey.</p>
                     </div>
