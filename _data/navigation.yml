@@ -2,7 +2,7 @@ logo: /images/mylegacy-logo.png
 links:
   - title: Home
     url: /home
-  - title: CHOOSE YOUR SITUATION
+  - title: Choose Your Situation
     url: /home/
     sublinks:
       - title: I'm Unsure How To Begin
