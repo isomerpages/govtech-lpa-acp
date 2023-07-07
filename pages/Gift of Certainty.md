@@ -684,6 +684,11 @@ a.p-navigation__toggle--close {
     display: block;
     margin-top: 42px;
 }
+.banner::after {
+    left: 0;
+    background-size: contain;
+    background-position: center bottom;
+}	
 }
     @media(max-width: 1170px){
 .container {
