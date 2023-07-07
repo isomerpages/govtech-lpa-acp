@@ -597,10 +597,22 @@ width: 100%;
 .action_3 {
 background-color: #C7C6C2;
 }
+	.col.is-8.is-offset-2.print-content {
+    padding: 0;
+}
+	section.bp-section .bp-container > .row {
+    margin: 0;
+}
 }
 @media(min-width: 767px)and (max-width: 1140px){
 .container {
 padding: 0 15px;
+}
+	.col.is-8.is-offset-2.print-content {
+    padding: 0;
+}
+	section.bp-section .bp-container > .row {
+    margin: 0;
 }
 }
 </style>
