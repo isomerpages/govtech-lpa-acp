@@ -552,9 +552,9 @@ ul.accordion input.toggle:checked + .inner {
     padding: 0 15px;
 }
 .accordion ul .inner {
+	    background-color: transparent;
     padding: 0;
 }
-	
 	.accordion ul li label::before {
     height: unset;
     bottom: 0;
