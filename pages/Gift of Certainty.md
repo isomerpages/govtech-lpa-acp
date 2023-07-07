@@ -647,6 +647,9 @@ a.p-navigation__toggle--close {
 .banner::after {
 left: 0;
 }
+	.action2_b p br {
+    display: none;
+}
 	.banner::after {
     left: 0;
     background-size: auto 300px;
