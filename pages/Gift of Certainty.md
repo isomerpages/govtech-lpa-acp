@@ -466,7 +466,7 @@ background-repeat: no-repeat;
 background-position: center;
 background-size: contain;
 width: 300px;
-z-index: 111;
+pointer-events: none;
 height: 300px;
 }
 .m-t-30 {
