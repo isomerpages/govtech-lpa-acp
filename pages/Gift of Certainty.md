@@ -651,6 +651,9 @@ a.p-navigation__toggle--close {
 .banner::after {
 left: 0;
 }
+	.action__5 p {
+    font-size: 18px;
+}
 	.action2_b p br,.action__5 p br {
     display: none;
 }
