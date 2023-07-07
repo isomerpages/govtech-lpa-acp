@@ -2,10 +2,6 @@ logo: /images/mylegacy-logo.png
 links:
   - title: Home
     url: /home
-  - title: Make an LPA/ACP
-    url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/
-  - title: Menu Title
-    url: /permalink
   - title: CHOOSE YOUR SITUATION
     url: /home/
     sublinks:
@@ -15,3 +11,9 @@ links:
         url: /how-do-i-speak-to-my-family-about-this/
       - title: I Have Further Concerns
         url: /i-have-further-concerns/
+      - title: I'm Ready To Get Started
+        url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp
+  - title: Make an LPA/ACP
+    url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/
+  - title: My Legacy Vault
+    url: https://mylegacy.life.gov.sg/vault/?redirect=/vault/
