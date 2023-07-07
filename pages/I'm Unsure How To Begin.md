@@ -587,9 +587,12 @@ section.bp-section .bp-container {
     line-height: 29px;
     text-indent: 0;
     font-size: 15px;
-    background: linear-gradient(#a6d9e5, #9ac0c8);
     padding: 0 15px;
     padding-right: 35px;
+}
+	.accordion > li {
+    background: linear-gradient(#a6d9e5, #9ac0c8);
+    margin-bottom: 10px!important;
 }
 ul.accordion input.toggle:checked + .inner {
     padding: 15px 0;
@@ -612,7 +615,6 @@ ul.accordion input.toggle:checked + .inner {
     padding: 0 15px;
 }
 .accordion ul .inner {
-    background: linear-gradient(#a6d9e5, #9ac0c8);
     padding: 0;
 }
 	.col.is-8.is-offset-2.print-content {
