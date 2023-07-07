@@ -539,6 +539,14 @@ background-color: #C7C6C2;
 .banner::after {
 left: 0;
 }
+	.banner::after {
+    left: 0;
+    background-size: auto 300px;
+    background-position: center bottom;
+}
+	.banner_block {
+    display: block;
+}
 .container {
 width: 100%;
 padding: 0 15px;
