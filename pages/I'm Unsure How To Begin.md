@@ -594,7 +594,7 @@ section.bp-section .bp-container {
     margin-bottom: 10px!important;
 }
 ul.accordion input.toggle:checked + .inner {
-    padding: 15px 0;
+    padding: 15px 20px;
 }
     .accordion ul .inner p, .accordion ul .inner li {
     font-size: 15px;
