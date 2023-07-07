@@ -623,9 +623,6 @@ ul.accordion input.toggle:checked + .inner {
     width: calc(100% + 50px);
     margin-left: -15px;
 }
-	.col.is-8.is-offset-2.print-content {
-    padding: 0;
-}
 	section.bp-section .bp-container > .row {
     margin: 0;
 }
