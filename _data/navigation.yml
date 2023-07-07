@@ -1,2 +1,15 @@
 logo: /images/mylegacy-logo.png
-links: []
+links:
+  - title: Home
+    url: /home
+  - title: Make an LPA/ACP
+    url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/
+  - title: Menu Title
+    url: /permalink
+  - title: CHOOSE YOUR SITUATION
+    url: /home/
+    sublinks:
+      - title: I'm Unsure How To Begin
+        url: /i-am-unsure-how-to-begin/
+      - title: "I Want To Speak To My Family "
+        url: /how-do-i-speak-to-my-family-about-this/
