@@ -651,8 +651,18 @@ a.p-navigation__toggle--close {
 .banner::after {
 left: 0;
 }
+	.feature_block .inner {
+    padding: 20px;
+    padding-right: 80px;
+}
 		.feature_block .inner {
     height: auto;
+}
+	img.arrow-btn {
+    width: 50px;
+    bottom: auto;
+    top: 50%;
+    margin-top: -20px;
 }
 	.feature_block .inner h3 {
     font-size: 24px;
