@@ -528,9 +528,12 @@ display:none;
     line-height: 29px;
     text-indent: 0;
     font-size: 15px;
-    background: linear-gradient(#a6d9e5, #9ac0c8);
     padding: 0 15px;
     padding-right: 35px;
+}
+	.accordion > li {
+    background: linear-gradient(#a6d9e5, #9ac0c8);
+    margin-bottom: 10px!important;
 }
 ul.accordion input.toggle:checked + .inner {
     padding: 15px 0;
@@ -552,6 +555,7 @@ ul.accordion input.toggle:checked + .inner {
     background: linear-gradient(#a6d9e5, #9ac0c8);
     padding: 0;
 }
+	
 	.accordion ul li label::before {
     height: unset;
     bottom: 0;
