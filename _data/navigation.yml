@@ -1,2 +1,19 @@
 logo: /images/mylegacy-logo.png
-links: []
+links:
+  - title: Home
+    url: /home
+  - title: Choose Your Scenario
+    url: /home/
+    sublinks:
+      - title: I'm Unsure How To Begin
+        url: /i-am-unsure-how-to-begin/
+      - title: I Want To Speak To My Family
+        url: /how-do-i-speak-to-my-family-about-this/
+      - title: I Have Further Concerns
+        url: /i-have-further-concerns/
+      - title: I'm Ready To Get Started
+        url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp
+  - title: Make an LPA/ACP
+    url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/
+  - title: My Legacy Vault
+    url: https://mylegacy.life.gov.sg/vault/?redirect=/vault/

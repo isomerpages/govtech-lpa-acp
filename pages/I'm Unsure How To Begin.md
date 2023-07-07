@@ -251,7 +251,7 @@ a.p-button.btn {
     font-family: 'Playfair Display';
     color: #01436b;
     margin-bottom: 30px;
-	font-weight: 400;
+    font-weight: 400;
 }
 section.bp-section .bp-container {
     width: 100%!important;
@@ -371,7 +371,7 @@ section.bp-section .bp-container {
 .action__4 h2{
         color: #000;
       font-family:'Playfair Display';
-	font-weight:400;
+    font-weight:400;
     }
     .action__4 p{
         color: #000;
@@ -583,10 +583,56 @@ section.bp-section .bp-container {
     .action_3 {
     background-color: #C7C6C2;
 }
+        .accordion ul li label {
+    line-height: 29px;
+    text-indent: 0;
+    font-size: 15px;
+    padding: 0 15px;
+    padding-right: 35px;
+}
+	.accordion > li {
+    margin-bottom: 10px!important;
+}
+ul.accordion input.toggle:checked + .inner {
+    padding: 15px 20px;
+}
+    .accordion ul .inner p, .accordion ul .inner li {
+    font-size: 15px;
+}
+    section.accordion {
+    margin-bottom: 50px;
+}
+    .accordion ul .inner::after {
+    right: 5px;
+        top: 5px;
+}
+        .accordion ul li label::before {
+    height: unset;
+    bottom: 0;
+}
+        .faq_sect {
+    padding: 0 15px;
+}
+.accordion ul .inner {
+    width: calc(100% + 50px);
+    margin-left: -15px;
+}
+	.col.is-8.is-offset-2.print-content {
+    padding: 0;
+}
+	section.bp-section .bp-container > .row {
+    margin: 0;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
     padding: 0 15px;
+}
+	.col.is-8.is-offset-2.print-content {
+    padding: 0;
+}
+	section.bp-section .bp-container > .row {
+    margin: 0;
 }
     }
     </style>
@@ -811,7 +857,8 @@ The ACP is not a legal document and you do not need a lawyer to help you make on
             <div class="col-8">
                 <div class="inner">
                 <h2>My Legacy Vault</h2>
-                <p>Plan, store and share your legal, healthcare and estate matters securely.<br> Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+                <p>Plan, store and share your legal, healthcare and estate matters securely.</p> 
+                <p>Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
                 </div>
             </div>
         </div>
