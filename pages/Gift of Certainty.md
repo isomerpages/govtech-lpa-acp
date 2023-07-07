@@ -651,6 +651,14 @@ a.p-navigation__toggle--close {
 .banner::after {
 left: 0;
 }
+		.feature_block .inner {
+    height: auto;
+}
+	.feature_block .inner h3 {
+    font-size: 24px;
+    line-height: 40px;
+    margin: 0;
+}
     .action__5 p {
     font-size: 18px;
 }
