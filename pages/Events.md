@@ -286,7 +286,7 @@ description: ""
   }
   .content ul > li:last-child {
       margin-bottom: 0;
-  }	
+  } 
   container-fluid{
   width: 100%;
   }
@@ -308,7 +308,7 @@ description: ""
   }
   .content strong {
       color: #000;
-  }	
+  } 
   section.bp-section .bp-container {
       width: 100%!important;
       max-width: 100%!important;
@@ -407,6 +407,11 @@ description: ""
       font-family:'Playfair Display';
       font-weight: 400;
   }
+      .heading h2,.upcoming {
+      color: #000;
+      font-family:'Lato';
+      font-weight: 400;
+  }
     .events ul {
       margin: 0;
       list-style: none;
@@ -451,7 +456,7 @@ description: ""
   <div class="container">
     <div class="row">
       <div class="col-12 heading u-align--center m-b-60">
-        <h2>Upcoming Events</h2>
+        <h2 class="upcoming">Upcoming Events</h2>
       </div>
     </div>
     <div class="row">
@@ -498,8 +503,8 @@ description: ""
           <tr>
       <td>2.00pm to 3.30pm</td>
       <td><strong>Launch of Lasting Power of Attorney and Advance Care Planning Campaign</strong> <br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-	Micapella Singing Performance <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-	Launch of campaign by Guest of Honour, Minister Masagos </td>
+  &nbsp;&nbsp;&nbsp;&nbsp;- Micapella Singing Performance <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- Launch of campaign by Guest of Honour, Minister Masagos </td>
     </tr>
         <tr>
       <td>4.00pm to 5.30pm</td>
@@ -528,8 +533,12 @@ description: ""
     </tr>
   </tbody></table>
         <p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required.<br> Programmes and speakers are subjected to changes by organizers without prior notice. </p>
+            <div style="padding: 0" class="col-12 u-align--left">
+              <a class="p-button btn" href="/home/">BACK TO HOME </a>
+      </div>
+			</div>
       </div>
     </div>
-    </div>
     
-    </section>
+</section>
+
