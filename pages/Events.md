@@ -490,20 +490,20 @@ description: ""
     </tr>
     <tr>
       <td>10.00am to 11.30am</td>
-      <td>Talk: Planning for the footprints of My Legacy! 计划我生命的足跡! <br>Speaker: Mr Victor Tang<br><br>
+      <td><strong>Talk: Planning for the footprints of My Legacy! 计划我生命的足跡!</strong> <br>Speaker: Mr Victor Tang<br><br>
   Language: English and Mandarin <br><br>
   Details: Find out more about how you can start your legacy planning. Learn<br> more about Lasting Power of Attorney and Advance Care Planning. 
   </td>
     </tr>
           <tr>
       <td>2.00pm to 3.30pm</td>
-      <td>Launch of Lasting Power of Attorney and Advance Care Planning Campaign <br><br>
+      <td><strong>Launch of Lasting Power of Attorney and Advance Care Planning Campaign</strong> <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;-	Micapella Singing Performance <br>
   &nbsp;&nbsp;&nbsp;&nbsp;-	Launch of campaign by Guest of Honour, Minister Masagos </td>
     </tr>
         <tr>
       <td>4.00pm to 5.30pm</td>
-      <td>Talk: All About Lasting Power of Attorney and Advance Care Planning <br>
+      <td><strong>Talk: All About Lasting Power of Attorney and Advance Care Planning</strong> <br>
   Language: English and Malay 
   </td>
     </tr>
@@ -513,15 +513,15 @@ description: ""
     </tr>
         <tr>
           <td>10.00am to 11.30am</td>
-      <td>Talk: Learn more about CPF Nomination </td>
+      <td><strong>Talk: From Love to Legacy - Making a CPF nomination for your CPF Savings</strong> <br>Language: English </td>
     </tr>
         <tr>
           <td>2.00pm to 3.30pm</td>
-      <td>Talk: Services Provided by Special Needs Trust Company (SNTC) </td>
+      <td><strong>Talk: Plan Early and Smart for your Special Needs Loved Ones</strong> <br>Language: English </td>
     </tr>
         <tr>
           <td>4.00pm to 5.30pm</td>
-      <td>Talk: All About Lasting Power of Attorney and Advance Care Planning<br> 
+      <td><strong>Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)</strong><br> 
   Language: English and Malay 
   
   </td>
