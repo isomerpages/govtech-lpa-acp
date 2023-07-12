@@ -575,7 +575,7 @@ background-color: #C7C6C2;
     padding: 0 15px;
     padding-right: 35px;
 }
-	.accordion > li {
+    .accordion > li {
     margin-bottom: 10px!important;
 }
         .faq_sect {
@@ -602,10 +602,10 @@ ul.accordion input.toggle:checked + .inner {
     width: calc(100% + 50px);
     margin-left: -15px;
 }
-	.col.is-8.is-offset-2.print-content {
+    .col.is-8.is-offset-2.print-content {
     padding: 0;
 }
-	section.bp-section .bp-container > .row {
+    section.bp-section .bp-container > .row {
     margin: 0;
 }
 }
@@ -613,10 +613,10 @@ ul.accordion input.toggle:checked + .inner {
 .container {
 padding: 0 15px;
 }
-	.col.is-8.is-offset-2.print-content {
+    .col.is-8.is-offset-2.print-content {
     padding: 0;
 }
-	section.bp-section .bp-container > .row {
+    section.bp-section .bp-container > .row {
     margin: 0;
 }
 }
@@ -751,9 +751,8 @@ padding: 0 15px;
     <div class="row p-lr-50">
         <div class="col-8">
             <div class="inner">
-            <h2>My Legacy Vault</h2>
-            <p>Plan, store and share your legal, healthcare and estate matters securely.</p> 
-            <p>Upload your documents to <a href="https://mylegacy.life.gov.sg/vault/" class="read-more">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+            <h2>Have further questions?</h2>
+            <p>Please call 1800-111-2222 or email us at <a target="_blank" href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a>. You can also consider visiting us at <a target="_blank" href="https://www.psd.gov.sg/servicesg/">ServiceSG Centres</a> to find out more!</p> 
             </div>
         </div>
     </div>
@@ -764,7 +763,7 @@ padding: 0 15px;
     <div class="row">
         <div class="col-12 action3_b u-align--center">
             <h2>I'm ready to start <br><strong><i>planning ahead</i></strong> today!</h2>
-            <a class="btn p-button" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
+            <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
         </div>
     </div>
 </div>

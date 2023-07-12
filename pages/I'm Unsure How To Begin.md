@@ -590,7 +590,7 @@ section.bp-section .bp-container {
     padding: 0 15px;
     padding-right: 35px;
 }
-	.accordion > li {
+    .accordion > li {
     margin-bottom: 10px!important;
 }
 ul.accordion input.toggle:checked + .inner {
@@ -617,10 +617,10 @@ ul.accordion input.toggle:checked + .inner {
     width: calc(100% + 50px);
     margin-left: -15px;
 }
-	.col.is-8.is-offset-2.print-content {
+    .col.is-8.is-offset-2.print-content {
     padding: 0;
 }
-	section.bp-section .bp-container > .row {
+    section.bp-section .bp-container > .row {
     margin: 0;
 }
     }
@@ -628,10 +628,10 @@ ul.accordion input.toggle:checked + .inner {
     .container {
     padding: 0 15px;
 }
-	.col.is-8.is-offset-2.print-content {
+    .col.is-8.is-offset-2.print-content {
     padding: 0;
 }
-	section.bp-section .bp-container > .row {
+    section.bp-section .bp-container > .row {
     margin: 0;
 }
     }
@@ -642,7 +642,7 @@ ul.accordion input.toggle:checked + .inner {
         <div class="col-6 about_a_b">
                     <div class="inner">
                     <h2>Unsure how to begin?<br>Get started with ease</h2>
-                    <p>Getting your affairs in order may feel intimidating, especially when it seems like there’s so much to do. It’s not difficult to begin legacy and planning ahead once you’re armed with the right tools to get started.</p>
+                    <p>Getting your affairs in order may feel intimidating, especially when it seems like there’s so much to do. It’s not difficult to begin once you’re armed with the right tools.</p>
                     </div>
         </div>
                 <div class="col-6 about_a_b">
@@ -655,21 +655,20 @@ ul.accordion input.toggle:checked + .inner {
         </div>
                 <div class="col-6 about_a_b">
                     <div class="inner">
-                    <h2>Apply with a <br>peace of mind</h2>
-                    <p>If you’re overwhelmed, fret not. Check out the following guides to help you learn more about a Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), and how you can get started:
+                    <h2>Enjoy peace of mind</h2>
+                    <p>If you’re overwhelmed, fret not. Check out the following guides to learn more about the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), and how you can get started:
                         </p><ul>
-                            <li><a target="_blank" href="https://www.msf.gov.sg/docs/default-source/opg/lpa_infographic_2022.pdf">Guide to Making a LPA</a></li>
-                            <li><a target="_blank" href="https://www.aic.sg/resources/Documents/Brochures/ACP%20Publications/Infosheet/ACP%20InfoSheet-EN.pdf">Guide to Making a ACP</a></li>
+                            <li><a target="_blank" href="https://www.msf.gov.sg/docs/default-source/opg/lpa_infographic_2022.pdf">Guide to Making an LPA</a></li>
+                            <li><a target="_blank" href="https://www.aic.sg/resources/Documents/Brochures/ACP%20Publications/Infosheet/ACP%20InfoSheet-EN.pdf">Guide to Making an ACP</a></li>
                         </ul>
-                        <p>Also, you can try completing the <a target="_blank" href="#">ACP Readiness Checklist</a> to decide whether you’re ready to begin your ACP journey.</p>
+                        <p>Or complete the <a target="_blank" href="https://plantoday.sg/acp.html">ACP Readiness Checklist</a> to decide whether you’re ready to begin your ACP journey.</p>
                     </div>
         </div>
       </div>
             <div style="position: relative;" class="row">
                 <div class="faq_sect">
                     <h2>Frequently Asked Questions</h2>
-                    <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones the certainty of knowing your preferences should the worst happen.
-                    Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
+                    <p>It’s great that you’ve decided to make an LPA and ACP! Doing so will give your loved ones certainty of your preferences should the worst happen. Speaking of loved ones, it’s a good idea to discuss with them your choices, particularly on who you are appointing as donee for your LPA and your healthcare decisions should you lose mental capacity.</p>
                 </div>
             </div>
     </div>
@@ -684,14 +683,14 @@ ul.accordion input.toggle:checked + .inner {
                                 <input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
                                 <div class="inner">
                             <ul>
-                                <li>Choose your Donee (you can have up to two) and a Replacement Donee (if applicable).</li>
-                                <li>Fill in the online LPA forms at <a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
-                                <li>Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
+                                <li>Choose your Donee (you can have up to two) and identify a Replacement Donee in case the primary donee is unable to fulfill the duties.</li>
+                                <li>Fill in the online LPA forms at <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
+                                <li>Find an <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
                                     <ul>
-                                    <li> Your Donee(s) and Replacement Donee (if any) can log in to <a href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
-                                    <li>Visit the certificate issuer of your choice to certify your LPA. </li>
+                                    <li> Your Donee(s) and Replacement Donee (if any) can log in to <a target="_blank" href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
+                                    <li>Visit the Certificate Issuer of your choice to certify your LPA. </li>
                                     <li>You (the ‘Donor’) and the LPA Certificate Issuer will need to digitally sign on the LPA using your Singpass app. </li>
-                                    <li>In order for your LPA to be legally valid, the certificate issuer must submit the LPA to OPG for registration via OPGO, as authorised by you.</li>
+                                    <li>In order for your LPA to be legally valid, the Certificate Issuer must submit the LPA to the Office of the Public Guardian (OPG) for registration via OPGO, as authorised by you.</li>
                                     </ul>
                                 </li>
                                  <li><strong>LPA Form 1</strong>
@@ -703,7 +702,7 @@ ul.accordion input.toggle:checked + .inner {
                                         <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
                                     </ul><br>
                                 <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
-                                After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the certificate issuer as per the flow of LPA Form 1.</p>
+                                After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the Certificate Issuer as per the flow of LPA Form 1.</p>
                                    </li></ul>  
                                                             </div>
                             </label>
@@ -715,12 +714,12 @@ ul.accordion input.toggle:checked + .inner {
                             <ul>
 <li>Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.</li>
 <li>Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.</li>
-<li>Prepare your <a href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/">ACP online</a>. </li>
-<li>Find a <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br>
+<li>Prepare your <a target="_blank" href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/">ACP online</a>. </li>
+<li>Find a <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br>
 <ul>
 <li>After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. </li>
 <li>Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.</li>
-<li>You may also wish to upload a soft copy of your completed ACP form in the <a href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for your own records and to share them with your Trusted Persons.</li>
+<li>You may also wish to upload a soft copy of your completed ACP form in the <a target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for your own records and to share them with your Trusted Persons.</li>
                                                             </ul></li></ul>
                                 </div>
                                 </label>
@@ -734,7 +733,7 @@ ul.accordion input.toggle:checked + .inner {
 <p>Without an LPA, your family members or loved ones would need to apply to the Court to become your Deputy in order to make decisions for you. This can be a lengthy, costly, and risky process as the Court may not appoint your ideal person to make decisions on your behalf. More information on deputyship application can be found <a target="_blank" href="https://judiciary.gov.sg/family/deputyship">here</a>. </p></li>
 <li><strong>ACP</strong>
     <ul>
-<li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a href="https://mylegacy.life.gov.sg/end-of-life-planning/what-is-palliative-care/">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
+<li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a target="_blank" href="https://mylegacy.life.gov.sg/end-of-life-planning/what-is-palliative-care/">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
 <li>It can be stressful for your loved ones to predict what kind of treatment you may want. Differing views may arise which can sometimes cause disputes amongst family members.</li>
 <li>In some cases, healthcare providers may make decisions on your behalf based on their professional judgement and any available information about your medical history.</li>
     </ul></li></ul>
@@ -825,11 +824,11 @@ ul.accordion input.toggle:checked + .inner {
     <td style="text-align:center">$25<br>(fee will be $30 with <br>effect from 1 april 2023)</td>
   </tr>
 </tbody></table>
-                                <p>Payment can made on <a href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a>.<br><i><small>*Note: Cheque collection has ceased.</small></i></p>
-                                <p>There is also a fee to engage an accredited medical practitioner, psychiatrist or lawyer to certify your LPA. More information on certification fees can be found <a href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer">here</a>.</p>
+                                <p>Payment can made on <a target="_blank" href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a>.<br><i><small>*Note: Cheque collection has ceased.</small></i></p>
+                                <p>There is also a fee to engage an accredited medical practitioner, psychiatrist or lawyer to certify your LPA. More information on certification fees can be found <a target="_blank" href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer">here</a>.</p>
                                 <p>As of Jan 2023, the majority of the top 10 most visited accredited medical practitioners charged $59 or less.</p>
                                 <h5>Cost of ACP</h5>
-                                <p>There is no charge for completing the ACP with trained facilitators from <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">government-appointed providers</a> across Singapore. </p>
+                                <p>There is no charge for completing the ACP with trained facilitators from <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">government-appointed providers</a> across Singapore. </p>
                                 <p>However, some organisations may charge a nominal fee for doing an ACP. Please kindly check in with the respective organisations on the fees.
                             </p>
                                 </div>
@@ -858,7 +857,7 @@ The ACP is not a legal document and you do not need a lawyer to help you make on
                 <div class="inner">
                 <h2>My Legacy Vault</h2>
                 <p>Plan, store and share your legal, healthcare and estate matters securely.</p> 
-                <p>Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+                <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
                 </div>
             </div>
         </div>
@@ -869,7 +868,7 @@ The ACP is not a legal document and you do not need a lawyer to help you make on
         <div class="row">
             <div class="col-12 action3_b u-align--center">
                 <h2>I'm ready to start <br><strong><i>on my LPA &amp; ACP</i></strong> today!</h2>
-                <a class="btn p-button" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
+                <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
             </div>
         </div>
     </div>

@@ -651,20 +651,20 @@ a.p-navigation__toggle--close {
 .banner::after {
 left: 0;
 }
-	.feature_block .inner {
+    .feature_block .inner {
     padding: 20px;
     padding-right: 80px;
 }
-		.feature_block .inner {
+        .feature_block .inner {
     height: auto;
 }
-	img.arrow-btn {
+    img.arrow-btn {
     width: 50px;
     bottom: auto;
     top: 50%;
     margin-top: -20px;
 }
-	.feature_block .inner h3 {
+    .feature_block .inner h3 {
     font-size: 24px;
     line-height: 40px;
     margin: 0;
@@ -769,9 +769,9 @@ display: inline-block;
     <div class="col-6 banner_block">
      <div class="inner u-align--center">
         <div class="image">
-          <img alt="My Legacy" src="https://i.imgur.com/YntNsoe.png">
+          <img alt="My Legacy" src="https://i.imgur.com/AOjOQMn.png">
         </div>
-        <a class="p-button btn" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Make your LPA and ACP today</a>
+        <a class="p-button btn" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Make your LPA and ACP today</a>
      </div>
     </div>
   </div>
@@ -799,7 +799,7 @@ display: inline-block;
 
 <h3>I’m unsure how to begin</h3>
 
-<a href="/i-am-unsure-how-to-begin/"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/i-am-unsure-how-to-begin/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -811,7 +811,7 @@ display: inline-block;
 
 <h3>I would like to speak to my family first</h3>
 
-<a href="/how-do-i-speak-to-my-family-about-this/"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/how-do-i-speak-to-my-family-about-this/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -823,7 +823,7 @@ display: inline-block;
 
 <h3>I have further concerns</h3>
 
-<a href="/i-have-further-concerns/"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/i-have-further-concerns/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -835,7 +835,7 @@ display: inline-block;
 
 <h3>I’m ready to get started on my LPA and ACP</h3>
 
-<a href="https://go.gov.sg/mylegacy-lpa-acp"><img alt="My Legacy" class="arrow-btn" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="https://go.gov.sg/mylegacy-lpa-acp"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -853,7 +853,7 @@ display: inline-block;
 
 <p>A Lasting Power of Attorney (LPA) allows you to appoint a trusted individual(s) to make decisions on your behalf when you lose mental capacity.</p>
 
-<a class="read_more" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney/">Read More</a>
+<a class="read_more" target="_blank" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney/">Read More</a>
 
 </div>
 
@@ -867,7 +867,7 @@ display: inline-block;
 
 <p>An Advance Care Plan (ACP) outlines your healthcare preferences when you are no longer able to express them yourself.</p>
 
-<a class="read_more" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-an-advance-care-plan/">Read More</a>
+<a class="read_more" target="_blank" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-an-advance-care-plan/">Read More</a>
 
 </div>
 
@@ -887,13 +887,13 @@ display: inline-block;
     <div class="col-6 action_b">
       <div class="inner">
         <p>Planning ahead for the unexpected may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
-        <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can bring about a peace of mind and reduce uncertainty for those who care about you the most.</p>
+        <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can provide peace of mind and reduce uncertainty for those who care about you.</p>
       </div>
     </div>
   </div>
   <div style="margin-top:60px;" class="row">
     <div class="col-12 action_bb u-align--center">
-        <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. <br><a href="/i-am-unsure-how-to-begin/">Here are some ways to get started.</a></h2>
+        <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. <br><a target="_blank" href="/i-am-unsure-how-to-begin/">Here are some ways to get started.</a></h2>
          </div>
   </div>
 </div>    
@@ -904,7 +904,7 @@ display: inline-block;
     <div class="row">
         <div class="col-8 action2_b">
             <h2>We understand that planning ahead for the unexpected is hard to talk about. <strong><i>You are not alone</i></strong>.</h2>
-            <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can<br> <a class="read-more" href="/how-do-i-speak-to-my-family-about-this/">start conversations with your family.</a></p>
+            <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can<br> <a class="read-more" target="_blank" href="/how-do-i-speak-to-my-family-about-this/">start conversations with your family.</a></p>
         </div>
     </div>
         <div class="row p-t-80 action__5">
@@ -912,7 +912,7 @@ display: inline-block;
             <div class="action2_b">
             <h2>My Legacy Vault</h2>
             <p>Plan, store and share your legal, healthcare and estate matters securely.</p>
-            <p>Upload your documents to <a class="read-more" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+            <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
             </div>
         </div>
     </div>
@@ -923,7 +923,7 @@ display: inline-block;
     <div class="row">
         <div class="col-12 action3_b u-align--center">
             <h2>I'm ready to start <br><strong><i>on my LPA &amp; ACP</i></strong> today!</h2>
-            <a class="btn p-button" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
+            <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
         </div>
     </div>
 </div>

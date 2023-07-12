@@ -5,12 +5,14 @@ description: Leave a legacy of love and certainty for the people who matter most
   to you. Here are some ways to get started.
 image: /images/mylegacy-logo.png
 permalink: /
-notification: For further assistance or enquiries, please call 1800-111-2222 or
-  email us at enquiries@mylegacy.gov.sg
+notification: ""
 sections:
   - hero:
       background: /images/pt_banner_bg.png
       key_highlights:
+        - title: Find out more
+          description: About LPA & ACP and how to get started.
+          url: /home
         - title: Upcoming events
           description: Learn more about LPA and ACP at our talks. See our upcoming events
             here.
