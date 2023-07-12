@@ -522,7 +522,7 @@ description: ""
         <tr>
           <td>4.00pm to 5.30pm</td>
       <td><strong>Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)</strong><br> 
-  Language: English and Malay 
+  Language: English and Tamil
   
   </td>
     </tr>
