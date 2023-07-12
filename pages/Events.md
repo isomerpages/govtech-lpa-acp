@@ -517,7 +517,7 @@ description: ""
     </tr>
         <tr>
           <td>2.00pm to 3.30pm</td>
-      <td><strong>Talk: Plan Early and Smart for your Special Needs Loved Ones</strong> <br>Language: English </td>
+      <td><strong>Talk: Plan Early and Smart for Your Special Needs Loved Ones</strong> <br>Language: English </td>
     </tr>
         <tr>
           <td>4.00pm to 5.30pm</td>
