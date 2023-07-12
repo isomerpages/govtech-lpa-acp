@@ -887,7 +887,7 @@ display: inline-block;
     <div class="col-6 action_b">
       <div class="inner">
         <p>Planning ahead for the unexpected may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
-        <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can bring about a peace of mind and reduce uncertainty for those who care about you the most.</p>
+        <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can provide peace of mind and reduce uncertainty for those who care about you.</p>
       </div>
     </div>
   </div>
