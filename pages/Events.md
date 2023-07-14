@@ -503,7 +503,7 @@ description: ""
           <tr>
       <td>2.00pm to 3.30pm</td>
       <td><strong>Launch of Plan Today, Lasting Power of Attorney and Advance Care Planning Campaign</strong> <br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- Micapella Singing Performance <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- MICappella Singing Performance <br>
   &nbsp;&nbsp;&nbsp;&nbsp;- Launch of campaign by Guest of Honour, Minister Masagos </td>
     </tr>
         <tr>
