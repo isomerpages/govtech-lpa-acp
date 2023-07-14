@@ -10,14 +10,13 @@ sections:
   - hero:
       background: /images/pt_banner_bg.png
       key_highlights:
-        - title: Find out more
+        - title: LEARN MORE
           description: About LPA & ACP and how to get started.
           url: /home
         - title: Upcoming events
-          description: Learn more about LPA and ACP at our talks. See our upcoming events
-            here.
+          description: Learn more about LPA and ACP at our FREE talks.
           url: /events/
-        - title: Book a LPA and ACP session
+        - title: Book FREE LPA and ACP session
           description: Sign up for a free LPA and ACP session at our upcoming mobile
             clinics.
           url: https://plantoday.sg
