@@ -280,7 +280,7 @@ background-color: #D6C4AF;
 }
 .banner::after {
 content: "";
-background-image: url(https://i.imgur.com/C2s0IgT.png);
+background-image: url(https://i.imgur.com/qrgVc7L.png);
   background-position: bottom right;
 background-repeat: no-repeat;
 background-size: contain;
