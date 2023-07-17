@@ -1,6 +1,6 @@
 ---
-title: Gift of Certainty
-permalink: /home/
+title: Gift of Certainty x The Woke Salaryman
+permalink: /tws/
 description: ""
 ---
 <style>

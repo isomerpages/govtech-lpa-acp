@@ -1,6 +1,6 @@
 ---
-title: Gift of Certainty
-permalink: /home/
+title: Gift of Certainty x The Daily Ketchup
+permalink: /tdk/
 description: ""
 ---
 <style>
@@ -280,7 +280,7 @@ background-color: #D6C4AF;
 }
 .banner::after {
 content: "";
-background-image: url(https://i.imgur.com/qrgVc7L.png);
+background-image: url(https://i.imgur.com/KDaFzNq.png);
   background-position: bottom right;
 background-repeat: no-repeat;
 background-size: contain;

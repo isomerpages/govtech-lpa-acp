@@ -1,6 +1,6 @@
 ---
-title: Gift of Certainty
-permalink: /home/
+title: Plan Today
+permalink: /plan-today/
 description: ""
 ---
 <style>
@@ -280,7 +280,7 @@ background-color: #D6C4AF;
 }
 .banner::after {
 content: "";
-background-image: url(https://i.imgur.com/qrgVc7L.png);
+background-image: url(https://i.imgur.com/hjTuKI7.png);
   background-position: bottom right;
 background-repeat: no-repeat;
 background-size: contain;
@@ -769,7 +769,7 @@ display: inline-block;
     <div class="col-6 banner_block">
      <div class="inner u-align--center">
         <div class="image">
-          <img alt="My Legacy" src="https://i.imgur.com/AOjOQMn.png">
+          <img alt="My Legacy" src="https://i.imgur.com/hkvU5AY.png">
         </div>
         <a class="p-button btn" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Make your LPA and ACP today</a>
      </div>
