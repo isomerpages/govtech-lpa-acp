@@ -472,7 +472,7 @@ description: ""
       </ul>
           <div class="signup">
           <p>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session*<br>
-  Available for: Singapore citizens aged 50 years old and above, with blue and orange CHAS cards.<br>
+  Available for: Singapore citizens aged 50 years old and above.<br>
             <small>*Limited slots available </small>
   </p>
       <div style="padding: 0" class="col-12 u-align--left">
@@ -501,7 +501,7 @@ description: ""
   </td>
     </tr>
           <tr>
-      <td>2.00pm to 3.30pm</td>
+      <td>2.00pm to 3.00pm</td>
       <td><strong>Launch of Plan Today, Lasting Power of Attorney and Advance Care Planning Campaign</strong> <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;- MICappella Singing Performance <br>
   &nbsp;&nbsp;&nbsp;&nbsp;- Launch of campaign by Guest of Honour, Minister Masagos </td>
