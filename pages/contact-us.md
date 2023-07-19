@@ -36,32 +36,41 @@ locations:
     title: ServiceSG@Bukit Canberra
   - address:
       - "#01-01"
-      - "60 Jurong West Central 3 "
+      - 60 Jurong West Central 3
       - Singapore 648346
-    title: ServiceSG@The Frontier CC
-    operating_hours: []
+    operating_hours:
+      - days: Mon-Sun
+        time: 10am - 6pm
+        description: Closed on Public Holidays.
     maps_link: ""
+    title: ServiceSG@The Frontier CC
   - address:
       - "#01-01"
       - 2 Choa Chu Kang Loop
       - Singapore 689687
-    title: ServiceSG@Keat Hong CC
-    operating_hours: []
+    operating_hours:
+      - days: Mon-Sun
+        time: 10am - 6pm
+        description: Closed on Public Holidays.
     maps_link: ""
+    title: ServiceSG@Keat Hong CC
   - address:
       - "#01-201"
       - 1 North Point Drive
       - Singapore 768019
-    title: ServiceSG@Nee Soon Central CC
-    operating_hours: []
+    operating_hours:
+      - days: Mon-Sun
+        time: 10am-6pm
+        description: Closed on Public Holidays.
     maps_link: ""
+    title: ServiceSG@Nee Soon Central CC
   - address:
       - "#01-31"
       - 11 Bedok North Street 1
       - Singapore 469662
-    title: ServiceSG@Kampong Chai Chee CC
     operating_hours: []
     maps_link: ""
+    title: ServiceSG@Kampong Chai Chee CC
 contacts:
   - content:
       - phone: +65 6123 4567
