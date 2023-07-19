@@ -2,31 +2,82 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: My Legacy
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "#01-01"
+      - 1 Punggol Drive
+      - Singapore 828629
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
+      - days: Mon - Sun
+        time: 9am - 6pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
+    title: ServiceSG Centre One Punggol
+  - address:
+      - "#01-21"
+      - 1 Tampines Walk
+      - Singapore 528523
+    operating_hours:
+      - days: Mon-Sun
+        time: 9am - 6pm
+        description: Closed on Public Holidays
+    maps_link: ""
+    title: ServiceSG Centre OTH
+  - address:
+      - "#01-62"
+      - 21 Canberra Link
+      - Singapore 756973
+    operating_hours:
+      - days: Mon - Sun
+        time: 10AM - 6PM
+        description: Closed on Public Holidays
+    maps_link: ""
+    title: ServiceSG@Bukit Canberra
+  - address:
+      - "#01-01"
+      - 60 Jurong West Central 3
+      - Singapore 648346
+    operating_hours:
+      - days: Mon-Sun
+        time: 10am - 6pm
+        description: Closed on Public Holidays.
+    maps_link: ""
+    title: ServiceSG@The Frontier CC
+  - address:
+      - "#01-01"
+      - 2 Choa Chu Kang Loop
+      - Singapore 689687
+    operating_hours:
+      - days: Mon-Sun
+        time: 10am - 6pm
+        description: Closed on Public Holidays.
+    maps_link: ""
+    title: ServiceSG@Keat Hong CC
+  - address:
+      - "#01-201"
+      - 1 North Point Drive
+      - Singapore 768019
+    operating_hours:
+      - days: Mon-Sun
+        time: 10am-6pm
+        description: Closed on Public Holidays.
+    maps_link: ""
+    title: ServiceSG@Nee Soon Central CC
+  - address:
+      - "#01-31"
+      - 11 Bedok North Street 1
+      - Singapore 469662
+    operating_hours:
+      - days: Mon-Sun
+        time: 10am - 6pm
+        description: Closed on Public Holidays.
+    maps_link: ""
+    title: ServiceSG@Kampong Chai Chee CC
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: enquiries@mylegacy.gov.sg
+      - other: 1800-111-2222
+    title: "General Enquiries "
 ---

@@ -661,7 +661,7 @@ ul.accordion input.toggle:checked + .inner {
                             <li><a target="_blank" href="https://www.msf.gov.sg/docs/default-source/opg/lpa_infographic_2022.pdf">Guide to Making an LPA</a></li>
                             <li><a target="_blank" href="https://www.aic.sg/resources/Documents/Brochures/ACP%20Publications/Infosheet/ACP%20InfoSheet-EN.pdf">Guide to Making an ACP</a></li>
                         </ul>
-                        <p>Or complete the <a target="_blank" href="https://plantoday.sg/acp.html">ACP Readiness Checklist</a> to decide whether you’re ready to begin your ACP journey.</p>
+                        <p>Or complete the [ACP Readiness Checklist](/files/acp%20readiness%20checklist.pdf) to decide whether you’re ready to begin your ACP journey.</p>
                     </div>
         </div>
       </div>
@@ -687,7 +687,7 @@ ul.accordion input.toggle:checked + .inner {
                                 <li>Fill in the online LPA forms at <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
                                 <li>Find an <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
                                     <ul>
-                                    <li> Your Donee(s) and Replacement Donee (if any) can log in to <a target="_blank" href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
+                                    <li> Your Donee(s) and Replacement Donee (if any) can log in to <a target="_blank" href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li> 
                                     <li>Visit the Certificate Issuer of your choice to certify your LPA. </li>
                                     <li>You (the ‘Donor’) and the LPA Certificate Issuer will need to digitally sign on the LPA using your Singpass app. </li>
                                     <li>In order for your LPA to be legally valid, the Certificate Issuer must submit the LPA to the Office of the Public Guardian (OPG) for registration via OPGO, as authorised by you.</li>
