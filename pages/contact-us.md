@@ -21,9 +21,16 @@ locations:
     operating_hours:
       - days: Mon-Sun
         time: 9am - 6pm
-        description: "Closed on Public Holidays "
+        description: Closed on Public Holidays
     maps_link: ""
     title: ServiceSG Centre OTH
+  - address:
+      - "#01-62"
+      - "21 Canberra Link "
+      - Singapore 756973
+    title: ServiceSG@Bukit Canberra
+    operating_hours: []
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 6123 4567
