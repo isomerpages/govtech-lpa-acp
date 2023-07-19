@@ -706,7 +706,7 @@ width: 100%;
 background-color: #C7C6C2;
 }
     .banner {
-    height: 550px;
+    height: 450px;
 }
 }
 @media(max-width: 500px){
