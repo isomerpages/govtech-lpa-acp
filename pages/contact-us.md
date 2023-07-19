@@ -28,7 +28,10 @@ locations:
       - "#01-62"
       - 21 Canberra Link
       - Singapore 756973
-    operating_hours: []
+    operating_hours:
+      - days: Mon - Sun
+        time: 10AM - 6PM
+        description: Closed on Public Holidays
     maps_link: ""
     title: ServiceSG@Bukit Canberra
 contacts:
