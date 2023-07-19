@@ -26,11 +26,11 @@ locations:
     title: ServiceSG Centre OTH
   - address:
       - "#01-62"
-      - "21 Canberra Link "
+      - 21 Canberra Link
       - Singapore 756973
-    title: ServiceSG@Bukit Canberra
     operating_hours: []
     maps_link: ""
+    title: ServiceSG@Bukit Canberra
 contacts:
   - content:
       - phone: +65 6123 4567
