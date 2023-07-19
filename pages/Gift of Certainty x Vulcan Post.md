@@ -273,7 +273,7 @@ color: #00477e;
 font-size: 22px;
 }
 .banner{
-height:620px;
+height:520px;
 background-color: #D6C4AF;
     display: inline-block;
     position: relative;
@@ -301,7 +301,7 @@ width: 350px;
 .banner_block {
 display: flex;
 align-items: center;
-height: 720px;
+height: 520px;
 }
 .p-navigation [class*=p-navigation__item].is-selected > .p-navigation__link::before{
 display: none;
