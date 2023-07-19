@@ -649,8 +649,8 @@ a.p-navigation__toggle--close {
 }
 @media(max-width: 767px){
 .banner::after {
-left: 0;
-}
+		left: 0;
+	}
     .feature_block .inner {
     padding: 20px;
     padding-right: 80px;
@@ -727,7 +727,7 @@ width: 100%;
 padding: 0 15px;
 }
 }
-@media(min-width: 500px)and (max-width: 1024px){
+@media(min-width: 768px)and (max-width: 1024px){
 .banner {
     height: 360px;
     background-size: contain;
