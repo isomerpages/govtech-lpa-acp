@@ -694,7 +694,7 @@ padding: 0 15px;
                     </li>
                     <li>
                         <label for="accordion_4">
-                            <input type="radio" name="accordion" id="accordion_4" class="toggle">What if my Donee(s) inflict harm on me to gain control over my assets?
+                            <input type="radio" name="accordion" id="accordion_4" class="toggle">What if my Donee(s) inflicts harm on me when I lose mental capacity or abuses his/her power as a Donee?
                                 <div class="inner">
                         <ul>
                             <li>There are safeguards provided in the Mental Capacity Act to protect people who lack mental capacity:</li>
