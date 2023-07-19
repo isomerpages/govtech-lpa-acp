@@ -71,18 +71,13 @@ locations:
     operating_hours:
       - days: Mon-Sun
         time: 10am - 6pm
-        description: "Closed on Public Holidays. "
+        description: Closed on Public Holidays.
     maps_link: ""
     title: ServiceSG@Kampong Chai Chee CC
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - email: enquiries@mylegacy.gov.sg
+      - other: 1800-111-2222
+    title: "General Enquiries "
 ---
