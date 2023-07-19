@@ -739,10 +739,10 @@ padding: 0 15px;
     width: 100%;
 }
 }
-    @media(min-width: 767px)and (max-width: 1170px){
+    @media(min-width: 768px)and (max-width: 1170px){
 .banner::after {
 background-position: bottom right;
-left: 20%;
+left: 30%;
 }
 .feature_block .inner h3 {
 font-size: 18px;
