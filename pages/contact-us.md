@@ -15,12 +15,15 @@ locations:
     maps_link: ""
     title: ServiceSG Centre One Punggol
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+      - "#01-21"
+      - 1 Tampines Walk
+      - Singapore 528523
+    operating_hours:
+      - days: Mon-Sun
+        time: 9am - 6pm
+        description: "Closed on Public Holidays "
+    maps_link: ""
+    title: ServiceSG Centre OTH
 contacts:
   - content:
       - phone: +65 6123 4567
