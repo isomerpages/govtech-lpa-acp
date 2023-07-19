@@ -68,7 +68,10 @@ locations:
       - "#01-31"
       - 11 Bedok North Street 1
       - Singapore 469662
-    operating_hours: []
+    operating_hours:
+      - days: Mon-Sun
+        time: 10am - 6pm
+        description: "Closed on Public Holidays. "
     maps_link: ""
     title: ServiceSG@Kampong Chai Chee CC
 contacts:
