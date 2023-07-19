@@ -706,7 +706,7 @@ width: 100%;
 background-color: #C7C6C2;
 }
     .banner {
-    height: 550px;
+    height: 450px;
 }
 }
 @media(max-width: 500px){
@@ -727,7 +727,7 @@ width: 100%;
 padding: 0 15px;
 }
 }
-@media(min-width: 500px)and (max-width: 1024px){
+@media(min-width: 768px)and (max-width: 1170px){
 .banner {
     height: 360px;
     background-size: contain;
@@ -742,7 +742,7 @@ padding: 0 15px;
     @media(min-width: 767px)and (max-width: 1170px){
 .banner::after {
 background-position: bottom right;
-left: 20%;
+left: 30%;
 }
 .feature_block .inner h3 {
 font-size: 18px;
@@ -761,6 +761,9 @@ padding-bottom: 0!important;
 .banner_block a.p-button.btn {
 margin-top: 30px;
 display: inline-block;
+}
+		.col.is-1.has-float-btns.is-position-relative.is-hidden-touch {
+    display: none!important;
 }
 </style>
 <section style="width: 100%" class="banner">
