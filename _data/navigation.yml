@@ -15,7 +15,7 @@ links:
         url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp
   - title: Make an LPA/ACP
     url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/
-  - title: Upcoming Events
-    url: /events
   - title: My Legacy Vault
     url: https://mylegacy.life.gov.sg/vault/?redirect=/vault/
+  - title: Upcoming Events
+    url: /events
