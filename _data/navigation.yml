@@ -19,3 +19,10 @@ links:
     url: https://mylegacy.life.gov.sg/vault/?redirect=/vault/
   - title: Upcoming Events
     url: /events
+  - title: My Legacy
+    url: /permalink
+    sublinks:
+      - title: Make an LPA and ACP
+        url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/
+      - title: My Legacy Vault
+        url: https://mylegacy.life.gov.sg/vault/?redirect=/vault/
