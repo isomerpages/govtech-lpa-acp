@@ -858,6 +858,7 @@ display: inline-block;
 	</div>
 <div class="row m-t-30">
 	<div class="col-8">
+		<div class="row"></div>
 <div class="feature_video col-6">
 <div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
 <div class="content_">
@@ -886,9 +887,10 @@ display: inline-block;
 
 </div>
 </div>
+	</div>
 </div>
 
-</div> 
+ 
 </section>
 
 <section style="padding-top:80px; padding-bottom: 110px; width: 100%;" class="action">
