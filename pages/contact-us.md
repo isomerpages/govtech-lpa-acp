@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: My Legacy
+agency_name: "My Legacy "
 locations:
   - address:
       - "#01-01"
@@ -78,6 +78,6 @@ contacts:
   - content:
       - phone: ""
       - email: enquiries@mylegacy.gov.sg
-      - other: "1800-111-2222 "
-    title: "For enquiries on LPA or ACP "
+      - other: 1800-111-2222
+    title: For enquiries on LPA or ACP
 ---
