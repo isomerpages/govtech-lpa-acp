@@ -2,7 +2,7 @@ logo: /images/mylegacy-logo.png
 links:
   - title: Home
     url: /home
-  - title: My Legacy
+  - title: Visit My Legacy
     url: /permalink
     sublinks:
       - title: Make an LPA and ACP
