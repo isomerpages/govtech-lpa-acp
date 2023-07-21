@@ -658,10 +658,10 @@ ul.accordion input.toggle:checked + .inner {
                     <h2>Enjoy peace of mind</h2>
                     <p>If you’re overwhelmed, fret not. Check out the following guides to learn more about the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), and how you can get started:
                         </p><ul>
-                            <li>[Guide to making an LPA](/files/lpa_infographic_2022.pdf)</li>
+                            <li><a target="_blank" href="https://plantoday.sg/lpa_infographic_2022.pdf">Guide to making an LPA</a></li>
                             <li><a target="_blank" href="https://www.aic.sg/resources/Documents/Brochures/ACP%20Publications/Infosheet/ACP%20InfoSheet-EN.pdf">Guide to Making an ACP</a></li>
                         </ul>
-                        <p>Or complete the [ACP Readiness Checklist](/files/acp%20readiness%20checklist.pdf) to decide whether you’re ready to begin your ACP journey.</p>
+                        <p>Or complete the <a target="_blank" href="https://plantoday.sg/acp-checklist.pdf">ACP Readiness Checklist</a> to decide whether you’re ready to begin your ACP journey.</p>
                     </div>
         </div>
       </div>
