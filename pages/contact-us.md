@@ -78,6 +78,6 @@ contacts:
   - content:
       - phone: ""
       - email: enquiries@mylegacy.gov.sg
-      - other: 1800-111-2222
+      - other: 1800-111-2223
     title: For enquiries on LPA or ACP
 ---
