@@ -537,6 +537,9 @@ color: #01436b;
 .container.action_3 {
 background-color: #C7C6C2;
 }
+	.col-8.feature_video{
+	margin-left: 16.66%;
+	}
     @media (max-width: 1024px){
 section.action::before,section.action_::after{
 display: none;
@@ -651,6 +654,9 @@ a.p-navigation__toggle--close {
 .banner::after {
 left: 0;
 }
+		.col-8.feature_video{
+	margin-left: 0;
+	}
     .feature_block .inner {
     padding: 20px;
     padding-right: 80px;
@@ -706,7 +712,7 @@ width: 100%;
 background-color: #C7C6C2;
 }
     .banner {
-    height: 550px;
+    height: 450px;
 }
 }
 @media(max-width: 500px){
@@ -727,7 +733,7 @@ width: 100%;
 padding: 0 15px;
 }
 }
-@media(min-width: 500px)and (max-width: 1024px){
+@media(min-width:768px)and (max-width: 1170px){
 .banner {
     height: 360px;
     background-size: contain;
@@ -739,10 +745,10 @@ padding: 0 15px;
     width: 100%;
 }
 }
-    @media(min-width: 767px)and (max-width: 1170px){
+    @media(min-width: 768px)and (max-width: 1170px){
 .banner::after {
 background-position: bottom right;
-left: 20%;
+left: 30%;
 }
 .feature_block .inner h3 {
 font-size: 18px;
@@ -843,7 +849,7 @@ display: inline-block;
 
 </div>
 	<div class="row m-t-30">
-	<div class="col-12 feature_video">
+	<div class="col-8 feature_video">
 	<div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846846114?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
 	</div>
 	</div>
