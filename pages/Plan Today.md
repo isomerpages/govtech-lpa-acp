@@ -768,6 +768,9 @@ padding-bottom: 0!important;
 margin-top: 30px;
 display: inline-block;
 }
+	        .col.is-1.has-float-btns.is-position-relative.is-hidden-touch {
+    display: none!important;
+}
 </style>
 <section style="width: 100%" class="banner">
 <div class="container">
