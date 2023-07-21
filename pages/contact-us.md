@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: My Legacy
+agency_name: MyLegacy@LifeSG
 locations:
   - address:
       - "#01-01"
