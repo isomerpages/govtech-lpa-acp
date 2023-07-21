@@ -821,10 +821,10 @@ ul.accordion input.toggle:checked + .inner {
   </tr>
   <tr>
     <td>Cancellation of registration of an LPA</td>
-    <td style="text-align:center">$25<br>(fee will be $30 with <br>effect from 1 april 2023)</td>
+    <td style="text-align:center">$30</td>
   </tr>
 </tbody></table>
-                                <p>Payment can made on <a target="_blank" href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a>.<br><i><small>*Note: Cheque collection has ceased.</small></i></p>
+                                <p>Payment can be made on <a target="_blank" href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a>.<br><i><small>*Note: Cheque collection has ceased.</small></i></p>
                                 <p>There is also a fee to engage an accredited medical practitioner, psychiatrist or lawyer to certify your LPA. More information on certification fees can be found <a target="_blank" href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer">here</a>.</p>
                                 <p>As of Jan 2023, the majority of the top 10 most visited accredited medical practitioners charged $59 or less.</p>
                                 <h5>Cost of ACP</h5>
