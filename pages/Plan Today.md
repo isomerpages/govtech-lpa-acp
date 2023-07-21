@@ -538,7 +538,7 @@ color: #01436b;
 background-color: #C7C6C2;
 }
 	.col-8.feature_video{
-	margin-left: 16.66%;
+	margin-left: 12.5%;
 	}
     @media (max-width: 1024px){
 section.action::before,section.action_::after{
