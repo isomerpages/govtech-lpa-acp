@@ -2,12 +2,12 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: "My Legacy "
+agency_name: My Legacy
 locations:
   - address:
       - "#01-01"
       - 1 Punggol Drive
-      - Singapore 828629
+      - Singapore 828628
     operating_hours:
       - days: Mon - Sun
         time: 9am - 6pm
