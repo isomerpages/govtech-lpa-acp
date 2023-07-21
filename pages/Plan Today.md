@@ -537,7 +537,7 @@ color: #01436b;
 .container.action_3 {
 background-color: #C7C6C2;
 }
-	.col-8.feature_video{
+	.offset-2{
 	margin-left: 12.5%;
 	}
     @media (max-width: 1024px){
@@ -654,7 +654,7 @@ a.p-navigation__toggle--close {
 .banner::after {
 left: 0;
 }
-		.col-8.feature_video{
+		.offset-2{
 	margin-left: 0;
 	}
     .feature_block .inner {
@@ -852,12 +852,12 @@ display: inline-block;
 
 </div>
 	<div class="row m-t-30">
-	<div class="col-8 feature_video">
+	<div class="col-8 feature_video offset-2">
 	<div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846846114?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
 	</div>
 	</div>
 <div class="row m-t-30">
-	<div class="col-8">
+	<div class="col-8 offset-2">
 		<div class="row"></div>
 <div class="feature_video col-6">
 <div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
