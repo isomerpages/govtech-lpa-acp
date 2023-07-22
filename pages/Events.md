@@ -479,6 +479,9 @@ description: ""
               <a class="p-button btn" href="https://plantoday.sg">SIGN UP NOW! </a>
       </div>
         </div>
+      </div><br>
+  <div class="col-12 u-align--left" style="padding: 0">
+              <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
     </div>
     </div>
