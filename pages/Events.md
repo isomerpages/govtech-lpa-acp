@@ -465,10 +465,10 @@ description: ""
           <h3>Plan Today</h3>
           <p>Learn more about Lasting Power of Attorney (LPA) and Advance Care Planning (ACP) at our talks!</p>
           <ul>
-            <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Our Tampines Hub (Level 1, Festive Walk East, Central Plaza) </span></li>
-            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>22 – 23 July 2023 </span></li>
+            <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Queenstown Community Centre, Level 2, Conference Room (LPA) and Activity Room (ACP) </span></li>
+            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>26 – 27 August 2023 </span></li>
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>1 Tampines Walk, Singapore 528523</span></li>
+        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>365 Commonwealth Avenue, Singapore 149732</span></li>
       </ul>
           <div class="signup">
           <p>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session*<br>
@@ -484,62 +484,8 @@ description: ""
     </div>
     <div class="row">
       <div class="col-12 m-t-40">
-      <table>
-    <tbody><tr>
-      <th>Timing </th>
-      <th>Programme^ (Free Admission) </th>
-    </tr>
-    <tr class="bg">
-      <td><strong>Day 1 - 22 July 2023 </strong></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>10.00am to 11.30am</td>
-      <td><strong>Talk: Planning for the footprints of My Legacy! 计划我生命的足跡!</strong> <br>
-  Language: English and Mandarin <br><br>
-  Details: Find out more about why it is important to plan ahead and how you can start your legacy planning. <br>Learn more about Lasting Power of Attorney, Advance Care Planning and how to use the My Legacy vault.<br><br>Speaker: Victor Tang<br>
-  </td>
-    </tr>
-          <tr>
-      <td>2.00pm to 3.00pm</td>
-      <td><strong>Launch of Plan Today, Lasting Power of Attorney and Advance Care Planning Campaign</strong> <br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- MICappella Singing Performance <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- Launch of campaign by Guest of Honour, Minister Masagos </td>
-    </tr>
-        <tr>
-      <td>4.00pm to 5.30pm</td>
-      <td><strong>Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)</strong> <br>
-  Language: English and Malay<br><br>
-Details: Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare. Gain valuable knowledge and practical guidance in this engaging session, as we navigate the importance of planning ahead and preserving your autonomy.<br><br>Speaker: Muntaz Zainuddin
-  </td>
-    </tr>
-        <tr class="bg">
-          <td><strong>Day 2 - 23 July 2023 </strong></td>
-      <td></td>
-    </tr>
-        <tr>
-          <td>10.00am to 11.30am</td>
-      <td><strong>Talk: From Love to Legacy - Making a CPF nomination for your CPF Savings</strong> <br>Language: English <br><br>Details: Your care, their future: Act now and make a CPF nomination to make a big difference for your loved ones’ future! <br><br>Speaker: Liang Weirong</td>
-    </tr>
-        <tr>
-          <td>2.00pm to 3.30pm</td>
-      <td><strong>Talk: Plan Early and Smart for Your Special Needs Loved Ones</strong> <br>Language: English <br><br>Details: Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.<br><br>Speaker: Isalyn Chew</td>
-    </tr>
-        <tr>
-          <td>4.00pm to 5.30pm</td>
-      <td><strong>Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)</strong><br> 
-  Language: English and Tamil<br><br>
-Details: Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare. Gain valuable knowledge and practical guidance in this engaging session, as we navigate the importance of planning ahead and preserving your autonomy.<br><br>Speaker: Anand George
-  
-  </td>
-    </tr>
-  </tbody></table>
-        <p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required.<br> Programmes and speakers are subjected to changes by organizers without prior notice. </p>
-            <div style="padding: 0" class="col-12 u-align--left">
-              <a class="p-button btn" href="/home/">BACK TO HOME </a>
-      </div>
-			</div>
-      </div>
-    </div>
+      
+         
+      
     
-</section>
+</div></div></div></section>
