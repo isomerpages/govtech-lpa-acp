@@ -6,8 +6,8 @@ description: Leave a legacy of love and certainty for the people who matter most
 image: /images/colour_stacked.png
 permalink: /
 notification: The LPA-ACP Mobile Clinics at Our Tampines Hub is now full. Please
-  head over to our Events page for more information on the how to book slots for
-  the Mobile Clinics in August.
+  head over to our Events page for more information on how to book slots for the
+  Mobile Clinics in August.
 sections:
   - hero:
       background: /images/pt_banner_bg.png
