@@ -5,7 +5,9 @@ description: Leave a legacy of love and certainty for the people who matter most
   to you. Here are some ways to get started.
 image: /images/colour_stacked.png
 permalink: /
-notification: ""
+notification: "Please note that the LPA-ACP Mobile Clinics at Our Tampines Hub
+  is now full. Please head over the our Events page for more information on the
+  next round of mobile clinics. "
 sections:
   - hero:
       background: /images/pt_banner_bg.png
