@@ -472,7 +472,7 @@ description: ""
       </ul>
           <div class="signup">
           <p>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session*<br>
-  Available for: Singapore citizens aged 50 years old and above.<br>
+  Available for: Singapore citizens aged 50 years old and above, with priority given to CHAS Blue/Orange card holders.<br>
             <small>*Limited slots available </small>
   </p>
       <div style="padding: 0" class="col-12 u-align--left">
