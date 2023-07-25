@@ -5,10 +5,7 @@ description: Leave a legacy of love and certainty for the people who matter most
   to you. Here are some ways to get started.
 image: /images/colour_stacked.png
 permalink: /
-notification: The LPA-ACP Mobile Clinics at Our Tampines Hub (22-23 July) and
-  ACP Mobile Clinics at Queenstown Community Centre (26-27 Aug) are now full.
-  Please head over to our Events page for more information on how to book slots
-  for the LPA Mobile Clinics in August.
+notification: ""
 sections:
   - hero:
       background: /images/pt_banner_bg.png
