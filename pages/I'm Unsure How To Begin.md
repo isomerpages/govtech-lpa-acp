@@ -740,9 +740,18 @@ ul.accordion input.toggle:checked + .inner {
                                 </div>
                                     </label>
                         </li>
-                        <li>
+                                                <li>
                             <label for="accordion_4">
-                                <input class="toggle" id="accordion_4" name="accordion" type="radio">Who can I appoint as my LPA Donee(s)?
+                                <input class="toggle" id="accordion_4" name="accordion" type="radio">What is the difference between an LPA and an ACP?
+                                <div class="inner">
+                            <p>The LPA is a legal document that allows you to appoint trusted person(s) to look after your personal welfare and/or financial decisions on your behalf if you lack mental capacity to decide for yourself.</p>
+                            <p>The ACP helps you to discuss and document matters related to your healthcare. It is not a legal document.</p>
+                                </div>
+                                    </label>
+                        </li>
+                        <li>
+                            <label for="accordion_5">
+                                <input class="toggle" id="accordion_5" name="accordion" type="radio">Who can I appoint as my LPA Donee(s)?
                                 <div class="inner">
                             <ul>
 <li>Your Donee must be 21 years of age or older. They could be:
@@ -766,8 +775,8 @@ ul.accordion input.toggle:checked + .inner {
                                     </label>
                         </li>
                         <li>
-                            <label for="accordion_5">
-                                <input class="toggle" id="accordion_5" name="accordion" type="radio">Who can I choose as my ACP’s nominated healthcare spokesperson(s)?
+                            <label for="accordion_6">
+                                <input class="toggle" id="accordion_6" name="accordion" type="radio">Who can I choose as my ACP’s nominated healthcare spokesperson(s)?
                             <div class="inner">
                                 <ul class="circle">
 <li>Your nominated healthcare spokesperson should be 21 years of age or older. They could be:
@@ -786,8 +795,8 @@ ul.accordion input.toggle:checked + .inner {
                                 </label>
                         </li>
                         <li>
-                            <label for="accordion_6">
-                                <input class="toggle" id="accordion_6" name="accordion" type="radio">Is it expensive to make an LPA and ACP?
+                            <label for="accordion_7">
+                                <input class="toggle" id="accordion_7" name="accordion" type="radio">Is it expensive to make an LPA and ACP?
                                 <div class="inner">
 <h5>Lasting Power of Attorney (LPA) Fees</h5>   
 <h6><strong>Table 1: Application Fees</strong></h6>
@@ -835,8 +844,8 @@ ul.accordion input.toggle:checked + .inner {
                                     </label>
                         </li>
                     <li>
-                            <label for="accordion_7">
-                                <input class="toggle" id="accordion_7" name="accordion" type="radio">I am concerned about the legal process
+                            <label for="accordion_8">
+                                <input class="toggle" id="accordion_8" name="accordion" type="radio">I am concerned about the legal process
                                 <div class="inner">
                             <p>
 The ACP is not a legal document and you do not need a lawyer to help you make one. You will only need to engage a lawyer if you wish to make an LPA Form 2.
