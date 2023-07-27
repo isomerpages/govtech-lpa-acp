@@ -445,7 +445,7 @@ margin-bottom: 15px;
 }
 ul.accordion input.toggle:checked + .inner {
 height: auto;
-padding: 45px 20px;
+padding: 45px;
 }
 .accordion ul .inner {
 overflow: hidden;
@@ -453,7 +453,7 @@ margin-top: 0;
 background-color: #EBE7E5;
 margin-top: 6px;
 height: 0;
-padding: 0 20px;
+padding: 0 45px;
 transition: all ease-in-out .3s;
     -webkit-transition: all ease-in-out .3s;
  text-indent: 0;

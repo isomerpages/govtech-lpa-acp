@@ -463,7 +463,9 @@ description: ""
       <div class="col-12  m-b-40">
         <div class="play_today">
           <h3>Plan Today</h3>
-          <p>Learn more about Lasting Power of Attorney (LPA) and Advance Care Planning (ACP) at our talks!</p>
+          <p>Complete your ACP at our upcoming mobile clinics*!</p>
+          <p>Please note that the mobile clinics for LPA are fully booked.</p>
+          <small>*Limited slots are available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</small><br><br>
           <ul>
             <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Queenstown Community Centre, Level 2, Conference Room (LPA) and Activity Room (ACP) </span></li>
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>26 – 27 August 2023 </span></li>
@@ -471,10 +473,11 @@ description: ""
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>365 Commonwealth Avenue, Singapore 149732</span></li>
       </ul>
           <div class="signup">
-          <p>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session*<br>
+          <p><strong>Documents required:</strong> NRIC, ACP form draft from My Legacy (prepare one <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a>)</p>
+          <!--<p>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session*<br>
   Available for: Singapore citizens aged 50 years old and above, with priority given to CHAS Blue/Orange card holders.<br>
             <small>*Limited slots available </small>
-  </p>
+  </p> -->
       <div style="padding: 0" class="col-12 u-align--left">
               <a class="p-button btn" href="https://plantoday.sg">SIGN UP NOW! </a>
       </div>
