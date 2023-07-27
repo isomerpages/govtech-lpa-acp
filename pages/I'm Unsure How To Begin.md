@@ -744,8 +744,8 @@ ul.accordion input.toggle:checked + .inner {
                             <label for="accordion_4">
                                 <input class="toggle" id="accordion_4" name="accordion" type="radio">What is the difference between an LPA and an ACP?
                                 <div class="inner">
-                            <p>The LPA is a legal document that allows you to appoint trusted person(s) to look after your personal welfare and/or financial decisions on your behalf if you lack mental capacity to decide for yourself.</p>
-                            <p>The ACP helps you to discuss and document matters related to your healthcare. It is not a legal document.</p>
+                            <p>The LPA is a legal document that allows you to appoint trusted person(s) to look after your personal welfare and/or financial decisions on your behalf if you lack the mental capacity to decide for yourself.</p>
+                            <p>The ACP helps you discuss and document matters related to your healthcare. It is not a legal document.</p>
                                 </div>
                                     </label>
                         </li>
