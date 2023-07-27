@@ -704,7 +704,7 @@ ul.accordion input.toggle:checked + .inner {
                                 <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
                                 After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the Certificate Issuer as per the flow of LPA Form 1.</p>
                                    </li></ul>  
-																	<div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
+																	<div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
                                                             </div>
                             </label>
                         </li>
@@ -722,7 +722,7 @@ ul.accordion input.toggle:checked + .inner {
 <li>Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.</li>
 <li>You may also wish to upload a soft copy of your completed ACP form in the <a target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for your own records and to share them with your Trusted Persons.</li>
                                                             </ul></li></ul>
-																		<div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846847338?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
+																		<div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846847338?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
                                 </div>
                                 </label>
                         </li>
