@@ -475,7 +475,7 @@ section.bp-section .bp-container {
     background-color: #EBE7E5;
     margin-top: 6px;
     height: 0;
-    padding: 0 30px;
+    padding: 0 45px;
     transition: all ease-in-out .3s;
         -webkit-transition: all ease-in-out .3s;
      text-indent: 0;
