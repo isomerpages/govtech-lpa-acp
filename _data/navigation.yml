@@ -3,7 +3,7 @@ links:
   - title: Home
     url: /home
   - title: Visit My Legacy
-    url: /permalink
+    url: https://mylegacy.life.gov.sg/
     sublinks:
       - title: Make an LPA and ACP
         url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/

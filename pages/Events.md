@@ -282,7 +282,7 @@ description: ""
   }
     .play_today {
       padding: 30px;
-      background-color: #F6E3CE;
+      background-color: #DACBBC;
   }
   .content ul > li:last-child {
       margin-bottom: 0;
@@ -395,7 +395,7 @@ description: ""
   }
     }
     section.event_banner {
-      background-color: #F6E3CE;
+      background-color: #DACBBC;
   }
   .event_banner img {
       height: 250px;
