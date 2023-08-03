@@ -274,7 +274,7 @@ font-size: 22px;
 }
 .banner{
 height:520px;
-background-color: #D6C4AF;
+background-color: #DACBBC;
     display: inline-block;
     position: relative;
 }
