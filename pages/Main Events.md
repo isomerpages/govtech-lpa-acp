@@ -496,7 +496,7 @@ description: ""
 				</div>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row m-t-30">
 			<div class="col-4 eventBlock">
 				<div class="inner">
 				       <img title="Ismor Events" src="https://i.imgur.com/YyAmThB.jpg">
