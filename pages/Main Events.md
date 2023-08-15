@@ -290,7 +290,7 @@ description: ""
     margin-bottom: 11px;
 }
 	.eventBlock h4 a {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
     text-decoration: none;
     color: #01436b;
