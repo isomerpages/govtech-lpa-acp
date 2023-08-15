@@ -270,6 +270,10 @@ description: ""
     padding-left: 0;
     margin: 0;
 }
+.eventBlock ul.meta li {
+    font-size: 15px;
+    margin: 0!important;
+}
 	.eventBlock ul.meta img {
     width: 21px;
     float: left;
