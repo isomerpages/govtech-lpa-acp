@@ -376,7 +376,7 @@ description: ""
       background-color: #DACBBC;
   }
   .event_banner img {
-      height: 250px;
+      height: 450px;
       object-fit: contain;
       object-position: bottom;
   }
