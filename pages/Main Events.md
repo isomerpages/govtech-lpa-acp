@@ -270,12 +270,20 @@ description: ""
     padding-left: 0;
     margin: 0;
 }
+	.heading h3 {
+    font-size: 26px;
+    color: #000;
+    margin-bottom: 30px;
+}
 .eventBlock p {
     font-size: 15px;
     line-height: 26px;
     color: #000;
     margin-top: 20px;
 }	
+	.m-t-30{
+	margin-top: 30px;
+	}
 	.eventBlock h4 {
     margin-top: 30px!important;
     display: inline-block;
