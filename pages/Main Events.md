@@ -270,6 +270,23 @@ description: ""
     padding-left: 0;
     margin: 0;
 }
+.eventBlock p {
+    font-size: 15px;
+    line-height: 26px;
+    color: #000;
+    margin-top: 20px;
+}	
+	.eventBlock h4 {
+    margin-top: 30px!important;
+    display: inline-block;
+    margin-bottom: 11px;
+}
+	.eventBlock h4 a {
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #01436b;
+}
 .eventBlock ul.meta li {
     font-size: 15px;
     margin: 0!important;
@@ -448,7 +465,7 @@ description: ""
 							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23.03.23 - Thursday</strong>, 8pm- 9pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Esplanade - Theatres on the Bay, Singapore</li>
 						</ul>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 					</div>
 				</div>
 			</div>
