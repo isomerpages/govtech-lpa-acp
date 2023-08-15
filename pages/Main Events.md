@@ -419,6 +419,24 @@ description: ""
   <section class="mainEvents p-t-80 p-b-110">
   <div class="container">
     <div class="row">
+			<div class="col-12 heading">
+				<h3>Upcoming Events</h3>
+			</div>
       </div>
+		<div class="row">
+			<div class="col-4 eventBlock">
+				<div class="inner">
+				       <img title="Ismor Events" src="">
+					<div class="content">
+						<h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
+						<ul class="meta">
+							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23.03.23 - Thursday</strong>, 8pm- 9pm</li>
+							<li><img src="https://i.imgur.com/mc9gYLj.png">Esplanade - Theatres on the Bay, Singapore</li>
+						</ul>
+						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
