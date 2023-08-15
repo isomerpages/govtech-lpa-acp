@@ -265,6 +265,17 @@ description: ""
   .content ul > li:last-child {
       margin-bottom: 0;
   } 
+	.eventBlock ul.meta {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+	.eventBlock ul.meta img {
+    width: 21px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 6px;
+}
   container-fluid{
   width: 100%;
   }
