@@ -426,7 +426,7 @@ description: ""
 		<div class="row">
 			<div class="col-4 eventBlock">
 				<div class="inner">
-				       <img title="Ismor Events" src="">
+				       <img title="Ismor Events" src="https://i.imgur.com/YyAmThB.jpg">
 					<div class="content">
 						<h4><a href="#">Lorem ipsum dolor sit amet</a></h4>
 						<ul class="meta">
