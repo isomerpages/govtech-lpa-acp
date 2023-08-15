@@ -298,6 +298,7 @@ description: ""
 .eventBlock ul.meta li {
     font-size: 15px;
     margin: 0!important;
+	color: #000;
 }
 	.eventBlock ul.meta img {
     width: 21px;
