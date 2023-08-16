@@ -469,12 +469,12 @@ description: ""
 				<div class="inner">
 				       <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.jpg">
 					<div class="content">
-						<h4><a href="#">ACP Mobile Clinic</a></h4>
+						<h4><a href="/queenstown-cc/">ACP Mobile Clinic</a></h4>
 						<ul class="meta">
 							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 – 27 August 2023</strong>, 10am - 6pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Queenstown Community Centre</li>
 							<li><img src="https://i.imgur.com/jsREBhu.png">365 Commonwealth Ave, Singapore 149732</li>
-							<p><a href="#">Learn more</a></p>
+							<p><a target="_blank" href="/queenstown-cc/">Learn more</a></p>
 						</ul>
 					</div>
 				</div>
@@ -483,12 +483,12 @@ description: ""
 				<div class="inner">
 				       <img title="Ismor Events" src="https://i.imgur.com/i3Zx3Xg.jpg">
 					<div class="content">
-						<h4><a href="#">ACP Mobile Clinic</a></h4>
+						<h4><a href="/nee-soon-central-cc/">ACP Mobile Clinic</a></h4>
 						<ul class="meta">
 							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>(Pending)</strong>, 10am - 6pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Nee Soon Central Community Centre</li>
 							<li><img src="https://i.imgur.com/jsREBhu.png">1 North Point Dr, Singapore 768019M</li>
-							<p><a href="#">Learn more</a></p>
+							<p><a target="_blank" href="/nee-soon-central-cc/">Learn more</a></p>
 						</ul>
 					</div>
 				</div>
@@ -497,12 +497,12 @@ description: ""
 				<div class="inner">
 				       <img title="Ismor Events" src="https://i.imgur.com/hR0S6XS.png">
 					<div class="content">
-						<h4><a href="#">ACP Mobile Clinic</a></h4>
+						<h4><a href="/kebun-bahru-cc/">ACP Mobile Clinic</a></h4>
 						<ul class="meta">
 							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>(Pending)</strong>, 10am - 6pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Kebun Bahru Community Centre</li>
 							<li><img src="https://i.imgur.com/jsREBhu.png">216 Ang Mo Kio Ave 4, Singapore 569897</li>
-							<p><a href="#">Learn more</a></p>
+							<p><a target="_blank" href="/kebun-bahru-cc/">Learn more</a></p>
 						</ul>
 					</div>
 				</div>
