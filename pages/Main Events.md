@@ -474,6 +474,7 @@ description: ""
 							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 – 27 August 2023</strong>, 10am - 6pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Queenstown Community Centre</li>
 							<li>365 Commonwealth Ave, Singapore 149732</li>
+							<p><a href="#">Learn more</a></p>
 						</ul>
 					</div>
 				</div>
@@ -487,6 +488,7 @@ description: ""
 							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>(Pending)</strong>, 10am - 6pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Nee Soon Central Community Centre</li>
 							<li>1 North Point Dr, Singapore 768019M</li>
+							<p><a href="#">Learn more</a></p>
 						</ul>
 					</div>
 				</div>
@@ -500,6 +502,7 @@ description: ""
 							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>(Pending)</strong>, 10am - 6pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Kebun Bahru Community Centre</li>
 							<li>216 Ang Mo Kio Ave 4, Singapore 569897</li>
+							<p><a href="#">Learn more</a></p>
 						</ul>
 					</div>
 				</div>
