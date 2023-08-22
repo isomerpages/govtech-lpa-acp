@@ -1,6 +1,6 @@
 ---
-title: Events
-permalink: /events/
+title: Main Events
+permalink: /main-events/
 description: ""
 ---
 <style>
@@ -239,15 +239,6 @@ description: ""
   tr.bg {
     background-color: #83A1D3;
   }
-    .signup p,.signup p strong {
-    color: #000;
-    }
-  .events ul li {
-      color: #000;
-      font-size: 16px;
-      margin-bottom: 0px;
-      margin-top: 3px;
-  }
     .m-b-40{
     margin-bottom: 40px;
     }
@@ -258,19 +249,6 @@ description: ""
       margin-bottom: 0;
     font-family: 'Playfair Display';
     font-style: italic;
-  }
-  .events::before {
-      content: "";
-      position: absolute;
-      right: 50px;
-      bottom: -7px;
-      width: 250px;
-      background-position: center;
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-image: url(https://i.imgur.com/ymZBFhy.png);
-      z-index: -1;
-      height: 250px;
   }
     .p-b-110{
     padding-bottom:110px;
@@ -287,6 +265,47 @@ description: ""
   .content ul > li:last-child {
       margin-bottom: 0;
   } 
+	.eventBlock ul.meta {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+	.heading h3 {
+    font-size: 26px;
+    color: #000;
+    margin-bottom: 30px;
+}
+.eventBlock p {
+    font-size: 15px;
+    line-height: 26px;
+    color: #000;
+    margin-top: 20px;
+}	
+	.m-t-30{
+	margin-top: 30px;
+	}
+	.eventBlock h4 {
+    margin-top: 30px!important;
+    display: inline-block;
+    margin-bottom: 11px;
+}
+	.eventBlock h4 a {
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #01436b;
+}
+.eventBlock ul.meta li {
+    font-size: 15px;
+    margin: 0!important;
+	color: #000;
+}
+	.eventBlock ul.meta img {
+    width: 21px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 6px;
+}
   container-fluid{
   width: 100%;
   }
@@ -398,7 +417,7 @@ description: ""
       background-color: #DACBBC;
   }
   .event_banner img {
-      height: 250px;
+      height: 450px;
       object-fit: contain;
       object-position: bottom;
   }
@@ -412,21 +431,7 @@ description: ""
       font-family:'Lato';
       font-weight: 400;
   }
-    .events ul {
-      margin: 0;
-      list-style: none;
-  }
-    .events ul span:first-child {
-      font-weight: bold; margin-right: 15px;
-  }
-    .events ul li {
-      color: #000;
-  }
-    .events ul li img {
-      float: left;
-      margin-top: 9px;
-      margin-right: 10px;
-  }
+  
     @media(max-width: 767px){
     .events::before {
     display:none;
@@ -452,46 +457,56 @@ description: ""
     </div>
     </section>
     
-  <section class="events p-t-80 p-b-110">
+  <section class="mainEvents p-t-80 p-b-110">
   <div class="container">
     <div class="row">
-      <div class="col-12 heading u-align--center m-b-60">
-        <h2 class="upcoming">Upcoming Events</h2>
+			<div class="col-12 heading">
+				<h3>Upcoming Events</h3>
+			</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-12  m-b-40">
-        <div class="play_today">
-          <h3>Plan Today</h3>
-          <p>Complete your ACP at our upcoming mobile clinics*!</p>
-          <p>Please note that the mobile clinics for LPA are fully booked.</p>
-          <small>*Limited slots are available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</small><br><br>
-          <ul>
-            <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Queenstown Community Centre, Level 2, Conference Room (LPA) and Activity Room (ACP) </span></li>
-            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>26 – 27 August 2023 </span></li>
-        <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>365 Commonwealth Avenue, Singapore 149732</span></li>
-      </ul>
-          <div class="signup">
-          <p><strong>Documents required:</strong> NRIC, ACP form draft from My Legacy (prepare one <a target="_blank" href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/)">here</a>)</p>
-          <!--<p>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session*<br>
-  Available for: Singapore citizens aged 50 years old and above, with priority given to CHAS Blue/Orange card holders.<br>
-            <small>*Limited slots available </small>
-  </p> -->
-      <div style="padding: 0" class="col-12 u-align--left">
-              <a class="p-button btn" href="https://plantoday.sg">SIGN UP NOW! </a>
-      </div>
-        </div>
-      </div><br>
-  <div class="col-12 u-align--left" style="padding: 0">
-              <a href="/home/" class="p-button btn">BACK TO HOME </a>
-      </div>
-    </div>
-    </div>
-    <div class="row">
-      <div class="col-12 m-t-40">
-      
-         
-      
-    
-</div></div></div></section>
+		<div class="row">
+			<div class="col-4 eventBlock">
+				<div class="inner">
+				       <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.jpg">
+					<div class="content">
+						<h4><a href="/queenstown-cc/">ACP Mobile Clinic</a></h4>
+						<ul class="meta">
+							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 – 27 August 2023</strong>, 10am - 6pm</li>
+							<li><img src="https://i.imgur.com/mc9gYLj.png">Queenstown Community Centre</li>
+							<li><img src="https://i.imgur.com/jsREBhu.png">365 Commonwealth Ave, Singapore 149732</li>
+							<p><a target="_blank" href="/queenstown-cc/">Learn more</a></p>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-4 eventBlock">
+				<div class="inner">
+				       <img title="Ismor Events" src="https://i.imgur.com/i3Zx3Xg.jpg">
+					<div class="content">
+						<h4><a href="/nee-soon-central-cc/">ACP Mobile Clinic</a></h4>
+						<ul class="meta">
+							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>(Pending)</strong>, 10am - 6pm</li>
+							<li><img src="https://i.imgur.com/mc9gYLj.png">Nee Soon Central Community Centre</li>
+							<li><img src="https://i.imgur.com/jsREBhu.png">1 North Point Dr, Singapore 768019M</li>
+							<p><a target="_blank" href="/nee-soon-central-cc/">Learn more</a></p>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-4 eventBlock">
+				<div class="inner">
+				       <img title="Ismor Events" src="https://i.imgur.com/hR0S6XS.png">
+					<div class="content">
+						<h4><a href="/kebun-bahru-cc/">ACP Mobile Clinic</a></h4>
+						<ul class="meta">
+							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>(Pending)</strong>, 10am - 6pm</li>
+							<li><img src="https://i.imgur.com/mc9gYLj.png">Kebun Bahru Community Centre</li>
+							<li><img src="https://i.imgur.com/jsREBhu.png">216 Ang Mo Kio Ave 4, Singapore 569897</li>
+							<p><a target="_blank" href="/kebun-bahru-cc/">Learn more</a></p>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
