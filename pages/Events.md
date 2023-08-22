@@ -473,7 +473,7 @@ description: ""
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>365 Commonwealth Avenue, Singapore 149732</span></li>
       </ul>
           <div class="signup">
-          <p><strong>Documents required:</strong> NRIC, ACP form draft from My Legacy (prepare one <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a>)</p>
+          <p><strong>Documents required:</strong> NRIC, ACP form draft from My Legacy (prepare one <a target="_blank" href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/)">here</a>)</p>
           <!--<p>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session*<br>
   Available for: Singapore citizens aged 50 years old and above, with priority given to CHAS Blue/Orange card holders.<br>
             <small>*Limited slots available </small>
