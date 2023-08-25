@@ -465,24 +465,28 @@ description: ""
           <h3>Mobile Clinic @ Kebun Bahru</h3>
           <p>Complete your LPA and ACP at our upcoming mobile clinics*!</p>
           <small>*Limited slots are available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</small><br><br>
-            <p><strong>Documents required:</strong> NRIC, ACP form draft from My Legacy (prepare one <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a>)</p>
+          <ul>
+            <p><strong>Documents required:</strong> 
+						<br> - NRIC and CHAS card
+						<br> - <strong> For LPA </strong>: Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment
+				<br> - <strong> For ACP </strong>: ACP form draft from My Legacy 
+			<br> - Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></p>
             <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Bahru Community Centre</span></li>
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>26 – 27 August 2023 </span></li>
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li>
-      
-      </div>
-        </div>
-      </div><br>
+      </ul>
+
+    
   <div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
     </div>
-    
+    </div>
     <div class="row">
       <div class="col-12 m-t-40">
       
          
       
     
-</div></div></section>
+</div></div></div></div></section>
