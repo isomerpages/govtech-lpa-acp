@@ -15,7 +15,7 @@ sections:
           url: /home
         - title: Upcoming events
           description: Learn more about LPA and ACP at our free talks.
-          url: /events/
+          url: /main-events/
         - title: Book FREE LPA and ACP session
           description: Sign up for a free LPA and ACP session at our upcoming mobile
             clinics.
