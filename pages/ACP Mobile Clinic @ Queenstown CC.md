@@ -456,7 +456,7 @@ description: ""
   <div class="container">
     <div class="row">
       <div class="col-12 heading u-align--center m-b-60">
-        <h2 class="upcoming">Upcoming Events</h2>
+        <h2 class="upcoming">Mobile Clinic @ Queenstown</h2>
       </div>
     </div>
     <div class="row">
@@ -468,7 +468,7 @@ description: ""
           <small>*Limited slots are available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</small><br><br>
           <ul>
             <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Queenstown Community Centre, Level 2, Conference Room (LPA) and Activity Room (ACP) </span></li>
-            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>26 – 27 August 2023 </span></li>
+            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>26 &amp; 27 August 2023 </span></li>
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>365 Commonwealth Avenue, Singapore 149732</span></li>
       </ul>
@@ -479,10 +479,8 @@ description: ""
             <small>*Limited slots available </small>
   </p> -->
       <div style="padding: 0" class="col-12 u-align--left">
-              <a class="p-button btn" href="https://plantoday.sg">SIGN UP NOW! </a>
-      </div>
-        </div>
-      </div><br>
+              
+      
   <div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
@@ -494,4 +492,4 @@ description: ""
          
       
     
-</div></div></div></section>
+</div></div></div></div></div></div></section>
