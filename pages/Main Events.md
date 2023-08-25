@@ -467,11 +467,11 @@ description: ""
 		<div class="row">
 			<div class="col-4 eventBlock">
 				<div class="inner">
-				       <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.jpg">
+				       <img title="Ismor Events" src="https://i.imgur.com/hR0S6XS.jpg">
 					<div class="content">
-						<h4><a href="/queenstown-cc/">ACP Mobile Clinic</a></h4>
+						<h4><a href="/queenstown-cc/">Mobile Clinics @ Queenstown</a></h4>
 						<ul class="meta">
-							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 – 27 August 2023</strong>, 10am - 6pm</li>
+							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 and 27 August 2023</strong>, 10am - 6pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Queenstown Community Centre</li>
 							<li><img src="https://i.imgur.com/jsREBhu.png">365 Commonwealth Ave, Singapore 149732</li>
 							<p><a target="_blank" href="/queenstown-cc/">Learn more</a></p>
@@ -483,11 +483,11 @@ description: ""
 				<div class="inner">
 				       <img title="Ismor Events" src="https://i.imgur.com/i3Zx3Xg.jpg">
 					<div class="content">
-						<h4><a href="/nee-soon-central-cc/">ACP Mobile Clinic</a></h4>
+						<h4><a href="/nee-soon-central-cc/">Roadshow and Mobile Clinic @ Yishun</a></h4>
 						<ul class="meta">
-							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>(Pending)</strong>, 10am - 6pm</li>
-							<li><img src="https://i.imgur.com/mc9gYLj.png">Nee Soon Central Community Centre</li>
-							<li><img src="https://i.imgur.com/jsREBhu.png">1 North Point Dr, Singapore 768019M</li>
+							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>16 and 17 September 2023</strong></li>
+							<li><img src="https://i.imgur.com/mc9gYLj.png">Yishun Town Square (in front of Nee Soon Central Community Centre)</li>
+							<li><img src="https://i.imgur.com/jsREBhu.png"> 3 Northpoint Dr, Singapore 768020</li>
 							<p><a target="_blank" href="/nee-soon-central-cc/">Learn more</a></p>
 						</ul>
 					</div>
@@ -495,11 +495,11 @@ description: ""
 			</div>
 			<div class="col-4 eventBlock">
 				<div class="inner">
-				       <img title="Ismor Events" src="https://i.imgur.com/hR0S6XS.png">
+				       <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
 					<div class="content">
-						<h4><a href="/kebun-bahru-cc/">ACP Mobile Clinic</a></h4>
+						<h4><a href="/kebun-bahru-cc/">Mobile Clinic @ Kebun Bahru</a></h4>
 						<ul class="meta">
-							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>(Pending)</strong>, 10am - 6pm</li>
+							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>21 and 22 October 2023</strong></li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Kebun Bahru Community Centre</li>
 							<li><img src="https://i.imgur.com/jsREBhu.png">216 Ang Mo Kio Ave 4, Singapore 569897</li>
 							<p><a target="_blank" href="/kebun-bahru-cc/">Learn more</a></p>
