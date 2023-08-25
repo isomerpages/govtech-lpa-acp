@@ -471,7 +471,7 @@ description: ""
 					<div class="content">
 						<h4><a href="/queenstown-cc/">Mobile Clinics @ Queenstown</a></h4>
 						<ul class="meta">
-							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 – 27 August 2023</strong>, 10am - 6pm</li>
+							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 and 27 August 2023</strong>, 10am - 6pm</li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Queenstown Community Centre</li>
 							<li><img src="https://i.imgur.com/jsREBhu.png">365 Commonwealth Ave, Singapore 149732</li>
 							<p><a target="_blank" href="/queenstown-cc/">Learn more</a></p>
