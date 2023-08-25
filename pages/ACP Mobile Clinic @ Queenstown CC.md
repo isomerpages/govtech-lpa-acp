@@ -463,9 +463,8 @@ description: ""
       <div class="col-12  m-b-40">
         <div class="play_today">
           <h3>Plan Today</h3>
-          <p>Complete your ACP at our upcoming mobile clinics*!</p>
-          <p>Please note that the mobile clinics for LPA are fully booked.</p>
-          <small>*Limited slots are available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</small><br><br>
+          <p>*Please note that the sign ups have closed and mobile clinics for LPA are fully booked.</p>
+         <br>
           <ul>
             <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Queenstown Community Centre, Level 2, Conference Room (LPA) and Activity Room (ACP) </span></li>
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>26 &amp; 27 August 2023 </span></li>
