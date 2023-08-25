@@ -456,28 +456,22 @@ description: ""
   <div class="container">
     <div class="row">
       <div class="col-12 heading u-align--center m-b-60">
-        <h2 class="upcoming">Mobile Clinic @ Queenstown</h2>
+        <h2 class="upcoming">Upcoming Events</h2>
       </div>
     </div>
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Plan Today</h3>
-          <p>*Please note that the sign ups have closed and mobile clinics for LPA are fully booked.</p>
-         <br>
-          <ul>
-            <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Queenstown Community Centre, Level 2, Conference Room (LPA) and Activity Room (ACP) </span></li>
+          <h3>Fully Booked - Mobile Clinics @ Queenstown</h3>
+          <p>*Please note that the sign ups are now closed. </p>
+             <ul>
+            <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Queenstown Community Centre, Level 2 </span></li>
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>26 &amp; 27 August 2023 </span></li>
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>365 Commonwealth Avenue, Singapore 149732</span></li>
       </ul>
           <div class="signup">
-          <p><strong>Documents required:</strong> NRIC, ACP form draft from My Legacy (prepare one <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a>)</p>
-          <!--<p>FREE Lasting Power of Attorney (LPA) Certification and Advance Care Planning (ACP) Facilitation Session*<br>
-  Available for: Singapore citizens aged 50 years old and above, with priority given to CHAS Blue/Orange card holders.<br>
-            <small>*Limited slots available </small>
-  </p> -->
-      <div style="padding: 0" class="col-12 u-align--left">
+         
               
       
   <div class="col-12 u-align--left" style="padding: 0">
@@ -491,4 +485,4 @@ description: ""
          
       
     
-</div></div></div></div></div></div></section>
+</div></div></div></div></div></section>
