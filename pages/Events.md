@@ -488,7 +488,7 @@ description: ""
 							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>16 and 17 September 2023</strong></li>
 							<li><img src="https://i.imgur.com/mc9gYLj.png">Yishun Town Square (in front of Nee Soon Central Community Centre)</li>
 							<li><img src="https://i.imgur.com/jsREBhu.png"> 3 Northpoint Dr, Singapore 768020</li>
-							<p><a target="_blank" href="/kebun-bahru-cc/">Learn more</a></p><p></p>
+							<p><a target="_blank" href="/nee-soon-central-cc/">Learn more</a></p><p></p>
 						</ul>
 					</div>
 				</div>
