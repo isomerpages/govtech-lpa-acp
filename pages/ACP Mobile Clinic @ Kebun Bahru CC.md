@@ -462,7 +462,7 @@ description: ""
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Mobile Clinic @ Kebun Bahru</h3>
+          <h3>Mobile Clinic @ Kebun Baru</h3>
           <p>Complete your LPA and ACP at our upcoming mobile clinics*!</p>
           <p> Please note that limited slots are available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
             <p> Do book an appointment if you wish to attend the mobile clinic. No walk-ins allowed. </p>
