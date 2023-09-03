@@ -301,6 +301,18 @@ description: ""
       font-weight: 600;
       text-decoration: none;
       padding: 10px 30px;
+      background-color: #e2a175;
+    display: inline-block;
+      margin: 0;
+  }
+    a.p-cta-button.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 10px 30px;
       background-color: #a5ded1;
       border: 1px solid #a5ded1;
     display: inline-block;
@@ -463,8 +475,9 @@ description: ""
       <div class="col-12  m-b-40">
         <div class="play_today">
           <h3>Roadshow and Mobile Clinics @ Yishun</h3>
-					<p> <strong> Please Note: </strong> <br>- Bookings for the mobile clinics are not open yet. <br> - The mobile clinics have limited slots  available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
-          <p></p>
+          <p> <strong> Please Note: </strong>
+            <br>The mobile clinics have limited slots  available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
+          </p><p></p>
           <ul>
             <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Yishun Town Square (in front of Nee Soon Community Centre)</span></li>
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
@@ -475,14 +488,14 @@ description: ""
        
       
   <div class="col-12 u-align--left" style="padding: 0">
-              <a href="/home/" class="p-button btn">BACK TO HOME </a>
+              <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
       </div>
     </div>
     </div>
     <div class="row">
-      <div class="col-12 m-t-40">
-      
-         
-      
-    
-</div></div></div></div></div></section>
+      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+    </div>
+  </div>
+</div>
+</div>
+</section>
