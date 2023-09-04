@@ -477,7 +477,7 @@ description: ""
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li><br>
       
- Booking slots will be released 3 weeks before date of event. <br>Please contact us at 1800-111-2222 or&nbsp;[enquiries@mylegacy.gov.sg](mailto:enquiries@mylegacy.gov.sg)&nbsp;if you have queries.
+ Booking slots will be released 3 weeks before date of event. <br>Please contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;if you have queries.
       </strong></ul><strong>
 
     
