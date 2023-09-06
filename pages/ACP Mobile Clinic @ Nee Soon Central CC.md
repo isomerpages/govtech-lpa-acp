@@ -478,7 +478,13 @@ description: ""
           <p> <strong> Please Note: </strong>
             <br>The mobile clinics have limited slots  available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
 <br> **Slots are on booking basis and no walk-ins are allowed**
-          </p><p></p>
+
+  </p><p><strong>Documents required:</strong> 
+            <br> - NRIC and CHAS card
+            <br> <strong> For LPA </strong>: <br> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment <br> - Donor's Mobile Phone 
+          <br> <strong> For ACP </strong><br> - ACP form draft from My Legacy 
+      <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><strong>
+          <p></p><p></p>
           <ul>
             <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Yishun Town Square (in front of Nee Soon Community Centre)</span></li>
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
@@ -492,11 +498,11 @@ description: ""
               <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
       </div>
     </div>
-    </div>
+    </strong></div><strong>
     <div class="row">
       <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
-  </div>
-</div>
-</div>
-</section>
+  </strong></div><strong>
+</strong></div><strong>
+</strong></div><strong>
+</strong></section>
