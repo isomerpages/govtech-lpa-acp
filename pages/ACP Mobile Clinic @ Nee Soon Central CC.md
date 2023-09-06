@@ -491,6 +491,7 @@ description: ""
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li>
+<br>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
       </ul>
           <div class="signup">
        
