@@ -477,7 +477,7 @@ description: ""
           <h3>Roadshow and Mobile Clinics @ Yishun</h3>
           <p> <strong> Please Note: </strong>
             <br>The mobile clinics have limited slots  available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
-<br> Slots are on booking basis and no walk-ins are allowed
+<br> **Slots are on booking basis and no walk-ins are allowed**
           </p><p></p>
           <ul>
             <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Yishun Town Square (in front of Nee Soon Community Centre)</span></li>
