@@ -478,6 +478,7 @@ description: ""
           <p> <strong> Please Note: </strong>
             <br>The mobile clinics have limited slots  available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
 <br> **Slots are on booking basis and no walk-ins are allowed**
+<br> ***LPA certification sessions are fully booked***
 
   </p><p><strong>Documents required:</strong> 
             <br> - NRIC and CHAS card
