@@ -475,36 +475,33 @@ description: ""
       <div class="col-12  m-b-40">
         <div class="play_today">
           <h3>Roadshow and Mobile Clinics @ Yishun</h3>
-          <p> <strong> Please Note: </strong>
+<ul><li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Yishun Town Square (in front of Nee Soon Community Centre)</span></li>
+            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
+        <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
+        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
+          <p> <strong> Mobile Clinics: </strong>
             <br>The mobile clinics have limited slots  available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
 <br> **Slots are on booking basis and no walk-ins are allowed**
 <br> ***LPA certification sessions are fully booked***
-
-  </p><p><strong>Documents required:</strong> 
-            <br> - NRIC and CHAS card
-            <br> <strong> For LPA </strong>: <br> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment <br> - Donor's Mobile Phone 
-          <br> <strong> For ACP </strong><br> - ACP form draft from My Legacy 
-      <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><strong>
-          <p></p><p></p>
-          <ul>
-            <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Yishun Town Square (in front of Nee Soon Community Centre)</span></li>
-            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
-        <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li>
-<br>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
-      </ul>
-          <div class="signup">
+</p><div class="signup">
        
       
   <div class="col-12 u-align--left" style="padding: 0">
               <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
       </div>
     </div>
-    </strong></div><strong>
+
+<strong>Roadshow Activities:</strong>
+  <p></p><p></p>
+			<div>
+          <ul>
+<br>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
+      </ul>
+    </div><strong>
     <div class="row">
       <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
   </strong></div><strong>
 </strong></div><strong>
 </strong></div><strong>
-</strong></section>
+</strong></div></section>
