@@ -483,8 +483,17 @@ description: ""
             <br>The mobile clinics have limited slots  available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
 <br> **Slots are on booking basis and no walk-ins are allowed**
 <br> ***LPA certification sessions are fully booked***
+		<br> ***ACP facilitation sessions are available***
+</p><p> <strong> Documents required: </strong>	
+<br>- NRIC and CHAS card  
+<br>For LPA:
+<br>- Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  
+<br>- Donor's Mobile Phone  
+<br>For ACP  
+<br>- ACP form draft from My Legacy  
+<br>Prepare your LPA and ACP&nbsp;["here" ](https://mylegacy.life.gov.sg/find-a-service/lpa-acp/)**
 </p><div class="signup">
-       
+ 
       
   <div class="col-12 u-align--left" style="padding: 0">
               <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
@@ -492,6 +501,8 @@ description: ""
     </div>
 
 <strong>Roadshow Activities:</strong>
+<br>Join us at our booths and free talks at our roadshow below. Stand a chance to win a **$5 NTUC voucher**, upon completion of roadshow activities, while stocks last.
+<br> ADD TABLE HERE
   <p></p><p></p>
 			<div>
           <ul>
