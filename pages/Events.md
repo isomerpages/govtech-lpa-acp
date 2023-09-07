@@ -465,20 +465,22 @@ description: ""
       </div>
       </div>
     <div class="row">
+      <!--
       <div class="col-4 eventBlock">
         <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/hR0S6XS.jpg">
+               <img src="https://i.imgur.com/hR0S6XS.jpg" title="Ismor Events">
           <div class="content">
             <h4><a href="/queenstown-cc/">Mobile Clinics @ Queenstown</a></h4>
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 and 27 August 2023</strong>, 10am - 6pm</li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Queenstown Community Centre</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">365 Commonwealth Ave, Singapore 149732</li>
-              <p><a target="_blank" href="/queenstown-cc/">Learn more</a></p>
+              <p><a href="/queenstown-cc/" target="_blank">Learn more</a></p>
             </ul>
           </div>
         </div>
       </div>
+    -->
       <div class="col-4 eventBlock">
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/i3Zx3Xg.jpg">
