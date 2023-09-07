@@ -490,7 +490,7 @@ description: ""
 <br>- Donor's Mobile Phone  
 					<br><strong>For ACP</strong>
 <br>- ACP form draft from My Legacy  
- <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><strong><p></p><div class="signup">
+ <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><p></p><div class="signup">
  
       
   <div class="col-12 u-align--left" style="padding: 0">
@@ -510,7 +510,7 @@ description: ""
     <div class="row">
       <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
-  </strong></strong></div><strong><strong>
+  </strong></div><strong><strong>
 </strong></strong></div><strong><strong>
 </strong></strong></div><strong><strong>
 </strong></strong></div></section>
