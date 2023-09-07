@@ -265,12 +265,12 @@ description: ""
   .content ul > li:last-child {
       margin-bottom: 0;
   } 
-	.eventBlock ul.meta {
+  .eventBlock ul.meta {
     list-style: none;
     padding-left: 0;
     margin: 0;
 }
-	.heading h3 {
+  .heading h3 {
     font-size: 26px;
     color: #000;
     margin-bottom: 30px;
@@ -280,16 +280,16 @@ description: ""
     line-height: 26px;
     color: #000;
     margin-top: 20px;
-}	
-	.m-t-30{
-	margin-top: 30px;
-	}
-	.eventBlock h4 {
+} 
+  .m-t-30{
+  margin-top: 30px;
+  }
+  .eventBlock h4 {
     margin-top: 30px!important;
     display: inline-block;
     margin-bottom: 11px;
 }
-	.eventBlock h4 a {
+  .eventBlock h4 a {
     font-size: 22px;
     font-weight: 600;
     text-decoration: none;
@@ -298,9 +298,9 @@ description: ""
 .eventBlock ul.meta li {
     font-size: 15px;
     margin: 0!important;
-	color: #000;
+  color: #000;
 }
-	.eventBlock ul.meta img {
+  .eventBlock ul.meta img {
     width: 21px;
     float: left;
     margin-right: 10px;
@@ -460,53 +460,53 @@ description: ""
   <section class="mainEvents p-t-80 p-b-110">
   <div class="container">
     <div class="row">
-			<div class="col-12 heading">
-				<h3>Upcoming Events</h3>
-			</div>
+      <div class="col-12 heading">
+        <h3>Upcoming Events</h3>
       </div>
-		<div class="row">
-			<div class="col-4 eventBlock">
-				<div class="inner">
-				       <img title="Ismor Events" src="https://i.imgur.com/hR0S6XS.jpg">
-					<div class="content">
-						<h4><a href="/queenstown-cc/">Mobile Clinics @ Queenstown</a></h4>
-						<ul class="meta">
-							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 and 27 August 2023</strong>, 10am - 6pm</li>
-							<li><img src="https://i.imgur.com/mc9gYLj.png">Queenstown Community Centre</li>
-							<li><img src="https://i.imgur.com/jsREBhu.png">365 Commonwealth Ave, Singapore 149732</li>
-							<p><a target="_blank" href="/queenstown-cc/">Learn more</a></p>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-4 eventBlock">
-				<div class="inner">
-				       <img title="Ismor Events" src="https://i.imgur.com/i3Zx3Xg.jpg">
-					<div class="content">
-						<h4><a href="/nee-soon-central-cc/">Roadshow and Mobile Clinic @ Yishun</a></h4>
-						<ul class="meta">
-							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>16 and 17 September 2023</strong></li>
-							<li><img src="https://i.imgur.com/mc9gYLj.png">Yishun Town Square (in front of Nee Soon Central Community Centre)</li>
-							<li><img src="https://i.imgur.com/jsREBhu.png"> 3 Northpoint Dr, Singapore 768020</li>
-							<p><a target="_blank" href="/nee-soon-central-cc/">Learn more</a></p><p></p>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-4 eventBlock">
-				<div class="inner">
-				       <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
-					<div class="content">
-						<h4><a href="/kebun-bahru-cc/">Mobile Clinic @ Kebun Bahru</a></h4>
-						<ul class="meta">
-							<li><img src="https://i.imgur.com/zk1pxl2.png"><strong>21 and 22 October 2023</strong></li>
-							<li><img src="https://i.imgur.com/mc9gYLj.png">Kebun Bahru Community Centre</li>
-							<li><img src="https://i.imgur.com/jsREBhu.png">216 Ang Mo Kio Ave 4, Singapore 569897</li>
-							<p><a target="_blank" href="/kebun-bahru-cc/">Learn more</a></p>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+      </div>
+    <div class="row">
+      <div class="col-4 eventBlock">
+        <div class="inner">
+               <img title="Ismor Events" src="https://i.imgur.com/hR0S6XS.jpg">
+          <div class="content">
+            <h4><a href="/queenstown-cc/">Mobile Clinics @ Queenstown</a></h4>
+            <ul class="meta">
+              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>26 and 27 August 2023</strong>, 10am - 6pm</li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png">Queenstown Community Centre</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">365 Commonwealth Ave, Singapore 149732</li>
+              <p><a target="_blank" href="/queenstown-cc/">Learn more</a></p>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 eventBlock">
+        <div class="inner">
+               <img title="Ismor Events" src="https://i.imgur.com/i3Zx3Xg.jpg">
+          <div class="content">
+            <h4><a href="/nee-soon-central-cc/">Roadshow and Mobile Clinic @ Yishun</a></h4>
+            <ul class="meta">
+              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>16 and 17 September 2023</strong></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png">Yishun Town Square (in front of Nee Soon Central Community Centre)</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png"> 3 Northpoint Dr, Singapore 768020</li>
+              <p><a target="_blank" href="/nee-soon-central-cc/">Learn more</a></p><p></p>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 eventBlock">
+        <div class="inner">
+               <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
+          <div class="content">
+            <h4><a href="/kebun-bahru-cc/">Mobile Clinic @ Kebun Baru</a></h4>
+            <ul class="meta">
+              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>21 and 22 October 2023</strong></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png">Kebun Baru Community Centre</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">216 Ang Mo Kio Ave 4, Singapore 569897</li>
+              <p><a target="_blank" href="/kebun-bahru-cc/">Learn more</a></p>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
