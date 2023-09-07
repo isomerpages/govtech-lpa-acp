@@ -480,19 +480,19 @@ description: ""
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
           <p> <strong> Mobile Clinics: </strong>
-            <br>The mobile clinics have limited slots  available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
+            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
 <br> **Slots are on booking basis and no walk-ins are allowed**
 <br> ***LPA certification sessions are fully booked***
 		<br> ***ACP facilitation sessions are available***
 </p><p> <strong> Documents required: </strong>	
 <br>- NRIC and CHAS card  
-<br>For LPA:
+					<br><strong>For LPA:</strong>
 <br>- Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  
 <br>- Donor's Mobile Phone  
-<br>For ACP  
+					<br><strong>For ACP</strong>
 <br>- ACP form draft from My Legacy  
-<br>Prepare your LPA and ACP&nbsp;["here" ](https://mylegacy.life.gov.sg/find-a-service/lpa-acp/)**
-</p><div class="signup">
+<br><strong>Prepare your LPA and ACP&nbsp;["here" ](https://mylegacy.life.gov.sg/find-a-service/lpa-acp/)
+					</strong></p><div class="signup">
  
       
   <div class="col-12 u-align--left" style="padding: 0">
@@ -502,7 +502,7 @@ description: ""
 
 <strong>Roadshow Activities:</strong>
 <br>Join us at our booths and free talks at our roadshow below. Stand a chance to win a **$5 NTUC voucher**, upon completion of roadshow activities, while stocks last.
-<br> ADD TABLE HERE
+<br> [ADD TABLE HERE]
   <p></p><p></p>
 			<div>
           <ul>
