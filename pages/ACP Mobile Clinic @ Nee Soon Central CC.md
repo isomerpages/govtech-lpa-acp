@@ -499,15 +499,15 @@ description: ""
               <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
       </div>
     </div>
-
+<br>
 <strong>Roadshow Activities:</strong>
-<br>Join us at our booths and free talks at our roadshow below. Stand a chance to win a **$5 NTUC voucher**, upon completion of roadshow activities, while stocks last.
+<p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a **$5 NTUC voucher**, upon completion of roadshow activities, while stocks last.
 <br> [ADD TABLE HERE]
-  <p></p><p></p>
+  </p><p></p><p></p>
 			<div>
           <ul>
-<br>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
-      </ul>
+<p>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
+      </p></ul>
     </div><strong>
     <div class="row">
       <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
