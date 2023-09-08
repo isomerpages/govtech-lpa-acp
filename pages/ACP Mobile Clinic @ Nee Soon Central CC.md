@@ -465,18 +465,17 @@ description: ""
       width: 100%;
   }
     }
-    </style>
-  <section class="event_banner">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-12 banner_b u-align--center">
+</style>
+<section class="event_banner">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12 banner_b u-align--center">
         <img alt="Legacy Events" src="https://i.imgur.com/f6S7lBG.png">
-        </div>
       </div>
     </div>
-    </section>
-    
-  <section class="events p-t-80">
+  </div>
+</section>
+<section class="events p-t-80">
   <div class="container">
     <div class="row">
       <div class="col-12 heading u-align--center m-b-60">
@@ -487,44 +486,41 @@ description: ""
       <div class="col-12  m-b-40">
         <div class="play_today">
           <h3>Roadshow and Mobile Clinics @ Yishun</h3>
-<ul><li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Yishun Town Square (in front of Nee Soon Community Centre)</span></li>
-            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
-        <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
+            <ul>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Yishun Town Square (in front of Nee Soon Community Centre)</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
+              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
+              <hr>
           <p> <strong> Mobile Clinics: </strong>
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
             <ul class="small">
               <li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
-<li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
-<p> <strong> Documents required: </strong></p>
-          <ul style="padding-left: 30px; list-style: disc;">
-        <li> NRIC and CHAS card </li>
-    </ul>
-          <br><strong>For LPA:</strong>
-          <ul style="padding-left: 30px; list-style: disc;">
-        <li> Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
-            <li> Donor's Mobile Phone </li>
-    </ul> 
-          <br><strong>For ACP</strong>
-          <ul style="padding-left: 30px; list-style: disc;">
-        <li> ACP form draft from My Legacy</li>
-    </ul>
- <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><p></p><p></p><div class="signup">
- 
-      
-  <div class="col-12 u-align--left" style="padding: 0">
-              <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
-      </div>
-    </div>
-<br>
-<strong>Roadshow Activities:</strong>
-<p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.
-          </p>
-  </div>
-      </div>
-    </div>
-  </div>
-</section>
+              <li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
+          <p> <strong> Documents required: </strong></p>
+            <ul style="padding-left: 30px; list-style: disc;">
+              <li> NRIC and CHAS card </li>
+            </ul>
+         <strong>For LPA:</strong>
+            <ul style="padding-left: 30px; list-style: disc;">
+              <li> Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+              <li> Donor's Mobile Phone </li>
+            </ul> 
+          <strong>For ACP</strong>
+            <ul style="padding-left: 30px; list-style: disc;">
+              <li> ACP form draft from My Legacy</li>
+            </ul>
+          <strong> Prepare your LPA and ACP 
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br> 
+          <div class="signup">
+           <div class="col-12 u-align--left" style="padding: 0">
+            <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
+              <br><br>
+              <hr>
+              <br>
+            <strong>Roadshow Activities:</strong>
+              <p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
+</div></div></div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
       <div class="row">
@@ -533,51 +529,103 @@ description: ""
     <thead class="thead-inverse">
         <tr>
             <th>Date/Time</th>
-            <th>Programme</th>
+            <th>Programme^</th>
         </tr>
         </thead>
         <tbody>
             <tr>
-                <td scope="row">16 Sep 2023/<br> 10am to 11.30am</td>
-                <td>Talk: Planning for the footprints of My Legacy! 计划我生命的足跡!
-                    <br><br>Language: English and Mandarin
-                    <br><br>Details: Find out more about why it is important to plan ahead and how you can start your legacy planning. Learn more about Lasting Power of Attorney, Advance Care Planning and how to use the My Legacy vault.
-                    <br><br>Speaker: Mr Victor Tang, a highly respected 20-year veteran in the financial industry. Victor is a regular guest speaker on various Mandarin media ranging from Channel 8, Good Morning Singapore to Hello Singapore, Capital 958FM, 963FM where he speaks on Parenting, Business Succession, Family Office, Financial and Family Estate Planning topics.
+                <td scope="row">16 Sep 2023 (Saturday)<br> 10am to 11.30am</td>
+              <td><strong>Talk:</strong> Planning for the footprints of My Legacy! 计划我生命的足跡!
+                <br><br><strong>Language:</strong> English and Mandarin
+                <br><br><strong>Details:</strong> Find out more about why it is important to plan ahead and how you can start your legacy planning. Learn more about Lasting Power of Attorney, Advance Care Planning and how to use the My Legacy vault.
+                <br><br><strong>Speaker:</strong> Mr Victor Tang, a highly respected 20-year veteran in the financial industry. Victor is a regular guest speaker on various Mandarin media ranging from Channel 8, Good Morning Singapore to Hello Singapore, Capital 958FM, 963FM where he speaks on Parenting, Business Succession, Family Office, Financial and Family Estate Planning topics.
                 </td>
             </tr>
             <tr>
-                <td scope="row">16 Sep 2023/<br> 4pm to 5.30pm</td>
-                <td>Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)<br><br>
-                    Language: English and Tamil<br><br>
-                    Details: Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.<br><br>
-                    Speaker: Ms Dharma Jayaram, lawyer, Dharma Law LLC</td>
+                <td scope="row">16 Sep 2023 (Saturday)<br> 4pm to 5.30pm</td>
+              <td><strong>Talk:</strong> All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)<br><br>
+                <strong>Language:</strong> English and Tamil<br><br>
+                <strong>Details:</strong> Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.<br><br>
+                <strong>Speaker:</strong> Ms Dharma Jayaram, lawyer, Dharma Law LLC</td>
             </tr>
             <tr>
-                <td scope="row">17 Sep 2023/<br> 10am to 11.30am</td>
-                <td>Talk: From Love to legacy: Making a CPF nomination for your CPF savings<br><br>
-                    Language: English<br><br>
-                    Details: Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!<br><br>
-                    Speaker: Liang Weirong is a Senior Deputy Director at Central Provident Fund Board (CPFB) . He shares a passion to get Singapore citizens to plan their legacy actively and show their care for their loved ones when they are no longer around.</td>
+                <td scope="row">17 Sep 2023 (Sunday)<br> 10am to 11.30am</td>
+              <td><strong>Talk:</strong> From Love to legacy, Making a CPF nomination for your CPF savings<br><br>
+                <strong>Language:</strong> English<br><br>
+                <strong>Details:</strong> Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!<br><br>
+                <strong>Speaker:</strong> Liang Weirong is a Senior Deputy Director at Central Provident Fund Board (CPFB) . He shares a passion to get Singapore citizens to plan their legacy actively and show their care for their loved ones when they are no longer around.</td>
             </tr>
             <tr>
-                <td scope="row">17 Sep 2023/<br> 2pm to 3.30pm</td>
-                <td>Talk: Plan Early and Smart for Your Special Needs Loved Ones<br><br>
-                    Language: English<br><br>
-                    Details: Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.<br><br>
-                    Speaker: Isalyn Special Needs Trust Company (SNTC), Community Engagement. Having volunteered in a Youth Cancer Support Group, Isalyn discovered her passion for social service and has been involved in serving the needs of the less privileged and vulnerable groups in Singapore.</td>
+                <td scope="row">17 Sep 2023 (Sunday)<br> 2pm to 3.30pm</td>
+              <td><strong>Talk:</strong> Plan Early and Smart for Your Special Needs Loved Ones<br><br>
+                <strong>Language:</strong> English<br><br>
+                <strong>Details:</strong> Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.<br><br>
+                <strong>Speaker:</strong> Isalyn Special Needs Trust Company (SNTC), Community Engagement. Having volunteered in a Youth Cancer Support Group, Isalyn discovered her passion for social service and has been involved in serving the needs of the less privileged and vulnerable groups in Singapore.</td>
             </tr>
             <tr>
-                <td scope="row">17 Sep 2023/<br> 4pm to 5.30pm</td>
-                <td>Talk: Caregiver Support in Dementia Care<br><br>
-                    Language: English<br><br>
-                    Details: Basic dementia understanding, signs of burnout and self-care for caregivers and resources / support for caregivers<br><br>
-                    Speaker: Ms Cai Suqi (Dementia Singapore)</td>
+                <td scope="row">17 Sep 2023 (Sunday)<br> 4pm to 5.30pm</td>
+              <td><strong>Talk:</strong> Caregiver Support in Dementia Care<br><br>
+                <strong>Language:</strong> English<br><br>
+                <strong>Details:</strong> Basic dementia understanding, signs of burnout and self-care for caregivers and resources / support for caregivers<br><br>
+                <strong>Speaker:</strong> Ms Cai Suqi (Dementia Singapore)</td>
             </tr>
         </tbody>
 </table>
-          <p>^ All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by Organizers without prior notice.</p>
-          <p>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
-      </p>
+          <p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.
+          <br><br>Besides talks, you can learn more about LPA, ACP, and other pre-planning tools at the roadshow booths!</p>
+      <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse">
+        <tr>
+            <th>Organisation</th>
+            <th>Booth Information</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row"><strong>Mega booth - OPG, AIC &amp; My Legacy</strong></td>
+              <td>Find out more information about LPA, ACP and My Legacy website.</td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>CPF Board</strong></td>
+              <td>Sharing on the importance of making a CPF nomination and regularly reviewing your CPF nomination.  Members who want to check their nominations or are ready to make a nomination, can do so at the booth (mobile clinic area). Note: Only for members with SingPass. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Pro-bono SG </strong></td>
+              <td>Sharing about our free legal clinics and upcoming webinars and our YouTube channel. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Community Justice Centre</strong></td>
+              <td>Find out about the Deputyship Assistance Programme which seeks to provide assistance and support to individuals applying to be appointed as a deputy via the standard process using the CJC's free online system. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>AIC Grants and Schemes </strong></td>
+              <td>Sharing about AIC’s Long Term Care Schemes &amp; Grants that seniors and family members can tap on in times of need. </td>
+            </tr>
+                        <tr>
+                <td scope="row"><strong>Professional Deputies and Donees Scheme</strong></td>
+              <td>Learn more about the Professional Deputies (PD) scheme and speak to professional deputies to find out more about their services.  </td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>National Healthcare Group </strong></td>
+              <td>Sharing about the community engagement efforts in Yishun Health (e.g. Community Health Posts, Wellness Kampung and UP series) and conducting various “early conversation” activities.</td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>SATA</strong></td>
+              <td>Sharing information on LPA and ACP.</td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>Singapore Hospice Council</strong></td>
+              <td>Find out more about palliative care services in Singapore to support individuals with serious illnesses and at the end-of-life. 
+              </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Special Needs Trust Company </strong></td>
+              <td>Find out how you can plan early for your loved ones with special needs. 
+              </td>
+            </tr>
+        </tbody>
+</table>
+          <p>Please contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a> if you have queries.</p>
     <div class="row">
       <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
