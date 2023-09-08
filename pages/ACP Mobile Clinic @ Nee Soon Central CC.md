@@ -487,17 +487,17 @@ description: ""
 						<ul>
 							<li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
 <li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
-<p> <strong> Documents required: </strong>
-	</p><ul>
+<p> <strong> Documents required: </strong></p>
+					<ul style="padding-left: 30px; list-style: disc;">
 				<li> NRIC and CHAS card </li>
 		</ul>
 					<br><strong>For LPA:</strong>
-					<ul>
+					<ul style="padding-left: 30px; list-style: disc;">
 				<li> Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
 						<li> Donor's Mobile Phone </li>
 		</ul> 
 					<br><strong>For ACP</strong>
-					<ul>
+					<ul style="padding-left: 30px; list-style: disc;">
 				<li> ACP form draft from My Legacy</li>
 		</ul>
  <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><p></p><p></p><div class="signup">
