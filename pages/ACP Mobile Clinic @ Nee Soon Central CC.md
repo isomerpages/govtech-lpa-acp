@@ -226,7 +226,13 @@ description: ""
     width: 100%;
     border: 1px solid #dddddd;
   }
-  
+  .small li{
+	line-height: 16px;
+    margin: 0!important;
+	}
+	.small li small{
+	font-size: 80%;
+	}
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
@@ -484,7 +490,7 @@ description: ""
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
           <p> <strong> Mobile Clinics: </strong>
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
-						<ul>
+						<ul class="small">
 							<li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
 <li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
 <p> <strong> Documents required: </strong></p>
