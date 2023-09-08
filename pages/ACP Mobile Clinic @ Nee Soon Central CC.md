@@ -483,17 +483,24 @@ description: ""
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
           <p> <strong> Mobile Clinics: </strong>
-            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
-<br> *Slots are on booking basis and no walk-ins are allowed*
-<br> **LPA certification sessions are fully booked, ACP facilitation sessions are available**
-</p><p> <strong> Documents required: </strong>	
-<br>- NRIC and CHAS card  
+            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
+						<ul>
+							<li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
+<li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
+<p> <strong> Documents required: </strong>
+	</p><ul>
+				<li> NRIC and CHAS card </li>
+		</ul>
 					<br><strong>For LPA:</strong>
-<br>- Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  
-<br>- Donor's Mobile Phone  
+					<ul>
+				<li> Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+						<li> Donor's Mobile Phone </li>
+		</ul> 
 					<br><strong>For ACP</strong>
-<br>- ACP form draft from My Legacy  
- <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><p></p><div class="signup">
+					<ul>
+				<li> ACP form draft from My Legacy</li>
+		</ul>
+ <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><p></p><p></p><div class="signup">
  
       
   <div class="col-12 u-align--left" style="padding: 0">
