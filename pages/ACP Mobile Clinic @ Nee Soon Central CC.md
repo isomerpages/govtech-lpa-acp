@@ -506,3 +506,66 @@ description: ""
 		</div>
 	</div>
 </section>
+<section class="p-b-110">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+			<table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse">
+        <tr>
+            <th>Date/Time</th>
+            <th>Programme</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row">16 Sep 2023/<br> 10am to 11.30am</td>
+                <td>Talk: Planning for the footprints of My Legacy! 计划我生命的足跡!
+                    <br><br>Language: English and Mandarin
+                    <br><br>Details: Find out more about why it is important to plan ahead and how you can start your legacy planning. Learn more about Lasting Power of Attorney, Advance Care Planning and how to use the My Legacy vault.
+                    <br><br>Speaker: Mr Victor Tang, a highly respected 20-year veteran in the financial industry. Victor is a regular guest speaker on various Mandarin media ranging from Channel 8, Good Morning Singapore to Hello Singapore, Capital 958FM, 963FM where he speaks on Parenting, Business Succession, Family Office, Financial and Family Estate Planning topics.
+                </td>
+            </tr>
+            <tr>
+                <td scope="row">16 Sep 2023/<br> 2pm to 3.30pm</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td scope="row">16 Sep 2023/<br> 4pm to 5.30pm</td>
+                <td>Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)<br><br>
+                    Language: English and Tamil<br><br>
+                    Details: Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.<br><br>
+                    Speaker: Ms Dharma Jayaram, lawyer, Dharma Law LLC</td>
+            </tr>
+            <tr>
+                <td scope="row">17 Sep 2023/<br> 10am to 11.30pm</td>
+                <td>Talk: From Love to legacy: Making a CPF nomination for your CPF savings<br><br>
+                    Language: English<br><br>
+                    Details: Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!<br><br>
+                    Speaker: Liang Weirong is a Senior Deputy Director at Central Provident Fund Board (CPFB) . He shares a passion to get Singapore citizens to plan their legacy actively and show their care for their loved ones when they are no longer around.</td>
+            </tr>
+            <tr>
+                <td scope="row">17 Sep 2023/<br> 2pm to 3.30pm</td>
+                <td>Talk: Plan Early and Smart for Your Special Needs Loved Ones<br><br>
+                    Language: English<br><br>
+                    Details: Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.<br><br>
+                    Speaker: Isalyn Special Needs Trust Company (SNTC), Community Engagement. Having volunteered in a Youth Cancer Support Group, Isalyn discovered her passion for social service and has been involved in serving the needs of the less privileged and vulnerable groups in Singapore.</td>
+            </tr>
+            <tr>
+                <td scope="row">17 Sep 2023/<br> 4pm to 5.30pm</td>
+                <td>Talk: Caregiver Support in Dementia Care<br><br>
+                    Language: English<br><br>
+                    Details: Basic dementia understanding, signs of burnout and self-care for caregivers and resources / support for caregivers<br><br>
+                    Speaker: Ms Cai Suqi (Dementia Singapore)</td>
+            </tr>
+        </tbody>
+</table>
+					<p>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
+      </p>
+    <div class="row">
+      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+    </div>
+					</div>
+			</div>
+		</div>
+	</section>
