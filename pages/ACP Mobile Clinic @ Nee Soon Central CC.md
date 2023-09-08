@@ -528,7 +528,9 @@ description: ""
           <ul style="padding-left: 30px; list-style: disc;">
         <li> ACP form draft from My Legacy</li>
     </ul>
- <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><p></p><p></p><div class="signup">
+ <br> <strong> Prepare your LPA and ACP 
+					<a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br> 
+					<div class="signup">
 					<div class="col-12 u-align--left" style="padding: 0">
               <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
 <br><br>
@@ -539,7 +541,9 @@ description: ""
       </div>
     </div>
   </div>
-</div></div></section>
+</div>
+	</div>
+</section>
 <section class="p-b-110">
     <div class="container">
       <div class="row">
