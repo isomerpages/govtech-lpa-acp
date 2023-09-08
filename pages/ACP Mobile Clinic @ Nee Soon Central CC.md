@@ -495,7 +495,7 @@ description: ""
   </div>
 </div>
 </section>
-	<section class="events">
+<section class="events">
   <div class="container">
     <div class="row">
       <div class="col-12  m-b-40">
@@ -510,7 +510,7 @@ description: ""
   </div>
 </div>
 </section>
-		<section class="events">
+<section class="events">
   <div class="container">
     <div class="row">
       <div class="col-12  m-b-40">
