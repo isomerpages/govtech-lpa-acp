@@ -555,7 +555,7 @@ description: ""
             </tr>
             <tr>
                 <td scope="row">17 Sep 2023/<br> 10am to 11.30am</td>
-                <td>Talk: From Love to legacy: Making a CPF nomination for your CPF savings<br><br>
+                <td>Talk: From Love to legacy, Making a CPF nomination for your CPF savings<br><br>
                     Language: English<br><br>
                     Details: Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!<br><br>
                     Speaker: Liang Weirong is a Senior Deputy Director at Central Provident Fund Board (CPFB) . He shares a passion to get Singapore citizens to plan their legacy actively and show their care for their loved ones when they are no longer around.</td>
