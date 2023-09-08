@@ -481,9 +481,8 @@ description: ""
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
           <p> <strong> Mobile Clinics: </strong>
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
-<br> **Slots are on booking basis and no walk-ins are allowed**
-<br> ***LPA certification sessions are fully booked***
-		<br> ***ACP facilitation sessions are available***
+<br> *Slots are on booking basis and no walk-ins are allowed*
+<br> **LPA certification sessions are fully booked, ACP facilitation sessions are available**
 </p><p> <strong> Documents required: </strong>	
 <br>- NRIC and CHAS card  
 					<br><strong>For LPA:</strong>
@@ -491,8 +490,7 @@ description: ""
 <br>- Donor's Mobile Phone  
 					<br><strong>For ACP</strong>
 <br>- ACP form draft from My Legacy  
-<br><strong>Prepare your LPA and ACP&nbsp;["here" ](https://mylegacy.life.gov.sg/find-a-service/lpa-acp/)
-					</strong></p><div class="signup">
+ <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><p></p><div class="signup">
  
       
   <div class="col-12 u-align--left" style="padding: 0">
@@ -501,9 +499,21 @@ description: ""
     </div>
 <br>
 <strong>Roadshow Activities:</strong>
-<p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a **$5 NTUC voucher**, upon completion of roadshow activities, while stocks last.
-<br> [ADD TABLE HERE]
-  </p><p></p><p></p>
+<p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.
+  </p>
+
+
+| Date/Time| Programme | |
+| -------- | -------- | -------- |
+| 16 Sep 2023/ 10am to 11.30am  | Talk: Planning for the footprints of My Legacy! 计划我生命的足跡!  <br><br>Language: English and Mandarin    <br><br>Details: Find out more about why it is important to plan ahead and how you can start your legacy planning. Learn more about Lasting Power of Attorney, Advance Care Planning and how to use the My Legacy vault.<br><br>Speaker: Mr Victor Tang, a highly respected 20-year veteran in the financial industry. Victor is a regular guest speaker on various Mandarin media ranging from Channel 8, Good Morning Singapore to Hello Singapore, Capital 958FM, 963FM where he speaks on Parenting, Business Succession, Family Office, Financial and Family Estate Planning topics.  
+| 16 Sep 2023/ 2pm to 3.30pm |
+| 16 Sep 2023/ 4pm to 5.30pm | Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP) <br><br>Language: English and Tamil <br><br>Details: Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.  <br><br>Speaker: Ms Dharma Jayaram, lawyer, Dharma Law LLC  
+| 17 Sep 2023/ 10am to 11.30pm | Talk: From Love to legacy: Making a CPF nomination for your CPF savings <br><br>Language: English  <br><br>Details: Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!  <br><br>Speaker: Liang Weirong is a Senior Deputy Director at Central Provident Fund Board (CPFB) . He shares a passion to get Singapore citizens to plan their legacy actively and show their care for their loved ones when they are no longer around. 
+| 17 Sep 2023/ 2pm to 3.30pm |Talk: Plan Early and Smart for Your Special Needs Loved Ones <br><br>Language: English  <br><br>Details: Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.  <br><br>Speaker: Isalyn Special Needs Trust Company (SNTC), Community Engagement. Having volunteered in a Youth Cancer Support Group, Isalyn discovered her passion for social service and has been involved in serving the needs of the less privileged and vulnerable groups in Singapore.  
+| 17 Sep 2023/ 4pm to 5.30pm |Talk: Caregiver Support in Dementia Care<br><br>Language: English  <br><br>Details: Basic dementia understanding, signs of burnout and self-care for caregivers and resources / support for caregivers <br><br>Speaker: Ms Cai Suqi (Dementia Singapore) 
+
+
+<p></p><p></p>
 			<div>
           <ul>
 <p>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
@@ -512,7 +522,7 @@ description: ""
     <div class="row">
       <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
-  </strong></div><strong>
-</strong></div><strong>
-</strong></div><strong>
-</strong></div></section>
+  </strong></div><strong><strong>
+</strong></strong></div><strong><strong>
+</strong></strong></div><strong><strong>
+</strong></strong></div></section>
