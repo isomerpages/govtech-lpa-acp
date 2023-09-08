@@ -493,7 +493,8 @@ description: ""
       </div>
     </div>
   </div>
-</div></section>
+</div>
+</section>
 	<section class="events">
   <div class="container">
     <div class="row">
@@ -507,7 +508,8 @@ description: ""
       </div>
     </div>
   </div>
-</div></section>
+</div>
+</section>
 		<section class="events">
   <div class="container">
     <div class="row">
@@ -527,13 +529,9 @@ description: ""
         <li> ACP form draft from My Legacy</li>
     </ul>
  <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><p></p><p></p><div class="signup">
- 
-      
-  <div class="col-12 u-align--left" style="padding: 0">
+					<div class="col-12 u-align--left" style="padding: 0">
               <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
-      </div>
-    </div>
-<br>
+<br><br>
 <strong>Roadshow Activities:</strong>
 <p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.
           </p>
@@ -541,7 +539,7 @@ description: ""
       </div>
     </div>
   </div>
-</section>
+</div></div></section>
 <section class="p-b-110">
     <div class="container">
       <div class="row">
