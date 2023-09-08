@@ -491,12 +491,7 @@ description: ""
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
-             <p><strong> Mobile Clinics: </strong>
-             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
-            <ul class="small">
-              <li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
-              <li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li>
-            </ul>
+              <hr>
           <p> <strong> Mobile Clinics: </strong>
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
             <ul class="small">
@@ -506,21 +501,23 @@ description: ""
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
             </ul>
-          <br><strong>For LPA:</strong>
+         <strong>For LPA:</strong>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
               <li> Donor's Mobile Phone </li>
             </ul> 
-          <br><strong>For ACP</strong>
+          <strong>For ACP</strong>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> ACP form draft from My Legacy</li>
             </ul>
-          <br> <strong> Prepare your LPA and ACP 
+          <strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br> 
           <div class="signup">
            <div class="col-12 u-align--left" style="padding: 0">
             <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
               <br><br>
+              <hr>
+              <br>
             <strong>Roadshow Activities:</strong>
               <p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
 </div></div></div></div></div></div></section>
@@ -574,9 +571,61 @@ description: ""
             </tr>
         </tbody>
 </table>
-          <p>^ All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by Organizers without prior notice.</p>
-          <p>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
-      </p>
+          <p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.
+          <br><br>Besides talks, you can learn more about LPA, ACP, and other pre-planning tools at the roadshow booths!</p>
+      <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse">
+        <tr>
+            <th>Organisation</th>
+            <th>Booth Information</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row"><strong>Mega booth - OPG, AIC &amp; My Legacy</strong></td>
+              <td>Find out more information about LPA, ACP and My Legacy website.</td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>CPF Board</strong></td>
+              <td>Sharing on the importance of making a CPF nomination and regularly reviewing your CPF nomination.  Members who want to check their nominations or are ready to make a nomination, can do so at the booth (mobile clinic area). Note: Only for members with SingPass. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Pro-bono SG </strong></td>
+              <td>Sharing about our free legal clinics and upcoming webinars and our YouTube channel. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Community Justice Centre</strong></td>
+              <td>Find out about the Deputyship Assistance Programme which seeks to provide assistance and support to individuals applying to be appointed as a deputy via the standard process using the CJC's free online system. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>AIC Grants and Schemes </strong></td>
+              <td>Sharing about AIC’s Long Term Care Schemes &amp; Grants that seniors and family members can tap on in times of need. </td>
+            </tr>
+                        <tr>
+                <td scope="row"><strong>Professional Deputies and Donees Scheme</strong></td>
+              <td>Learn more about the Professional Deputies (PD) scheme and speak to professional deputies to find out more about their services.  </td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>National Healthcare Group </strong></td>
+              <td>Sharing about the community engagement efforts in Yishun Health (e.g. Community Health Posts, Wellness Kampung and UP series) and conducting various “early conversation” activities.</td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>SATA</strong></td>
+              <td>Sharing information on LPA and ACP.</td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>Singapore Hospice Council</strong></td>
+              <td>Find out more about palliative care services in Singapore to support individuals with serious illnesses and at the end-of-life. 
+              </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Special Needs Trust Company </strong></td>
+              <td>Find out how you can plan early for your loved ones with special needs. 
+              </td>
+            </tr>
+        </tbody>
+</table>
+          <p>Please contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a> if you have queries.</p>
     <div class="row">
       <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
