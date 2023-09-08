@@ -500,7 +500,6 @@ description: ""
 <br>
 <strong>Roadshow Activities:</strong>
 <p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.
-<br> [ADD TABLE HERE]
   </p><p></p><p></p>
 			<div>
           <ul>
