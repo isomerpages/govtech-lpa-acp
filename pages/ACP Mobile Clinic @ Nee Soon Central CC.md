@@ -280,6 +280,9 @@ description: ""
       color: #000;
       font-size: 16px;
   }
+	td:first-child, th:first-child {
+    width: 200px;
+}
     .play_today {
       padding: 30px;
       background-color: #DACBBC;
