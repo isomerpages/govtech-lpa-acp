@@ -475,8 +475,7 @@ description: ""
       </div>
     </div>
     </section>
-    
-  <section class="events p-t-80">
+<section class="events p-t-80">
   <div class="container">
     <div class="row">
       <div class="col-12 heading u-align--center m-b-60">
@@ -491,11 +490,29 @@ description: ""
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>16 - 17 September 2023</span></li>
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
+      </div>
+    </div>
+  </div>
+</div></section>
+	<section class="events">
+  <div class="container">
+    <div class="row">
+      <div class="col-12  m-b-40">
+        <div class="play_today">
           <p> <strong> Mobile Clinics: </strong>
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
             <ul class="small">
               <li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
 <li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
+      </div>
+    </div>
+  </div>
+</div></section>
+		<section class="events">
+  <div class="container">
+    <div class="row">
+      <div class="col-12  m-b-40">
+        <div class="play_today">
 <p> <strong> Documents required: </strong></p>
           <ul style="padding-left: 30px; list-style: disc;">
         <li> NRIC and CHAS card </li>
