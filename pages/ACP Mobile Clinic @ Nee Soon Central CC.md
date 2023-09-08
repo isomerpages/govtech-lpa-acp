@@ -554,7 +554,7 @@ description: ""
                     Speaker: Ms Dharma Jayaram, lawyer, Dharma Law LLC</td>
             </tr>
             <tr>
-                <td scope="row">17 Sep 2023/<br> 10am to 11.30pm</td>
+                <td scope="row">17 Sep 2023/<br> 10am to 11.30am</td>
                 <td>Talk: From Love to legacy: Making a CPF nomination for your CPF savings<br><br>
                     Language: English<br><br>
                     Details: Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!<br><br>
