@@ -519,7 +519,7 @@ description: ""
               <hr>
               <br>
             <strong>Roadshow Activities:</strong>
-              <p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
+              <p>Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
 </div></div></div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
@@ -571,8 +571,9 @@ description: ""
             </tr>
         </tbody>
 </table>
-          <p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.
-          <br><br>Besides talks, you can learn more about LPA, ACP, and other pre-planning tools at the roadshow booths!</p>
+          <small>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.</small>
+          <p>
+          Besides talks, you can learn more about LPA, ACP, and other pre-planning tools at the roadshow booths!</p>
       <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse">
         <tr>
