@@ -227,7 +227,7 @@ description: ""
     border: 1px solid #dddddd;
   }
   .small li{
-	line-height: 16px;
+	line-height: 22px;
     margin: 0!important;
 	}
 	.small li small{
@@ -554,8 +554,8 @@ description: ""
                     Speaker: Ms Dharma Jayaram, lawyer, Dharma Law LLC</td>
             </tr>
             <tr>
-                <td scope="row">17 Sep 2023/<br> 10am to 11.30am</td>
-                <td>Talk: From Love to legacy, Making a CPF nomination for your CPF savings<br><br>
+                <td scope="row">17 Sep 2023/<br> 10am to 11.30pm</td>
+                <td>Talk: From Love to legacy: Making a CPF nomination for your CPF savings<br><br>
                     Language: English<br><br>
                     Details: Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!<br><br>
                     Speaker: Liang Weirong is a Senior Deputy Director at Central Provident Fund Board (CPFB) . He shares a passion to get Singapore citizens to plan their legacy actively and show their care for their loved ones when they are no longer around.</td>
