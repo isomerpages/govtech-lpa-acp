@@ -226,7 +226,13 @@ description: ""
     width: 100%;
     border: 1px solid #dddddd;
   }
-  
+  .small li{
+  line-height: 22px;
+    margin: 0!important;
+  }
+  .small li small{
+  font-size: 80%;
+  }
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
@@ -280,7 +286,7 @@ description: ""
       color: #000;
       font-size: 16px;
   }
-	td:first-child, th:first-child {
+  td:first-child, th:first-child {
     width: 200px;
 }
     .play_today {
@@ -449,6 +455,9 @@ description: ""
     .event_banner img {
       height: 300px;
   }
+  td:first-child, th:first-child {
+    width: unset;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
@@ -483,17 +492,24 @@ description: ""
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
           <p> <strong> Mobile Clinics: </strong>
-            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.
-<br> *Slots are on booking basis and no walk-ins are allowed*
-<br> **LPA certification sessions are fully booked, ACP facilitation sessions are available**
-</p><p> <strong> Documents required: </strong>	
-<br>- NRIC and CHAS card  
-					<br><strong>For LPA:</strong>
-<br>- Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  
-<br>- Donor's Mobile Phone  
-					<br><strong>For ACP</strong>
-<br>- ACP form draft from My Legacy  
- <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><p></p><div class="signup">
+            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
+            <ul class="small">
+              <li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
+<li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
+<p> <strong> Documents required: </strong></p>
+          <ul style="padding-left: 30px; list-style: disc;">
+        <li> NRIC and CHAS card </li>
+    </ul>
+          <br><strong>For LPA:</strong>
+          <ul style="padding-left: 30px; list-style: disc;">
+        <li> Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+            <li> Donor's Mobile Phone </li>
+    </ul> 
+          <br><strong>For ACP</strong>
+          <ul style="padding-left: 30px; list-style: disc;">
+        <li> ACP form draft from My Legacy</li>
+    </ul>
+ <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><p></p><p></p><div class="signup">
  
       
   <div class="col-12 u-align--left" style="padding: 0">
@@ -503,17 +519,17 @@ description: ""
 <br>
 <strong>Roadshow Activities:</strong>
 <p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.
-					</p>
+          </p>
   </div>
-			</div>
-		</div>
-	</div>
+      </div>
+    </div>
+  </div>
 </section>
 <section class="p-b-110">
-		<div class="container">
-			<div class="row">
-				<div class="col-12">
-			<table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+      <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse">
         <tr>
             <th>Date/Time</th>
@@ -530,10 +546,6 @@ description: ""
                 </td>
             </tr>
             <tr>
-                <td scope="row">16 Sep 2023/<br> 2pm to 3.30pm</td>
-                <td></td>
-            </tr>
-            <tr>
                 <td scope="row">16 Sep 2023/<br> 4pm to 5.30pm</td>
                 <td>Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)<br><br>
                     Language: English and Tamil<br><br>
@@ -541,7 +553,7 @@ description: ""
                     Speaker: Ms Dharma Jayaram, lawyer, Dharma Law LLC</td>
             </tr>
             <tr>
-                <td scope="row">17 Sep 2023/<br> 10am to 11.30pm</td>
+                <td scope="row">17 Sep 2023/<br> 10am to 11.30am</td>
                 <td>Talk: From Love to legacy: Making a CPF nomination for your CPF savings<br><br>
                     Language: English<br><br>
                     Details: Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!<br><br>
@@ -563,12 +575,13 @@ description: ""
             </tr>
         </tbody>
 </table>
-					<p>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
+          <p>^ All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by Organizers without prior notice.</p>
+          <p>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
       </p>
     <div class="row">
       <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
-					</div>
-			</div>
-		</div>
-	</section>
+          </div>
+      </div>
+    </div>
+  </section>
