@@ -529,7 +529,7 @@ description: ""
         <li> ACP form draft from My Legacy</li>
     </ul>
  <br> <strong> Prepare your LPA and ACP 
-					<a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br> <br> 
+					<a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br> 
 					<div class="signup">
 					<div class="col-12 u-align--left" style="padding: 0">
               <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
