@@ -455,6 +455,9 @@ description: ""
     .event_banner img {
       height: 300px;
   }
+	td:first-child, th:first-child {
+    width: unset;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
