@@ -493,10 +493,10 @@ description: ""
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
               <hr>
           <p> <strong> Mobile Clinics: </strong>
-            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
+            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
             <ul class="small">
-              <li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
-              <li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
+              <li><small>Slots are on booking basis and no walk-ins are allowed.</small></li>
+              <li><small>LPA certification and ACP facilitation sessions are fully booked.</small></li></ul>
           <p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
@@ -512,15 +512,12 @@ description: ""
             </ul>
           <strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br> 
-          <div class="signup">
-           <div class="col-12 u-align--left" style="padding: 0">
-            <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
               <br><br>
               <hr>
               <br>
             <strong>Roadshow Activities:</strong>
-              <p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
-</div></div></div></div></div></div></section>
+              <p>Join us at our booths and free talks listed below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
+</div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
       <div class="row">
@@ -560,7 +557,7 @@ description: ""
               <td><strong>Talk:</strong> Plan Early and Smart for Your Special Needs Loved Ones<br><br>
                 <strong>Language:</strong> English<br><br>
                 <strong>Details:</strong> Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.<br><br>
-                <strong>Speaker:</strong> Isalyn Special Needs Trust Company (SNTC), Community Engagement. Having volunteered in a Youth Cancer Support Group, Isalyn discovered her passion for social service and has been involved in serving the needs of the less privileged and vulnerable groups in Singapore.</td>
+                <strong>Speaker:</strong> Isalyn, Special Needs Trust Company (SNTC), Community Engagement. Having volunteered in a Youth Cancer Support Group, Isalyn discovered her passion for social service and has been involved in serving the needs of the less privileged and vulnerable groups in Singapore.</td>
             </tr>
             <tr>
                 <td scope="row">17 Sep 2023 (Sunday)<br> 4pm to 5.30pm</td>
@@ -571,8 +568,9 @@ description: ""
             </tr>
         </tbody>
 </table>
-          <p>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.
-          <br><br>Besides talks, you can learn more about LPA, ACP, and other pre-planning tools at the roadshow booths!</p>
+          <small>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.</small>
+          <p>
+          Besides talks, you can learn more about LPA, ACP, and other pre-planning tools at the roadshow booths!</p>
       <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse">
         <tr>
@@ -591,7 +589,7 @@ description: ""
             </tr>
             <tr>
                 <td scope="row"><strong>Pro-bono SG </strong></td>
-              <td>Sharing about our free legal clinics and upcoming webinars and our YouTube channel. </td>
+              <td>Sharing about our free legal clinics, upcoming webinars and our YouTube channel. </td>
             </tr>
             <tr>
                 <td scope="row"><strong>Community Justice Centre</strong></td>
