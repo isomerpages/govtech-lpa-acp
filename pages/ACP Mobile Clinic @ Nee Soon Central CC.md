@@ -501,7 +501,11 @@ description: ""
 <strong>Roadshow Activities:</strong>
 <p>Join us at our booths and free talks at our roadshow below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.
 					</p>
-  </div></div></div></div></section>
+  </div>
+			</div>
+		</div>
+	</div>
+</section>
 	<section>
 		<div class="container">
 			<div class="row">
