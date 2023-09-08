@@ -493,7 +493,7 @@ description: ""
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
               <hr>
           <p> <strong> Mobile Clinics: </strong>
-            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
+            <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
             <ul class="small">
               <li><small>Slots are on booking basis and no walk-ins are allowed</small></li>
               <li><small>LPA certification sessions are fully booked, ACP facilitation sessions are available</small></li></ul>
@@ -512,15 +512,12 @@ description: ""
             </ul>
           <strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br> 
-          <div class="signup">
-           <div class="col-12 u-align--left" style="padding: 0">
-            <a target="_blank" href="https://plantoday.sg" class="p-button btn">Book a slot </a>
               <br><br>
               <hr>
               <br>
             <strong>Roadshow Activities:</strong>
               <p>Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
-</div></div></div></div></div></div></section>
+</div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
       <div class="row">
