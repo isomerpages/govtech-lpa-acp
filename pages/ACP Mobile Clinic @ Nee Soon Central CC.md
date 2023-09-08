@@ -543,10 +543,6 @@ description: ""
                 </td>
             </tr>
             <tr>
-                <td scope="row">16 Sep 2023/<br> 2pm to 3.30pm</td>
-                <td></td>
-            </tr>
-            <tr>
                 <td scope="row">16 Sep 2023/<br> 4pm to 5.30pm</td>
                 <td>Talk: All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)<br><br>
                     Language: English and Tamil<br><br>
@@ -576,6 +572,7 @@ description: ""
             </tr>
         </tbody>
 </table>
+					<p>^ All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by Organizers without prior notice.</p>
 					<p>Please contact us at 1800-111-2222 or enquiries@mylegacy.gov.sg if you have queries.
       </p>
     <div class="row">
