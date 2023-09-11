@@ -464,7 +464,7 @@ description: ""
         <div class="play_today">
           <h3>Mobile Clinic @ Kebun Baru</h3>
           <p>Complete your LPA and ACP at our upcoming mobile clinics*!</p>
-          <p>Free LPA certification and ACP facilitation sessions are only available for Singapore Citizens aged 50 and above with a valid CHAS Blue/Orange card and limited slots are available.</p>
+          <p>Free LPA certification and ACP facilitation sessions are only available for Singapore citizens aged 50 and above with a valid CHAS Blue/Orange card and limited slots are available.</p>
             <p> Please book an appointment if you wish to attend the mobile clinic. No walk-ins allowed. </p>
           <ul>
             <p><strong>Documents required:</strong> 
