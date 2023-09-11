@@ -511,8 +511,7 @@ description: ""
               <li> ACP form draft from My Legacy</li>
             </ul>
           <strong> Prepare your LPA and ACP 
-          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br> 
-              <br><br>
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br>
               <hr>
               <br>
             <strong>Roadshow Activities:</strong>
@@ -556,8 +555,8 @@ description: ""
                 <td scope="row">17 Sep 2023 (Sunday)<br> 2pm to 3.30pm</td>
               <td><strong>Talk:</strong> Plan Early and Smart for Your Special Needs Loved Ones<br><br>
                 <strong>Language:</strong> English<br><br>
-                <strong>Details:</strong> Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.<br><br>
-                <strong>Speaker:</strong> Isalyn, Special Needs Trust Company (SNTC), Community Engagement. Having volunteered in a Youth Cancer Support Group, Isalyn discovered her passion for social service and has been involved in serving the needs of the less privileged and vulnerable groups in Singapore.</td>
+                <strong>Details:</strong> Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents. <br><br>
+                <strong>Speaker:</strong> Ms Wheeki Goh</td>
             </tr>
             <tr>
                 <td scope="row">17 Sep 2023 (Sunday)<br> 4pm to 5.30pm</td>
