@@ -464,12 +464,12 @@ description: ""
         <div class="play_today">
           <h3>Mobile Clinic @ Kebun Baru</h3>
           <p>Complete your LPA and ACP at our upcoming mobile clinics*!</p>
-          <p> Please note that limited slots are available for Singapore citizens aged 50 years old and above with a CHAS Blue/Orange card.</p>
-            <p> Do book an appointment if you wish to attend the mobile clinic. No walk-ins allowed. </p>
+          <p>Free LPA certification and ACP facilitation sessions are only available for Singapore citizens aged 50 and above with a valid CHAS Blue/Orange card and limited slots are available.</p>
+            <p> Please book an appointment if you wish to attend the mobile clinic. No walk-ins allowed. </p>
           <ul>
             <p><strong>Documents required:</strong> 
             <br> - NRIC and CHAS card
-            <br> <strong> For LPA </strong>: <br> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment <br> - Donor's Mobile Phone 
+            <br> <strong> For LPA </strong>: <br> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment <br> - Donor's Mobile Phone with Singpass app installed 
           <br> <strong> For ACP </strong><br> - ACP form draft from My Legacy 
       <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><strong>
             <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Centre</span></li>
