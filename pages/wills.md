@@ -781,6 +781,7 @@ display: inline-block;
           <img alt="My Legacy" src="https://i.imgur.com/AOjOQMn.png">
         </div>
         <a class="p-button btn" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Make your LPA and ACP today</a>
+			 <a class="p-button btn" target="_blank" href="#">Try our Wills Simulator</a>
      </div>
     </div>
   </div>
