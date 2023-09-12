@@ -257,7 +257,7 @@ description: ""
    PADDING: 0 15px;
    }
 	.col-10{
-	 width: 80.33%;
+	 width: 83.33%;
    PADDING: 0 15px;
 	}
    header#navigation.full-width .row {
