@@ -260,6 +260,9 @@ description: ""
 	 width: 83.33%;
    PADDING: 0 15px;
 	}
+	.banner .image {
+    margin-bottom: 30px;
+}
    header#navigation.full-width .row {
    max-width: 100%;
    }
