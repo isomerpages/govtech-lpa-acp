@@ -355,7 +355,7 @@ description: ""
    position: relative;
    }
    .feature .heading h2,.feature .heading h2 strong {
-   font-size : 30px;
+   font-size : 26px;
    line-height : 50px;
    color : #01436B;
    font-weight: 400;
