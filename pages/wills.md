@@ -811,6 +811,7 @@ padding-bottom: 0!important;
 <div class="row">
 
 	<div class="col-10 offset-1">
+		<div class="row">
 	<div class="feature_block col-3 red">
 
 <div class="inner">
@@ -857,6 +858,7 @@ padding-bottom: 0!important;
 
 </div>
 	</div>
+			</div>
 
 </div>
 
