@@ -357,9 +357,11 @@ section.bp-section .bp-container {
 	.accordion h5 a strong {
     color: #1A3554!important;
 }
-	.accordion h5 {
+.accordion h5 {
     margin-top: 30px;
     line-height: 45px;
+    margin-bottom: 0;
+    margin-left: 50px;
 }
     .content strong {
     color: #1A3554;
