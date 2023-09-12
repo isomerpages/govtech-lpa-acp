@@ -361,7 +361,7 @@ description: ""
    font-weight: 400;
    }
    .feature_block .inner{
-   height: 300px;
+   height: 250px;
    width: 100%;
    background-image: linear-gradient(#2793AC, #2793AC, #2793AC);
    border-radius: 30px;
@@ -370,7 +370,7 @@ description: ""
    position: relative;
    }
    .feature_block .inner h3 {
-   font-size: 21px;
+   font-size: 20px;
    line-height: 34px;
    color: #D0D0D0;
    }
