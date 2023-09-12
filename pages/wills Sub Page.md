@@ -395,7 +395,7 @@ section.bp-section .bp-container {
     }
 .accordion ul li label {
     position: relative;
-    color: #1A3554;
+    color: #fff;
     display: inline-block;
     width: 100%;
     line-height: 49px;
@@ -406,7 +406,7 @@ section.bp-section .bp-container {
 }
     .accordion ul li label::before {
     width: 100%;
-    background-image: linear-gradient(#a6d9e5, #9ac0c8);
+    background-image: linear-gradient(#1A3554, #1A3554);
     display: block;
     color: #fefefe;
     padding: 0.75em;
