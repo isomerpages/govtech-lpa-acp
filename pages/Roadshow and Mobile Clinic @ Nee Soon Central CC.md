@@ -492,12 +492,10 @@ description: ""
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
               <hr>
-          <p> <strong> Mobile Clinics: </strong>
+          <p> <strong> Mobile Clinics: *LPA certification and ACP facilitation sessions are fully booked*</strong> 
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
-            <ul class="small">
-              <li><small>Slots are on booking basis and no walk-ins are allowed.</small></li>
-              <li><small>LPA certification and ACP facilitation sessions are fully booked.</small></li></ul>
-          <p> <strong> Documents required: </strong></p>
+<p> Slots are on booking basis and no walk-ins are allowed.
+          </p><p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
             </ul>
@@ -511,7 +509,7 @@ description: ""
               <li> ACP form draft from My Legacy</li>
             </ul>
           <strong> Prepare your LPA and ACP 
-          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br>
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br>
               <hr>
               <br>
             <strong>Roadshow Activities:</strong>
