@@ -710,6 +710,9 @@ description: ""
    .col-6 {
    width: 100%;
    }
+	.col-10{
+	 width: 100%;
+	}
    .col-12 {
    width: 100%;
    }
