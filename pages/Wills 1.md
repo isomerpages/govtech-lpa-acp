@@ -388,6 +388,14 @@ description: ""
    top: 0;
    left: 0;
    }
+	.banner_block h2 {
+    color: #DACBBC;
+    font-family: Playfair Display;
+    font-style: italic;
+    font-size: 54px;
+    line-height: 70px;
+    margin-top: 0;
+}
    strong i {
    font-family: Playfair Display;
    font-weight: 400;
@@ -803,10 +811,10 @@ description: ""
    <div class="container">
       <div class="row">
          <div class="col-6 banner_block">
-            <div class="inner u-align--center">
+            <div class="inner">
 							<h3>Write a Will and</h3>
 							<h2>Enhance The<br>
-Gift of Certainty</h2>
+								<span style="margin-left:50px">Gift of Certainty</span></h2>
             </div>
          </div>
       </div>
