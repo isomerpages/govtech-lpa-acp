@@ -492,7 +492,8 @@ description: ""
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
               <hr>
-          <p> <strong> Mobile Clinics: *Please note that mobile clinics for Yishun are fully booked*</strong> 
+					<p> <strong> Mobile Clinics: </strong>
+<br><strong>*Please note that mobile clinics for Yishun are fully booked*</strong> 
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 <p> Slots are on booking basis and no walk-ins are allowed.
           </p><p> <strong> Documents required: </strong></p>
