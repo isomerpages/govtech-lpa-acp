@@ -242,6 +242,14 @@ description: ""
 	.banner_block h2{
 	color:#DACBBC;
 	}
+	.banner_block h2, .banner_block h2 span {
+    color: #DACBBC;
+    font-family: Playfair Display;
+    font-style: italic;
+    font-size: 54px;
+    line-height: 70px;
+    margin-top: 0;
+}
    .col-3 {
    width: 25%;
    PADDING: 0 15px;
