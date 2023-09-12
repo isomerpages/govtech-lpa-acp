@@ -650,11 +650,14 @@ a.p-navigation__toggle--close {
 	.offset-2{
 	margin-left: 12.5%;
 	}
+	.offset-1{
+	margin-left: 8.33%;
+	}
 @media(max-width: 767px){
 .banner::after {
 left: 0;
 }
-	.offset-2{
+	.offset-2,.offset-1{
 	margin-left: 0;
 	}
     .feature_block .inner {
@@ -744,6 +747,9 @@ padding: 0 15px;
 .video_ img {
     width: 100%;
 }
+	.offset-1,.offset-2{
+	margin-left:0;
+	}
 }
     @media(min-width: 767px)and (max-width: 1170px){
 .banner::after {
@@ -765,8 +771,9 @@ section.bp-section .bp-container {
 padding-bottom: 0!important;
 }
 .banner_block a.p-button.btn {
-margin-top: 30px;
-display: inline-block;
+    margin-top: 10px;
+    display: block;
+    margin-bottom: 0;
 }
 		.col.is-1.has-float-btns.is-position-relative.is-hidden-touch {
     display: none!important;
