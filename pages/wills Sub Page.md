@@ -711,8 +711,7 @@ To help you decide, below are some common myths and questions about writing a wi
             <div class="col-8">
                 <div class="inner">
                 <h2>My Legacy Vault</h2>
-                <p>Plan, store and share your legal, healthcare and estate matters securely.</p> 
-                <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+                <p>My Legacy Vault: My Legacy Vault lets you plan, store and share your legal, healthcare, and estate matters safely with the people you trust. <a href="#"><strong>Find out more</strong></a></p>
                 </div>
             </div>
         </div>
