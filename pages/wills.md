@@ -793,7 +793,7 @@ display: inline-block;
 
 <div class="row">
 
-<div style="margin-bottom: 60px" class="heading u-align--center col-12">
+<div style="margin-bottom: 60px" class="heading u-align--center col-10 offset-1">
 
 <h2>When creating a Lasting Power of Attorney (LPA) &amp; Advance Care Plan (ACP), <br><strong>how would you describe your situation?</strong></h2>
 
@@ -803,7 +803,8 @@ display: inline-block;
 
 <div class="row">
 
-<div class="feature_block col-3 red">
+	<div class="col-10 offset-1">
+	<div class="feature_block col-3 red">
 
 <div class="inner">
 
@@ -848,12 +849,13 @@ display: inline-block;
 <a href="https://go.gov.sg/mylegacy-lpa-acp"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
+	</div>
 
 </div>
 
 </div>
 	<div class="row m-t-30">
-	<div class="col-12 feature_video">
+	<div class="col-10 feature_video offset-1">
 	<div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846846114?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
 	</div>
 	</div>
