@@ -752,9 +752,7 @@ description: ""
    .video_ img {
    width: 100%;
    }
-   .offset-1,.offset-2{
-   margin-left:0;
-   }
+
    }
    @media(min-width: 767px)and (max-width: 1170px){
    .banner::after {
