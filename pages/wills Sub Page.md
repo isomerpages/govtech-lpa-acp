@@ -512,7 +512,7 @@ section.bp-section .bp-container {
 .action__4::before {
     content: "";
     position: absolute;
-    left: 30px;
+    right: 30px;
     bottom: -4px;
     width: 200px;
     background-position: center;
