@@ -211,6 +211,17 @@ description: ""
   section.bp-section {
   padding: 0;
   }
+	.play_today h5 {
+    margin: 0;
+}
+	.play_today hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+	.play_today h5 strong {
+    color: #000;
+    font-size: 20px;
+}
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
