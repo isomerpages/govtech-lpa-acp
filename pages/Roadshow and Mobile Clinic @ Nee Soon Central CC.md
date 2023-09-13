@@ -217,6 +217,8 @@ description: ""
     border-radius: 30px;
     margin-left: 50px;
     margin-right: 50px;
+    margin-bottom: 40px;
+    margin-top: 30px;
 }
 	.play_today h5 {
     margin: 0;
