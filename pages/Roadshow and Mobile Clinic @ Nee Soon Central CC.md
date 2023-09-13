@@ -511,7 +511,7 @@ description: ""
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
               <hr>
 					<h5><strong> Mobile Clinics: </strong></h5>
-<br><p><strong style="color:red">*Please note that mobile clinics for Yishun are fully booked*</strong> 
+<p><strong style="color:red">*Please note that mobile clinics for Yishun are fully booked*</strong> 
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 <p> Slots are on booking basis and no walk-ins are allowed.
           </p>
@@ -534,7 +534,7 @@ description: ""
 					</div>
               <hr>
 					<h5><strong>Roadshow Activities:</strong></h5>
-              <p>Join us at our booths and free talks listed below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
+              <p>Join us at our booths and free talks listed below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow <br>activities, while stocks last.</p>
 </div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
