@@ -496,7 +496,9 @@ description: ""
 <br><p><strong style="color:red">*Please note that mobile clinics for Yishun are fully booked*</strong> 
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 <p> Slots are on booking basis and no walk-ins are allowed.
-          </p><p> <strong> Documents required: </strong></p>
+          </p>
+					<div class="box">
+					<p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
             </ul>
@@ -510,9 +512,9 @@ description: ""
               <li> ACP form draft from My Legacy</li>
             </ul>
           <strong> Prepare your LPA and ACP 
-          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br>
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
+					</div>
               <hr>
-              <br>
 					<h5><strong>Roadshow Activities:</strong></h5>
               <p>Join us at our booths and free talks listed below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
 </div></div></div></div></section>
