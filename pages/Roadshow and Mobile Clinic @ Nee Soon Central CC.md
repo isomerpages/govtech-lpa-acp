@@ -211,6 +211,13 @@ description: ""
   section.bp-section {
   padding: 0;
   }
+	.box {
+    padding: 30px;
+    background-color: #ccb8a4;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 	.play_today h5 {
     margin: 0;
 }
