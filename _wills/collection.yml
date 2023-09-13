@@ -1,0 +1,4 @@
+collections:
+  wills:
+    output: true
+    order: []
