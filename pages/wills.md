@@ -820,26 +820,26 @@ description: ""
             <div class="row">
                <div class="feature_block col-3 red">
                   <div class="inner">
-                     <h3>I’m unsure how to begin</h3>
-                     <a href="/i-am-unsure-how-to-begin/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
-                  </div>
-               </div>
-               <div class="feature_block col-3">
-                  <div class="inner">
-                     <h3>I would like to speak to my family first</h3>
-                     <a href="/how-do-i-speak-to-my-family-about-this/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
+                     <h3>I'm unsure about the process</h3>
+                     <a href="/wills-unsure-about-process/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
                   </div>
                </div>
                <div class="feature_block col-3">
                   <div class="inner">
                      <h3>I have further concerns</h3>
-                     <a href="/i-have-further-concerns/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
+                     <a href="/wills-further-concerns/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
+                  </div>
+               </div>
+               <div class="feature_block col-3">
+                  <div class="inner">
+                     <h3>Placeholder</h3>
+                     <a href="/#/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
                   </div>
                </div>
                <div class="feature_block col-3">
                   <div style="background: linear-gradient(#325647, #325647, #325647);" class="inner">
-                     <h3>I’m ready to get started on my LPA and ACP</h3>
-                     <a href="https://go.gov.sg/mylegacy-lpa-acp"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
+                     <h3>I want to try the Wills Simulator</h3>
+                     <a href="#"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
                   </div>
                </div>
             </div>
