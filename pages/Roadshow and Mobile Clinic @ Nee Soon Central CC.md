@@ -238,6 +238,9 @@ description: ""
     .content a {
       color: #01436b;
   }
+	.content li>ul {
+    margin-top: 0;
+}
     table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -519,17 +522,19 @@ description: ""
 					<p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
+							<li><strong>For LPA:</strong>
+									<ul style="padding-left: 30px; list-style: none;">
+										<li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+										<li> - Donor's Mobile Phone </li>
+									</ul>
+								</li>
+									<li><strong>For ACP</strong>
+										<ul style="padding-left: 30px; list-style: none;">
+											<li> - ACP form draft from My Legacy</li>
+									</ul>
+								</li>
             </ul>
-         <strong>For LPA:</strong>
-            <ul style="padding-left: 30px; list-style: disc;">
-              <li> Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
-              <li> Donor's Mobile Phone </li>
-            </ul> 
-          <strong>For ACP</strong>
-            <ul style="padding-left: 30px; list-style: disc;">
-              <li> ACP form draft from My Legacy</li>
-            </ul>
-          <strong> Prepare your LPA and ACP 
+						<strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
               <hr>
