@@ -211,9 +211,9 @@ description: ""
   section.bp-section {
   padding: 0;
   }
-	.box {
+.box {
     padding: 30px;
-    background-color: #ccb8a4;
+    background-color: #c8bfb5;
     border-radius: 30px;
     margin-left: 50px;
     margin-right: 50px;
