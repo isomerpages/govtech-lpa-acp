@@ -2,7 +2,7 @@ collections:
   wills:
     output: true
     order:
-      - I'm unsure about the process.md
+      - I'm Unsure About The Process.md
       - Why should I write a will?.md
       - Wills (Homepage).md
       - I have further concerns.md
