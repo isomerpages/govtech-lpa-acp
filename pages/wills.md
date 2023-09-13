@@ -438,7 +438,7 @@ left: 50px;
 bottom: 30px;
 width: 300px;
 height: 300px;
-background-image: url(https://i.imgur.com/e25qwc2.png);
+background-image: url();
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
@@ -795,7 +795,7 @@ display: inline-block;
 
 <div style="margin-bottom: 60px" class="heading u-align--center col-12">
 
-<h2>When creating a Lasting Power of Attorney (LPA) &amp; Advance Care Plan (ACP), <br><strong>how would you describe your situation?</strong></h2>
+<h2>When it comes to making your will, <br><strong>how would you describe your situation?</strong></h2>
 
 </div>
 
@@ -807,9 +807,9 @@ display: inline-block;
 
 <div class="inner">
 
-<h3>I’m unsure how to begin</h3>
+<h3>Why should I write a will?</h3>
 
-<a href="/i-am-unsure-how-to-begin/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/#/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -819,9 +819,9 @@ display: inline-block;
 
 <div class="inner">
 
-<h3>I would like to speak to my family first</h3>
+<h3>I’m unsure about the process</h3>
 
-<a href="/how-do-i-speak-to-my-family-about-this/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/#/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -833,7 +833,7 @@ display: inline-block;
 
 <h3>I have further concerns</h3>
 
-<a href="/i-have-further-concerns/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="/#/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
@@ -843,54 +843,15 @@ display: inline-block;
 
 <div style="background: linear-gradient(#325647, #325647, #325647);" class="inner">
 
-<h3>I’m ready to get started on my LPA and ACP</h3>
+<h3>I want to try the Wills Simulator</h3>
 
-<a href="https://go.gov.sg/mylegacy-lpa-acp"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
-
-</div>
-
-</div>
-
-</div>
-<div class="row m-t-30">
-   <div class="col-8 feature_video offset-2">
-   <div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846846114?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
-   </div>
-   </div>
-<div class="row m-t-30">
-   <div class="col-8 offset-2">
-      <div class="row">
-<div class="feature_video col-6">
-<div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
-<div class="content_">
-
-<h3>Lasting Power of Attorney</h3>
-
-<p>A Lasting Power of Attorney (LPA) allows you to appoint a trusted individual(s) to make decisions on your behalf when you lose mental capacity.</p>
-
-<a class="read_more" target="_blank" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney/">Read More</a>
+<a href="#"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
 </div>
 
-<div class="feature_video col-6">
-   <div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846847338?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
-<div class="content_">
-
-<h3>Advance Care Plan</h3>
-
-<p>An Advance Care Plan (ACP) outlines your healthcare preferences when you are no longer able to express them yourself.</p>
-
-<a class="read_more" target="_blank" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-an-advance-care-plan/">Read More</a>
-
 </div>
-
-</div>
-</div>
-   </div>
-</div>
-
 </div> 
 </section>
 
@@ -902,15 +863,10 @@ display: inline-block;
     </div>
     <div class="col-6 action_b">
       <div class="inner">
-        <p>Planning ahead for the unexpected may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
-        <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can provide peace of mind and reduce uncertainty for those who care about you.</p>
+        <p>A Will is a legal document that defines the terms for the distribution of your real or personal estate. The Wills Act states that a Testator (the person making the Will) may devise, bequeath, or dispose of their real or personal estate to their loved ones via a Will.</p>
+        <p><strong><a target="_blank" href="#">Read more</a></strong></p>
       </div>
     </div>
-  </div>
-  <div style="margin-top:60px;" class="row">
-    <div class="col-12 action_bb u-align--center">
-        <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. <br><a target="_blank" href="/i-am-unsure-how-to-begin/">Here are some ways to get started.</a></h2>
-         </div>
   </div>
 </div>    
 </section>
@@ -919,8 +875,9 @@ display: inline-block;
 <div class="container action_2">
     <div class="row">
         <div class="col-8 action2_b">
-            <h2>We understand that planning ahead for the unexpected is hard to talk about. <strong><i>You are not alone</i></strong>.</h2>
-            <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can<br> <a class="read-more" target="_blank" href="/how-do-i-speak-to-my-family-about-this/">start conversations with your family.</a></p>
+            <h2>Will-writing may feel like a morbid task, but taking ownership of your future is a rewarding feat.</h2>
+            <p>Making a Will can bring about peace of mind and reduce uncertainty for yourself and those who care about you the most.<br><br>
+            Leave a legacy of love and certainty for the people who matter most to you. <br><a class="read-more" target="_blank" href="/how-do-i-speak-to-my-family-about-this/">Here are some ways to get started.</a></p>
         </div>
     </div>
         <div class="row p-t-80 action__5">
@@ -928,7 +885,7 @@ display: inline-block;
             <div class="action2_b">
             <h2>My Legacy Vault</h2>
             <p>Plan, store and share your legal, healthcare and estate matters securely.</p>
-            <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+            <p>Once legally valid, you may wish to update the location of your Will in <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
             </div>
         </div>
     </div>
@@ -938,7 +895,7 @@ display: inline-block;
 <div class="container">
     <div class="row">
         <div class="col-12 action3_b u-align--center">
-            <h2>I'm ready to start <br><strong><i>on my LPA &amp; ACP</i></strong> today!</h2>
+            <h2>I'm ready to start <br><strong><i>drafting my Will</i></strong> today!</h2>
             <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
         </div>
     </div>
