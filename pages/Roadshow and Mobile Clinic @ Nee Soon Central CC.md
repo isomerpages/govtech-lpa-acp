@@ -567,7 +567,8 @@ description: ""
                 <td scope="row">16 Sep 2023 (Saturday)<br> 2pm to 3.30pm</td>
 						 <td><strong>Talk:</strong> Planning Faraid: Pre-planning for Muslims<br><br>
 							 <strong>Language:</strong> Mainly Malay<br><br>
-							 <strong>Speaker:</strong> Mr Mohammad Rizuan Mohammad Yazin </td>
+							 <strong>Details:</strong> Understand the various legacy and pre-planning tools available for Muslims besides Faraid so you may better plan for yourself and your loved ones. <br><br>
+							 <strong>Speaker:</strong> Mr Mohammad Rizuan Mohammad Yazin, Managing Director, Emerald Law LLC.   Rizuan is a general practitioner and deals in a wide area of practice including but not limited to Civil and Criminal Litigation, Family Litigation and Syariah Divorces. He is also well versed in Muslim Estate Planning involving nuzuriah, hibah and deeds of family arrangement.</td>
             </tr><tr>
                 <td scope="row">16 Sep 2023 (Saturday)<br> 4pm to 5.30pm</td>
               <td><strong>Talk:</strong> All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)<br><br>
