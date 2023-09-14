@@ -1,5 +1,5 @@
 ---
-title: ACP Mobile Clinic @ Nee Soon Central CC
+title: Roadshow and Mobile Clinic @ Nee Soon Central CC
 permalink: /nee-soon-central-cc/
 description: ""
 ---
@@ -211,6 +211,26 @@ description: ""
   section.bp-section {
   padding: 0;
   }
+.box {
+    padding: 30px;
+    background-color: #c8bfb5;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+	.play_today h5 {
+    margin: 0;
+}
+	.play_today hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+	.play_today h5 strong {
+    color: #000;
+    font-size: 20px;
+}
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
@@ -220,6 +240,9 @@ description: ""
     .content a {
       color: #01436b;
   }
+	.content li>ul {
+    margin-top: 0;
+}
     table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -492,30 +515,33 @@ description: ""
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>3 North Point Drive, Singapore 768020</span></li></ul>
               <hr>
-          <p> <strong> Mobile Clinics: </strong>
+					<h5><strong> Mobile Clinics: </strong></h5>
+<p><strong style="color:red">*Please note that mobile clinics for Yishun are fully booked*</strong> 
             <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
-            <ul class="small">
-              <li><small>Slots are on booking basis and no walk-ins are allowed.</small></li>
-              <li><small>LPA certification and ACP facilitation sessions are fully booked.</small></li></ul>
-          <p> <strong> Documents required: </strong></p>
+<p> Slots are on booking basis and no walk-ins are allowed.
+          </p>
+					<div class="box">
+					<p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
+							<li><strong>For LPA:</strong>
+									<ul style="padding-left: 30px; list-style: none;">
+										<li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+										<li> - Donor's Mobile Phone </li>
+									</ul>
+								</li>
+									<li><strong>For ACP</strong>
+										<ul style="padding-left: 30px; list-style: none;">
+											<li> - ACP form draft from My Legacy</li>
+									</ul>
+								</li>
             </ul>
-         <strong>For LPA:</strong>
-            <ul style="padding-left: 30px; list-style: disc;">
-              <li> Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
-              <li> Donor's Mobile Phone </li>
-            </ul> 
-          <strong>For ACP</strong>
-            <ul style="padding-left: 30px; list-style: disc;">
-              <li> ACP form draft from My Legacy</li>
-            </ul>
-          <strong> Prepare your LPA and ACP 
-          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong><br><br>
+						<strong> Prepare your LPA and ACP 
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
+					</div>
               <hr>
-              <br>
-            <strong>Roadshow Activities:</strong>
-              <p>Join us at our booths and free talks listed below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow activities, while stocks last.</p>
+					<h5><strong>Roadshow Activities:</strong></h5>
+              <p>Join us at our booths and free talks listed below. Stand a chance to win a <strong>$5 NTUC voucher</strong>, upon completion of roadshow <br>activities, while stocks last.</p>
 </div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
@@ -537,13 +563,18 @@ description: ""
                 <br><br><strong>Speaker:</strong> Mr Victor Tang, a highly respected 20-year veteran in the financial industry. Victor is a regular guest speaker on various Mandarin media ranging from Channel 8, Good Morning Singapore to Hello Singapore, Capital 958FM, 963FM where he speaks on Parenting, Business Succession, Family Office, Financial and Family Estate Planning topics.
                 </td>
             </tr>
-            <tr>
+					 <tr>
+                <td scope="row">16 Sep 2023 (Saturday)<br> 2pm to 3.30pm</td>
+						 <td><strong>Talk:</strong> Planning Faraid: Pre-planning for Muslims<br><br>
+							 <strong>Language:</strong> Mainly Malay<br><br>
+							 <strong>Speaker:</strong> Mr Mohammad Rizuan Mohammad Yazin </td>
+            </tr><tr>
                 <td scope="row">16 Sep 2023 (Saturday)<br> 4pm to 5.30pm</td>
               <td><strong>Talk:</strong> All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)<br><br>
                 <strong>Language:</strong> English and Tamil<br><br>
                 <strong>Details:</strong> Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.<br><br>
                 <strong>Speaker:</strong> Ms Dharma Jayaram, lawyer, Dharma Law LLC</td>
-            </tr>
+					</tr>
             <tr>
                 <td scope="row">17 Sep 2023 (Sunday)<br> 10am to 11.30am</td>
               <td><strong>Talk:</strong> From Love to legacy, Making a CPF nomination for your CPF savings<br><br>

@@ -1,5 +1,5 @@
 ---
-title: ACP Mobile Clinic @ Kebun Baru CC
+title: Mobile Clinic @ Kebun Baru CC
 permalink: /kebun-bahru-cc/
 description: ""
 ---

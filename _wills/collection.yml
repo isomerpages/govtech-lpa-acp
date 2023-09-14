@@ -1,0 +1,8 @@
+collections:
+  wills:
+    output: true
+    order:
+      - I'm Unsure About The Process.md
+      - Why Should I Write A Will?.md
+      - Wills (Homepage).md
+      - I Have Further Concerns.md
