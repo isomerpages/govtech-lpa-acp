@@ -563,13 +563,18 @@ description: ""
                 <br><br><strong>Speaker:</strong> Mr Victor Tang, a highly respected 20-year veteran in the financial industry. Victor is a regular guest speaker on various Mandarin media ranging from Channel 8, Good Morning Singapore to Hello Singapore, Capital 958FM, 963FM where he speaks on Parenting, Business Succession, Family Office, Financial and Family Estate Planning topics.
                 </td>
             </tr>
-            <tr>
+					 <tr>
+                <td scope="row">16 Sep 2023 (Saturday)<br> 2pm to 3.30pm</td>
+						 <td><strong>Talk:</strong> Planning Faraid: Pre-planning for Muslims<br><br>
+							 <strong>Language:</strong> Mainly Malay<br><br>
+							 <strong>Speaker:</strong> Mr Mohammad Rizuan Mohammad Yazin </td>
+            </tr><tr>
                 <td scope="row">16 Sep 2023 (Saturday)<br> 4pm to 5.30pm</td>
               <td><strong>Talk:</strong> All About Lasting Power of Attorney (LPA) and Advance Care Planning (ACP)<br><br>
                 <strong>Language:</strong> English and Tamil<br><br>
                 <strong>Details:</strong> Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.<br><br>
                 <strong>Speaker:</strong> Ms Dharma Jayaram, lawyer, Dharma Law LLC</td>
-            </tr>
+					</tr>
             <tr>
                 <td scope="row">17 Sep 2023 (Sunday)<br> 10am to 11.30am</td>
               <td><strong>Talk:</strong> From Love to legacy, Making a CPF nomination for your CPF savings<br><br>
