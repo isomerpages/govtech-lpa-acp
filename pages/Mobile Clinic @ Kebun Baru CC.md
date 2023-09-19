@@ -503,9 +503,7 @@ description: ""
 <strong>Booking slots will open on 1st October 2023</strong>
 <br>Please contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;if you have queries.
       <strong>
-
-    
-  <div class="col-12 u-align--left" style="padding: 0">
+  <br><div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
     </strong></div><strong>
