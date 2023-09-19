@@ -211,6 +211,15 @@ description: ""
   section.bp-section {
   padding: 0;
   }
+	.box {
+    padding: 30px;
+    background-color: #c8bfb5;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
@@ -462,23 +471,38 @@ description: ""
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Mobile Clinic @ Kebun Baru</h3>
-          <p>Complete your LPA and ACP at our upcoming mobile clinics*!</p>
-          <p>Free LPA certification and ACP facilitation sessions are only available for Singapore citizens aged 50 and above with a valid CHAS Blue/Orange card and limited slots are available.</p>
-            <p> Please book an appointment if you wish to attend the mobile clinic. No walk-ins allowed. </p>
-          <ul>
-            <p><strong>Documents required:</strong> 
-            <br> - NRIC and CHAS card
-            <br> <strong> For LPA </strong>: <br> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment <br> - Donor's Mobile Phone with Singpass app installed 
-          <br> <strong> For ACP </strong><br> - ACP form draft from My Legacy 
-      <br> <strong> Prepare your LPA and ACP <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong></p><strong>
-            <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Centre</span></li>
+          <h3>Mobile Clinic @ Kebun Baru</h3><ul>
+ <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Centre</span></li>
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>21 – 22 October 2023 </span></li>
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li><br>
-      
- Booking slots will be released 3 weeks before date of event. <br>Please contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;if you have queries.
-      </strong></ul><strong>
+        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
+					<hr> 
+ <p> <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
+<p> Slots are on booking basis and no walk-ins are allowed.
+          </p>
+	<div class="box">
+					<p> <strong> Documents required: </strong></p>
+            <ul style="padding-left: 30px; list-style: disc;">
+              <li> NRIC and CHAS card </li>
+							<li><strong>For LPA:</strong>
+									<ul style="padding-left: 30px; list-style: none;">
+										<li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+										<li> - Donor's Mobile Phone </li>
+									</ul>
+								</li>
+									<li><strong>For ACP</strong>
+										<ul style="padding-left: 30px; list-style: none;">
+											<li> - ACP form draft from My Legacy</li>
+									</ul>
+								</li>
+            </ul>
+						<strong> Prepare your LPA and ACP 
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
+					</div>
+           
+<strong>Booking slots will open on 1st October 2023</strong>
+<br>Please contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;if you have queries.
+      <strong>
 
     
   <div class="col-12 u-align--left" style="padding: 0">
