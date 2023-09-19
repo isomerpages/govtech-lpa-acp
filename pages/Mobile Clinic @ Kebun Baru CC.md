@@ -480,6 +480,7 @@ description: ""
  <p> <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 <p> Slots are on booking basis and no walk-ins are allowed.
           </p>
+<strong>Booking slots will open on 1st October 2023</strong>
 	<div class="box">
 					<p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -499,8 +500,7 @@ description: ""
 						<strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
-           
-<strong>Booking slots will open on 1st October 2023</strong>
+          
 <br>Please contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;if you have queries.
       <strong>
 <br><div class="col-12 u-align--left" style="padding: 0">
