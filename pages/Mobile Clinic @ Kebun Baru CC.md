@@ -501,7 +501,7 @@ description: ""
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
           
-<br>Please contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;if you have queries.
+<br>Check out the FAQs if you have queries or you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;.
       <strong>
 <br><div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
