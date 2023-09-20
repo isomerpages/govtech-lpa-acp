@@ -582,6 +582,7 @@ description: ""
 <p> The number of slots available for the mobile clinic is dependent mainly on the availability of the pro bono LPA Certificate Issuers and ACP facilitators who are offering the services on weekends. Apart from that, it is also dependent on the space availability of the event.</p>
  <li><strong>I did not book a slot for the mobile clinic session but need to get my LPA/ACP done urgently on that day. Can I walk in to get my LPA certified or ACP done?</strong></li>
 <p>We do not accept walk-ins for the mobile clinic sessions. Limited slots are available based on the availability of our pro bono LPA Certificate Issuers (CI) and ACP facilitators. Booking a slot is required to ensure that we are able to cater sufficient CIs and facilitators for the demand.</p>
+
 <h5><strong> Eligibility Criteria : </strong></h5>	
  <li><strong>Why is pro bono LPA certification / ACP facilitation at the mobile clinic session only provided to CHAS blue/orange card holders?</strong></li>
 <p>Individuals with CHAS Blue or Orange cards are likely to be of low income and will benefit most from the&nbsp;pro bono&nbsp;certification / facilitation sessions.</p>		
