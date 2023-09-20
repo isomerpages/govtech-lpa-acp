@@ -1,4 +1,5 @@
 collections:
   archive:
     output: true
-    order: []
+    order:
+      - Roadshow and Mobile Clinic @ Nee Soon Central CC.md
