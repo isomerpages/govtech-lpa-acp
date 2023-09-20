@@ -211,7 +211,7 @@ description: ""
   section.bp-section {
   padding: 0;
   }
-	.box {
+  .box {
     padding: 30px;
     background-color: #c8bfb5;
     border-radius: 30px;
@@ -223,7 +223,7 @@ description: ""
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
-	       .accordion ul .inner::after{
+         .accordion ul .inner::after{
     content: "+";
     width: 25px;
     height: 25px;
@@ -270,7 +270,7 @@ description: ""
       margin-top: 0;
       margin-bottom: 0;
     }
-	    .accordion ul {
+      .accordion ul {
     margin: 0;
 }
     .accordion .toggle{
@@ -314,7 +314,7 @@ description: ""
     ul.accordion ul ul {
     padding-left: 45px;
 }
-	    .accordion ul {
+      .accordion ul {
   list-style: none;
   padding: 0;
 }
@@ -574,30 +574,30 @@ description: ""
             <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>21 – 22 October 2023 </span></li>
         <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
         <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
-					<hr> 
+          <hr> 
  <p> <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 <p> Slots are on booking basis and no walk-ins are allowed.
           </p>
 <strong>Booking slots will open on 1st October 2023</strong>
-	<div class="box">
-					<p> <strong> Documents required: </strong></p>
+  <div class="box">
+          <p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
-							<li><strong>For LPA:</strong>
-									<ul style="padding-left: 30px; list-style: none;">
-										<li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
-										<li> - Donor's Mobile Phone </li>
-									</ul>
-								</li>
-									<li><strong>For ACP</strong>
-										<ul style="padding-left: 30px; list-style: none;">
-											<li> - ACP form draft from My Legacy</li>
-									</ul>
-								</li>
+              <li><strong>For LPA:</strong>
+                  <ul style="padding-left: 30px; list-style: none;">
+                    <li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+                    <li> - Donor's Mobile Phone </li>
+                  </ul>
+                </li>
+                  <li><strong>For ACP</strong>
+                    <ul style="padding-left: 30px; list-style: none;">
+                      <li> - ACP form draft from My Legacy</li>
+                  </ul>
+                </li>
             </ul>
-						<strong> Prepare your LPA and ACP 
+            <strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
-					</div>
+          </div>
           
 <br>Check out the FAQs if you have queries or you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;.
       <strong>
@@ -605,70 +605,12 @@ description: ""
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
     </strong>
-				</div>
-			</div>
+        </div>
+      </div>
     <div class="row">
       <div class="col-12 m-t-40">
      </div>
-			</div>
-		</div>
-	</div>
-</section>
-<section class="accordion  p-b-110">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 accordion_b">
-                <ul class="accordion">
-                        <li>
-                            <label for="accordion_1">
-                                <input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
-                                <div class="inner">
-                            <ul>
-                                <li>Choose your Donee (you can have up to two) and identify a Replacement Donee in case the primary donee is unable to fulfill the duties.</li>
-                                <li>Fill in the online LPA forms at <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
-                                <li>Find an <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
-                                    <ul>
-                                    <li> Your Donee(s) and Replacement Donee (if any) can log in to <a target="_blank" href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li> 
-                                    <li>Visit the Certificate Issuer of your choice to certify your LPA. </li>
-                                    <li>You (the ‘Donor’) and the LPA Certificate Issuer will need to digitally sign on the LPA using your Singpass app. </li>
-                                    <li>In order for your LPA to be legally valid, the Certificate Issuer must submit the LPA to the Office of the Public Guardian (OPG) for registration via OPGO, as authorised by you.</li>
-                                    </ul>
-                                </li>
-                                 <li><strong>LPA Form 1</strong>
-                                 <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p></li>
-                                <li> <strong>LPA Form 2</strong>
-                                <p>For Donors who want to:</p>
-                                    <ul>
-                                        <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
-                                        <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
-                                    </ul><br>
-                                <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
-                                After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the Certificate Issuer as per the flow of LPA Form 1.</p>
-                                   </li></ul>  
-																	<div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
-                                                            </div>
-                            </label>
-                        </li>
-                        <li>
-                            <label for="accordion_2">
-                                <input class="toggle" id="accordion_2" name="accordion" type="radio">Making an Advance Care Plan (ACP)
-                                <div class="inner">
-                            <ul>
-<li>Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.</li>
-<li>Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.</li>
-<li>Prepare your <a target="_blank" href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/">ACP online</a>. </li>
-<li>Find a <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br>
-<ul>
-<li>After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. </li>
-<li>Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.</li>
-<li>You may also wish to upload a soft copy of your completed ACP form in the <a target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for your own records and to share them with your Trusted Persons.</li>
-                                                            </ul></li></ul>
-																		<div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846847338?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
-                                </div>
-                                </label>
-                        </li>
-                        </ul>
-            </div>
-        </div>
-</div>
+      </div>
+    </div>
+  </div>
 </section>
