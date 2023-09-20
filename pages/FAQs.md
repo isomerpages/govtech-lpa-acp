@@ -582,7 +582,7 @@ description: ""
 <p> The number of slots available for the mobile clinic is dependent mainly on the availability of the pro bono LPA Certificate Issuers and ACP facilitators who are offering the services on weekends. Apart from that, it is also dependent on the space availability of the event.</p>
  <li><strong>I did not book a slot for the mobile clinic session but need to get my LPA/ACP done urgently on that day. Can I walk in to get my LPA certified or ACP done?</strong></li>
 <p>We do not accept walk-ins for the mobile clinic sessions. Limited slots are available based on the availability of our pro bono LPA Certificate Issuers (CI) and ACP facilitators. Booking a slot is required to ensure that we are able to cater sufficient CIs and facilitators for the demand.</p>
-	  <h5><strong> Eligibility Criteria : </strong></h5>	
+<h5><strong> Eligibility Criteria : </strong></h5>	
  <li><strong>Why is pro bono LPA certification / ACP facilitation at the mobile clinic session only provided to CHAS blue/orange card holders?</strong></li>
 <p>Individuals with CHAS Blue or Orange cards are likely to be of low income and will benefit most from the&nbsp;pro bono&nbsp;certification / facilitation sessions.</p>		
 	 <li><strong>Why is the pro bono LPA certification / ACP facilitation mobile clinic session only open to those aged 50 and above?</strong></li>
@@ -618,7 +618,7 @@ Please complete your&nbsp;<a href="https://mylegacy.life.gov.sg/find-a-service/l
 	</li><li><p>ACP</p>
 Please prepare a draft of your <a href="https://mylegacy.life.gov.sg/lpa-acp-tool/ac">ACP form online</a> on My Legacy and bring along a physical copy of the completed draft, your NRIC and your Blue/Orange CHAS card for your appointment. Your Nominated Healthcare Spokesperson(s) is also required to attend the session with you.<p></p></li></ul>						
 		
-<br>If you have queries or you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;
+<br><strong>If you have queries, you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;</strong>
       <strong>
 <br><div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
