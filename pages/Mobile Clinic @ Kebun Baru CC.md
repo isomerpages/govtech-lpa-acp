@@ -667,8 +667,7 @@ description: ""
                                 </div>
                                 </label>
                         </li>
-                        
-                    </ul>
+                        </ul>
             </div>
         </div>
 </div>
