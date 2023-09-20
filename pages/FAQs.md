@@ -619,7 +619,7 @@ Please complete your&nbsp;<a href="https://mylegacy.life.gov.sg/find-a-service/l
 	</li><li><p>ACP</p>
 Please prepare a draft of your <a href="https://mylegacy.life.gov.sg/lpa-acp-tool/ac">ACP form online</a> on My Legacy and bring along a physical copy of the completed draft, your NRIC and your Blue/Orange CHAS card for your appointment. Your Nominated Healthcare Spokesperson(s) is also required to attend the session with you.<p></p></li></ul>						
 		
-<br><strong>If you have queries, you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;</strong>
+<br><strong>If you have any queries, you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;</strong>
       <strong>
 <br><div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
