@@ -485,12 +485,12 @@ description: ""
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
           <div class="content">
-            <h4><a href="/kebun-bahru-cc/">Mobile Clinic @ Kebun Baru</a></h4>
+            <h4><a href="/kebun-baru-cc/">Mobile Clinic @ Kebun Baru</a></h4>
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>21 and 22 October 2023</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Kebun Baru Community Centre</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">216 Ang Mo Kio Ave 4, Singapore 569897</li>
-              <p><a target="_blank" href="/kebun-bahru-cc/">Learn more</a></p>
+              <p><a target="_blank" href="/kebun-baru-cc/">Learn more</a></p>
             </ul>
           </div>
         </div>
