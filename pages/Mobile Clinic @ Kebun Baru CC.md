@@ -223,6 +223,104 @@ description: ""
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
+	       .accordion ul .inner::after{
+    content: "+";
+    width: 25px;
+    height: 25px;
+    background-color: #fff;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    right: 20px;
+    top: 14px;
+    color: #1A3554;
+    text-indent: 0;
+    line-height: 25px;
+}
+    ul.accordion input.toggle:checked + .inner::after {
+    content: "-";
+}
+    ul.accordion input.toggle:checked + .inner {
+    height: auto;
+    padding: 45px;
+}
+    .accordion ul .inner {
+    overflow: hidden;
+    margin-top: 0;
+    background-color: #EBE7E5;
+    margin-top: 6px;
+    height: 0;
+    padding: 0 45px;
+    transition: all ease-in-out .3s;
+        -webkit-transition: all ease-in-out .3s;
+     text-indent: 0;
+}
+    .accordion ul .inner p, .accordion ul .inner li {
+     font-weight: 500;
+    font-size: 18px;
+      color: #1A3554;
+    margin-top: 0;
+    line-height: 30px;
+    }
+    .accordion ul .inner h4 {
+     font-weight: bold;
+    font-size: 22px;
+      color: #1A3554;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+	    .accordion ul {
+    margin: 0;
+}
+    .accordion .toggle{
+    display:none;
+    }
+.accordion ul li label {
+    position: relative;
+    color: #1A3554;
+    display: inline-block;
+    width: 100%;
+    line-height: 49px;
+    text-indent: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+}
+    .accordion ul li label::before {
+    width: 100%;
+    background-image: linear-gradient(#a6d9e5, #9ac0c8);
+    display: block;
+    color: #fefefe;
+    padding: 0.75em;
+    border-radius: 0.15em;
+    transition: background 0.3s ease;
+    margin-bottom: 0;
+    border-radius: 0;
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 55px;
+    z-index: -1;
+}
+    .accordion ul .inner li strong {
+    color: #1A3554;
+}
+    .accordion ul {
+    margin: 0!important;
+}
+    ul.accordion ul ul {
+    padding-left: 45px;
+}
+	    .accordion ul {
+  list-style: none;
+  padding: 0;
+}
+.accordion ul li {
+  margin: 0;
+}
   .m-b-80{
   margin-bottom: 80px;
   }
@@ -506,12 +604,72 @@ description: ""
 <br><div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
-    </strong></div><strong>
-    </strong></div><strong>
+    </strong>
+				</div>
+			</div>
     <div class="row">
       <div class="col-12 m-t-40">
-      
-         
-      
-    
-</div></div></strong></div></div></section>
+     </div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="accordion p-t-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 accordion_b">
+                <ul class="accordion">
+                        <li>
+                            <label for="accordion_1">
+                                <input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
+                                <div class="inner">
+                            <ul>
+                                <li>Choose your Donee (you can have up to two) and identify a Replacement Donee in case the primary donee is unable to fulfill the duties.</li>
+                                <li>Fill in the online LPA forms at <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
+                                <li>Find an <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
+                                    <ul>
+                                    <li> Your Donee(s) and Replacement Donee (if any) can log in to <a target="_blank" href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li> 
+                                    <li>Visit the Certificate Issuer of your choice to certify your LPA. </li>
+                                    <li>You (the ‘Donor’) and the LPA Certificate Issuer will need to digitally sign on the LPA using your Singpass app. </li>
+                                    <li>In order for your LPA to be legally valid, the Certificate Issuer must submit the LPA to the Office of the Public Guardian (OPG) for registration via OPGO, as authorised by you.</li>
+                                    </ul>
+                                </li>
+                                 <li><strong>LPA Form 1</strong>
+                                 <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p></li>
+                                <li> <strong>LPA Form 2</strong>
+                                <p>For Donors who want to:</p>
+                                    <ul>
+                                        <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
+                                        <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
+                                    </ul><br>
+                                <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
+                                After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the Certificate Issuer as per the flow of LPA Form 1.</p>
+                                   </li></ul>  
+																	<div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
+                                                            </div>
+                            </label>
+                        </li>
+                        <li>
+                            <label for="accordion_2">
+                                <input class="toggle" id="accordion_2" name="accordion" type="radio">Making an Advance Care Plan (ACP)
+                                <div class="inner">
+                            <ul>
+<li>Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.</li>
+<li>Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.</li>
+<li>Prepare your <a target="_blank" href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/">ACP online</a>. </li>
+<li>Find a <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br>
+<ul>
+<li>After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. </li>
+<li>Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.</li>
+<li>You may also wish to upload a soft copy of your completed ACP form in the <a target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for your own records and to share them with your Trusted Persons.</li>
+                                                            </ul></li></ul>
+																		<div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846847338?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
+                                </div>
+                                </label>
+                        </li>
+                        
+                    </ul>
+            </div>
+        </div>
+</div>
+</section>
