@@ -483,20 +483,6 @@ description: ""
     -->
       <div class="col-4 eventBlock">
         <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/i3Zx3Xg.jpg">
-          <div class="content">
-            <h4><a href="/nee-soon-central-cc/">Roadshow and Mobile Clinic @ Yishun</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>16 and 17 September 2023</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Yishun Town Square (in front of Nee Soon Central Community Centre)</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png"> 3 Northpoint Dr, Singapore 768020</li>
-              <p><a target="_blank" href="/nee-soon-central-cc/">Learn more</a></p><p></p>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="col-4 eventBlock">
-        <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
           <div class="content">
             <h4><a href="/kebun-bahru-cc/">Mobile Clinic @ Kebun Baru</a></h4>
