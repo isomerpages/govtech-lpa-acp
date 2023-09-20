@@ -559,7 +559,7 @@ description: ""
     </div>
     </section>
     
-  <section class="events p-t-80 p-b-110">
+  <section class="events p-t-80">
   <div class="container">
     <div class="row">
       <div class="col-12 heading u-align--center m-b-60">
@@ -614,7 +614,7 @@ description: ""
 		</div>
 	</div>
 </section>
-<section class="accordion p-t-80">
+<section class="accordion  p-b-110">
     <div class="container">
         <div class="row">
             <div class="col-12 accordion_b">
