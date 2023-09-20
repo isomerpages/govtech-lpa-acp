@@ -574,10 +574,10 @@ description: ""
           <h5><strong> General Information: </strong></h5>
             <ul style="padding-left: 30px; list-style: disc;">
               <li><strong> Slots for the upcoming pro bono LPA certification / ACP facilitation mobile clinic session are full. How do I find out when is the next session?</strong> </li>
-							<p> Please visit&nbsp;<a target="_blank" href="https://giftofcertainty.gov.sg/">our events page</a> or follow <a target="_blank" href="www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. </p>
+							<p> Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> or follow <a target="_blank" href="www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. </p>
 							<p> The monthly mobile clinic sessions will take place at different heartland locations around Singapore to make it more convenient for all residents.</p>
               <li><strong>Can I be notified when booking opens for the next mobile clinic?</strong></li>
-<p> We currently do not have a notification system to inform interested citizens when the appointment slots are open for booking. We will update <a target="_blank" href="https://giftofcertainty.gov.sg/">our events page</a> once booking is open</p>
+<p> We currently do not have a notification system to inform interested citizens when the appointment slots are open for booking. We will update our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> once booking is open</p>
 							 <li><strong>Why are there such limited slots for the pro bono LPA certification / ACP facilitation mobile clinic session?</strong></li>
 <p> The number of slots available for the mobile clinic is dependent mainly on the availability of the pro bono LPA Certificate Issuers and ACP facilitators who are offering the services on weekends. Apart from that, it is also dependent on the space availability of the event.</p>
  <li><strong>I did not book a slot for the mobile clinic session but need to get my LPA/ACP done urgently on that day. Can I walk in to get my LPA certified or ACP done?</strong></li>
