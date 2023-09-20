@@ -583,10 +583,10 @@ description: ""
           <p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
-              <li><strong>For LPA:</strong>
-                  <ul style="padding-left: 30px; list-style: none;">
-                    <li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
-                    <li> - Donor's Mobile Phone </li>
+<li><strong>For LPA:</strong>
+<ul style="padding-left: 30px; list-style: none;">
+<p><br>- Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  
+<br> - Donor's Mobile Phone</p>
                   </ul>
                 </li>
                   <li><strong>For ACP</strong>
@@ -598,7 +598,11 @@ description: ""
             <strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
           </div>
-          
+<p><br>If you would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator
+<br>• Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer </a>
+<br>• Find an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">ACP Facilitator</a>
+<br>• Find an <a href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">LPA-ACP bundled provider</a> (subject to availability)</p>    
+
 <br>Check out the FAQs if you have queries or you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;
       <strong>
 <br><div class="col-12 u-align--left" style="padding: 0">
