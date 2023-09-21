@@ -589,35 +589,19 @@ description: ""
 	 <li><strong>Why is the pro bono LPA certification / ACP facilitation mobile clinic session only open to those aged 50 and above?</strong></li>
 <p>We encourage all Singaporeans to make their LPA and ACP early for peace of mind. Individuals aged 50 and above are at the stage where they are starting to plan for retirement and may have adult children who may be appointed as their Donees and Nominated Healthcare Spokespersons.</p>		<p>LPA and ACP are also particularly important for people who have chronic illnesses, early cognitive impairment, are frail, or approaching the end of life.</p>		
 	 <li><strong>What if I’m not eligible for&nbsp;the&nbsp;pro bono LPA certification / ACP facilitation mobile clinic session?</strong></li>
-<p>If you are not eligible or unable to book a slot for the pro bono LPA certification / ACP facilitation mobile clinic session, you can still book an appointment with an LPA Certificate Issuer (CI) or ACP facilitator near you to make your LPA and ACP, at their respective charges. Please check with the CI or facilitator on the cost.</p>
+<p>Even if you’re not eligible for a free LPA-ACP mobile clinic session, you can still book an appointment with an LPA Certificate Issuer (CI) or ACP facilitator near you to make your LPA and ACP.
+</p><p>If you're receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you. If you're not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator. 
+</p><p>Visit https://www.mylegacy.life.gov.sg/find-a-service to find an LPA Certificate Issuer and ACP facilitator. 
+</p><p>Some organisations may charge a nominal fee for doing an LPA and ACP, hence please check in with the individual organisations on the cost.
 
-You can make appointments with:
-<ul style="padding-left: 30px; list-style: none;">
-						<li><p>- An <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx)/">LPA Certificate Issuer</a>
-							</p><p>- An <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">ACP facilitator</a> (discussions via video conferencing are available)</p>
-<p>- An <a href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">LPA-ACP bundled provider</a> (subject to availability)</p></li></ul>
-
-<p>Individuals with financial needs may approach the following organisations to certify their LPA:</p>
-<ul style="padding-left: 30px; list-style: none;">
-<li>
-<p>- Life Point's LPA One-Stop Services
-	</p><p>- Potter's Place Community Services Society (applicants will have to pass a means test)</p>
-<p>- Mount Alvernia Outreach Medical Clinic @ Enabling Village (only for referrals from MSF or social service organisations and persons with disability)</p>
-*Interested applicants are advised to call their preferred not-for-profit organisations to make an appointment.*</li></ul>
-
-<p>If you are receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you. If you are not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator.</p>
- <h5><strong> Booking Confirmation: </strong></h5>							
+ </p><h5><strong> Booking Confirmation: </strong></h5>							
  <li><strong>Can I make changes to my booking slot?</strong></li>
 <p>Please email us at enquiries@mylegacy.gov.sg for any changes to your booking slot</p>
-<li><strong>What must I prepare for the pro bono LPA certification / ACP facilitation mobile clinic session?</strong></li>
-<p>Please bring your NRIC and CHAS card for identification purposes, and ensure the steps below are completed beforehand to avoid additional waiting time when you attend the session. If you require assistance completing your LPA, please visit any <a href="https://www.psd.gov.sg/servicesg">ServiceSG centre</a> or <a href="https://www.msf.gov.sg/docs/default-source/opg/opgo_assistance_points.pdf">Citizen Connect Centre</a></p>
-<ul style="padding-left: 30px; list-style: none;">
-	<li><p>LPA</p>  
-Please complete your&nbsp;<a href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">online LPA form</a> and ensure all your Donee(s) and Replacement Donee (if any) have accepted their appointment in&nbsp;<a href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a> before the session. You should receive an SMS/email notification to visit the Certificate Issuer. Your LPA status should be “Pending Certification”.  
-<p>If you fulfil the criteria to submit a hardcopy LPA form, please ensure all your Donee(s) and Replacement Donee (if any), and their respective witnesses, have signed on the hardcopy form before attending the session. </p>
-		<p>Your Donee(s) and Replacement Donee do not need to attend the session with you.</p>
-	</li><li><p>ACP</p>
-Please prepare a draft of your <a href="https://mylegacy.life.gov.sg/lpa-acp-tool/ac">ACP form online</a> on My Legacy and bring along a physical copy of the completed draft, your NRIC and your Blue/Orange CHAS card for your appointment. Your Nominated Healthcare Spokesperson(s) is also required to attend the session with you.<p></p></li></ul>						
+<li><strong> If I sign up for a free LPA-ACP mobile clinic session, what do I need to prepare?</strong></li>
+<p>When you come down for your mobile clinic session, do remember to bring along your NRIC and CHAS Blue or Orange card for identification purposes.
+</p><p>For LPA, please complete your LPA form and ensure all your Donee(s) and Replacement Donee (if any) have accepted their appointment. You should have received an SMS/email notification to visit the certificate issuer. Your LPA status should be “Pending Certification”.
+</p><p>For ACP, please prepare before the session by reflecting on the values and preferences that are important to you using an ACP Booklet or the LPA-ACP Tool on My Legacy. 
+</p><p></p></ul>						
 		
 <br><strong>If you have any queries, you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;</strong>
       <strong>
@@ -625,7 +609,7 @@ Please prepare a draft of your <a href="https://mylegacy.life.gov.sg/lpa-acp-too
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
     </strong>
-        </ul></div>
+        </div>
       </div>
     <div class="row">
       <div class="col-12 m-t-40">
