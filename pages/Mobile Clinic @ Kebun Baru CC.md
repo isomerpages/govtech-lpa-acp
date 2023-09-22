@@ -211,7 +211,7 @@ description: ""
   section.bp-section {
   padding: 0;
   }
-  .box {
+.box {
     padding: 30px;
     background-color: #c8bfb5;
     border-radius: 30px;
@@ -220,120 +220,42 @@ description: ""
     margin-bottom: 40px;
     margin-top: 30px;
 }
+	.play_today h5 {
+    margin: 0;
+}
+	.play_today hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+	.play_today h5 strong {
+    color: #000;
+    font-size: 20px;
+}
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
-         .accordion ul .inner::after{
-    content: "+";
-    width: 25px;
-    height: 25px;
-    background-color: #fff;
-    display: inline-block;
-    text-align: center;
-    border-radius: 50%;
-    position: absolute;
-    right: 20px;
-    top: 14px;
-    color: #1A3554;
-    text-indent: 0;
-    line-height: 25px;
-}
-    ul.accordion input.toggle:checked + .inner::after {
-    content: "-";
-}
-    ul.accordion input.toggle:checked + .inner {
-    height: auto;
-    padding: 45px;
-}
-    .accordion ul .inner {
-    overflow: hidden;
-    margin-top: 0;
-    background-color: #EBE7E5;
-    margin-top: 6px;
-    height: 0;
-    padding: 0 45px;
-    transition: all ease-in-out .3s;
-        -webkit-transition: all ease-in-out .3s;
-     text-indent: 0;
-}
-    .accordion ul .inner p, .accordion ul .inner li {
-     font-weight: 500;
-    font-size: 18px;
-      color: #1A3554;
-    margin-top: 0;
-    line-height: 30px;
-    }
-    .accordion ul .inner h4 {
-     font-weight: bold;
-    font-size: 22px;
-      color: #1A3554;
-      margin-top: 0;
-      margin-bottom: 0;
-    }
-      .accordion ul {
-    margin: 0;
-}
-    .accordion .toggle{
-    display:none;
-    }
-.accordion ul li label {
-    position: relative;
-    color: #1A3554;
-    display: inline-block;
-    width: 100%;
-    line-height: 49px;
-    text-indent: 20px;
-    cursor: pointer;
-    font-weight: bold;
-    font-size: 18px;
-}
-    .accordion ul li label::before {
-    width: 100%;
-    background-image: linear-gradient(#a6d9e5, #9ac0c8);
-    display: block;
-    color: #fefefe;
-    padding: 0.75em;
-    border-radius: 0.15em;
-    transition: background 0.3s ease;
-    margin-bottom: 0;
-    border-radius: 0;
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    height: 55px;
-    z-index: -1;
-}
-    .accordion ul .inner li strong {
-    color: #1A3554;
-}
-    .accordion ul {
-    margin: 0!important;
-}
-    ul.accordion ul ul {
-    padding-left: 45px;
-}
-      .accordion ul {
-  list-style: none;
-  padding: 0;
-}
-.accordion ul li {
-  margin: 0;
-}
   .m-b-80{
   margin-bottom: 80px;
   }
     .content a {
       color: #01436b;
   }
+	.content li>ul {
+    margin-top: 0;
+}
     table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
     border: 1px solid #dddddd;
   }
-  
+  .small li{
+  line-height: 22px;
+    margin: 0!important;
+  }
+  .small li small{
+  font-size: 80%;
+  }
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
@@ -387,6 +309,9 @@ description: ""
       color: #000;
       font-size: 16px;
   }
+  td:first-child, th:first-child {
+    width: 200px;
+}
     .play_today {
       padding: 30px;
       background-color: #DACBBC;
@@ -401,6 +326,18 @@ description: ""
   display: none;
   }
   a.p-button.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 10px 30px;
+      background-color: #e2a175;
+    display: inline-block;
+      margin: 0;
+  }
+    a.p-cta-button.btn {
       background-color: transparent;
       border-radius: 30px;
       color: #000;
@@ -541,6 +478,9 @@ description: ""
     .event_banner img {
       height: 300px;
   }
+  td:first-child, th:first-child {
+    width: unset;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
@@ -548,18 +488,17 @@ description: ""
       width: 100%;
   }
     }
-    </style>
-  <section class="event_banner">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-12 banner_b u-align--center">
+</style>
+<section class="event_banner">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12 banner_b u-align--center">
         <img alt="Legacy Events" src="https://i.imgur.com/f6S7lBG.png">
-        </div>
       </div>
     </div>
-    </section>
-    
-  <section class="events p-t-80">
+  </div>
+</section>
+<section class="events p-t-80">
   <div class="container">
     <div class="row">
       <div class="col-12 heading u-align--center m-b-60">
@@ -569,52 +508,53 @@ description: ""
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Mobile Clinic @ Kebun Baru</h3><ul>
- <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Centre</span></li>
-            <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>21 – 22 October 2023 </span></li>
-        <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-        <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
-          <hr> 
- <p> <br>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
-<p> Slots are on booking basis and no walk-ins are allowed.
-          </p>
-<strong>Booking slots will open on 1st October 2023</strong>
-  <div class="box">
-          <p> <strong> Documents required: </strong></p>
+          <h3>Mobile Clinic @ Kebun Baru</h3>
+            <ul>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Centre</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>21-22 October 2023</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
+              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
+              <hr>
+					<h5><strong> Mobile Clinics: </strong></h5>
+            <p>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
+            <p> Slots are on booking basis and no walk-ins are allowed.</p>
+            <p><strong>Booking slots will open on 1st October 2023</strong></p>
+					<div class="box">
+					<p> <strong> Documents required: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
-<li><strong>For LPA:</strong>
-<ul style="padding-left: 30px; list-style: none;">
-<p><br>- Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  
-<br> - Donor's Mobile Phone</p>
-                  </ul>
-                </li>
-                  <li><strong>For ACP</strong>
-                    <ul style="padding-left: 30px; list-style: none;">
-                      <li> - ACP form draft from My Legacy</li>
-                  </ul>
-                </li>
+							<li><strong>For LPA:</strong>
+									<ul style="padding-left: 30px; list-style: none;">
+										<li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+										<li> - Donor's Mobile Phone </li>
+									</ul>
+								</li>
+									<li><strong>For ACP</strong>
+										<ul style="padding-left: 30px; list-style: none;">
+											<li> - ACP form draft from My Legacy</li>
+									</ul>
+								</li>
             </ul>
-            <strong> Prepare your LPA and ACP 
+						<strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
-          </div>
-<p><br>If you would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator
-<br>• Find an <a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer </a>
-<br>• Find an <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">ACP Facilitator</a>
-<br>• Find an <a href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">LPA-ACP bundled provider</a> (subject to availability)</p>    
-
-<br>Check out the FAQs if you have queries or you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;
-      <strong>
-<br><div class="col-12 u-align--left" style="padding: 0">
-              <a href="/home/" class="p-button btn">BACK TO HOME </a>
-      </div>
-    </strong>
-        </div>
-      </div>
+					</div>
+              <hr>
+					<p>If you would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator</p>
+          <ul style="padding-left: 30px; list-style: disc;">
+            <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
+            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
+            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider (subject to availability)</a></li>
+          </ul>
+          <p>Check out the FAQs if you have queries or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>
+</div></div></div></div></section>
+<section class="p-b-110">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
     <div class="row">
-      <div class="col-12 m-t-40">
-     </div>
+      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+    </div>
+          </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
