@@ -437,7 +437,7 @@ text-align: center
 .action_b p,.action_b strong {
 font-size: 22px;
 line-height: 34px;
-color: #000;
+color: #07477b;
 }
 section.bp-section {
 padding: 0;
@@ -894,16 +894,18 @@ display: inline-block;
     </div>
     <div class="col-6 action_b">
       <div class="inner">
-        <p>Planning ahead for the unexpected may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
-        <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can provide peace of mind and reduce uncertainty for those who care about you.</p>
+        <p>A Will is a legal document that defines the terms for the distribution of your real or personal estate. The Wills Act states that a Testator (the person making the Will) may devise, bequeath, or dispose of their real or personal estate to their loved ones via a Will.
+</p>
+				<a class="read-more" href="">Read more</a>
       </div>
     </div>
   </div>
 	<div class="row">
 		  <div class="col-6 action_b">
       <div class="inner">
-        <p>Planning ahead for the unexpected may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
-        <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can provide peace of mind and reduce uncertainty for those who care about you.</p>
+        <p>Will-writing may feel like a morbid task, but taking ownership of your future is a rewarding feat. Planning beyond your lifetime arms your loved ones with the confidence to move forward upon your demise.<br>
+
+Making a Will can bring about peace of mind and reduce uncertainty for yourself and those who care about you the most.</p>
       </div>
     </div>
     <div class="action_b col-6">
