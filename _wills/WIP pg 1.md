@@ -511,6 +511,12 @@ color: #191919;
 line-height: 52px;
     font-weight: 400;
 }
+	.action3_b p {
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 30px!important;
+    margin-top: 0;
+}
 .action_2 h2,.action_2 h2 strong {
 font-family: Playfair Display;
 font-size: 42px;
