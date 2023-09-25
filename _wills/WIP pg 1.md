@@ -964,8 +964,8 @@ Making a Will can bring about peace of mind<br> and reduce uncertainty for yours
     <div class="row">
         <div class="col-12 action3_b u-align--center">
             <h2>My Legacy Vault</h2>
-            <p>Plan, store and share your legal, healthcare and estate matters securely.</p>
-            <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+            <p>Plan, store and share your legal, healthcare and<br> estate matters securely.</p>
+            <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for<br> secure storage and share them with those you trust.</p>
             <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
         </div>
     </div>
