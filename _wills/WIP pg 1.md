@@ -384,7 +384,7 @@ color : #01436B;
 font-weight: 400;
 }
 .feature_block .inner{
-height: 300px;
+height: 240px;
 width: 100%;
 background-image: linear-gradient(#01436B, #01436B, #085b8e);
 border-radius: 30px;
