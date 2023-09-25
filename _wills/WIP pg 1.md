@@ -638,6 +638,9 @@ description: ""
     font-size: 34px;
     line-height: 44px;
 }
+	.col {
+    padding: 0;
+}
    .action2_b p {
    font-size: 18px;
    line-height: 28px;
@@ -711,6 +714,9 @@ description: ""
    .banner::after {
    left: 0;
    }
+	.col-2,.col-3,.col-4,.col-6,.col-8,.col-10,.col-12
+	padding: 0 25px;
+	}
    .offset-2{
    margin-left: 0;
    }
