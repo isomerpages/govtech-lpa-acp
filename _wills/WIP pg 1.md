@@ -712,7 +712,7 @@ description: ""
    margin-left: 0;
    }
    .col-10 {
-   width: 0;
+   width: 100%;
    }
    .offset-1{
    margin-left: 0;
