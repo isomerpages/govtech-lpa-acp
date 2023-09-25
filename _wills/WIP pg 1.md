@@ -894,7 +894,7 @@ display: inline-block;
     </div>
     <div class="col-6 action_b">
       <div class="inner">
-        <p>A Will is a legal document that defines the terms for the distribution of your real or personal estate. The Wills Act states that a Testator (the person making the Will) may devise, bequeath, or dispose of their real or personal estate to their loved ones via a Will.
+        <p>A Will is a legal document that defines the<br> terms for the distribution of your real or<br> personal estate. The Wills Act states that a<br> Testator (the person making the Will) may<br> devise, bequeath, or dispose of their real or<br> personal estate to their loved ones via a Will.
 </p>
 				<a class="read-more" href="">Read more</a>
       </div>
@@ -903,9 +903,9 @@ display: inline-block;
 	<div class="row">
 		  <div class="col-6 action_b">
       <div class="inner">
-        <p>Will-writing may feel like a morbid task, but taking ownership of your future is a rewarding feat. Planning beyond your lifetime arms your loved ones with the confidence to move forward upon your demise.<br>
+        <p>Will-writing may feel like a morbid task, but <br>taking ownership of your future is a rewarding<br> feat. Planning beyond your lifetime arms your<br> loved ones with the confidence to move<br> forward upon your demise.<br>
 
-Making a Will can bring about peace of mind and reduce uncertainty for yourself and those who care about you the most.</p>
+Making a Will can bring about peace of mind<br> and reduce uncertainty for yourself and those<br> who care about you the most.</p>
       </div>
     </div>
     <div class="action_b col-6">
