@@ -340,6 +340,9 @@ description: ""
     .banner_block img {
     width: 350px;
     }
+	section.bp-section.bottom-navigation {
+    display: none;
+}
     .banner_block {
     display: flex;
     align-items: center;
