@@ -491,11 +491,28 @@ description: ""
    display: flex;
    align-items: center;
    }   
-		section.accordion::after{
-	content: "";
+		section.accordion {
+    position: relative;
+}
+	.about_ac .row:first-child::after {
+    content: "";
     left: 0;
     right: 0;
     bottom: -27px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-image: url(https://i.imgur.com/YMHMsb6.png);
+    height: 200px;
+    width: 300px;
+    margin: 0 auto;
+}
+	section.accordion::after {
+    content: "";
+    left: 0;
+    right: 50px;
+    bottom: -23px;
     position: absolute;
     background-repeat: no-repeat;
     background-size: contain;
@@ -504,10 +521,10 @@ description: ""
     height: 200px;
     width: 300px;
     margin: 0 0 0 auto;
-	}
+}
 	.action_3::after {
     content: "";
-    left: 0;
+    left: 50px;
     right: 0;
     bottom: 12px;
     position: absolute;
@@ -518,6 +535,9 @@ description: ""
     height: 200px;
     width: 300px;
     margin: 0 0 0 0;
+}
+	.about_ac .row:first-child {
+    position: relative;
 }
    .about_bb p, .about_bb li, .about_bb p, .about_bb .inner {
    color: #1A3554;
