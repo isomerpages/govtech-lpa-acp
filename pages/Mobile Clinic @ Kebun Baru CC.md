@@ -545,7 +545,7 @@ description: ""
             <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
             <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider (subject to availability)</a></li>
           </ul>
-          <p>Check out the FAQs if you have queries or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>
+          <p>If you have any queries or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>
 </div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
