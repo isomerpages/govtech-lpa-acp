@@ -725,6 +725,9 @@ description: ""
    section.bp-section .bp-container > .row {
    margin: 0;
    }
+	.action_3::after{
+	display:none;
+	}
    }
    @media(min-width: 767px)and (max-width: 1140px){
    .container {
