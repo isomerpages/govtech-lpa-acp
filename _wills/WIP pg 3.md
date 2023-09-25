@@ -372,7 +372,7 @@ description: ""
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    background-image: url(https://i.imgur.com/Wx846RX.png);
+    background-image: url(https://i.imgur.com/YMHMsb6.png);
     height: 200px;
     width: 300px;
     margin: 0 auto;
@@ -391,6 +391,20 @@ description: ""
     width: 300px;
     margin: 0 0 0 auto;
 	}
+	.action_3::after {
+    content: "";
+    left: 0;
+    right: 0;
+    bottom: 12px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-image: url(https://i.imgur.com/1pbenGx.png);
+    height: 200px;
+    width: 300px;
+    margin: 0 0 0 0;
+}
 	.about_ac .row:first-child {
     position: relative;
 }
