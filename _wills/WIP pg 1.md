@@ -301,6 +301,9 @@ description: ""
      line-height: 75px;
      color: #ECD6C6;
     }
+	section.bp-section.bottom-navigation {
+    display: none;
+}
     .content .action2_b a.read-more {
     margin-top: 0!important;
     font-size: 24px;
