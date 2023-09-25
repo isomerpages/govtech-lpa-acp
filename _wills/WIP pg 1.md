@@ -489,17 +489,17 @@ z-index: 11;
     pointer-events: none;
 }
 section.action_::after {
-content: "";
-position: absolute;
-right: 100px;
-bottom: 30px;
-background-image: url(https://i.imgur.com/BwEg9oQ.png);
-background-repeat: no-repeat;
-background-position: center;
-background-size: contain;
-width: 300px;
-pointer-events: none;
-height: 300px;
+    content: "";
+    position: absolute;
+    right: 50px;
+    bottom: -30px;
+    background-image: url(https://i.imgur.com/DMiuUNg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 300px;
+    pointer-events: none;
+    height: 300px;
 }
 .m-t-30 {
 margin-top: 30px!important;
