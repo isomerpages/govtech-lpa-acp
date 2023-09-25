@@ -903,7 +903,7 @@ display: inline-block;
 <div class="container">
   <div class="row">
     <div class="action_b col-6">
-      <img alt="My Legacy" src="https://i.imgur.com/seA1bcZ.png">
+      <img alt="My Legacy" src="https://i.imgur.com/gdFAwxJ.png">
     </div>
     <div class="col-6 action_b">
       <div class="inner">
@@ -920,7 +920,7 @@ display: inline-block;
       </div>
     </div>
     <div class="action_b col-6">
-      <img alt="My Legacy" src="https://i.imgur.com/seA1bcZ.png">
+      <img alt="My Legacy" src="https://i.imgur.com/ijc2ER4.png">
     </div>
   </div>
 </div>    
