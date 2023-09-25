@@ -513,7 +513,7 @@ color: #07477b;
 .action2_b p {
 font-size: 24px;
 line-height: 37px;
-color: #000;
+color: #07477b;
 margin-top: 30px;
 margin-bottom: 10px;
 }
