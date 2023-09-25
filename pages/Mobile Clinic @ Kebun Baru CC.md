@@ -516,11 +516,12 @@ description: ""
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
               <hr>
 					<h5><strong> Eligibility Criteria: </strong></h5>
- <p>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
-<p>Note:</p>
+ <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
+					<p></p><h5>Note:</h5><p></p>
 					1. One appointment slot per individual<p></p>
 				2. Booking slots are limited <p></p>
-			3. An email and SMS confirmation will be sent for appointment booking 
+					3. An email and SMS confirmation will be sent for successful booking <p></p>
+					4. Slots are on a booking basis and no walk-ins are allowed<p></p>
 			<p></p>
             <p> Slots are on booking basis and no walk-ins are allowed.  </p>
             <p><strong>Booking slots will open on 1 October 2023</strong></p>
