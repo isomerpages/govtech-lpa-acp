@@ -712,9 +712,9 @@ description: ""
     margin-left: 12.5%;
     }
     @media(max-width: 767px){
-    .banner::after {
-    left: 0;
-    }
+     .col-2,.col-3,.col-4,.col-6,.col-8,.col-10,.col-12{
+     padding: 0 25px;
+     }
     .offset-2{
     margin-left: 0;
     }
