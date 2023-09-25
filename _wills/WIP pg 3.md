@@ -372,11 +372,25 @@ description: ""
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    background-image: url(https://i.imgur.com/YzqmSE5.png);
+    background-image: url(https://i.imgur.com/Wx846RX.png);
     height: 200px;
     width: 300px;
     margin: 0 auto;
 }
+	section.accordion::after{
+	content: "";
+    left: 0;
+    right: 0;
+    bottom: -27px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-image: url(https://i.imgur.com/Wx846RX.png);
+    height: 200px;
+    width: 300px;
+    margin: 0 0 0 auto;
+	}
 	.about_ac .row:first-child {
     position: relative;
 }
