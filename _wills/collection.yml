@@ -2,4 +2,5 @@ collections:
   wills:
     output: true
     order:
+      - WIP pg 2.md
       - WIP pg 1.md
