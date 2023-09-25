@@ -874,7 +874,7 @@ display: inline-block;
 </div>
 	<div class="row m-t-30">
 	<div class="col-8 feature_video offset-2">
-		<img src="https://place-hold.it/1000x500/ddd">
+		<img style="border-radius: 30px" src="https://place-hold.it/1000x500/ddd">
 	</div>
 	</div>
 </div> 
