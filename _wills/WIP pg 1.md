@@ -292,14 +292,17 @@ font-size: 22px;
     display: inline-block;
     position: relative;
 }
-	.banner h2 {
+	.banner h2,.banner h2 span {
     margin: 0;
     text-align: left;
     font-family: 'Playfair Display';
     font-style: italic;
-    font-size: 50px;
+    font-size: 53px;
     line-height: 60px;
     color: #ECD6C6;
+}
+	.banner h2 span {
+    margin-left: 60px;
 }
 	.banner h3 {
     text-align: left;
