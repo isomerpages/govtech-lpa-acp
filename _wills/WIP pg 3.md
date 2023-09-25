@@ -225,6 +225,13 @@ width: 100%;
 section.bp-section.is-small.bp-section-pagetitle {
     display: none;
 }
+	 .col.is-2.is-position-relative.has-side-nav {
+    display: none;
+    }	
+    .col.is-8.is-offset-1-desktop.is-12-touch.print-content {
+    margin-left: 0;
+    width: 100%;
+    }	
     .about_a_b img {
     width: 460px;
 }
