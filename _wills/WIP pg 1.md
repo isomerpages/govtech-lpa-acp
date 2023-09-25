@@ -310,7 +310,7 @@ font-size: 22px;
 }
 .banner::after {
 content: "";
-background-image: url(https://i.imgur.com/uRpPH5O.png);
+background-image: url(https://i.imgur.com/bRP0oEa.png);
   background-position: bottom right;
 background-repeat: no-repeat;
 background-size: contain;
@@ -912,10 +912,16 @@ display: inline-block;
       </div>
     </div>
   </div>
-  <div style="margin-top:60px;" class="row">
-    <div class="col-12 action_bb u-align--center">
-        <h2>Leave a <strong><i>legacy of love</i></strong> and certainty for<br> the people who matter most to you. <br><a target="_blank" href="/i-am-unsure-how-to-begin/">Here are some ways to get started.</a></h2>
-         </div>
+	<div class="row">
+		  <div class="col-6 action_b">
+      <div class="inner">
+        <p>Planning ahead for the unexpected may feel overwhelming and even a bit scary, but taking control of your future and making your wishes known can be one of the most empowering and compassionate decisions you'll ever make – not only for yourself but also for your loved ones.</p>
+        <p>Making a <strong>Lasting Power of Attorney</strong> (LPA) and an <strong>Advance Care Plan</strong> (ACP) can provide peace of mind and reduce uncertainty for those who care about you.</p>
+      </div>
+    </div>
+    <div class="action_b col-6">
+      <img alt="My Legacy" src="https://i.imgur.com/seA1bcZ.png">
+    </div>
   </div>
 </div>    
 </section>
