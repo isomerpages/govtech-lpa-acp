@@ -908,7 +908,7 @@ display: inline-block;
 	<div class="row">
 		  <div class="col-6 action_b">
       <div class="inner">
-        <p>Will-writing may feel like a morbid task, but <br>taking ownership of your future is a rewarding<br> feat. Planning beyond your lifetime arms your<br> loved ones with the confidence to move<br> forward upon your demise.<br>
+        <p>Will-writing may feel like a morbid task, but <br>taking ownership of your future is a rewarding<br> feat. Planning beyond your lifetime arms your<br> loved ones with the confidence to move<br> forward upon your demise.<br><br>
 
 Making a Will can bring about peace of mind<br> and reduce uncertainty for yourself and those<br> who care about you the most.</p>
       </div>
