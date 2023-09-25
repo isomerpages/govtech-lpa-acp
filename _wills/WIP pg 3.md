@@ -213,6 +213,16 @@ description: ""
    section.bp-section .bp-container {
    padding-bottom: 0!important;
    }
+	.col.is-2.is-position-relative.has-side-nav {
+    display: none;
+}
+	.col.is-1.has-float-btns.is-position-relative {
+    display: none;
+}
+	.col.is-8.is-offset-1-desktop {
+    margin-left: 0;
+    width: 100%;
+}
    .accordion ul .inner span {
    margin-right: 15px;
    }   
