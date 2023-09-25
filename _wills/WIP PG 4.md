@@ -491,6 +491,20 @@ description: ""
    display: flex;
    align-items: center;
    }   
+		section.accordion::after{
+	content: "";
+    left: 0;
+    right: 0;
+    bottom: -27px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-image: url(https://i.imgur.com/YzqmSE5.png);
+    height: 200px;
+    width: 300px;
+    margin: 0 0 0 auto;
+	}
    .about_bb p, .about_bb li, .about_bb p, .about_bb .inner {
    color: #1A3554;
    font-size: 18px;
