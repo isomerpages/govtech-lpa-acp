@@ -354,7 +354,8 @@ description: ""
     }
     .p-navigation [class*=p-navigation__item].is-selected > .p-navigation__link {
     color: #01436b;
-    }.p-navigation__items {
+    }
+    .p-navigation__items {
     margin-top: 4px;
     }
     section.feature{
@@ -714,9 +715,6 @@ description: ""
     .banner::after {
     left: 0;
     }
-     .col-2,.col-3,.col-4,.col-6,.col-8,.col-10,.col-12{
-     padding: 0 25px;
-     }
     .offset-2{
     margin-left: 0;
     }
