@@ -279,9 +279,9 @@ ul.social-share.p-inline-list li.list__item a {
 color: #00477e;
 font-size: 22px;
 }
-.banner{
-height:520px;
-background-color: #DACBBC;
+.banner {
+    height: 520px;
+    background-color: #01436B;
     display: inline-block;
     position: relative;
 }
@@ -363,7 +363,7 @@ font-weight: 400;
 .feature_block .inner{
 height: 300px;
 width: 100%;
-background-image: linear-gradient(#2793AC, #2793AC, #2793AC);
+background-image: linear-gradient(#01436B, #01436B, #085b8e);
 border-radius: 30px;
 box-shadow: 0 0px 5px 0 rgba(0,0,0,0.4);
 padding: 30px;
@@ -784,10 +784,7 @@ display: inline-block;
   <div class="row">
     <div class="col-6 banner_block">
      <div class="inner u-align--center">
-        <div class="image">
-          <img alt="My Legacy" src="https://i.imgur.com/AOjOQMn.png">
-        </div>
-        <a class="p-button btn" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Make your LPA and ACP today</a>
+			 <h3></h3>
      </div>
     </div>
   </div>
@@ -847,7 +844,7 @@ display: inline-block;
 
 <div class="feature_block col-3">
 
-<div style="background: linear-gradient(#325647, #325647, #325647);" class="inner">
+<div style="background: linear-gradient(#772C33, #772C33, #772C33);" class="inner">
 
 <h3>I’m ready to get started on my LPA and ACP</h3>
 
