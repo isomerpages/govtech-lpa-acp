@@ -263,6 +263,13 @@ PADDING: 0 15px;
 width: 100%;
 PADDING: 0 15px;
 }
+	    .col-10 {
+width: 83.33%;
+PADDING: 0 15px;
+}
+	.offset-1{
+	margin-left: 8.33%;
+	}
 header#navigation.full-width .row {
 max-width: 100%;
 }
@@ -680,6 +687,12 @@ left: 0;
 	.offset-2{
 	margin-left: 0;
 	}
+		    .col-10 {
+width: 0;
+}
+	.offset-1{
+	margin-left: 0;
+	}
     .feature_block .inner {
     padding: 20px;
     padding-right: 80px;
@@ -822,7 +835,8 @@ display: inline-block;
 </div>
 
 <div class="row">
-
+<div class="col-10  offset-1">
+	<div class="row">
 <div class="feature_block col-3 red">
 
 <div class="inner">
@@ -870,11 +884,13 @@ display: inline-block;
 </div>
 
 </div>
+		</div>
+</div>
 
 </div>
 	<div class="row m-t-30">
-	<div class="col-12 feature_video">
-		<img style="border-radius: 30px" src="https://place-hold.it/1000x400/ddd">
+	<div class="col-10  offset-1 feature_video">
+		<img style="border-radius: 30px" src="https://place-hold.it/1000x500/ddd">
 	</div>
 	</div>
 </div> 
