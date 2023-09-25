@@ -511,6 +511,11 @@ color: #191919;
 line-height: 52px;
     font-weight: 400;
 }
+	.action3_b a.p-button.btn {
+    padding: 10px 30px;
+    margin-top: 20px;
+    display: inline-block;
+}
 	.action3_b p {
     font-size: 24px;
     color: #000;
