@@ -919,8 +919,8 @@ Making a Will can bring about peace of mind and reduce uncertainty for yourself 
 <div class="container action_2">
     <div class="row">
         <div class="col-8 action2_b">
-            <h2>We understand that planning ahead for the unexpected is hard to talk about. <strong><i>You are not alone</i></strong>.</h2>
-            <p>The first step in engaging family members on the<br> topic is to start talking deeply together, even beyond<br> estate planning. Here are some ways you can<br> <a class="read-more" target="_blank" href="/how-do-i-speak-to-my-family-about-this/">start conversations with your family.</a></p>
+            <h2>We understand that legacy<br> planning is hard to talk about.<br><strong><i>You are not alone</i></strong>.</h2>
+            <p>The first step in engaging family members on<br>the topic is to start having open and meaningful<br> discussions together, even beyond estate<br> planning. Here are some ways you can <br> <a class="read-more" target="_blank" href="/how-do-i-speak-to-my-family-about-this/">start conversations with your family.</a></p>
         </div>
     </div>
         <div class="row p-t-80 action__5">
