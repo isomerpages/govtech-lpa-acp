@@ -285,6 +285,19 @@ font-size: 22px;
     display: inline-block;
     position: relative;
 }
+	.banner h2 {
+    margin: 0;
+    text-align: left;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-size: 50px;
+    line-height: 60px;
+    color: #ECD6C6;
+}
+	.banner h3 {
+    text-align: left;
+    color: #ECD6C6;
+}
 .banner::after {
 content: "";
 background-image: url(https://i.imgur.com/68063fG.png);
@@ -786,7 +799,7 @@ display: inline-block;
      <div class="inner u-align--center">
 			 <h3>Write a Will and </h3>
 			 <h2>Enhance The <br>
-               Gift of Certainty</h2>
+				 <span>Gift of Certainty</span></h2>
      </div>
     </div>
   </div>
