@@ -716,213 +716,62 @@ description: ""
             <ul class="accordion">
                <li>
                   <label for="accordion_1">
-                     <input class="toggle" id="accordion_1" name="accordion" type="radio">Making a Lasting Power of Attorney (LPA)
-                     <div class="inner">
-                        <ul>
-                           <li>Choose your Donee (you can have up to two) and identify a Replacement Donee in case the primary donee is unable to fulfill the duties.</li>
-                           <li>Fill in the online LPA forms at <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/pre-form/">My Legacy</a>. </li>
-                           <li>
-                              Find an <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a> to certify your LPA when all your Donee(s) and Replacement Donee (if any) have accepted their appointment.
-                              <ul>
-                                 <li> Your Donee(s) and Replacement Donee (if any) can log in to <a target="_blank" href="https://opg-eservice.msf.gov.sg/">OPG Online (OPGO) portal</a> using Singpass to accept their appointment as a Donee in your LPA.</li>
-                                 <li>Visit the Certificate Issuer of your choice to certify your LPA. </li>
-                                 <li>You (the ‘Donor’) and the LPA Certificate Issuer will need to digitally sign on the LPA using your Singpass app. </li>
-                                 <li>In order for your LPA to be legally valid, the Certificate Issuer must submit the LPA to the Office of the Public Guardian (OPG) for registration via OPGO, as authorised by you.</li>
-                              </ul>
-                           </li>
-                           <li>
-                              <strong>LPA Form 1</strong>
-                              <p>Grants general powers to Donee(s) who will make decisions on your behalf when you lose mental capacity.</p>
-                           </li>
-                           <li>
-                              <strong>LPA Form 2</strong>
-                              <p>For Donors who want to:</p>
-                              <ul>
-                                 <li>Appoint more than 2 Donees and/or more than 1 Replacement Donee</li>
-                                 <li>Grant specific or customised powers that are outside the scope of LPA Form 1 to their Donee(s)</li>
-                              </ul>
-                              <br>
-                              <p>You will have to engage a lawyer for LPA Form 2 as it must be drafted by a lawyer. 
-                                 After you accept the lawyer’s draft, the LPA must be sent to the Donee(s) and Replacement Donee for acceptance, before you visit the Certificate Issuer as per the flow of LPA Form 1.
-                              </p>
-                           </li>
-                        </ul>
-                        <div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
-                     </div>
+                     <input class="toggle" id="accordion_1" name="accordion" type="radio">Testator
+                     <div class="inner"> </div>
                   </label>
                </li>
                <li>
                   <label for="accordion_2">
-                     <input class="toggle" id="accordion_2" name="accordion" type="radio">Making an Advance Care Plan (ACP)
-                     <div class="inner">
-                        <ul>
-                           <li>Before filling out any forms, it’s important that you speak to your loved ones and caregivers about your personal care preferences. Ensure that they are aligned with your values and beliefs before proceeding with the application.</li>
-                           <li>Choose your nominated healthcare spokesperson. You may appoint up to 2 persons.</li>
-                           <li>Prepare your <a target="_blank" href="https://mylegacy.life.gov.sg/lpa-acp-tool/acp/">ACP online</a>. </li>
-                           <li>
-                              Find a <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">certified ACP facilitator</a> to discuss and submit your ACP to the National Electronic Healthcare Records (NEHR) System.<br>
-                              <ul>
-                                 <li>After completing your form with the ACP facilitator, both you and your healthcare spokesperson(s) will need to sign the completed form as acknowledgment. </li>
-                                 <li>Your ACP will then be available on the NEHR. This allows your healthcare team to easily access and refer to your ACP.</li>
-                                 <li>You may also wish to upload a soft copy of your completed ACP form in the <a target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for your own records and to share them with your Trusted Persons.</li>
-                              </ul>
-                           </li>
-                        </ul>
-                        <div style="margin-top: 30px;padding:56.25% 0 0 0;position:relative;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846847338?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
+                     <input class="toggle" id="accordion_2" name="accordion" type="radio">Executor
+                     <div class="inner"> 
                      </div>
                   </label>
                </li>
                <li>
                   <label for="accordion_3">
-                     <input class="toggle" id="accordion_3" name="accordion" type="radio">What happens if I don’t have an LPA and ACP in place when I lose my capacity to make decisions?
-                     <div class="inner">
-                        <ul>
-                           <li>
-                              <strong>LPA</strong>
-                              <p>Without an LPA, your family members or loved ones would need to apply to the Court to become your Deputy in order to make decisions for you. This can be a lengthy, costly, and risky process as the Court may not appoint your ideal person to make decisions on your behalf. More information on deputyship application can be found <a target="_blank" href="https://judiciary.gov.sg/family/deputyship">here</a>. </p>
-                           </li>
-                           <li>
-                              <strong>ACP</strong>
-                              <ul>
-                                 <li>Without an ACP, your loved ones may not know your wishes or healthcare preferences regarding your <a target="_blank" href="https://mylegacy.life.gov.sg/end-of-life-planning/what-is-palliative-care/">palliative care</a> or medical treatment, should you lose the mental capacity to communicate.</li>
-                                 <li>It can be stressful for your loved ones to predict what kind of treatment you may want. Differing views may arise which can sometimes cause disputes amongst family members.</li>
-                                 <li>In some cases, healthcare providers may make decisions on your behalf based on their professional judgement and any available information about your medical history.</li>
-                              </ul>
-                           </li>
-                        </ul>
-                     </div>
+                     <input class="toggle" id="accordion_3" name="accordion" type="radio">Beneficiaries
+                     <div class="inner"></div>
                   </label>
                </li>
                <li>
                   <label for="accordion_4">
-                     <input class="toggle" id="accordion_4" name="accordion" type="radio">What is the difference between an LPA and an ACP?
-                     <div class="inner">
-                        <p>The LPA is a legal document that allows you to appoint trusted person(s) to look after your personal welfare and/or financial decisions on your behalf if you lack the mental capacity to decide for yourself.</p>
-                        <p>The ACP helps you discuss and document matters related to your healthcare. It is not a legal document.</p>
-                     </div>
+                     <input class="toggle" id="accordion_4" name="accordion" type="radio">Witnesses
+                     <div class="inner"></div>
                   </label>
                </li>
                <li>
                   <label for="accordion_5">
-                     <input class="toggle" id="accordion_5" name="accordion" type="radio">Who can I appoint as my LPA Donee(s)?
-                     <div class="inner">
-                        <ul>
-                           <li>
-                              Your Donee must be 21 years of age or older. They could be:
-                              <ul>
-                                 <li>Your spouse or partner</li>
-                                 <li>A family member or relative</li>
-                                 <li>A friend</li>
-                                 <li>A licensed trust company for property and affairs matters only (applicable for LPA Form 2)</li>
-                                 <li>A Professional Donee who is registered as a Professional Deputy with the Office of the Public Guardian.</li>
-                              </ul>
-                           </li>
-                           <li>It’s important that your Donee is someone you trust and they are not bankrupt if you wish to grant them powers to manage your property and affairs.</li>
-                           <li>
-                              If you’re appointing more than one person to be your Donee(s), you must decide whether they will make decisions:
-                              <ul>
-                                 <li>Jointly – the Donee(s) have to act together and agree on all decisions.</li>
-                                 <li>Jointly and severally – the Donee(s) can make the decisions together or separately.</li>
-                              </ul>
-                           </li>
-                           <li>You can also choose to let your Donee(s) make some decisions ‘jointly’, and others ‘jointly and severally’.</li>
-                           <li>When you make your LPA, you can nominate another trusted person as your Replacement Donee. The Replacement Donee will replace your appointed Donee(s) when they are unable to act on your behalf anymore.
-                           </li>
-                        </ul>
-                     </div>
+                     <input class="toggle" id="accordion_5" name="accordion" type="radio">Guardian
+                     <div class="inner"> </div>
                   </label>
                </li>
                <li>
                   <label for="accordion_6">
-                     <input class="toggle" id="accordion_6" name="accordion" type="radio">Who can I choose as my ACP’s nominated healthcare spokesperson(s)?
-                     <div class="inner">
-                        <ul class="circle">
-                           <li>
-                              Your nominated healthcare spokesperson should be 21 years of age or older. They could be:
-                              <ul>
-                                 <li>Your spouse or partner</li>
-                                 <li>A family member or relative</li>
-                                 <li>A friend</li>
-                              </ul>
-                           </li>
-                           <li>It’s important that your nominated healthcare spokesperson has the mental capacity and maturity to represent and articulate your care preferences.</li>
-                           <li>
-                              If you’re appointing more than one person to be your healthcare spokespersons, they should all:
-                              <ul>
-                                 <li>Know your care wishes very well</li>
-                                 <li>Agree on what your care preferences are</li>
-                              </ul>
-                           </li>
-                        </ul>
-                     </div>
+                     <input class="toggle" id="accordion_6" name="accordion" type="radio">Estate
+                     <div class="inner"></div>
                   </label>
                </li>
                <li>
                   <label for="accordion_7">
-                     <input class="toggle" id="accordion_7" name="accordion" type="radio">Is it expensive to make an LPA and ACP?
-                     <div class="inner">
-                        <h5>Lasting Power of Attorney (LPA) Fees</h5>
-                        <h6><strong>Table 1: Application Fees</strong></h6>
-                        <table>
-                           <tbody>
-                              <tr>
-                                 <th></th>
-                                 <th style="text-align:center">LPA Form 1 Fee<br> (inc. GST)</th>
-                                 <th style="text-align:center">LPA Form 2 Fee<br> (inc. GST)</th>
-                              </tr>
-                              <tr>
-                                 <td>Singapore Citizens</td>
-                                 <td style="text-align:center">$0<br>(fee of $75 waived until <br>31 march 2026)</td>
-                                 <td style="text-align:center">$0</td>
-                              </tr>
-                              <tr>
-                                 <td>Singapore Permanent<br> Residents</td>
-                                 <td style="text-align:center">$100</td>
-                                 <td style="text-align:center">$250</td>
-                              </tr>
-                              <tr>
-                                 <td>Foreigners</td>
-                                 <td style="text-align:center">$250</td>
-                                 <td style="text-align:center">$300</td>
-                              </tr>
-                           </tbody>
-                        </table>
-                        <h6><strong>Table 2: Cancellation Fees</strong></h6>
-                        <table>
-                           <tbody>
-                              <tr>
-                                 <th></th>
-                                 <th style="text-align:center">Fee (inc. GST)</th>
-                              </tr>
-                              <tr>
-                                 <td>Cancellation of registration of an LPA</td>
-                                 <td style="text-align:center">$30</td>
-                              </tr>
-                           </tbody>
-                        </table>
-                        <p>Payment can be made on <a target="_blank" href="https://opg-eservice.msf.gov.sg">OPG Online (OPGO)</a>.<br><i><small>*Note: Cheque collection has ceased.</small></i></p>
-                        <p>There is also a fee to engage an accredited medical practitioner, psychiatrist or lawyer to certify your LPA. More information on certification fees can be found <a target="_blank" href="https://www.msf.gov.sg/what-we-do/opg/lasting-power-of-attorney/where-to-find-a-certificate-issuer">here</a>.</p>
-                        <p>As of Jan 2023, the majority of the top 10 most visited accredited medical practitioners charged $59 or less.</p>
-                        <h5>Cost of ACP</h5>
-                        <p>There is no charge for completing the ACP with trained facilitators from <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">government-appointed providers</a> across Singapore. </p>
-                        <p>However, some organisations may charge a nominal fee for doing an ACP. Please kindly check in with the respective organisations on the fees.
-                        </p>
-                     </div>
+                     <input class="toggle" id="accordion_7" name="accordion" type="radio">Residual Estate
+                     <div class="inner"></div>
                   </label>
                </li>
                <li>
                   <label for="accordion_8">
-                     <input class="toggle" id="accordion_8" name="accordion" type="radio">I am concerned about the legal process
-                     <div class="inner">
-                        <p>
-                           The ACP is not a legal document and you do not need a lawyer to help you make one. You will only need to engage a lawyer if you wish to make an LPA Form 2.
-                        </p>
-                     </div>
+                     <input class="toggle" id="accordion_8" name="accordion" type="radio">Gifts
+                     <div class="inner"></div>
                   </label>
                </li>
             </ul>
          </div>
-      </div>
+		 </div>
+		 <div class="row">
+		 <div class="col-12">
+					<p>Have more questions? <a class="read-more" href="#">Seek professional legal advice.</a><br>
+Try our <a class="read-more" href="#">Wills Simulator.</a></p>
+				</div>
+		 </div>
    </div>
 </section>
 <section style="padding-top: 90px; padding-bottom: 90px" class="action_3">
