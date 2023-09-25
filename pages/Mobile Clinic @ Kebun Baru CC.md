@@ -510,17 +510,22 @@ description: ""
         <div class="play_today">
           <h3>Mobile Clinic @ Kebun Baru</h3>
             <ul>
-              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Centre</span></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Club</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>21-22 October 2023</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
               <hr>
-					<h5><strong> Mobile Clinics: </strong></h5>
+					<h5><strong> Eligibility Criteria: </strong></h5>
+<p>Note:</p>
+					1. One appointment slot per individual<p></p>
+				2. Booking slots are limited <p></p>
+			3. An email and SMS confirmation will be sent for appointment booking 
+			<p></p>
             <p>The mobile clinics for free LPA certification and ACP facilitation sessions have limited slots available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
-            <p> Slots are on booking basis and no walk-ins are allowed.</p>
-            <p><strong>Booking slots will open on 1st October 2023</strong></p>
+            <p> Slots are on booking basis and no walk-ins are allowed.  </p>
+            <p><strong>Booking slots will open on 1 October 2023</strong></p>
 					<div class="box">
-					<p> <strong> Documents required: </strong></p>
+					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
               <li> NRIC and CHAS card </li>
 							<li><strong>For LPA:</strong>
@@ -539,13 +544,13 @@ description: ""
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
               <hr>
-					<p>If you would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator</p>
+					<p>If you are unable to secure a booking slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator (Do check out the charges and availability of your preferred service provider before heading down)</p>
           <ul style="padding-left: 30px; list-style: disc;">
             <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
             <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
-            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider (subject to availability)</a></li>
+            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider</a></li>
           </ul>
-          <p>If you have any queries or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>
+          <p>If you have any queries or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
 </div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
