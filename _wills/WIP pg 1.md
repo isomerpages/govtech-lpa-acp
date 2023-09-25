@@ -506,9 +506,11 @@ line-height: 52px;
 color: #07477b;
     font-weight: 400;
 }
-	.action_2 h2 strong {
+.action_2 h2 strong i {
     font-weight: 800;
     font-style: italic;
+    margin-top: 10px;
+    display: inline-block;
 }
 .action2_b p {
 font-size: 24px;
