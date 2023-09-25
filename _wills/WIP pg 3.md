@@ -672,29 +672,30 @@ description: ""
       <div class="row p-t-80 p-b-80">
          <div class="col-6 about_a_b">
             <div class="inner">
-               <h2>Unsure how to begin?<br>Get started with ease</h2>
-               <p>Getting your affairs in order may feel intimidating, especially when it seems like there’s so much to do. It’s not difficult to begin once you’re armed with the right tools.</p>
+               <h2>Writing a Will<br> isn’t just about<br> yourself.</h2>
+               <p>Taking charge of your and your loved ones’ <br>futures through legacy planning is an<br> empowering act for all parties involved. A<br> Will lets you decide who gets what when<br> you pass on, legally enforcing your wishes<br> and distribution of assets to your<br> beneficiaries of choice.</p>
             </div>
          </div>
          <div class="col-6 about_a_b">
             <img alt="My Legacy" src="https://i.imgur.com/mlDIwVj.png">
          </div>
       </div>
+		 <div class="row p-t-80 p-b-80">
+         <div class="col-12 about_a_b">
+            <div class="inner">
+               <h2>Planning ahead</h2>
+               <p>Having a Will means entrusting someone to handle your affairs upon death. It also determines<br> things like who will care for your children and parents when you pass away. You can pick out<br> any of your loved ones as an executor, beneficiary, or guardian – that means a best friend, a<br> sibling, or anyone you trust to do the </p>
+            </div>
+         </div>
+      </div>
       <div class="row p-b-80">
          <div class="col-6 about_a_b">
-            <img alt="My Legacy" src="https://i.imgur.com/sjHBJYf.png">
-         </div>
-         <div class="col-6 about_a_b">
             <div class="inner">
-               <h2>Enjoy peace of mind</h2>
-               <p>If you’re overwhelmed, fret not. Check out the following guides to learn more about the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), and how you can get started:
-               </p>
-               <ul>
-                  <li><a target="_blank" href="https://plantoday.sg/lpa_infographic_2022.pdf">Guide to making an LPA</a></li>
-                  <li><a target="_blank" href="https://www.aic.sg/resources/Documents/Brochures/ACP%20Publications/Infosheet/ACP%20InfoSheet-EN.pdf">Guide to Making an ACP</a></li>
-               </ul>
-               <p>Or complete the <a target="_blank" href="https://plantoday.sg/acp-checklist.pdf">ACP Readiness Checklist</a> to decide whether you’re ready to begin your ACP journey.</p>
+							<p>A Will is also a way to reduce confusion<br> between your surviving loved ones.<br> This prevents the possibility of<br> complicated legal battles and tension<br> among family members. When your Will<br> is in place, they won’t have to spend so<br> much money on legal fees, and the Will<br> can be executed immediately.</p>
             </div>
+         </div>
+				<div class="col-6 about_a_b">
+            <img alt="My Legacy" src="https://i.imgur.com/sjHBJYf.png">
          </div>
       </div>
       <div style="position: relative;" class="row">
