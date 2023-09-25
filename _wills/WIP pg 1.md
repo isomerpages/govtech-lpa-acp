@@ -628,13 +628,16 @@ description: ""
    .banner {
    background-size: 163% 55%;
    height: 460px;
-   background-color: #D6C4AF;
    background-position: 100% 100%;
    }
    .action_2 h2,.action_2 h2 strong {
    font-size: 25px;
    line-height: 36px;
    }
+	.banner h2, .banner h2 span {
+    font-size: 34px;
+    line-height: 44px;
+}
    .action2_b p {
    font-size: 18px;
    line-height: 28px;
