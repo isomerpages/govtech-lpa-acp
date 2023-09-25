@@ -499,6 +499,9 @@ description: ""
    ul.accordion input.toggle:checked + .inner::after {
    content: "-";
    }
+	.accordionBottom p{
+	font-size:20px
+	}
    ul.accordion input.toggle:checked + .inner {
    height: auto;
    padding: 45px;
@@ -767,7 +770,7 @@ description: ""
          </div>
 		 </div>
 		 <div class="row">
-		 <div class="col-12">
+		 <div class="col-12 accordionBottom">
 					<p>Have more questions? <a class="read-more" href="#">Seek professional legal advice.</a><br>
 Try our <a class="read-more" href="#">Wills Simulator.</a></p>
 				</div>
