@@ -532,6 +532,13 @@ color: #01436b;
 margin-bottom: 30px;
 font-weight:400;
 }
+	.content a.read-more {
+    font-size: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 0;
+}
 a.p-button.btn {
 padding: 10px 30px;
 }
