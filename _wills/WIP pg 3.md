@@ -695,7 +695,7 @@ description: ""
             </div>
          </div>
 				<div class="col-6 about_a_b">
-            <img alt="My Legacy" src="https://i.imgur.com/sjHBJYf.png">
+            <img alt="My Legacy" src="https://i.imgur.com/2B21PE6.png">
          </div>
       </div>
       <div style="position: relative;" class="row">
