@@ -355,8 +355,8 @@ description: ""
     font-family: 'Playfair Display';
     font-style: italic;
     font-weight: 400;
-    font-size: 60px;
-    line-height: 75px;
+    font-size: 50px;
+    line-height: 65px;
 }
    .heading h3 {
    margin-bottom: 30px;
