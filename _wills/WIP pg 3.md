@@ -682,7 +682,7 @@ description: ""
             <img alt="My Legacy" src="https://i.imgur.com/mlDIwVj.png">
          </div>
       </div>
-		 <div class="row p-t-80 p-b-80">
+		 <div class="row p-b-80">
          <div class="col-12 about_a_b">
             <div class="inner">
                <h2>Planning ahead</h2>
