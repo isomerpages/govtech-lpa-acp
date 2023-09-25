@@ -784,7 +784,9 @@ display: inline-block;
   <div class="row">
     <div class="col-6 banner_block">
      <div class="inner u-align--center">
-			 <h3></h3>
+			 <h3>Write a Will and </h3>
+			 <h2>Enhance The <br>
+               Gift of Certainty</h2>
      </div>
     </div>
   </div>
@@ -860,40 +862,6 @@ display: inline-block;
 	<div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846846114?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
 	</div>
 	</div>
-<div class="row m-t-30">
-	<div class="col-8 offset-2">
-		<div class="row">
-<div class="feature_video col-6">
-<div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846883739?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait="></iframe></div>
-<div class="content_">
-
-<h3>Lasting Power of Attorney</h3>
-
-<p>A Lasting Power of Attorney (LPA) allows you to appoint a trusted individual(s) to make decisions on your behalf when you lose mental capacity.</p>
-
-<a class="read_more" target="_blank" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney/">Read More</a>
-
-</div>
-
-</div>
-
-<div class="feature_video col-6">
-	<div style="padding:56.25% 0 0 0;position:relative;border-radius:30px;overflow: hidden;"><iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://player.vimeo.com/video/846847338?h=ebfb1fec02&amp;title=0&amp;byline=0&amp;portrait=0"></iframe></div>
-<div class="content_">
-
-<h3>Advance Care Plan</h3>
-
-<p>An Advance Care Plan (ACP) outlines your healthcare preferences when you are no longer able to express them yourself.</p>
-
-<a class="read_more" target="_blank" href="https://mylegacy.life.gov.sg/end-of-life-planning/make-an-advance-care-plan/">Read More</a>
-
-</div>
-
-</div>
-</div>
-	</div>
-</div>
-
 </div> 
 </section>
 
