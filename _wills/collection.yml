@@ -2,5 +2,4 @@ collections:
   wills:
     output: true
     order:
-      - Wills (Homepage).md
       - I Have Further Concerns.md
