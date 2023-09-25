@@ -523,7 +523,6 @@ description: ""
 					3. An email and SMS confirmation will be sent for successful booking <p></p>
 					4. Slots are on a booking basis and no walk-ins are allowed<p></p>
 			<p></p>
-            <p> Slots are on booking basis and no walk-ins are allowed.  </p>
             <p><strong>Booking slots will open on 1 October 2023</strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
