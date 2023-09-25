@@ -292,15 +292,15 @@ description: ""
    display: inline-block;
    position: relative;
    }
-   .banner h2,.banner h2 span {
-   margin: 0;
-   text-align: left;
-   font-family: 'Playfair Display';
-   font-style: italic;
-   font-size: 53px;
-   line-height: 60px;
-   color: #ECD6C6;
-   }
+   .banner h2, .banner h2 span {
+    margin: 0;
+    text-align: left;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-size: 65px;
+    line-height: 75px;
+    color: #ECD6C6;
+}
    .content .action2_b a.read-more {
    margin-top: 0!important;
    font-size: 24px;
