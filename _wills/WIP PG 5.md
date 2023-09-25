@@ -756,7 +756,7 @@ description: ""
 		 </div>
 		 <div class="row p-b-80">
 			 <div class="col-6 about_a_b">
-            <img alt="My Legacy" src="https://i.imgur.com/mlDIwVj.png">
+            <img alt="My Legacy" src="https://i.imgur.com/A0Qn6OB.png">
          </div>
          <div class="col-6 about_a_b">
             <div class="inner">
