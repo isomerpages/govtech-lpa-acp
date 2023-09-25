@@ -2,6 +2,5 @@ collections:
   wills:
     output: true
     order:
-      - Why Should I Write A Will?.md
       - Wills (Homepage).md
       - I Have Further Concerns.md
