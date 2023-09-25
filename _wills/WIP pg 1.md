@@ -799,8 +799,7 @@ display: inline-block;
 <div class="row">
 
 <div style="margin-bottom: 60px" class="heading u-align--center col-12">
-
-<h2>When creating a Lasting Power of Attorney (LPA) &amp; Advance Care Plan (ACP), <br><strong>how would you describe your situation?</strong></h2>
+	<h2><strong>When it comes to making your will,</strong><br>how would you describe your situation?</h2>
 
 </div>
 
@@ -812,7 +811,7 @@ display: inline-block;
 
 <div class="inner">
 
-<h3>I’m unsure how to begin</h3>
+<h3>Why should I<br> write a will?</h3>
 
 <a href="/i-am-unsure-how-to-begin/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
@@ -824,7 +823,7 @@ display: inline-block;
 
 <div class="inner">
 
-<h3>I would like to speak to my family first</h3>
+<h3>I’m unsure<br> about the<br> process</h3>
 
 <a href="/how-do-i-speak-to-my-family-about-this/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
@@ -836,7 +835,7 @@ display: inline-block;
 
 <div class="inner">
 
-<h3>I have further concerns</h3>
+<h3>I have further<br> concerns</h3>
 
 <a href="/i-have-further-concerns/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
@@ -848,7 +847,7 @@ display: inline-block;
 
 <div style="background: linear-gradient(#772C33, #772C33, #772C33);" class="inner">
 
-<h3>I’m ready to get started on my LPA and ACP</h3>
+<h3>I want to try the <br>Wills Simulator</h3>
 
 <a href="https://go.gov.sg/mylegacy-lpa-acp"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
