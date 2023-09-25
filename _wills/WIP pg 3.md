@@ -320,6 +320,17 @@ description: ""
    color: #1A3554;
    font-size: 18px;
    }
+	 .action3_b a.p-button.btn {
+    padding: 10px 30px;
+    margin-top: 20px;
+    display: inline-block;
+    }
+    .action3_b p {
+    font-size: 24px;
+    color: #000;
+    margin-bottom: 30px!important;
+    margin-top: 0;
+    }
    .faq_sect h2 {
    color: #1A3554;
    font-family: 'Playfair Display'!important;
@@ -923,13 +934,15 @@ description: ""
       </div>
    </div>
 </section>
-<section class="action__" style="width:100%">
-   <div class="container-fluid action_3" style="padding-top: 60px; padding-bottom: 90px">
-      <div class="row">
-         <div class="col-12 action3_b u-align--center">
-            <h2>I'm ready to start <br><strong><i>on my LPA &amp; ACP</i></strong> today!</h2>
-            <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
-         </div>
-      </div>
-   </div>
-</section>
+<section style="padding-top: 90px; padding-bottom: 90px" class="action_3">
+    <div class="container">
+       <div class="row">
+          <div class="col-12 action3_b u-align--center">
+             <h2>My Legacy Vault</h2>
+             <p>Plan, store and share your legal, healthcare and<br> estate matters securely.</p>
+             <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for<br> secure storage and share them with those you trust.</p>
+             <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
+          </div>
+       </div>
+    </div>
+ </section>
