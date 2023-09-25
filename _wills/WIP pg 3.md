@@ -386,7 +386,7 @@ description: ""
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    background-image: url(https://i.imgur.com/Wx846RX.png);
+    background-image: url(https://i.imgur.com/YzqmSE5.png);
     height: 200px;
     width: 300px;
     margin: 0 0 0 auto;
