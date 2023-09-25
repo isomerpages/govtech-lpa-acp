@@ -718,53 +718,47 @@ description: ""
             <ul class="accordion">
                <li>
                   <label for="accordion_1">
-                     <input class="toggle" id="accordion_1" name="accordion" type="radio">Testator
+                     <input class="toggle" id="accordion_1" name="accordion" type="radio">I’m a Muslim. How do I write an Islamic Will?
                      <div class="inner"> </div>
                   </label>
                </li>
                <li>
                   <label for="accordion_2">
-                     <input class="toggle" id="accordion_2" name="accordion" type="radio">Executor
+                     <input class="toggle" id="accordion_2" name="accordion" type="radio">I have very few assets, I don’t need a Will.
                      <div class="inner"> 
                      </div>
                   </label>
                </li>
                <li>
                   <label for="accordion_3">
-                     <input class="toggle" id="accordion_3" name="accordion" type="radio">Beneficiaries
+                     <input class="toggle" id="accordion_3" name="accordion" type="radio">I’m still young. I don’t need a Will right now.
                      <div class="inner"></div>
                   </label>
                </li>
                <li>
                   <label for="accordion_4">
-                     <input class="toggle" id="accordion_4" name="accordion" type="radio">Witnesses
+                     <input class="toggle" id="accordion_4" name="accordion" type="radio">The law already dictates my next of kin as my beneficiary. I don’t need a Will.
                      <div class="inner"></div>
                   </label>
                </li>
                <li>
                   <label for="accordion_5">
-                     <input class="toggle" id="accordion_5" name="accordion" type="radio">Guardian
+                     <input class="toggle" id="accordion_5" name="accordion" type="radio">I need a lawyer to write a Will.
                      <div class="inner"> </div>
                   </label>
                </li>
                <li>
                   <label for="accordion_6">
-                     <input class="toggle" id="accordion_6" name="accordion" type="radio">Estate
+                     <input class="toggle" id="accordion_6" name="accordion" type="radio">Will a divorce revoke my Will?
                      <div class="inner"></div>
                   </label>
                </li>
                <li>
                   <label for="accordion_7">
-                     <input class="toggle" id="accordion_7" name="accordion" type="radio">Residual Estate
+                     <input class="toggle" id="accordion_7" name="accordion" type="radio">Is my Will legally bound in perpetuity?
                      <div class="inner"></div>
                   </label>
-               </li>
-               <li>
-                  <label for="accordion_8">
-                     <input class="toggle" id="accordion_8" name="accordion" type="radio">Gifts
-                     <div class="inner"></div>
-                  </label>
-               </li>
+               </li> 
             </ul>
          </div>
 		 </div>
