@@ -305,9 +305,9 @@ font-size: 22px;
     margin-top: 0!important;
     font-size: 24px;
 }
-	.action2_b h3 {
-    font-size: 36px;
-    line-height: 50px;
+.action2_b h3 {
+    font-size: 40px;
+    line-height: 60px;
     font-family: 'Playfair Display';
     font-style: italic;
     font-weight: 500;
