@@ -351,11 +351,13 @@ description: ""
    font-size: 18px;    
    }
    .about_a_b h2 {
-   color: #1A3554;
-   font-family:'Playfair Display';
-   font-style: italic;
-   font-weight: 400;
-   }
+    color: #1A3554;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 75px;
+}
    .heading h3 {
    margin-bottom: 30px;
    color: #000;
@@ -673,7 +675,7 @@ description: ""
          <div class="col-6 about_a_b">
             <div class="inner">
                <h2>Writing a Will<br> isn’t just about<br> yourself.</h2>
-               <p>Taking charge of your and your loved ones’ <br>futures through legacy planning is an<br> empowering act for all parties involved. A<br> Will lets you decide who gets what when<br> you pass on, legally enforcing your wishes<br> and distribution of assets to your<br> beneficiaries of choice.</p>
+               <p>Taking charge of your and your loved ones’ futures through legacy planning is an empowering act for all parties involved. A Will lets you decide who gets what when you pass on, legally enforcing your wishes and distribution of assets to your beneficiaries of choice.</p>
             </div>
          </div>
          <div class="col-6 about_a_b">
@@ -691,7 +693,7 @@ description: ""
       <div class="row p-b-80">
          <div class="col-6 about_a_b">
             <div class="inner">
-							<p>A Will is also a way to reduce confusion<br> between your surviving loved ones.<br> This prevents the possibility of<br> complicated legal battles and tension<br> among family members. When your Will<br> is in place, they won’t have to spend so<br> much money on legal fees, and the Will<br> can be executed immediately.</p>
+							<p>A Will is also a way to reduce confusion between your surviving loved ones. This prevents the possibility of complicated legal battles and tension among family members. When your Will is in place, they won’t have to spend so much money on legal fees, and the Will can be executed immediately.</p>
             </div>
          </div>
 				<div class="col-6 about_a_b">
