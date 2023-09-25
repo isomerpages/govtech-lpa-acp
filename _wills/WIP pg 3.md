@@ -336,6 +336,7 @@ description: ""
    font-family: 'Playfair Display'!important;
    font-weight: 400;
    font-style: italic;
+	font-size: 50px;
    }
    .faq_sect p {
    margin-top: 10px;
