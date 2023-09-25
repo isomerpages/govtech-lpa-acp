@@ -551,6 +551,9 @@ a.p-button.btn:hover {
 background-color: #01436b;
 color: #fff;
 }
+	.feature .heading h2 strong {
+    font-weight: 600;
+}
 .p-navigation [class*=p-navigation__item] > .p-navigation__link:hover {
 color: #01436b;
 }
