@@ -219,6 +219,9 @@ description: ""
 	.col.is-1.has-float-btns.is-position-relative {
     display: none;
 }
+	section.bp-section.bottom-navigation {
+    display: none;
+}
 	.col.is-8.is-offset-1-desktop {
     margin-left: 0;
     width: 100%;
