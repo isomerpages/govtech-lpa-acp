@@ -893,7 +893,7 @@ display: inline-block;
 </div>
 	<div class="row m-t-30">
 	<div class="col-10  offset-1 feature_video">
-		<img style="border-radius: 30px" src="https://place-hold.it/1000x500/ddd">
+		<img style="border-radius: 30px" src="https://place-hold.it/1000x500/bbb">
 	</div>
 	</div>
 </div> 
