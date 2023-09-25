@@ -301,6 +301,18 @@ font-size: 22px;
     line-height: 60px;
     color: #ECD6C6;
 }
+	.content .action2_b a.read-more {
+    margin-top: 0!important;
+    font-size: 24px;
+}
+	.action2_b h3 {
+    font-size: 36px;
+    line-height: 50px;
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 500;
+    color: #07477b;
+}
 	.banner h2 span {
     margin-left: 60px;
 }
