@@ -1,5 +1,4 @@
 collections:
   wills:
     output: true
-    order:
-      - I Have Further Concerns.md
+    order: []
