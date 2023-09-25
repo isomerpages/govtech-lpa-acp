@@ -392,6 +392,7 @@ box-shadow: 0 0px 5px 0 rgba(0,0,0,0.4);
 padding: 30px;
 position: relative;
 }
+	
 .feature_block .inner h3 {
 font-size: 21px;
 line-height: 34px;
@@ -502,8 +503,12 @@ line-height: 52px;
 font-family: Playfair Display;
 font-size: 42px;
 line-height: 52px;
-color: #191919;
+color: #07477b;
     font-weight: 400;
+}
+	.action_2 h2 strong {
+    font-weight: 800;
+    font-style: italic;
 }
 .action2_b p {
 font-size: 24px;
