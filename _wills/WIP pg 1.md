@@ -310,7 +310,7 @@ font-size: 22px;
 }
 .banner::after {
 content: "";
-background-image: url(https://i.imgur.com/68063fG.png);
+background-image: url(https://i.imgur.com/uRpPH5O.png);
   background-position: bottom right;
 background-repeat: no-repeat;
 background-size: contain;
