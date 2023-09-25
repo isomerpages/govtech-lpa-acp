@@ -938,11 +938,10 @@ Making a Will can bring about peace of mind<br> and reduce uncertainty for yours
         </div>
     </div>
         <div class="row p-t-80 action__5">
-        <div class="col-8">
-            <div class="action2_b">
-            <h2>My Legacy Vault</h2>
-            <p>Plan, store and share your legal, healthcare and estate matters securely.</p>
-            <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
+        <div class="col-12">
+            <div class="action2_b u-align--center">
+            <h3>Leave a legacy of love and certainty for<br> the people who matter most to you.</h3>
+							<a class="read-more" href="#">Here are some ways to get started</a>
             </div>
         </div>
     </div>
@@ -952,7 +951,9 @@ Making a Will can bring about peace of mind<br> and reduce uncertainty for yours
 <div class="container">
     <div class="row">
         <div class="col-12 action3_b u-align--center">
-            <h2>I'm ready to start <br><strong><i>on my LPA &amp; ACP</i></strong> today!</h2>
+            <h2>My Legacy Vault</h2>
+            <p>Plan, store and share your legal, healthcare and estate matters securely.</p>
+            <p>Upload your documents to <a class="read-more" target="_blank" href="https://mylegacy.life.gov.sg/vault/">My Legacy vault</a> for secure storage and share them with those you trust.</p>
             <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
         </div>
     </div>
