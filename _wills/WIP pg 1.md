@@ -461,19 +461,6 @@ section.action {
 background-color: #DADADA;
 position: relative;
 }
-section.action::before {
-content: "";
-position: absolute;
-left: 50px;
-bottom: 30px;
-width: 300px;
-height: 300px;
-background-image: url(https://i.imgur.com/e25qwc2.png);
-background-position: center;
-background-size: contain;
-background-repeat: no-repeat;
-z-index: 11;
-}
 section.action::after {
 content: "";
 position: absolute;
