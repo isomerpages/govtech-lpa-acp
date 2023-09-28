@@ -471,6 +471,9 @@ description: ""
       margin-top: 9px;
       margin-right: 10px;
   }
+	.play_today h5 {
+    color: #000;
+}
     @media(max-width: 767px){
     .events::before {
     display:none;
