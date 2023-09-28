@@ -1,6 +1,6 @@
 ---
-title: Mobile Clinic @ Kebun Baru CC
-permalink: /kebun-baru-cc/
+title: Mobile Clinic @ Devan Nair Institute
+permalink: /devan-nair-institute/
 description: ""
 ---
 <style>
@@ -516,12 +516,12 @@ description: ""
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Mobile Clinic @ Kebun Baru</h3>
+          <h3>Mobile Clinic @ Devan Nair Institute</h3>
             <ul>
-              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Club</span></li>
-              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>21-22 October 2023</span></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Devan Nair Institute (Level 2, Plaza and Plaza++)</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>4 - 5 November 2023</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
+              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>80 Jurong East Street 21, Singapore 609607</span></li></ul>
               <hr>
 					<h5><strong> Eligibility Criteria: </strong></h5>
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
@@ -530,7 +530,7 @@ description: ""
 				  <p>2. Booking slots are limited </p>
 					<p>3. An email and SMS confirmation will be sent for successful booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
-            <p><strong>Booking slots will open on 1 October 2023</strong></p>
+            <p><strong>Booking slots will open on 14 October 2023</strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
