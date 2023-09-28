@@ -481,6 +481,11 @@ description: ""
   td:first-child, th:first-child {
     width: unset;
 }
+	.box {
+    padding: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
