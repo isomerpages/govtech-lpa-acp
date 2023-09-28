@@ -483,7 +483,7 @@ description: ""
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/hnLdJAA.png">
           <div class="content">
-            <h4><a href="/devan-nair-institute/">Mobile Clinics @ Devan Nair Institute</a></h4>
+            <h4><a href="/devan-nair-institute/">Mobile Clinic @ Devan Nair Institute</a></h4>
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>4 and 5 November 2023</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Devan Nair Institute</li>
