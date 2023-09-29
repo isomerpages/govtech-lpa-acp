@@ -223,104 +223,27 @@ description: ""
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
-         .accordion ul .inner::after{
-    content: "+";
-    width: 25px;
-    height: 25px;
-    background-color: #fff;
-    display: inline-block;
-    text-align: center;
-    border-radius: 50%;
-    position: absolute;
-    right: 20px;
-    top: 14px;
-    color: #1A3554;
-    text-indent: 0;
-    line-height: 25px;
-}
-    ul.accordion input.toggle:checked + .inner::after {
-    content: "-";
-}
-    ul.accordion input.toggle:checked + .inner {
-    height: auto;
-    padding: 45px;
-}
-    .accordion ul .inner {
-    overflow: hidden;
-    margin-top: 0;
-    background-color: #EBE7E5;
-    margin-top: 6px;
-    height: 0;
-    padding: 0 45px;
-    transition: all ease-in-out .3s;
-        -webkit-transition: all ease-in-out .3s;
-     text-indent: 0;
-}
-    .accordion ul .inner p, .accordion ul .inner li {
-     font-weight: 500;
-    font-size: 18px;
-      color: #1A3554;
-    margin-top: 0;
-    line-height: 30px;
-    }
-    .accordion ul .inner h4 {
-     font-weight: bold;
-    font-size: 22px;
-      color: #1A3554;
-      margin-top: 0;
-      margin-bottom: 0;
-    }
-      .accordion ul {
-    margin: 0;
-}
-    .accordion .toggle{
-    display:none;
-    }
-.accordion ul li label {
-    position: relative;
-    color: #1A3554;
-    display: inline-block;
-    width: 100%;
-    line-height: 49px;
-    text-indent: 20px;
-    cursor: pointer;
-    font-weight: bold;
-    font-size: 18px;
-}
-    .accordion ul li label::before {
-    width: 100%;
-    background-image: linear-gradient(#a6d9e5, #9ac0c8);
-    display: block;
-    color: #fefefe;
-    padding: 0.75em;
-    border-radius: 0.15em;
-    transition: background 0.3s ease;
-    margin-bottom: 0;
-    border-radius: 0;
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    height: 55px;
-    z-index: -1;
-}
-    .accordion ul .inner li strong {
-    color: #1A3554;
-}
-    .accordion ul {
-    margin: 0!important;
-}
-    ul.accordion ul ul {
-    padding-left: 45px;
-}
-      .accordion ul {
-  list-style: none;
-  padding: 0;
-}
-.accordion ul li {
-  margin: 0;
-}
+#accordion li {
+		list-style: none;
+		width: 100%;
+		margin-bottom: 10px;
+		background: #fff;
+		padding:10px;
+		border-radius: 4px;
+	}
+#accordion li label {
+	padding:10px;
+	display:flex;
+	align-item:center;
+	justify-content: space-between;
+	font-size: 18px;
+	font-weight: 500;
+	cursor: pointer;
+
+	}
+	
+
+
   .m-b-80{
   margin-bottom: 80px;
   }
@@ -573,15 +496,27 @@ description: ""
   </p><div class="box">
           <h5><strong> General Information: </strong></h5>
             <ul style="padding-left: 30px; list-style: disc;">
-              <li><strong> Slots for the upcoming pro bono LPA certification / ACP facilitation mobile clinic session are full. How do I find out when is the next session?</strong> </li>
-							<p> Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> or follow <a target="_blank" href="www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. </p>
+						<ul id="accordion">
+              <li>
+								<label for="first">
+								<strong> Slots for the upcoming pro bono LPA certification / ACP facilitation mobile clinic session are full. How do I find out when is the next session? 
+									<span>
+										&gt;
+									</span>
+									</strong> 
+								</label>
+							<input checked="" id="first" name="accordion" type="radio">
+							<p class="content"> 
+								Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> or follow <a target="_blank" href="www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. 
+								</p>
 							<p> The monthly mobile clinic sessions will take place at different heartland locations around Singapore to make it more convenient for all residents.</p>
-              <li><strong>Can I be notified when booking opens for the next mobile clinic?</strong></li>
+              </li><li><strong>Can I be notified when booking opens for the next mobile clinic?</strong></li>
 <p> We currently do not have a notification system to inform interested citizens when the appointment slots are open for booking. We will update our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> once booking is open</p>
 							 <li><strong>Why are there such limited slots for the pro bono LPA certification / ACP facilitation mobile clinic session?</strong></li>
 <p> The number of slots available for the mobile clinic is dependent mainly on the availability of the pro bono LPA Certificate Issuers and ACP facilitators who are offering the services on weekends. Apart from that, it is also dependent on the space availability of the event.</p>
  <li><strong>I did not book a slot for the mobile clinic session but need to get my LPA/ACP done urgently on that day. Can I walk in to get my LPA certified or ACP done?</strong></li>
 <p>We do not accept walk-ins for the mobile clinic sessions. Limited slots are available based on the availability of our pro bono LPA Certificate Issuers (CI) and ACP facilitators. Booking a slot is required to ensure that we are able to cater sufficient CIs and facilitators for the demand.</p>
+							</ul>
 
 <h5><strong> Eligibility Criteria : </strong></h5>	
  <li><strong>Why is pro bono LPA certification / ACP facilitation at the mobile clinic session only provided to CHAS blue/orange card holders?</strong></li>
