@@ -530,7 +530,7 @@ description: ""
 								</label>
 							<input checked="" id="first" name="accordion" type="radio">
 							<p class="content"> 
-								Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> or follow <a target="_blank" href="www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. 
+								Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/events/">events page</a> or follow <a target="_blank" href="https://www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. 
 								<br>
 								<br> The monthly mobile clinic sessions will take place at different heartland locations around Singapore to make it more convenient for all residents.
 								</p>
@@ -544,7 +544,7 @@ description: ""
 									</span>
 								</label>
 				<input id="second" name="accordion" type="radio">
-							<p class="content"> We currently do not have a notification system to inform interested citizens when the appointment slots are open for booking. We will update our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> once booking is open</p>
+							<p class="content"> We currently do not have a notification system to inform interested citizens when the appointment slots are open for booking. We will update our <a target="_blank" href="https://giftofcertainty.gov.sg/events/">events page</a> once booking is open</p>
 					</li>
 <li>
 								<label for="third">
@@ -602,12 +602,14 @@ description: ""
 									</span>
 								</label>
 								<input id="seventh" name="accordion" type="radio">
-							<p class="content">If you're receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you. If you're not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator. 
+							<p class="content">If you do not meet the eligibility criteria above or wish to complete your LPA and ACP sooner, you can do so by contacting an LPA Certificate Issuer and ACP Facilitator. Please visit the pages below to find an LPA Certificate Issuer or ACP Facilitator: 
 <br>
-<br>Visit https://www.mylegacy.life.gov.sg/find-a-service to find an LPA Certificate Issuer and ACP facilitator. 
+<br>•	Find an <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a>
+<br>•	Find an <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">ACP Facilitator</a>
+<br>•	An <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">LPA-ACP bundled provider</a>
 <br>
-<br>Some organisations may charge a nominal fee for doing an LPA and ACP, hence please check in with the individual organisations on the cost
-					</p></li>
+<br>Do check with your preferred service provider on their charges.
+								</p></li>
  <p></p><h5><strong> Booking Confirmation: </strong></h5>	
 <li>
 								<label for="eighth">
