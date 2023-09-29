@@ -642,6 +642,7 @@ description: ""
 		
 <br><strong>If you have any queries, you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;</strong>
       <strong>
+<br>
 <br><div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
