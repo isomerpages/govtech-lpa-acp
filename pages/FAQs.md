@@ -252,8 +252,21 @@ description: ""
 	
 	}
 	
-
-
+#accordion label + input[type="radio"]{
+	display:none;
+	}
+#accordion .content{
+	padding: 0 10px;
+	line-height:26px;
+	max-height:0;
+	overflow: hidden
+	transition: max-height 0.5s;
+	
+	}
+	
+	#accordion label + input[type="radio"]:checked + .content {
+		max-height:400px;
+	}
   .m-b-80{
   margin-bottom: 80px;
   }
@@ -517,9 +530,7 @@ description: ""
 								</label>
 							<input checked="" id="first" name="accordion" type="radio">
 							<p class="content"> 
-								Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> or follow <a target="_blank" href="www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. 
-								</p>
-							<p> The monthly mobile clinic sessions will take place at different heartland locations around Singapore to make it more convenient for all residents.</p>
+								Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> or follow <a target="_blank" href="www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. <br> The monthly mobile clinic sessions will take place at different heartland locations around Singapore to make it more convenient for all residents.</p>
               </li><li><strong>Can I be notified when booking opens for the next mobile clinic?</strong></li>
 <p> We currently do not have a notification system to inform interested citizens when the appointment slots are open for booking. We will update our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> once booking is open</p>
 							 <li><strong>Why are there such limited slots for the pro bono LPA certification / ACP facilitation mobile clinic session?</strong></li>
