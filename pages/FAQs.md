@@ -230,7 +230,7 @@ description: ""
 		list-style: none;
 		width: 100%;
 		margin-bottom: 10px;
-		background: #fff;
+		background: #e9e6e2;
 		padding:10px;
 		border-radius: 20px;
 	}
