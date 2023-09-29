@@ -223,104 +223,50 @@ description: ""
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
-         .accordion ul .inner::after{
-    content: "+";
-    width: 25px;
-    height: 25px;
-    background-color: #fff;
-    display: inline-block;
-    text-align: center;
-    border-radius: 50%;
-    position: absolute;
-    right: 20px;
-    top: 14px;
-    color: #1A3554;
-    text-indent: 0;
-    line-height: 25px;
-}
-    ul.accordion input.toggle:checked + .inner::after {
-    content: "-";
-}
-    ul.accordion input.toggle:checked + .inner {
-    height: auto;
-    padding: 45px;
-}
-    .accordion ul .inner {
-    overflow: hidden;
-    margin-top: 0;
-    background-color: #EBE7E5;
-    margin-top: 6px;
-    height: 0;
-    padding: 0 45px;
-    transition: all ease-in-out .3s;
-        -webkit-transition: all ease-in-out .3s;
-     text-indent: 0;
-}
-    .accordion ul .inner p, .accordion ul .inner li {
-     font-weight: 500;
-    font-size: 18px;
-      color: #1A3554;
-    margin-top: 0;
-    line-height: 30px;
-    }
-    .accordion ul .inner h4 {
-     font-weight: bold;
-    font-size: 22px;
-      color: #1A3554;
-      margin-top: 0;
-      margin-bottom: 0;
-    }
-      .accordion ul {
-    margin: 0;
-}
-    .accordion .toggle{
-    display:none;
-    }
-.accordion ul li label {
-    position: relative;
-    color: #1A3554;
-    display: inline-block;
-    width: 100%;
-    line-height: 49px;
-    text-indent: 20px;
-    cursor: pointer;
-    font-weight: bold;
-    font-size: 18px;
-}
-    .accordion ul li label::before {
-    width: 100%;
-    background-image: linear-gradient(#a6d9e5, #9ac0c8);
-    display: block;
-    color: #fefefe;
-    padding: 0.75em;
-    border-radius: 0.15em;
-    transition: background 0.3s ease;
-    margin-bottom: 0;
-    border-radius: 0;
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    height: 55px;
-    z-index: -1;
-}
-    .accordion ul .inner li strong {
-    color: #1A3554;
-}
-    .accordion ul {
-    margin: 0!important;
-}
-    ul.accordion ul ul {
-    padding-left: 45px;
-}
-      .accordion ul {
-  list-style: none;
-  padding: 0;
-}
-.accordion ul li {
-  margin: 0;
-}
+	
+#accordion {
+	}
+#accordion li {
+		list-style: none;
+		width: 100%;
+		margin-bottom: 10px;
+		background: #e9e6e2;
+		padding:10px;
+		border-radius: 20px;
+	}
+#accordion li label  {
+	padding:10px;
+	display:flex;
+	align-items:center;
+	justify-content: space-between;
+	font-size: 18px;
+	font-weight: 500;
+	cursor: pointer;
+
+	}
+	
+	
+#accordion li label span {
+	transform: rotate(90deg);
+	font-size: 22px;
+	
+	}
+	
+#accordion label + input[type="radio"]  {
+	display:none;
+	}
+#accordion .content{
+	padding: 0 10px;
+	line-height:26px;
+	max-height:0;
+	overflow: hidden;
+	transition: max-height 0.5s;
+	
+	}
+	
+	#accordion label + input[type="radio"]:checked + .content {
+		max-height:400px;
+	}
   .m-b-80{
   margin-bottom: 80px;
   }
@@ -571,37 +517,128 @@ description: ""
         <div class="play_today">
  <p> <br>
   </p><div class="box">
-          <h5><strong> General Information: </strong></h5>
             <ul style="padding-left: 30px; list-style: disc;">
-              <li><strong> Slots for the upcoming pro bono LPA certification / ACP facilitation mobile clinic session are full. How do I find out when is the next session?</strong> </li>
-							<p> Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> or follow <a target="_blank" href="www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. </p>
-							<p> The monthly mobile clinic sessions will take place at different heartland locations around Singapore to make it more convenient for all residents.</p>
-              <li><strong>Can I be notified when booking opens for the next mobile clinic?</strong></li>
-<p> We currently do not have a notification system to inform interested citizens when the appointment slots are open for booking. We will update our <a target="_blank" href="https://giftofcertainty.gov.sg/">events page</a> once booking is open</p>
-							 <li><strong>Why are there such limited slots for the pro bono LPA certification / ACP facilitation mobile clinic session?</strong></li>
-<p> The number of slots available for the mobile clinic is dependent mainly on the availability of the pro bono LPA Certificate Issuers and ACP facilitators who are offering the services on weekends. Apart from that, it is also dependent on the space availability of the event.</p>
- <li><strong>I did not book a slot for the mobile clinic session but need to get my LPA/ACP done urgently on that day. Can I walk in to get my LPA certified or ACP done?</strong></li>
-<p>We do not accept walk-ins for the mobile clinic sessions. Limited slots are available based on the availability of our pro bono LPA Certificate Issuers (CI) and ACP facilitators. Booking a slot is required to ensure that we are able to cater sufficient CIs and facilitators for the demand.</p>
+						<ul id="accordion">
+ <h5><strong>General Information: </strong></h5>
+              <li>
+								<label for="first">
+								<strong> Slots for the upcoming pro bono LPA certification / ACP facilitation mobile clinic session are full. How do I find out when is the next session? 
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+							<input checked="" id="first" name="accordion" type="radio">
+							<p class="content"> 
+								Please visit our <a target="_blank" href="https://giftofcertainty.gov.sg/events/">events page</a> or follow <a target="_blank" href="https://www.facebook.com/mylegacylifesg"> My Legacy's Facebook page</a> for updates on where the subsequent sessions will be. Booking slots will be released 3 weeks before date of event. 
+								<br>
+								<br> The monthly mobile clinic sessions will take place at different heartland locations around Singapore to make it more convenient for all residents.
+								</p>
+              </li>
+							<li>
+								<label for="second">
+								<strong> Can I be notified when booking opens for the next mobile clinic?
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+				<input id="second" name="accordion" type="radio">
+							<p class="content"> We currently do not have a notification system to inform interested citizens when the appointment slots are open for booking. We will update our <a target="_blank" href="https://giftofcertainty.gov.sg/events/">events page</a> once booking is open</p>
+					</li>
+<li>
+								<label for="third">
+								<strong>Why are there such limited slots for the pro bono LPA certification / ACP facilitation mobile clinic session? 
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+				<input id="third" name="accordion" type="radio">
+							<p class="content"> The number of slots available for the mobile clinic is dependent mainly on the availability of the pro bono LPA Certificate Issuers and ACP facilitators who are offering the services on weekends. Apart from that, it is also dependent on the space availability of the event</p>
+					</li>
+							<li>
+								<label for="fourth">
+								<strong>I did not book a slot for the mobile clinic session but need to get my LPA/ACP done urgently on that day. Can I walk in to get my LPA certified or ACP done? 
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+				<input id="fourth" name="accordion" type="radio">
+							<p class="content"> We do not accept walk-ins for the mobile clinic sessions. Limited slots are available based on the availability of our pro bono LPA Certificate Issuers (CI) and ACP facilitators. Booking a slot is required to ensure that we are able to cater sufficient CIs and facilitators for the demand</p>
+					</li>
+					
+<h5><strong> Eligibility Criteria: </strong></h5>	
+<li>
+								<label for="fifth">
+								<strong>Why is pro bono LPA certification / ACP facilitation at the mobile clinic session only provided to CHAS blue/orange card holders?
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+				<input id="fifth" name="accordion" type="radio">
+							<p class="content"> Individuals with CHAS Blue or Orange cards are likely to be of low income and will benefit most from the&nbsp;pro bono&nbsp;certification / facilitation sessions.</p>
+					</li>
+<li>
+								<label for="sixth">
+								<strong>Why is the pro bono LPA certification / ACP facilitation mobile clinic session only open to those aged 50 and above?
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+				<input id="sixth" name="accordion" type="radio">
+							<p class="content">We encourage all Singaporeans to make their LPA and ACP early for peace of mind. Individuals aged 50 and above are at the stage where they are starting to plan for retirement and may have adult children who may be appointed as their Donees and Nominated Healthcare Spokespersons. <br>
+<br>LPA and ACP are also particularly important for people who have chronic illnesses, early cognitive impairment, are frail, or approaching the end of life</p>
+					</li>
+							<li>
+								<label for="seventh">
+								<strong>What if I’m not eligible for&nbsp;the&nbsp;pro bono LPA certification / ACP facilitation mobile clinic session?
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+								<input id="seventh" name="accordion" type="radio">
+							<p class="content">If you do not meet the eligibility criteria above or wish to complete your LPA and ACP sooner, you can do so by contacting an LPA Certificate Issuer and ACP Facilitator. Please visit the pages below to find an LPA Certificate Issuer or ACP Facilitator: 
+<br>
+<br>•	Find an <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a>
+<br>•	Find an <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">ACP Facilitator</a>
+<br>•	An <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">LPA-ACP bundled provider</a>
+<br>
+<br>Do check with your preferred service provider on their charges.
+								</p></li>
+ <p></p><h5><strong> Booking Confirmation: </strong></h5>	
+<li>
+								<label for="eighth">
+								<strong>Can I make changes to my booking slot?
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+								<input id="eighth" name="accordion" type="radio">
+							<p class="content">Please email us at enquiries@mylegacy.gov.sg for any changes to your booking slot. As booking slots are limited, there is no guarantee that we can allow you to make changes. 
+					</p></li>
+	<li>
+								<label for="nineth">
+								<strong> I have booked a slot for the free LPA-ACP mobile clinic session, what do I need to prepare?
+									</strong> 
+									<span>
+										&gt;
+									</span>
+								</label>
+								<input id="nineth" name="accordion" type="radio">
+							<p class="content">When you come down for your mobile clinic session, do remember to bring along your NRIC and CHAS Blue or Orange card for identification purposes.
+<br>
+<br>For LPA, please complete your LPA form and ensure all your Donee(s) and Replacement Donee (if any) have accepted their appointment. You should have received an SMS/email notification to visit the certificate issuer. Your LPA status should be “Pending Certification”. Your Donee(s) do not have to be present.
+<br>
+<br>For ACP, please prepare before the session by reflecting on the values and preferences that are important to you using an ACP Booklet or the LPA-ACP Tool on My Legacy. Your Nominated Healthcare Spokesperson(s) have to be present.
+					</p></li>					
 
-<h5><strong> Eligibility Criteria : </strong></h5>	
- <li><strong>Why is pro bono LPA certification / ACP facilitation at the mobile clinic session only provided to CHAS blue/orange card holders?</strong></li>
-<p>Individuals with CHAS Blue or Orange cards are likely to be of low income and will benefit most from the&nbsp;pro bono&nbsp;certification / facilitation sessions.</p>		
-	 <li><strong>Why is the pro bono LPA certification / ACP facilitation mobile clinic session only open to those aged 50 and above?</strong></li>
-<p>We encourage all Singaporeans to make their LPA and ACP early for peace of mind. Individuals aged 50 and above are at the stage where they are starting to plan for retirement and may have adult children who may be appointed as their Donees and Nominated Healthcare Spokespersons.</p>		<p>LPA and ACP are also particularly important for people who have chronic illnesses, early cognitive impairment, are frail, or approaching the end of life.</p>		
-	 <li><strong>What if I’m not eligible for&nbsp;the&nbsp;pro bono LPA certification / ACP facilitation mobile clinic session?</strong></li>
-<p>Even if you’re not eligible for a free LPA-ACP mobile clinic session, you can still book an appointment with an LPA Certificate Issuer (CI) or ACP facilitator near you to make your LPA and ACP.
-</p><p>If you're receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you. If you're not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator. 
-</p><p>Visit https://www.mylegacy.life.gov.sg/find-a-service to find an LPA Certificate Issuer and ACP facilitator. 
-</p><p>Some organisations may charge a nominal fee for doing an LPA and ACP, hence please check in with the individual organisations on the cost.
-
- </p><h5><strong> Booking Confirmation: </strong></h5>							
- <li><strong>Can I make changes to my booking slot?</strong></li>
-<p>Please email us at enquiries@mylegacy.gov.sg for any changes to your booking slot</p>
-<li><strong> If I sign up for a free LPA-ACP mobile clinic session, what do I need to prepare?</strong></li>
-<p>When you come down for your mobile clinic session, do remember to bring along your NRIC and CHAS Blue or Orange card for identification purposes.
-</p><p>For LPA, please complete your LPA form and ensure all your Donee(s) and Replacement Donee (if any) have accepted their appointment. You should have received an SMS/email notification to visit the certificate issuer. Your LPA status should be “Pending Certification”.
-</p><p>For ACP, please prepare before the session by reflecting on the values and preferences that are important to you using an ACP Booklet or the LPA-ACP Tool on My Legacy. 
-</p><p></p></ul>						
+<p></p><p></p></ul>						
 		
 <br><strong>If you have any queries, you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;</strong>
       <strong>
@@ -609,7 +646,7 @@ description: ""
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
     </strong>
-        </div>
+        </ul></div>
       </div>
     <div class="row">
       <div class="col-12 m-t-40">
