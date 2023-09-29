@@ -510,10 +510,10 @@ description: ""
               <li>
 								<label for="first">
 								<strong> Slots for the upcoming pro bono LPA certification / ACP facilitation mobile clinic session are full. How do I find out when is the next session? 
+									</strong> 
 									<span>
 										&gt;
 									</span>
-									</strong> 
 								</label>
 							<input checked="" id="first" name="accordion" type="radio">
 							<p class="content"> 
