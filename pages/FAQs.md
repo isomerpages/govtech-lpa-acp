@@ -637,16 +637,14 @@ description: ""
 <br>
 <br>For ACP, please prepare before the session by reflecting on the values and preferences that are important to you using an ACP Booklet or the LPA-ACP Tool on My Legacy. Your Nominated Healthcare Spokesperson(s) have to be present.
 					</p></li>					
-
 <p></p><p></p></ul>						
 		
 <br><strong>If you have any queries, you can contact us at 1800-111-2222 or&nbsp;enquiries@mylegacy.gov.sg&nbsp;</strong>
-      <strong>
 <br>
-<br><div class="col-12 u-align--left" style="padding: 0">
+<br>
+<div class="col-12 u-align--left" style="padding: 0">
               <a href="/home/" class="p-button btn">BACK TO HOME </a>
       </div>
-    </strong>
         </ul></div>
       </div>
     <div class="row">
