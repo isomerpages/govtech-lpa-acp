@@ -223,23 +223,33 @@ description: ""
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
+	
+#accordion {
+	}
 #accordion li {
 		list-style: none;
 		width: 100%;
 		margin-bottom: 10px;
 		background: #fff;
 		padding:10px;
-		border-radius: 4px;
+		border-radius: 20px;
 	}
-#accordion li label {
+#accordion li label  {
 	padding:10px;
 	display:flex;
-	align-item:center;
+	align-items:center;
 	justify-content: space-between;
 	font-size: 18px;
 	font-weight: 500;
 	cursor: pointer;
 
+	}
+	
+	
+#accordion li label span {
+	transform: rotate(90deg);
+	font-size: 22px;
+	
 	}
 	
 
