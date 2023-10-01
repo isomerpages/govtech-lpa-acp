@@ -524,13 +524,13 @@ description: ""
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
               <hr>
 					<h5><strong> Eligibility Criteria: </strong></h5>
+<p><strong style="color:red">All  LPA and ACP mobile clinic slots for Devan Nair Institute are fully booked</strong></p>
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 					<h5>Note:</h5>
 					<p>1. One appointment slot per individual</p>
 				  <p>2. Booking slots are limited </p>
 					<p>3. An email and SMS confirmation will be sent for successful booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
-            <p><strong>All LPA and ACP mobile clinics slots are fully booked.</strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
