@@ -530,7 +530,7 @@ description: ""
 				  <p>2. Booking slots are limited </p>
 					<p>3. An email and SMS confirmation will be sent for successful booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
-            <p><strong>Booking slots now opened. <a target="_blank" href="https://plantoday.sg">Book here</a>.</strong></p>
+            <p><strong>All LPA and ACP mobile clinics slots are fully booked.</strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -564,7 +564,7 @@ description: ""
       <div class="row">
         <div class="col-12">
     <div class="row">
-      <div class="col-12 m-t-40"><a target="_blank" href="https://plantoday.sg" class="p-cta-button btn">BOOK A SLOT </a> <a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
           </div>
       </div>
