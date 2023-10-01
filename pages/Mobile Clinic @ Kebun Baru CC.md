@@ -523,8 +523,8 @@ description: ""
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>216 Ang Mo Kio Ave 4, Singapore 569897</span></li></ul>
               <hr>
-					<h5><strong> Eligibility Criteria: </strong></h5>
 <p><strong style="color:red">All  LPA and ACP mobile clinic slots for Kebun Baru are fully booked</strong></p>
+					<h5><strong> Eligibility Criteria: </strong></h5>
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 					<h5>Note:</h5>
 					<p>1. One appointment slot per individual</p>
