@@ -516,7 +516,7 @@ description: ""
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Mobile Clinic @ Kebun Baru</h3>
+          <h3>Mobile Clinic @ Kebun Baru (Fully Booked)</h3>
             <ul>
               <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Kebun Baru Community Club</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>21-22 October 2023</span></li>
