@@ -488,7 +488,8 @@ description: ""
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>4 and 5 November 2023</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Devan Nair Institute</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">80 Jurong East Street 21, Singapore 609607</li>
-              <p><a target="_blank" href="/devan-nair-institute/">Learn more</a></p>
+<p> Booking slots will open on 16 October at 2pm
+              </p><p><a target="_blank" href="/devan-nair-institute/">Learn more</a></p>
             </ul>
           </div>
         </div>
