@@ -487,6 +487,16 @@ description: ""
     .event_banner img {
       height: 300px;
   }
+	.box ul {
+    padding: 0!important;
+}
+	.play_today {
+    padding: 15px;
+}
+	.box {
+    margin: 0;
+    padding: 10px;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
