@@ -487,6 +487,16 @@ description: ""
     .event_banner img {
       height: 300px;
   }
+	.box ul {
+    padding: 0!important;
+}
+	.play_today {
+    padding: 15px;
+}
+	.box {
+    margin: 0;
+    padding: 10px;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
@@ -635,7 +645,7 @@ description: ""
 <br>
 <br>For LPA, please complete your LPA form and ensure all your Donee(s) and Replacement Donee (if any) have accepted their appointment. You should have received an SMS/email notification to visit the certificate issuer. Your LPA status should be “Pending Certification”. Your Donee(s) do not have to be present.
 <br>
-<br>For ACP, please prepare before the session by reflecting on the values and preferences that are important to you using an ACP Booklet or the LPA-ACP Tool on My Legacy. Your Nominated Healthcare Spokesperson(s) have to be present.
+<br>For ACP, please complete and print out your ACP draft using the LPA-ACP Tool on My Legacy. Your Nominated Healthcare Spokesperson(s) have to be present.
 					</p></li>					
 <p></p><p></p></ul>						
 		
