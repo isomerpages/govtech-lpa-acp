@@ -529,7 +529,7 @@ description: ""
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Mobile Clinic @ Devan Nair Institute</h3>
+          <h3>Mobile Clinic @ Devan Nair Institute (Fully Booked)</h3>
             <ul>
               <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Devan Nair Institute (Level 2, Plaza and Plaza++)</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>4 - 5 November 2023</span></li>
@@ -543,6 +543,7 @@ description: ""
 				  <p>2. Booking slots are limited </p>
 					<p>3. An email and SMS confirmation will be sent for successful booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
+					<p><strong>Slots for mobile clinics are fully booked</strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -576,7 +577,7 @@ description: ""
       <div class="row">
         <div class="col-12">
     <div class="row">
-      <div class="col-12 m-t-40"><a href="https://plantoday.sg" class="p-cta-button2 btn">BOOK A SLOT </a>  <a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
 			      <div class="col-3 m-t-40"></div>
     </div>
           </div>
