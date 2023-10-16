@@ -493,6 +493,20 @@ description: ""
           </div>
         </div>
       </div>
+<div class="col-4 eventBlock">
+        <div class="inner">
+               <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
+          <div class="content">
+            <h4><a href="/macpherson-smc/">Mobile Clinic @ Macpherson SMC</a></h4>
+            <ul class="meta">
+              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong> 2 and 3 December 2023</strong></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png">Macpherson SMC</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">108 Aljunied Crescent #01-36, Singapore 380108</li>
+              <p><a target="_blank" href="/macpherson-smc/">Learn more</a></p>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
