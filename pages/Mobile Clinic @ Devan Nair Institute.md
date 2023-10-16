@@ -332,7 +332,7 @@ description: ""
       margin-top: 10px;
       font-weight: 600;
       text-decoration: none;
-      padding: 10px 30px;
+      padding: 20px 30px;
       background-color: #e2a175;
     display: inline-block;
       margin: 0;
@@ -347,6 +347,19 @@ description: ""
       padding: 10px 30px;
       background-color: #a5ded1;
       border: 1px solid #a5ded1;
+    display: inline-block;
+      margin: 0;
+  }
+	    a.p-cta-button2.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 10px 30px;
+      background-color: #feb763;
+      border: 1px solid #feb763;
     display: inline-block;
       margin: 0;
   }
@@ -380,7 +393,7 @@ description: ""
   }
   .col-12 {
       width: 100%;
-      PADDING: 0 15px;
+      PADDING: 15px;
   }
   .p-t-80 {
     padding-top: 80px;
@@ -530,7 +543,6 @@ description: ""
 				  <p>2. Booking slots are limited </p>
 					<p>3. An email and SMS confirmation will be sent for successful booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
-            <p><strong>Booking slots will open on 16 October at 2pm</strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -564,7 +576,8 @@ description: ""
       <div class="row">
         <div class="col-12">
     <div class="row">
-      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+      <div class="col-12 m-t-40"><a href="https://plantoday.sg" class="p-cta-button2 btn">BOOK A SLOT </a>  <a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+			      <div class="col-3 m-t-40"></div>
     </div>
           </div>
       </div>
