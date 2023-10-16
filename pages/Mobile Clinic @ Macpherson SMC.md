@@ -534,7 +534,7 @@ description: ""
               <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Macpherson SMC</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>2 - 3 December 2023</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>108 Aljunied Crescent #01-36 Singapore 380108</span></li></ul>
+              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>27A Balam Road (Multi-Purpose Hall)  Singapore 371027</span></li></ul>
               <hr>
 					<h5><strong> Eligibility Criteria: </strong></h5>
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>

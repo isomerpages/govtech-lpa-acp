@@ -1,6 +1,6 @@
 ---
-title: Events
-permalink: /events/
+title: Roadshow and Mobile Clinic @ Heartbeat@ Bedok
+permalink: /heartbeat-bedok/
 description: ""
 ---
 <style>
@@ -211,6 +211,26 @@ description: ""
   section.bp-section {
   padding: 0;
   }
+.box {
+    padding: 30px;
+    background-color: #c8bfb5;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+	.play_today h5 {
+    margin: 0;
+}
+	.play_today hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+	.play_today h5 strong {
+    color: #000;
+    font-size: 20px;
+}
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
@@ -220,13 +240,22 @@ description: ""
     .content a {
       color: #01436b;
   }
+	.content li>ul {
+    margin-top: 0;
+}
     table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
     border: 1px solid #dddddd;
   }
-  
+  .small li{
+  line-height: 22px;
+    margin: 0!important;
+  }
+  .small li small{
+  font-size: 80%;
+  }
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
@@ -239,6 +268,15 @@ description: ""
   tr.bg {
     background-color: #83A1D3;
   }
+    .signup p,.signup p strong {
+    color: #000;
+    }
+  .events ul li {
+      color: #000;
+      font-size: 16px;
+      margin-bottom: 0px;
+      margin-top: 3px;
+  }
     .m-b-40{
     margin-bottom: 40px;
     }
@@ -250,6 +288,19 @@ description: ""
     font-family: 'Playfair Display';
     font-style: italic;
   }
+  .events::before {
+      content: "";
+      position: absolute;
+      right: 50px;
+      bottom: -7px;
+      width: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-image: url(https://i.imgur.com/ymZBFhy.png);
+      z-index: -1;
+      height: 250px;
+  }
     .p-b-110{
     padding-bottom:110px;
     }
@@ -258,6 +309,9 @@ description: ""
       color: #000;
       font-size: 16px;
   }
+  td:first-child, th:first-child {
+    width: 200px;
+}
     .play_today {
       padding: 30px;
       background-color: #DACBBC;
@@ -265,47 +319,6 @@ description: ""
   .content ul > li:last-child {
       margin-bottom: 0;
   } 
-  .eventBlock ul.meta {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
-  .heading h3 {
-    font-size: 26px;
-    color: #000;
-    margin-bottom: 30px;
-}
-.eventBlock p {
-    font-size: 15px;
-    line-height: 26px;
-    color: #000;
-    margin-top: 20px;
-} 
-  .m-t-30{
-  margin-top: 30px;
-  }
-  .eventBlock h4 {
-    margin-top: 30px!important;
-    display: inline-block;
-    margin-bottom: 11px;
-}
-  .eventBlock h4 a {
-    font-size: 22px;
-    font-weight: 600;
-    text-decoration: none;
-    color: #01436b;
-}
-.eventBlock ul.meta li {
-    font-size: 15px;
-    margin: 0!important;
-  color: #000;
-}
-  .eventBlock ul.meta img {
-    width: 21px;
-    float: left;
-    margin-right: 10px;
-    margin-top: 6px;
-}
   container-fluid{
   width: 100%;
   }
@@ -319,9 +332,34 @@ description: ""
       margin-top: 10px;
       font-weight: 600;
       text-decoration: none;
+      padding: 20px 30px;
+      background-color: #e2a175;
+    display: inline-block;
+      margin: 0;
+  }
+    a.p-cta-button.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
       padding: 10px 30px;
       background-color: #a5ded1;
       border: 1px solid #a5ded1;
+    display: inline-block;
+      margin: 0;
+  }
+	    a.p-cta-button2.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 10px 30px;
+      background-color: #feb763;
+      border: 1px solid #feb763;
     display: inline-block;
       margin: 0;
   }
@@ -355,7 +393,7 @@ description: ""
   }
   .col-12 {
       width: 100%;
-      PADDING: 0 15px;
+      PADDING: 15px;
   }
   .p-t-80 {
     padding-top: 80px;
@@ -417,7 +455,7 @@ description: ""
       background-color: #DACBBC;
   }
   .event_banner img {
-      height: 450px;
+      height: 250px;
       object-fit: contain;
       object-position: bottom;
   }
@@ -431,7 +469,24 @@ description: ""
       font-family:'Lato';
       font-weight: 400;
   }
-  
+    .events ul {
+      margin: 0;
+      list-style: none;
+  }
+    .events ul span:first-child {
+      font-weight: bold; margin-right: 15px;
+  }
+    .events ul li {
+      color: #000;
+  }
+    .events ul li img {
+      float: left;
+      margin-top: 9px;
+      margin-right: 10px;
+  }
+	.play_today h5 {
+    color: #000;
+}
     @media(max-width: 767px){
     .events::before {
     display:none;
@@ -439,6 +494,14 @@ description: ""
     .event_banner img {
       height: 300px;
   }
+  td:first-child, th:first-child {
+    width: unset;
+}
+	.box {
+    padding: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
@@ -446,83 +509,78 @@ description: ""
       width: 100%;
   }
     }
-    </style>
-  <section class="event_banner">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-12 banner_b u-align--center">
+</style>
+<section class="event_banner">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12 banner_b u-align--center">
         <img alt="Legacy Events" src="https://i.imgur.com/f6S7lBG.png">
-        </div>
-      </div>
-    </div>
-    </section>
-    
-  <section class="mainEvents p-t-80 p-b-110">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 heading">
-        <h3>Upcoming Events</h3>
-      </div>
-      </div>
-    <div class="row">
-      <div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
-          <div class="content">
-            <h4><a href="/kebun-baru-cc/">Mobile Clinic @ Kebun Baru <strong style="color:red">(Fully Booked)</strong></a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>21 and 22 October 2023</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Kebun Baru Community Club</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">216 Ang Mo Kio Ave 4, Singapore 569897</li>
-              <p><a target="_blank" href="/kebun-baru-cc/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/hnLdJAA.png">
-          <div class="content">
-            <h4><a href="/devan-nair-institute/">Mobile Clinic @ Devan Nair Institute <strong style="color:red">(Fully Booked)</strong></a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>4 and 5 November 2023</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Devan Nair Institute</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">80 Jurong East Street 21, Singapore 609607</li>
-<p><a target="_blank" href="/devan-nair-institute/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
-<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
-          <div class="content">
-            <h4><a href="/macpherson-smc/">Mobile Clinic @ Macpherson SMC</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong> 2 and 3 December 2023</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Macpherson SMC</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">27A Balam Road (Multi-Purpose Hall) Singapore 371027</li>
-<p> Booking slots will open on 14 November at 2pm</p>
-              <p><a target="_blank" href="/macpherson-smc/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
-<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/hnLdJAA.png">
-          <div class="content">
-            <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>13 and 14 January 2024</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Heartbeat@Bedok</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">11 Bedok North Street 1, #01-07 Singapore 469662</li>
-							<p> Booking slots will open on 26 December at 2pm</p>
-<p><a target="_blank" href="/devan-nair-institute/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
       </div>
     </div>
   </div>
 </section>
+<section class="events p-t-80">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 heading u-align--center m-b-60">
+        <h2 class="upcoming">Upcoming Events</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12  m-b-40">
+        <div class="play_today">
+          <h3>Roadshow and Mobile Clinic @ Heartbeat@Bedok</h3>
+            <ul>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Heartbeat@Bedok</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>13 - 14 January 2024</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
+              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>11 Bedok North Street 1 #01-07 Singapore 469662</span></li></ul>
+              <hr>
+					<h5><strong> Eligibility Criteria: </strong></h5>
+ <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
+					<h5>Note:</h5>
+					<p>1. One appointment slot per individual</p>
+				  <p>2. Booking slots are limited </p>
+					<p>3. An email and SMS confirmation will be sent for successful booking</p>
+					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
+					<p><strong>Slots for mobile clinics will open on 26 December at 2pm</strong></p>
+					<div class="box">
+					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
+            <ul style="padding-left: 30px; list-style: disc;">
+              <li> NRIC and CHAS card </li>
+							<li><strong>For LPA:</strong>
+									<ul style="padding-left: 30px; list-style: none;">
+										<li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+										<li> - Donor's Mobile Phone </li>
+									</ul>
+								</li>
+									<li><strong>For ACP</strong>
+										<ul style="padding-left: 30px; list-style: none;">
+											<li> - ACP form draft from My Legacy</li>
+									</ul>
+								</li>
+            </ul>
+						<strong> Prepare your LPA and ACP 
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
+					</div>
+              <hr>
+					<p>If you are unable to secure a booking slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator (Do check out the charges and availability of your preferred service provider before heading down)</p>
+          <ul style="padding-left: 30px; list-style: disc;">
+            <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
+            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
+            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider</a></li>
+          </ul>
+          <p>If you have any queries, check out our <a target="blank" href="https://giftofcertainty.gov.sg/faqs-for-events/"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
+</div></div></div></div></section>
+<section class="p-b-110">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+    <div class="row">
+      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+			      <div class="col-3 m-t-40"></div>
+    </div>
+          </div>
+      </div>
+    </div>
+  </section>
