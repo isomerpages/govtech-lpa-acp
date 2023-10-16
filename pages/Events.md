@@ -483,12 +483,11 @@ description: ""
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/hnLdJAA.png">
           <div class="content">
-            <h4><a href="/devan-nair-institute/">Mobile Clinic @ Devan Nair Institute</a></h4>
+            <h4><a href="/devan-nair-institute/">Mobile Clinic @ Devan Nair Institute <strong style="color:red">(Fully Booked)</strong></a></h4>
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>4 and 5 November 2023</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Devan Nair Institute</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">80 Jurong East Street 21, Singapore 609607</li>
-							<p> Booking slots will open on 16 October at 2pm</p>
 <p><a target="_blank" href="/devan-nair-institute/">Learn more</a></p>
             </ul>
           </div>
