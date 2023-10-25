@@ -630,7 +630,7 @@ description: ""
 									</span>
 								</label>
 								<input id="eighth" name="accordion" type="radio">
-							<p class="content">Please email us at enquiries@mylegacy.gov.sg for any changes to your booking slot. As booking slots are limited, there is no guarantee that we can allow you to make changes. 
+							<p class="content">You can reschedule/cancel your booking via the email confirmation sent by Booking SG. As booking slots are limited, there is no guarantee that we can allow you to reschedule your appointment. Please email&nbsp;enquiries@mylegacy.gov.sg&nbsp; if you have any questions. 
 					</p></li>
 	<li>
 								<label for="nineth">
