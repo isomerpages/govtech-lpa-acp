@@ -481,7 +481,7 @@ description: ""
       </div>
 <div class="col-4 eventBlock">
         <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/Kl4MKYu.png">
+               <img title="Ismor Events" src="https://i.imgur.com/ffrjyN6.png">
           <div class="content">
             <h4><a href="/macpherson-smc/">Mobile Clinic @ Macpherson SMC</a></h4>
             <ul class="meta">
