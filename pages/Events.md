@@ -481,7 +481,7 @@ description: ""
       </div>
 <div class="col-4 eventBlock">
         <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/GVu0g0J.png">
+               <img title="Ismor Events" src="https://i.imgur.com/Kl4MKYu.png">
           <div class="content">
             <h4><a href="/macpherson-smc/">Mobile Clinic @ Macpherson SMC</a></h4>
             <ul class="meta">
@@ -496,7 +496,7 @@ description: ""
       </div>
 <div class="col-4 eventBlock">
         <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/hnLdJAA.png">
+               <img title="Ismor Events" src="https://i.imgur.com/Ulqh1MH.png">
           <div class="content">
             <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok</a></h4>
             <ul class="meta">
