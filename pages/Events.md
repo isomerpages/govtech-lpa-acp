@@ -504,7 +504,7 @@ description: ""
               <li><img src="https://i.imgur.com/mc9gYLj.png">Heartbeat@Bedok</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">11 Bedok North Street 1, #01-07 Singapore 469662</li>
 							<p> Booking slots will open on 26 December at 2pm</p>
-<p><a target="_blank" href="/devan-nair-institute/">Learn more</a></p>
+<p><a target="_blank" href="/heartbeat-bedok/">Learn more</a></p>
             </ul>
           </div>
         </div>
