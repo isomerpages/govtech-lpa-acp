@@ -299,6 +299,12 @@ section.event_banner {
     text-decoration: none;
     color: #01436b;
 }
+.event_banner h1 {
+    font-family: Playfair Display;
+    font-style: italic;
+    font-size: 70px;
+    color: #07446B;
+}	
 .eventBlock ul.meta li {
     font-size: 15px;
     margin: 0!important;
