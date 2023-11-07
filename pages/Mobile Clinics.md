@@ -397,6 +397,10 @@ section.event_banner {
       width: 100%;
       PADDING: 0 15px;
   }
+	.col-10 {
+      width: 83.33%;
+      PADDING: 0 15px;
+  }
   .p-t-80 {
     padding-top: 80px;
   }
@@ -479,6 +483,9 @@ section.event_banner {
     .events::before {
     display:none;
     }
+	.col-10 {
+      width: 100%;
+  }
     .event_banner img {
       height: 300px;
   }
