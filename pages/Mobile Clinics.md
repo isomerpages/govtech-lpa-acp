@@ -532,6 +532,8 @@ section.event_banner {
 					<a class="btn" href="#">ACP</a>
 				</div>
 				
+				<p>Have not started on your LPA and ACP yet? Click here to get started.<br><br>For further assistance or enquiries, please do not contact the CC but call us at&nbsp;<a href="tel:18001112222">1800-111-2222</a>&nbsp;or email us at&nbsp;<a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>
+				
 		</h2></div>
 	</div>
 	</div>
