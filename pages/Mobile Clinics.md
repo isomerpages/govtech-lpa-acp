@@ -522,7 +522,7 @@ section.event_banner {
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--center">
 			<h2>Book A Free LPA and ACP Session</h2><h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<p>Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card<sup><a target="_blank" href="https://www.chas.sg/chas-subsidies">1</a></sup>, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
 				
 				<p><strong>Date:</strong> 4 and 5 November 2023<br><strong>Time:</strong> 10 to 6pm<br><strong>Location:</strong> Devan Nair Institute </p>
 				
@@ -532,7 +532,7 @@ section.event_banner {
 					<a class="btn" href="#">ACP</a>
 				</div>
 				
-				<p>Have not started on your LPA and ACP yet? Click here to get started.<br><br>For further assistance or enquiries, please do not contact the CC but call us at&nbsp;<a href="tel:18001112222">1800-111-2222</a>&nbsp;or email us at&nbsp;<a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>
+				<p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br><br>For further assistance or enquiries, please do not contact the CC but call us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>
 				
 		</h2></div>
 	</div>
