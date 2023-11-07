@@ -341,6 +341,9 @@ section.event_banner {
   .content strong {
       color: #000;
   } 
+	.offset-1{
+	margin-left: 8.33%;
+	}
   section.bp-section .bp-container {
       width: 100%!important;
       max-width: 100%!important;
@@ -398,6 +401,9 @@ section.event_banner {
       .p-lr-50{
     padding: 0;
     }
+		.offset-1{
+	margin-left: 0;
+	}
     html {
       overflow-x: hidden;
   }
@@ -473,7 +479,7 @@ section.event_banner {
 <section class="eventToday">
 <div class="container">
 	<div class="row">
-		<div class="col-12 eventB u-align--center">
+		<div class="col-10 offset-1 eventB u-align--center">
 			<h2>Book A Free LPA and ACP Session</h2><h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br><br>
 				
