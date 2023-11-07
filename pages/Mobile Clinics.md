@@ -215,6 +215,9 @@ description: ""
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
+	.eventToday{
+	padding: 90px 0;
+	}
   .m-b-80{
   margin-bottom: 80px;
   }
