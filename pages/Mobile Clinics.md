@@ -489,6 +489,9 @@ section.event_banner {
 	.col-10 {
       width: 100%;
   }
+	a.btn:first-child {
+    margin-right: 2px;
+}
     .event_banner img {
       height: 300px;
   }
