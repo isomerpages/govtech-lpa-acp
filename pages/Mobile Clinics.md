@@ -319,6 +319,11 @@ section.event_banner {
     margin-right: 10px;
     margin-top: 6px;
 }
+	.event_banner h1 span {
+    display: block;
+    margin-left: 107px;
+    font-family: 'Playfair Display';
+}
   container-fluid{
   width: 100%;
   }
