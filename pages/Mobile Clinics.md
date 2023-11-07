@@ -220,7 +220,7 @@ description: ""
   padding-bottom: 0!important;
   }
 	.eventToday{
-	padding: 90px 0;
+	padding: 90px 0 120px 0;
 	}
   .m-b-80{
   margin-bottom: 80px;
