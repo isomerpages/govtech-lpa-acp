@@ -342,6 +342,9 @@ section.event_banner {
     font-size: 16px;
     border-radius: 30px;
 }
+	a.btn:first-child {
+    margin-right: 30px;
+}
   a.p-button.btn {
       background-color: transparent;
       border-radius: 30px;
