@@ -505,9 +505,9 @@ section.event_banner {
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--center">
 			<h2>Book A Free LPA and ACP Session</h2><h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 				
-				<p><strong>Date:</strong> 4 and 5 November 2023<br><strong>Time:</strong> 10 to 6pm<br><strong>Location:</strong> Devan Nair Institute </p><br>
+				<p><strong>Date:</strong> 4 and 5 November 2023<br><strong>Time:</strong> 10 to 6pm<br><strong>Location:</strong> Devan Nair Institute </p>
 				
 				<p>I'd like to sign up for:</p>
 				<div class="btnB">
