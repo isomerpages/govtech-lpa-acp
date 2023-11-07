@@ -245,6 +245,9 @@ description: ""
     padding: 8px;
     border-width: 1px!important;
   }
+	.eventB p {
+    font-weight: 500;
+}
   th{
     background-color:#D4DFF1;
     }
