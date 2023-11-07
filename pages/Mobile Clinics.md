@@ -457,4 +457,23 @@ description: ""
         </div>
       </div>
     </div>
-    </section>
+ </section>
+<section class="eventToday">
+<div class="container">
+	<div class="row">
+		<div class="col-12 eventB u-align--center">
+			<h2>Book A Free LPA and ACP Session</h2><h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br><br>
+				
+				<p><strong>Date:</strong> 4 and 5 November 2023<br><strong>Time:</strong> 10 to 6pm<br><strong>Location:</strong> Devan Nair Institute </p><br><br>
+				
+				<p>I'd like to sign up for:</p>
+				<div class="btnB">
+					<a class="btn" href="#">LPA</a>
+					<a class="btn" href="#">ACP</a>
+				</div>
+				
+		</h2></div>
+	</div>
+	</div>
+</section>
