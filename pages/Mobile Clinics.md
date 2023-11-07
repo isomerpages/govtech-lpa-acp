@@ -334,6 +334,14 @@ section.event_banner {
   section.bp-section.is-small.bp-section-pagetitle {
   display: none;
   }
+	a.btn {
+    padding: 10px 70px;
+    background-color: #01436b;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 30px;
+}
   a.p-button.btn {
       background-color: transparent;
       border-radius: 30px;
