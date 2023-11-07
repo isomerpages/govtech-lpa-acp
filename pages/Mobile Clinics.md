@@ -290,6 +290,9 @@ description: ""
     display: inline-block;
     margin-bottom: 11px;
 }
+section.event_banner {
+    padding-top: 45px;
+}	
   .eventBlock h4 a {
     font-size: 22px;
     font-weight: 600;
