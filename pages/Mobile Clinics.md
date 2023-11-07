@@ -222,6 +222,10 @@ description: ""
 	.eventToday{
 	padding: 90px 0 120px 0;
 	}
+	strong {
+    color: #07446B!important;
+    font-weight: 700;
+}
   .m-b-80{
   margin-bottom: 80px;
   }
