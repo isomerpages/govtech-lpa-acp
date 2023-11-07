@@ -441,7 +441,7 @@ section.event_banner {
       background-color: #DACBBC;
   }
   .event_banner img {
-      height: 450px;
+      height: 350px;
       object-fit: contain;
       object-position: bottom;
   }
