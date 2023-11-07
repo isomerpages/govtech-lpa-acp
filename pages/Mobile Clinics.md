@@ -353,7 +353,7 @@ section.event_banner {
     margin-right: 30px;
 }
 a.btn:nth-child(2) {
-    margin-right: 60px; 
+    margin-right: 30px; 
 }
   a.p-button.btn {
       background-color: transparent;
