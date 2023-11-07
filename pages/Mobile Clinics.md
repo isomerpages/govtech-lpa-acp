@@ -481,7 +481,11 @@ section.event_banner {
       font-family:'Lato';
       font-weight: 400;
   }
-  
+  a.btn:hover {
+    color: #fff;
+    text-decoration: none;
+    opacity: .9;
+}
     @media(max-width: 767px){
     .events::before {
     display:none;
