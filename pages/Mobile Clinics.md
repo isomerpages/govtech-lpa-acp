@@ -524,7 +524,7 @@ section.event_banner {
 			<h2>Book A Free LPA and ACP Session</h2><h2>
 				<p>Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card<sup><a target="_blank" href="https://www.chas.sg/chas-subsidies">1</a></sup>, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
 				
-				<p><strong>Date:</strong> 4 and 5 November 2023<br><strong>Time:</strong> 10 to 6pm<br><strong>Location:</strong> Devan Nair Institute </p>
+				<p><strong>Date:</strong> 2 and 3 December 2023<br><strong>Time:</strong> 10am to 6pm<br><strong>Location:</strong> 27A Balam Road (Multi-Purpose Hall) Singapore 371027 </p>
 				
 				<p>I'd like to sign up for:</p>
 				<div class="btnB">
