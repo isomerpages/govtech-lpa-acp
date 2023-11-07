@@ -438,7 +438,7 @@ section.event_banner {
   }
     }
     section.event_banner {
-      background-color: #DACBBC;
+      background-color: #D0B69A;
   }
   .event_banner img {
       height: 350px;
