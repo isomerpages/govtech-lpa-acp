@@ -461,7 +461,7 @@ section.event_banner {
     <div class="container-fluid">
       <div class="row">
         <div class="col-12 banner_b u-align--center">
-					<h1>Plan Today</h1>
+					<h1>Plan <span>Today</span></h1>
         <img alt="Legacy Events" src="https://i.imgur.com/f6S7lBG.png">
         </div>
       </div>
