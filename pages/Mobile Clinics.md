@@ -352,6 +352,9 @@ section.event_banner {
 	a.btn:first-child {
     margin-right: 30px;
 }
+  a.btn:second-child {
+    margin-right: 30px;
+}
   a.p-button.btn {
       background-color: transparent;
       border-radius: 30px;
