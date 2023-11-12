@@ -529,7 +529,7 @@ a.btn:nth-child(2) {
 				
 				<p><strong>Date:</strong> 2 and 3 December 2023<br><strong>Time:</strong> 10am to 6pm<br><strong>Location:</strong> 27A Balam Road (Multi-Purpose Hall) Singapore 371027 </p>
 
-        <p>Slots for mobile clinics will be open on 14 November at 2pm</p>
+        <p><strong>Slots for mobile clinics will be open on 14 November at 2pm</strong></p>
 
         <!--
 				
