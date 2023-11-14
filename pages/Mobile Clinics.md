@@ -524,20 +524,22 @@ a.btn:nth-child(2) {
 <div class="container">
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--center">
-			<h2>Book A Free LPA and ACP Session</h2>
-				<p>Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card<sup><a target="_blank" href="https://www.chas.sg/chas-subsidies">1</a></sup>, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
+			<h2>Booking slots for LPA and ACP are fully booked</h2>
+
+<!--
+				<p>Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card<sup><a href="https://www.chas.sg/chas-subsidies" target="_blank">1</a></sup>, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
 				
 				<p><strong>Date:</strong> 2 and 3 December 2023<br><strong>Time:</strong> 10am to 6pm<br><strong>Location:</strong> 27A Balam Road (Multi-Purpose Hall) Singapore 371027 </p>
 
-<!--
         <p><strong>Slots for mobile clinics will be open on 14 November at 2pm</strong></p>
--->
 				
 				<p>I'd like to sign up for:</p>
-				<div style="display:flex;align-items: center;
-  justify-content: center;" class="btnB">
-					<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
+				<div class="btnB" style="display:flex;align-items: center;
+  justify-content: center;">
+					<a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">ACP</a>
 				</div>
+
+-->
 				<p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br><br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>
 				
   </div>
