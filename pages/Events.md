@@ -470,7 +470,7 @@ variant: markdown
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/ffrjyN6.png">
           <div class="content">
-            <h4><a href="/macpherson-smc/">Mobile Clinic @ Macpherson SMC</a></h4>
+            <h4><a href="/macpherson-smc/">Mobile Clinic @ Macpherson SMC (Fully Booked)</a></h4>
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong> 2 and 3 December 2023</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Macpherson SMC</li>
