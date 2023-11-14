@@ -475,7 +475,6 @@ variant: markdown
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong> 2 and 3 December 2023</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Macpherson SMC</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">27A Balam Road (Multi-Purpose Hall) Singapore 371027</li>
-<p> Booking slots will open on 14 November at 2pm</p>
               <p><a target="_blank" href="/macpherson-smc/">Learn more</a></p>
             </ul>
           </div>
