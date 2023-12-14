@@ -349,6 +349,11 @@ section.event_banner {
     font-size: 16px;
     border-radius: 30px;
 }
+	
+    .disabled {
+        pointer-events: none;
+        opacity: 0.4;
+    }
 	a.btn:first-child {
     margin-right: 30px;
 }
@@ -509,6 +514,13 @@ a.btn:nth-child(2) {
       width: 100%;
   }
     }
+	
+	
+    .disabled {
+        pointer-events: none;
+        opacity: 0.4;
+	    cursor: not-allowed;
+	}
     </style>
   <section class="event_banner">
     <div class="container-fluid">
@@ -532,10 +544,14 @@ a.btn:nth-child(2) {
 <p><strong>Slots for mobile clinics will be open on 26 December at 2pm</strong></p>
 				
 <!--<p>I'd like to sign up for:</p>
-				<div class="btnB" style="display:flex;align-items: center;
-  justify-content: center;">
-		 <a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">ACP</a></div>-->
-
+<div style="display:flex;align-items: center;justify-content: center;">
+	<div class="btnB"><a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">LPA</a></div>
+	<div class="btnB">
+		<a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">ACP</a></div>
+	<div class="btnB">
+		<a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">LPA- ACP</a></div>
+</div>-->
+		
 <p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>				
   </div>
 	</div>
