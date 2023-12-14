@@ -545,11 +545,11 @@ a.btn:nth-child(2) {
 				
 <!--<p>I'd like to sign up for:</p>
 <div style="display:flex;align-items: center;justify-content: center;">
-	<div class="btnB"><a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">LPA</a></div>
+	<div class="btnB"><a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&redirectUrl=https://plantoday.sg/" class="btn">LPA</a></div>
 	<div class="btnB">
 		<a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">ACP</a></div>
 	<div class="btnB">
-		<a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">LPA- ACP</a></div>
+		<a href="https://form.gov.sg/654ae82196770c00114a677f" class="btn">LPA- ACP</a></div>
 </div>-->
 		
 <p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>				
