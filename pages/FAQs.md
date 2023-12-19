@@ -2,6 +2,7 @@
 title: FAQs
 permalink: /faqs-for-events/
 description: ""
+variant: markdown
 ---
 <style>
   /* cyrillic */
@@ -612,7 +613,7 @@ description: ""
 									</span>
 								</label>
 								<input id="seventh" name="accordion" type="radio">
-							<p class="content">If you do not meet the eligibility criteria above or wish to complete your LPA and ACP sooner, you can do so by contacting an LPA Certificate Issuer and ACP Facilitator. Please visit the pages below to find an LPA Certificate Issuer or ACP Facilitator: 
+							<p class="content">If you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator through:
 <br>
 <br>•	Find an <a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">LPA Certificate Issuer</a>
 <br>•	Find an <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">ACP Facilitator</a>
