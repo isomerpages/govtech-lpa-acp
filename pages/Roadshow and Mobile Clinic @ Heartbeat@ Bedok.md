@@ -530,13 +530,14 @@ variant: markdown
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Roadshow and Mobile Clinic @ Heartbeat@Bedok</h3>
+          <h3>Roadshow and Mobile Clinic @ Heartbeat@Bedok (Fully Booked)</h3>
             <ul>
               <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Heartbeat@Bedok</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>13 - 14 January 2024</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>11 Bedok North Street 1 #01-07 Singapore 469662</span></li></ul>
               <hr>
+<p><strong style="color:red"><b>All LPA and ACP mobile clinic slots are fully booked</b></strong></p>
 					<h5><strong> Eligibility Criteria: </strong></h5>
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 					<h5>Note:</h5>
@@ -578,12 +579,12 @@ variant: markdown
     <div class="container">
       <div class="row">
         <div class="col-12">
-    <div class="row">
-      <div class="col-12 m-t-40"><a href="/mobile-clinics/" class="p-cta-button btn">BOOK A SLOT </a></div>
+  <!--  <div class="row">
+      <div class="col-12 m-t-40"><a class="p-cta-button btn" href="/mobile-clinics/">BOOK A SLOT </a></div>-->
 			      <div class="col-3 m-t-40"></div>
-<div class="col-12 m-t-40"><a href="/home/" style="background-color:#BDBDBD" class="p-cta-button btn">BACK TO HOME </a></div>
+<div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
           </div>
       </div>
-    </div>
+    
   </section>

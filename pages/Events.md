@@ -470,12 +470,12 @@ variant: markdown
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/Ulqh1MH.png">
           <div class="content">
-            <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok</a></h4>
+            <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok (Fully Booked)</a></h4>
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>13 and 14 January 2024</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Heartbeat@Bedok</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">11 Bedok North Street 1, #01-07 Singapore 469662</li>
-							<p> Booking slots will open on 26 December at 2pm</p>
+						<p><strong style="color:red"><b>All LPA and ACP mobile clinic slots are fully booked</b></strong></p>
 <p><a target="_blank" href="/heartbeat-bedok/">Learn more</a></p>
             </ul>
           </div>
