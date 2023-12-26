@@ -544,7 +544,7 @@ variant: markdown
 				  <p>2. Booking slots are limited </p>
 					<p>3. An email and SMS confirmation will be sent for successful booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
-					<p><strong>Slots for mobile clinics will open on 26 December at 2pm</strong></p>
+					<!--<p><strong>Slots for mobile clinics will open on 26 December at 2pm</strong></p>-->
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -579,8 +579,9 @@ variant: markdown
       <div class="row">
         <div class="col-12">
     <div class="row">
-      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BOOK A SLOT </a></div>
 			      <div class="col-3 m-t-40"></div>
+<div class="col-12 m-t-40"><a href="/home/" style="background-color:#BDBDBD" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
           </div>
       </div>
