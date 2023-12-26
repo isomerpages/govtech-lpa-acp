@@ -541,16 +541,16 @@ a.btn:nth-child(2) {
 				
 <p><strong>Date:</strong> 13 and 14 January 2024<br><strong>Time:</strong> 10am to 6pm<br><strong>Location:</strong> 11 Bedok North Street 1 #01-07 Singapore 469662 </p>
 
-<p><strong>Slots for mobile clinics will be open on 26 December at 2pm</strong></p>
+<!--<p><strong>Slots for mobile clinics will be open on 26 December at 2pm</strong></p>-->
 				
-<!--<p>I'd like to sign up for:</p>
+<p>I'd like to sign up for:</p>
 <div style="display:flex;align-items: center;justify-content: center;">
-	<div class="btnB"><a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&redirectUrl=https://plantoday.sg/" class="btn">LPA</a></div>
+	<div class="btnB"><a class="btn" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a></div>
 	<div class="btnB">
-		<a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">ACP</a></div>
+		<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a></div>
 	<div class="btnB">
-		<a href="https://form.gov.sg/654ae82196770c00114a677f" class="btn">LPA- ACP</a></div>
-</div>-->
+		<a class="btn" href="https://form.gov.sg/654ae82196770c00114a677f">LPA- ACP</a></div>
+</div>
 		
 <p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>				
   </div>
