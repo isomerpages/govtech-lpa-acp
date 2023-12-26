@@ -580,7 +580,10 @@ variant: markdown
             <th>Programme^(Free Admission)</th>
         </tr>
         </thead>
-        <tbody>
+				  </table><p><strong style="color:blue"><b>Day 1 - 13 January 2024, Saturday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse"> 
+			<tr>
+				</tr></thead><tbody>
             <tr>
                 <td scope="row"> 10.00am to 11.30am</td>
 							<td><strong>Talk on LPA-ACP</strong>
@@ -591,8 +594,8 @@ variant: markdown
             </tr>
   <tr> <td scope="row"> 11.30am to 12.30pm</td>
 							<td><strong>&nbsp;Celebrity Appearance by Artiste Lin Ru Ping and Mediacorp Personality Bukoh Mary</strong>
-<br><br>   Sing along with Lin Ru Ping&nbsp;
-<br><br>   Quiz Time: “How Well Do You Know about LPA and ACP” &nbsp;
+<br><br>- Sing along with Lin Ru Ping&nbsp;
+<br>- Quiz Time: “How Well Do You Know about LPA and ACP” &nbsp;
 
 Stand a chance to win prizes!
                 </td>
@@ -600,7 +603,6 @@ Stand a chance to win prizes!
   <tr> <td scope="row"> 2.00pm to 3.30pm</td>
 							<td><strong>Talk on LPA-ACP</strong>
 								<br><br><strong>Language:</strong> English and Tamil
-								<br><br><strong>Speaker:</strong> TBC
 								<br><br><strong>Details:</strong> Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.
                 </td>
             </tr>
@@ -611,6 +613,10 @@ Stand a chance to win prizes!
 								<br><br><strong>Details:</strong> Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.
                 </td>
             </tr>
+				  </tbody></table><p><strong style="color:blue"><b>Day 2 - 14 January 2024, Sunday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse"> 
+			<tr>
+				</tr></thead><tbody>
 					<tr> <td scope="row"> 10.00am to 11.30am</td>
 							<td><strong>Caregiver Support in Dementia Care</strong>
 								<br><br><strong>Language:</strong> English
@@ -620,8 +626,8 @@ Stand a chance to win prizes!
             </tr>
 					<tr> <td scope="row"> 11.30am to 12.30pm</td>
 							<td><strong>Celebrity Appearance by Artiste Rahimah Rahim and Mediacorp Personality &nbsp;A B Shaik</strong>
-<br><br>Sing along with Rahimah&nbsp;
-<br><br>Quiz Time: “How Well Do You Know about LPA and ACP” &nbsp;
+<br><br> - Sing along with Rahimah&nbsp;
+<br>- Quiz Time: “How Well Do You Know about LPA and ACP” &nbsp;
 
 Stand a chance to win prizes!
                 </td>
@@ -636,7 +642,6 @@ Stand a chance to win prizes!
 					<tr> <td scope="row"> 4.00pm to 5.30pm</td>
 							<td><strong>Talk on LPA-ACP</strong>
 								<br><br><strong>Language:</strong> English and Malay
-								<br><br><strong>Speaker:</strong> Mr Liang Weirong
 								<br><br><strong>Details:</strong> Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.
                 </td>
             </tr>
@@ -674,11 +679,15 @@ Stand a chance to win prizes!
             </tr>
                         <tr>
                 <td scope="row"><strong>Professional Deputies and Donees Scheme</strong></td>
-              <td>Learn more about the Professional Deputies (PD) scheme and speak to professional deputies to find out more about their services.  </td>
+              <td>Learn more about the Professional Deputies (PD) scheme and speak to professional deputies to find out more about their services. </td>
             </tr>
                                     <tr>
                 <td scope="row"><strong>Family Justice Court </strong></td>
-              <td>TBC</td>
+              <td>Probate eService enables a person to prepare and file court documents for the application of a grant of Probate from anywhere with an internet connection.  
+
+The Probate eService is currently available for selected cases. More information can be found in the following link:
+https://www.judiciary.gov.sg/services/e-platforms/probate-eservice
+</td>
             </tr>
                                     <tr>
                 <td scope="row"><strong>ASHTRONAUT</strong></td>
