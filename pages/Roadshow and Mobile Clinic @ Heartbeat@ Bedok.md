@@ -566,25 +566,168 @@ variant: markdown
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
               <hr>
-					<p>If you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator through:</p>
-          <ul style="padding-left: 30px; list-style: disc;">
-            <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
-            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
-            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider</a></li>
-          </ul>
-<p>Please check with your preferred service provider on their charges and availability before heading down.</p>
-          <p>If you have any queries, check out our <a target="blank" href="https://giftofcertainty.gov.sg/faqs-for-events/"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
+<h5><strong>Roadshow Activities:</strong></h5>
+<p>Join us for our talks and activities listed in the table below. You can stand a chance to win a $5 NTUC voucher after completing our roadshow activities. While stocks last!</p>
 </div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
       <div class="row">
         <div class="col-12">
+      <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse">
+        <tr>
+            <th>Timing</th>
+            <th>Programme^(Free Admission)</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row"> 10.00am to 11.30am</td>
+							<td><strong>Talk on LPA-ACP</strong>
+                <br><br><strong>Language:</strong> English and Mandarin
+                <br><br><strong>Speaker:</strong> Mr Victor Tang
+								<br><br><strong>Details: </strong>Find out more about why it is important to plan ahead and how you can start your legacy planning. Learn more about Lasting Power of Attorney, Advance Care Planning and how to use the My Legacy vault.
+                </td>
+            </tr>
+  <tr> <td scope="row"> 11.30am to 12.30pm</td>
+							<td><strong>&nbsp;Celebrity Appearance by Artiste Lin Ru Ping and Mediacorp Personality Bukoh Mary</strong>
+<br><br>   Sing along with Lin Ru Ping&nbsp;
+<br><br>   Quiz Time: “How Well Do You Know about LPA and ACP” &nbsp;
+
+Stand a chance to win prizes!
+                </td>
+            </tr>
+  <tr> <td scope="row"> 2.00pm to 3.30pm</td>
+							<td><strong>Talk on LPA-ACP</strong>
+								<br><br><strong>Language:</strong> English and Tamil
+								<br><br><strong>Speaker:</strong> TBC
+								<br><br><strong>Details:</strong> Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.
+                </td>
+            </tr>
+					 <tr> <td scope="row"> 4.00pm to 5.30pm</td>
+							<td><strong>Talk by Specials Needs Trust Company (SNTC) </strong>
+								<br><br><strong>Language:</strong> English
+								<br><br><strong>Speaker:</strong> Ms Wheeki Goh
+								<br><br><strong>Details:</strong> Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.
+                </td>
+            </tr>
+					<tr> <td scope="row"> 10.00am to 11.30am</td>
+							<td><strong>Caregiver Support in Dementia Care</strong>
+								<br><br><strong>Language:</strong> English
+								<br><br><strong>Speaker:</strong> Ms Hidayah Binte Mohammed
+								<br><br><strong>Details:</strong> Basic dementia understanding, signs of burn out and self-care for caregivers and resources and support for caregivers.
+                </td>
+            </tr>
+					<tr> <td scope="row"> 11.30am to 12.30pm</td>
+							<td><strong>Celebrity Appearance by Artiste Rahimah Rahim and Mediacorp Personality &nbsp;A B Shaik</strong>
+<br><br>Sing along with Rahimah&nbsp;
+<br><br>Quiz Time: “How Well Do You Know about LPA and ACP” &nbsp;
+
+Stand a chance to win prizes!
+                </td>
+            </tr>
+					<tr> <td scope="row"> 2.00pm to 3.30pm</td>
+							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
+								<br><br><strong>Language:</strong> English
+								<br><br><strong>Speaker:</strong> Mr Liang Weirong
+								<br><br><strong>Details:</strong> Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!
+                </td>
+            </tr>
+					<tr> <td scope="row"> 4.00pm to 5.30pm</td>
+							<td><strong>Talk on LPA-ACP</strong>
+								<br><br><strong>Language:</strong> English and Malay
+								<br><br><strong>Speaker:</strong> Mr Liang Weirong
+								<br><br><strong>Details:</strong> Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.
+                </td>
+            </tr>
+</tbody>
+</table>
+          <small>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.</small>
+<p>
+          Besides talks, you can learn more about LPA, ACP, and other pre-planning tools at the roadshow booths!</p>
+      <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse">
+        <tr>
+            <th>Organisation</th>
+            <th>Booth Information</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row"><strong>OPG, AIC &amp; My Legacy</strong></td>
+              <td>Find out more information about LPA, ACP and My Legacy website.</td>
+            </tr>
+					                <tr><td scope="row"><strong>CPF Board</strong></td>
+              <td>Sharing on the importance of making a CPF nomination and regularly reviewing your CPF nomination. Members who want to check their nominations or are ready to make a nomination, can do so at the booth (mobile clinic area). </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Pro-bono SG </strong></td>
+              <td>Sharing about our free legal clinics, upcoming webinars and our YouTube channel. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Community Justice Centre</strong></td>
+              <td>Find out about the Deputyship Assistance Programme which seeks to provide assistance and support to individuals applying to be appointed as a deputy via the standard process using the CJC's free online system. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>AIC Grants and Schemes </strong></td>
+              <td>Sharing about AIC’s Long Term Care Schemes &amp; Grants that seniors and family members can tap on in the future. </td>
+            </tr>
+                        <tr>
+                <td scope="row"><strong>Professional Deputies and Donees Scheme</strong></td>
+              <td>Learn more about the Professional Deputies (PD) scheme and speak to professional deputies to find out more about their services.  </td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>Family Justice Court </strong></td>
+              <td>TBC</td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>ASHTRONAUT</strong></td>
+              <td>Start conversations about the death and dying process so that individuals can better navigate life and end-of-life matters.</td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>SATA</strong></td>
+              <td>Sharing information on LPA and ACP.  
+              </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Changi General Hospital </strong></td>
+              <td>Share and address queries on ACP, and follow-up if individuals are interested to do their ACP with CGH facilitators. Find out more about the other community services provided by CGH community nurses. 
+              </td>
+            </tr>
+					<tr>
+                <td scope="row"><strong>Singapore Hospice Council </strong></td>
+              <td>Find out more about palliative care services in Singapore to support individuals with serious illnesses and at the end-of-life.
+              </td>
+            </tr>
+					<tr>
+                <td scope="row"><strong>Special Needs Trust Company </strong></td>
+              <td>Find out how you can plan early for your loved ones with special needs.
+              </td>
+            </tr>
+        </tbody>
+</table>
+          <p>Please contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a> if you have queries.</p>
+    <div class="row">
+      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+					
+<!--					<p>If you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator through:</p>
+          <ul style="padding-left: 30px; list-style: disc;">
+            <li><a href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx" target="_blank">Find an LPA Certificate Issuer</a></li>
+            <li><a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/" target="_blank">Find an ACP Facilitator</a></li>
+            <li><a href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/" target="_blank">Find an LPA-ACP bundled provider</a></li>
+          </ul>
+<p>Please check with your preferred service provider on their charges and availability before heading down.</p>
+          <p>If you have any queries, check out our <a href="https://giftofcertainty.gov.sg/faqs-for-events/" target="blank"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
+</div></div></div></div></section> -->
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
   <!--  <div class="row">
-      <div class="col-12 m-t-40"><a class="p-cta-button btn" href="/mobile-clinics/">BOOK A SLOT </a></div>-->
+      <div class="col-12 m-t-40"><a class="p-cta-button btn" href="/mobile-clinics/">BOOK A SLOT </a></div>
 			      <div class="col-3 m-t-40"></div>
-<div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+<div class="col-12 m-t-40"><a class="p-cta-button btn" href="/home/">BACK TO HOME </a></div>
     </div>
           </div>
       </div>
     
-  </section>
+  </section>--></div></div></div></div></div></div></div></section>
