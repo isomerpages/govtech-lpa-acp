@@ -2,6 +2,7 @@
 title: Roadshow and Mobile Clinic @ Heartbeat@ Bedok
 permalink: /heartbeat-bedok/
 description: ""
+variant: markdown
 ---
 <style>
   /* cyrillic */
@@ -543,7 +544,7 @@ description: ""
 				  <p>2. Booking slots are limited </p>
 					<p>3. An email and SMS confirmation will be sent for successful booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
-					<p><strong>Slots for mobile clinics will open on 26 December at 2pm</strong></p>
+					<!--<p><strong>Slots for mobile clinics will open on 26 December at 2pm</strong></p>-->
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -564,12 +565,13 @@ description: ""
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
               <hr>
-					<p>If you are unable to secure a booking slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator (Do check out the charges and availability of your preferred service provider before heading down)</p>
+					<p>If you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator through:</p>
           <ul style="padding-left: 30px; list-style: disc;">
             <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
             <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
             <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider</a></li>
           </ul>
+<p>Please check with your preferred service provider on their charges and availability before heading down.</p>
           <p>If you have any queries, check out our <a target="blank" href="https://giftofcertainty.gov.sg/faqs-for-events/"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
 </div></div></div></div></section>
 <section class="p-b-110">
@@ -577,8 +579,9 @@ description: ""
       <div class="row">
         <div class="col-12">
     <div class="row">
-      <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+      <div class="col-12 m-t-40"><a href="/mobile-clinics/" class="p-cta-button btn">BOOK A SLOT </a></div>
 			      <div class="col-3 m-t-40"></div>
+<div class="col-12 m-t-40"><a href="/home/" style="background-color:#BDBDBD" class="p-cta-button btn">BACK TO HOME </a></div>
     </div>
           </div>
       </div>
