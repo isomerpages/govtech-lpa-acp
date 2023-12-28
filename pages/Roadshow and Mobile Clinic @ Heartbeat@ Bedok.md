@@ -544,7 +544,6 @@ variant: markdown
 					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
 				  <p>2. One appointment slot per individual. </p>
 					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
-					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
 					<!--<p><strong>Slots for mobile clinics will open on 26 December at 2pm</strong></p>-->
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
