@@ -595,8 +595,7 @@ variant: markdown
   <tr> <td scope="row"> 11.30am to 12.30pm</td>
 							<td><strong>&nbsp;Celebrity Appearance by Artiste Lin Ru Ping and Mediacorp Personality Bukoh Mary</strong>
 <br><br>- Sing along with Lin Ru Ping&nbsp;
-<br>- Quiz Time: “How Well Do You Know about LPA and ACP?” &nbsp;
-<br>Stand a chance to win prizes!
+<br>- Quiz Time: “How Well Do You Know about LPA and ACP?” &nbsp;Stand a chance to win prizes!
                 </td>
             </tr>
   <tr> <td scope="row"> 2.00pm to 3.30pm</td>
@@ -626,9 +625,7 @@ variant: markdown
 					<tr> <td scope="row"> 11.30am to 12.30pm</td>
 							<td><strong>Celebrity Appearance by Artiste Rahimah Rahim and Mediacorp Personality &nbsp;A B Shaik</strong>
 <br><br> - Sing along with Rahimah&nbsp;
-<br>- Quiz Time: “How Well Do You Know about LPA and ACP” &nbsp;
-
-Stand a chance to win prizes!
+<br>- Quiz Time: “How Well Do You Know about LPA and ACP?” &nbsp;Stand a chance to win prizes!
                 </td>
             </tr>
 					<tr> <td scope="row"> 2.00pm to 3.30pm</td>
