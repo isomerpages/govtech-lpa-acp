@@ -542,7 +542,7 @@ variant: markdown
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 					<h5>Note:</h5>
 					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
-				  <p>2. One appointmnet slot per individual. </p>
+				  <p>2. One appointment slot per individual. </p>
 					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
 					<!--<p><strong>Slots for mobile clinics will open on 26 December at 2pm</strong></p>-->
