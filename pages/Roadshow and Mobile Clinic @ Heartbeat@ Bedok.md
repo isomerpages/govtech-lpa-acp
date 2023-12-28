@@ -530,7 +530,7 @@ variant: markdown
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Roadshow and Mobile Clinic @ Heartbeat@Bedok (Fully Booked)</h3>
+          <h3>Roadshow and Mobile Clinic @ Heartbeat@Bedok</h3>
             <ul>
               <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Heartbeat@Bedok</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>13 - 14 January 2024</span></li>
@@ -541,9 +541,9 @@ variant: markdown
 					<h5><strong> Eligibility Criteria: </strong></h5>
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 					<h5>Note:</h5>
-					<p>1. One appointment slot per individual</p>
-				  <p>2. Booking slots are limited </p>
-					<p>3. An email and SMS confirmation will be sent for successful booking</p>
+					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
+				  <p>2. One appointmnet slot per individual. </p>
+					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
 					<p>4. Slots are on a booking basis and no walk-ins are allowed</p>
 					<!--<p><strong>Slots for mobile clinics will open on 26 December at 2pm</strong></p>-->
 					<div class="box">
@@ -589,28 +589,27 @@ variant: markdown
 							<td><strong>Talk on LPA-ACP</strong>
                 <br><br><strong>Language:</strong> English and Mandarin
                 <br><br><strong>Speaker:</strong> Mr Victor Tang
-								<br><br><strong>Details: </strong>Find out more about why it is important to plan ahead and how you can start your legacy planning. Learn more about Lasting Power of Attorney, Advance Care Planning and how to use the My Legacy vault.
+								<br><br><strong>Details: </strong>Find out more about why it is important to plan ahead and how you can start your legacy planning. Learn more about Lasting Power of Attorney (LPA), Advance Care Planning (ACP) and My Legacy.
                 </td>
             </tr>
   <tr> <td scope="row"> 11.30am to 12.30pm</td>
 							<td><strong>&nbsp;Celebrity Appearance by Artiste Lin Ru Ping and Mediacorp Personality Bukoh Mary</strong>
 <br><br>- Sing along with Lin Ru Ping&nbsp;
-<br>- Quiz Time: “How Well Do You Know about LPA and ACP” &nbsp;
-
-Stand a chance to win prizes!
+<br>- Quiz Time: “How Well Do You Know about LPA and ACP?” &nbsp;
+<br>Stand a chance to win prizes!
                 </td>
             </tr>
   <tr> <td scope="row"> 2.00pm to 3.30pm</td>
 							<td><strong>Talk on LPA-ACP</strong>
 								<br><br><strong>Language:</strong> English and Tamil
-								<br><br><strong>Details:</strong> Join us for an insightful talk on the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP), as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.
+								<br><br><strong>Details:</strong> Join us for an insightful talk on making an LPA and ACP, as the speaker delves into the essential aspects of securing your future and making informed decisions about your healthcare.
                 </td>
             </tr>
 					 <tr> <td scope="row"> 4.00pm to 5.30pm</td>
 							<td><strong>Talk by Specials Needs Trust Company (SNTC) </strong>
 								<br><br><strong>Language:</strong> English
 								<br><br><strong>Speaker:</strong> Ms Wheeki Goh
-								<br><br><strong>Details:</strong> Secure your loved one’s future with comprehensive future planning talk, ensuring a system of support and trust for your special needs dependents.
+								<br><br><strong>Details:</strong> Secure your loved one’s future with comprehensive future planning, ensuring a system of support and trust for your special needs dependents.
                 </td>
             </tr>
 				  </tbody></table><p><strong style="color:blue"><b>Day 2 - 14 January 2024, Sunday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
@@ -621,7 +620,7 @@ Stand a chance to win prizes!
 							<td><strong>Caregiver Support in Dementia Care</strong>
 								<br><br><strong>Language:</strong> English
 								<br><br><strong>Speaker:</strong> Ms Hidayah Binte Mohammed
-								<br><br><strong>Details:</strong> Basic dementia understanding, signs of burn out and self-care for caregivers and resources and support for caregivers.
+								<br><br><strong>Details:</strong> Find out about caring for someone with dementia, how to spot signs of burnout for caregivers and the resources and support available for caregivers.
                 </td>
             </tr>
 					<tr> <td scope="row"> 11.30am to 12.30pm</td>
@@ -633,7 +632,7 @@ Stand a chance to win prizes!
                 </td>
             </tr>
 					<tr> <td scope="row"> 2.00pm to 3.30pm</td>
-							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
+							<td><strong>From Love to Legacy - Making a CPF nomination for your CPF savings</strong>
 								<br><br><strong>Language:</strong> English
 								<br><br><strong>Speaker:</strong> Mr Liang Weirong
 								<br><br><strong>Details:</strong> Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!
@@ -649,7 +648,7 @@ Stand a chance to win prizes!
 </table>
           <small>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.</small>
 <p>
-          Besides talks, you can learn more about LPA, ACP, and other pre-planning tools at the roadshow booths!</p>
+          You can also learn more about LPA,ACP and other pre-planning tools at the roadshow booths!</p>
       <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse">
         <tr>
@@ -671,11 +670,11 @@ Stand a chance to win prizes!
             </tr>
             <tr>
                 <td scope="row"><strong>Community Justice Centre</strong></td>
-              <td>Find out about the Deputyship Assistance Programme which seeks to provide assistance and support to individuals applying to be appointed as a deputy via the standard process using the CJC's free online system. </td>
+              <td>Find out about the Deputyship Assistance Programme which provides assistance and support to individuals applying to be appointed as a Deputy via the standard process using the Community Justice Centre's free online system. </td>
             </tr>
             <tr>
                 <td scope="row"><strong>AIC Grants and Schemes </strong></td>
-              <td>Sharing about AIC’s Long Term Care Schemes &amp; Grants that seniors and family members can tap on in the future. </td>
+              <td>Sharing about AIC’s Long Term Care Schemes &amp; Grants that seniors and family members can tap on. </td>
             </tr>
                         <tr>
                 <td scope="row"><strong>Professional Deputies and Donees Scheme</strong></td>
