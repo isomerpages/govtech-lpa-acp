@@ -644,7 +644,7 @@ variant: markdown
 </table>
           <small>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.</small>
 <p>
-          You can also learn more about LPA,ACP and other pre-planning tools at the roadshow booths!</p>
+          You can also learn more about LPA, ACP and other pre-planning tools at the roadshow booths!</p>
       <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse">
         <tr>
