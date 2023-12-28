@@ -470,7 +470,7 @@ variant: markdown
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/Ulqh1MH.png">
           <div class="content">
-            <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok (Fully Booked)</a></h4>
+            <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok</a></h4>
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>13 and 14 January 2024</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Heartbeat@Bedok</li>
