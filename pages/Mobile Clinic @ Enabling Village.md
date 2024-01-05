@@ -537,13 +537,13 @@ variant: markdown
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>20 Lengkok Bahru #04-02, Family @ Enabling Village Singapore 159053</span></li></ul>
               <hr>
-					<!--<p><strong style="color:red"><b>All LPA and ACP mobile clinic slots are fully booked</b></strong></p>-->
 					<h5><strong> Eligibility Criteria:</strong></h5>
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 					<h5>Note:</h5>
 					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
 				  <p>2. One appointment slot per individual. </p>
 					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
+					<p><strong style="color:red"><b>Slots for mobile clinic will open on 5 February 2pm</b></strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -572,7 +572,7 @@ variant: markdown
           </ul>
 <p>Please check with your preferred service provider on their charges and availability before heading down.</p>
           
-          <p>If you have any queries, check out our <a target="blank" href="https://giftofcertainty.gov.sg/faqs-for-events/"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
+<p>If you have any queries, check out our <a target="blank" href="https://giftofcertainty.gov.sg/faqs-for-events/"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
 </div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
