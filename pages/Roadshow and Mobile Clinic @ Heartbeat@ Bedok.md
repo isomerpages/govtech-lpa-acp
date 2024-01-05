@@ -587,7 +587,6 @@ variant: markdown
                 <td scope="row"> 10.00am to 11.30am</td>
 							<td><strong>Talk on LPA-ACP</strong>
                 <br><br><strong>Language:</strong> English and Mandarin
-                <br><br><strong>Speaker:</strong> Mr Victor Tang
 								<br><br><strong>Details: </strong>Find out more about why it is important to plan ahead and how you can start your legacy planning. Learn more about Lasting Power of Attorney (LPA), Advance Care Planning (ACP) and My Legacy.
                 </td>
             </tr>
@@ -606,7 +605,6 @@ variant: markdown
 					 <tr> <td scope="row"> 4.00pm to 5.30pm</td>
 							<td><strong>Talk by Specials Needs Trust Company (SNTC) </strong>
 								<br><br><strong>Language:</strong> English
-								<br><br><strong>Speaker:</strong> Ms Wheeki Goh
 								<br><br><strong>Details:</strong> Secure your loved one’s future with comprehensive future planning, ensuring a system of support and trust for your special needs dependents.
                 </td>
             </tr>
@@ -617,7 +615,6 @@ variant: markdown
 					<tr> <td scope="row"> 10.00am to 11.30am</td>
 							<td><strong>Caregiver Support in Dementia Care</strong>
 								<br><br><strong>Language:</strong> English
-								<br><br><strong>Speaker:</strong> Ms Hidayah Binte Mohammed
 								<br><br><strong>Details:</strong> Find out about caring for someone with dementia, how to spot signs of burnout for caregivers and the resources and support available for caregivers.
                 </td>
             </tr>
@@ -630,7 +627,6 @@ variant: markdown
 					<tr> <td scope="row"> 2.00pm to 3.30pm</td>
 							<td><strong>From Love to Legacy - Making a CPF nomination for your CPF savings</strong>
 								<br><br><strong>Language:</strong> English
-								<br><br><strong>Speaker:</strong> Mr Liang Weirong
 								<br><br><strong>Details:</strong> Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones’ future!
                 </td>
             </tr>
