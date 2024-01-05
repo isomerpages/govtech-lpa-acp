@@ -326,6 +326,7 @@ variant: markdown
     display: inline-block;
       margin: 0;
   }
+	
   .content strong {
       color: #000;
   } 
@@ -447,6 +448,16 @@ variant: markdown
       width: 100%;
   }
     }
+	imgdiv{
+	   
+      position: relative;
+      width: 300px;
+      height: 300px;
+      overflow: hidden;
+    
+	}
+	
+
     </style>
   <section class="event_banner">
     <div class="container-fluid">
@@ -468,7 +479,7 @@ variant: markdown
     <div class="row">
 <div class="col-4 eventBlock">
         <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/Ulqh1MH.png">
+               <img title="Ismor Events" src="https://i.imgur.com/Ulqh1MH.png" style="width: 370px; height: 246px;">
           <div class="content">
             <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok</a></h4>
             <ul class="meta">
@@ -483,7 +494,7 @@ variant: markdown
       </div>
 			<div class="col-4 eventBlock">
         <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/fx6xiK2.jpg">
+               <img title="Ismor Events" src="https://i.imgur.com/fx6xiK2.jpg" style="width: 370px; height: 246px;">
           <div class="content">
             <h4><a href="/heartbeat-bedok/">Mobile Clinic @ Enabling Village</a></h4>
             <ul class="meta">
