@@ -502,7 +502,22 @@ variant: markdown
               <li><img src="https://i.imgur.com/mc9gYLj.png">Enabling Village</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">20 Lengkok Bahru #04-02 Family @ Enabling Village Singapore 159053</li>
 					
-<p><a target="_blank" href="/heartbeat-bedok/">Learn more</a></p>
+<p><a target="_blank" href="/enabling-village/">Learn more</a></p>
+            </ul>
+          </div>
+        </div>
+      </div>
+<div class="col-4 eventBlock">
+        <div class="inner">
+               <img title="Ismor Events" src="https://i.imgur.com/F2j1dEc.jpg" style="width: 370px; height: 246px;">
+          <div class="content">
+            <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Toa Payoh HDB Hub</a></h4>
+            <ul class="meta">
+              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23 and 24 March 2024</strong></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png">Toa Payoh HDB Hub</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">20 Lengkok Bahru #04-02 Family @ Enabling Village Singapore 159053</li>
+					
+<p><a target="_blank" href="/toapayoh-hdb-hub/">Learn more</a></p>
             </ul>
           </div>
         </div>
