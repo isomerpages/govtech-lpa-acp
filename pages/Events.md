@@ -481,6 +481,21 @@ variant: markdown
           </div>
         </div>
       </div>
+			<div class="col-4 eventBlock">
+        <div class="inner">
+               <img title="Ismor Events" src="https://i.imgur.com/fx6xiK2.jpg">
+          <div class="content">
+            <h4><a href="/heartbeat-bedok/">Mobile Clinic @ Enabling Village</a></h4>
+            <ul class="meta">
+              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23 February 2024</strong></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png">Enabling Village</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">20 Lengkok Bahru #04-02 Family @ Enabling Village Singapore 159053</li>
+					
+<p><a target="_blank" href="/heartbeat-bedok/">Learn more</a></p>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
