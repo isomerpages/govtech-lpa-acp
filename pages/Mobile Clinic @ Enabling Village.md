@@ -1,6 +1,6 @@
 ---
-title: Events
-permalink: /events/
+title: Mobile Clinic @ Enabling Village
+permalink: /enabling-village/
 description: ""
 variant: markdown
 ---
@@ -212,6 +212,26 @@ variant: markdown
   section.bp-section {
   padding: 0;
   }
+.box {
+    padding: 30px;
+    background-color: #c8bfb5;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+	.play_today h5 {
+    margin: 0;
+}
+	.play_today hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+	.play_today h5 strong {
+    color: #000;
+    font-size: 20px;
+}
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
@@ -221,13 +241,22 @@ variant: markdown
     .content a {
       color: #01436b;
   }
+	.content li>ul {
+    margin-top: 0;
+}
     table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
     border: 1px solid #dddddd;
   }
-  
+  .small li{
+  line-height: 22px;
+    margin: 0!important;
+  }
+  .small li small{
+  font-size: 80%;
+  }
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
@@ -240,6 +269,15 @@ variant: markdown
   tr.bg {
     background-color: #83A1D3;
   }
+    .signup p,.signup p strong {
+    color: #000;
+    }
+  .events ul li {
+      color: #000;
+      font-size: 16px;
+      margin-bottom: 0px;
+      margin-top: 3px;
+  }
     .m-b-40{
     margin-bottom: 40px;
     }
@@ -251,6 +289,19 @@ variant: markdown
     font-family: 'Playfair Display';
     font-style: italic;
   }
+  .events::before {
+      content: "";
+      position: absolute;
+      right: 50px;
+      bottom: -7px;
+      width: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-image: url(https://i.imgur.com/ymZBFhy.png);
+      z-index: -1;
+      height: 250px;
+  }
     .p-b-110{
     padding-bottom:110px;
     }
@@ -259,6 +310,9 @@ variant: markdown
       color: #000;
       font-size: 16px;
   }
+  td:first-child, th:first-child {
+    width: 200px;
+}
     .play_today {
       padding: 30px;
       background-color: #DACBBC;
@@ -266,47 +320,6 @@ variant: markdown
   .content ul > li:last-child {
       margin-bottom: 0;
   } 
-  .eventBlock ul.meta {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
-  .heading h3 {
-    font-size: 26px;
-    color: #000;
-    margin-bottom: 30px;
-}
-.eventBlock p {
-    font-size: 15px;
-    line-height: 26px;
-    color: #000;
-    margin-top: 20px;
-} 
-  .m-t-30{
-  margin-top: 30px;
-  }
-  .eventBlock h4 {
-    margin-top: 30px!important;
-    display: inline-block;
-    margin-bottom: 11px;
-}
-  .eventBlock h4 a {
-    font-size: 22px;
-    font-weight: 600;
-    text-decoration: none;
-    color: #01436b;
-}
-.eventBlock ul.meta li {
-    font-size: 15px;
-    margin: 0!important;
-  color: #000;
-}
-  .eventBlock ul.meta img {
-    width: 21px;
-    float: left;
-    margin-right: 10px;
-    margin-top: 6px;
-}
   container-fluid{
   width: 100%;
   }
@@ -320,13 +333,37 @@ variant: markdown
       margin-top: 10px;
       font-weight: 600;
       text-decoration: none;
+      padding: 20px 30px;
+      background-color: #e2a175;
+    display: inline-block;
+      margin: 0;
+  }
+    a.p-cta-button.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
       padding: 10px 30px;
       background-color: #a5ded1;
       border: 1px solid #a5ded1;
     display: inline-block;
       margin: 0;
   }
-	
+	    a.p-cta-button2.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 10px 30px;
+      background-color: #feb763;
+      border: 1px solid #feb763;
+    display: inline-block;
+      margin: 0;
+  }
   .content strong {
       color: #000;
   } 
@@ -357,7 +394,7 @@ variant: markdown
   }
   .col-12 {
       width: 100%;
-      PADDING: 0 15px;
+      PADDING: 15px;
   }
   .p-t-80 {
     padding-top: 80px;
@@ -419,7 +456,7 @@ variant: markdown
       background-color: #DACBBC;
   }
   .event_banner img {
-      height: 450px;
+      height: 250px;
       object-fit: contain;
       object-position: bottom;
   }
@@ -433,7 +470,24 @@ variant: markdown
       font-family:'Lato';
       font-weight: 400;
   }
-  
+    .events ul {
+      margin: 0;
+      list-style: none;
+  }
+    .events ul span:first-child {
+      font-weight: bold; margin-right: 15px;
+  }
+    .events ul li {
+      color: #000;
+  }
+    .events ul li img {
+      float: left;
+      margin-top: 9px;
+      margin-right: 10px;
+  }
+	.play_today h5 {
+    color: #000;
+}
     @media(max-width: 767px){
     .events::before {
     display:none;
@@ -441,6 +495,14 @@ variant: markdown
     .event_banner img {
       height: 300px;
   }
+  td:first-child, th:first-child {
+    width: unset;
+}
+	.box {
+    padding: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
@@ -448,80 +510,72 @@ variant: markdown
       width: 100%;
   }
     }
-	imgdiv{
-	   
-      position: relative;
-      width: 300px;
-      height: 300px;
-      overflow: hidden;
-    
-	}
-	
-
-    </style>
-  <section class="event_banner">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-12 banner_b u-align--center">
+</style>
+<section class="event_banner">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12 banner_b u-align--center">
         <img alt="Legacy Events" src="https://i.imgur.com/f6S7lBG.png">
-        </div>
-      </div>
-    </div>
-    </section>
-    
-  <section class="mainEvents p-t-80 p-b-110">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 heading">
-        <h3>Upcoming Events</h3>
-      </div>
-      </div>
-    <div class="row">
-<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/Ulqh1MH.png" style="width: 370px; height: 246px;">
-          <div class="content">
-            <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>13 and 14 January 2024</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Heartbeat@Bedok</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">11 Bedok North Street 1, #01-07 Singapore 469662</li>
-						<p><strong style="color:red"><b>All LPA and ACP mobile clinic slots are fully booked</b></strong></p>
-<p><a target="_blank" href="/heartbeat-bedok/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
-			<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/fx6xiK2.jpg" style="width: 370px; height: 246px;">
-          <div class="content">
-            <h4><a href="/enabling-village/">LPA Mobile Clinic @ Enabling Village</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23 February 2024</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Enabling Village</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">20 Lengkok Bahru #04-02 Family @ Enabling Village Singapore 159053</li>
-					
-<p><a target="_blank" href="/enabling-village/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
-<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/F2j1dEc.jpg" style="width: 370px; height: 246px;">
-          <div class="content">
-            <h4><a href="/toapayoh-hdb-hub/">Roadshow and Mobile Clinic @ Toa Payoh HDB Hub</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23 and 24 March 2024</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Toa Payoh HDB Hub Mall Atrium</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">490 Lorong 6 Toa Payoh Singapore 310490</li>
-					
-<p><a target="_blank" href="/toapayoh-hdb-hub/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
       </div>
     </div>
   </div>
 </section>
+<section class="events p-t-80">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 heading u-align--center m-b-60">
+        <h2 class="upcoming">Upcoming Events</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12  m-b-40">
+        <div class="play_today">
+          <h3>LPA Mobile Clinic @ Enabling Village </h3>
+            <ul>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Enabling Village</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>23 February 2024</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>2pm – 5pm </span></li>
+              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>20 Lengkok Bahru #04-02, Family @ Enabling Village Singapore 159053</span></li></ul>
+              <hr>
+					<h5><strong> Eligibility Criteria:</strong></h5>
+ <p>The mobile clinic for free LPA certification sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
+					<h5>Note:</h5>
+					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
+				  <p>2. One appointment slot per individual. </p>
+					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
+					<p><strong style="color:red"><b>Slots for LPA mobile clinic will open on 5 February 2pm</b></strong></p>
+					<div class="box">
+					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
+            <ul style="padding-left: 30px; list-style: disc;">
+              <li> NRIC and CHAS card </li>
+							<li><strong>For LPA:</strong>
+									<ul style="padding-left: 30px; list-style: none;">
+										<li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+										<li> - Donor's Mobile Phone </li>
+									</ul>
+								</li>
+            </ul>
+						<strong> Prepare your LPA 
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
+					</div>
+              <hr>
+					<p>IIf you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA sooner, you may contact an LPA Certificate Issuer through:</p>
+          <ul style="padding-left: 30px; list-style: disc;">
+            <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
+          </ul>
+<p>Please check with your preferred service provider on their charges and availability before heading down.</p>
+          
+<p>If you have any queries, check out our <a target="blank" href="https://giftofcertainty.gov.sg/faqs-for-events/"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
+</div></div></div></div></section>
+<section class="p-b-110">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+    <div class="row">
+<div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+			      <div class="col-3 m-t-40"></div>
+    </div>
+          </div>
+      </div>
+    </div>
+  </section>
