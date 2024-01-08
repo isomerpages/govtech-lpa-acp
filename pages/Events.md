@@ -515,7 +515,7 @@ variant: markdown
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23 and 24 March 2024</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Toa Payoh HDB Hub</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">20 Lengkok Bahru #04-02 Family @ Enabling Village Singapore 159053</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">490 Lorong 6 Toa Payoh Singapore 310490</li>
 					
 <p><a target="_blank" href="/toapayoh-hdb-hub/">Learn more</a></p>
             </ul>
