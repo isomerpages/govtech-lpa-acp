@@ -530,20 +530,20 @@ variant: markdown
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Mobile Clinic @ Enabling Village </h3>
+          <h3>LPA Mobile Clinic @ Enabling Village </h3>
             <ul>
               <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location:</span><span>Enabling Village</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>23 February 2024</span></li>
-              <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>2pm – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>20 Lengkok Bahru #04-02, Family @ Enabling Village Singapore 159053</span></li></ul>
               <hr>
 					<h5><strong> Eligibility Criteria:</strong></h5>
- <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
+ <p>The mobile clinic for free LPA certification sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
 					<h5>Note:</h5>
 					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
 				  <p>2. One appointment slot per individual. </p>
 					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
-					<p><strong style="color:red"><b>Slots for mobile clinic will open on 5 February 2pm</b></strong></p>
+					<p><strong style="color:red"><b>Slots for LPA mobile clinic will open on 5 February 2pm</b></strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -554,21 +554,14 @@ variant: markdown
 										<li> - Donor's Mobile Phone </li>
 									</ul>
 								</li>
-									<li><strong>For ACP</strong>
-										<ul style="padding-left: 30px; list-style: none;">
-											<li> - ACP form draft from My Legacy</li>
-									</ul>
-								</li>
             </ul>
-						<strong> Prepare your LPA and ACP 
+						<strong> Prepare your LPA 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
               <hr>
-					<p>IIf you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator through:</p>
+					<p>IIf you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA sooner, you may contact an LPA Certificate Issuer through:</p>
           <ul style="padding-left: 30px; list-style: disc;">
             <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
-            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
-            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider</a></li>
           </ul>
 <p>Please check with your preferred service provider on their charges and availability before heading down.</p>
           
