@@ -1,5 +1,5 @@
 ---
-title: Mobile Clinic @ Enabling Village
+title: LPA Mobile Clinic @ Enabling Village
 permalink: /enabling-village/
 description: ""
 variant: markdown
