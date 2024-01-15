@@ -536,14 +536,14 @@ a.btn:nth-child(2) {
 <div class="container">
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--center">
-<h2>Booking slots for LPA and ACP are fully booked</h2>
-<!--<p>Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card<sup><a href="https://www.chas.sg/chas-subsidies" target="_blank">1</a></sup>, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
+<!--<h2>Booking slots for LPA and ACP are fully booked</h2>-->
+<p>Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card<sup><a target="_blank" href="https://www.chas.sg/chas-subsidies">1</a></sup>, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
 				
-<p><strong>Date:</strong> 13 and 14 January 2024<br><strong>Time:</strong> 10am to 6pm<br><strong>Location:</strong> 11 Bedok North Street 1 #01-07 Singapore 469662 </p>
+<p><strong>Date:</strong> 23 and 24 March 2024<br><strong>Time:</strong> 10am to 6pm<br><strong>Location:</strong> Toa Payoh HDB Hub Atrium (490 Lorong 6 Toa Payoh Singapore 310490)</p>
 
-<p><strong>Slots for mobile clinics will be open on 26 December at 2pm</strong></p>
+<p><strong>Slots for mobile clinics will be open on 4 March at 2pm</strong></p>
 				
--<p>I'd like to sign up for:</p>
+<!--<p>I'd like to sign up for:</p>
 <div style="display:flex;align-items: center;justify-content: center;">
 	<div class="btnB"><a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/" class="btn disabled">LPA</a></div>
 	<div class="btnB">
