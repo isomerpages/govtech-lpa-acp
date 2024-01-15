@@ -515,7 +515,7 @@ variant: markdown
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>27 and 28 April 2023 </strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">National Library / Lee Kong Chian Reference Library, Level 1, The Plaza</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">100 Victoria St, Singapore 188064</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">100 Victoria Street Singapore 188064</li>
 					
 <p><a target="_blank" href="/nlb/">Learn more</a></p>
             </ul>
