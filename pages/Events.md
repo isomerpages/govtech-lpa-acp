@@ -486,7 +486,7 @@ variant: markdown
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23 February 2024</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Enabling Village</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">20 Lengkok Bahru #04-02 Family @ Enabling Village Singapore 159053</li>
-					
+<p><strong style="color:red"><b>Slots for LPA mobile clinic will open on 5 February 2pm</b></strong></p>					
 <p><a target="_blank" href="/enabling-village/">Learn more</a></p>
             </ul>
           </div>
