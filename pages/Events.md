@@ -477,21 +477,6 @@ variant: markdown
       </div>
       </div>
     <div class="row">
-<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/Ulqh1MH.png" style="width: 370px; height: 246px;">
-          <div class="content">
-            <h4><a href="/heartbeat-bedok/">Roadshow and Mobile Clinic @ Heartbeat@Bedok</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>13 and 14 January 2024</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Heartbeat@Bedok</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">11 Bedok North Street 1, #01-07 Singapore 469662</li>
-						<p><strong style="color:red"><b>All LPA and ACP mobile clinic slots are fully booked</b></strong></p>
-<p><a target="_blank" href="/heartbeat-bedok/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
 			<div class="col-4 eventBlock">
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/fx6xiK2.jpg" style="width: 370px; height: 246px;">
@@ -501,7 +486,7 @@ variant: markdown
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23 February 2024</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Enabling Village</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">20 Lengkok Bahru #04-02 Family @ Enabling Village Singapore 159053</li>
-					
+<p><strong style="color:red"><b>Slots for LPA mobile clinic will open on 5 February 2pm</b></strong></p>					
 <p><a target="_blank" href="/enabling-village/">Learn more</a></p>
             </ul>
           </div>
@@ -522,6 +507,20 @@ variant: markdown
           </div>
         </div>
       </div>
-    </div>
+<div class="col-4 eventBlock">
+        <div class="inner">
+               <img title="Ismor Events" src="https://i.imgur.com/Dpz8XmX.jpg" style="width: 370px; height: 246px;">
+          <div class="content">
+            <h4><a href="/nlb/">Roadshow and Mobile Clinic @ National Library</a></h4>
+            <ul class="meta">
+              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>27 and 28 April 2023 </strong></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png">National Library / Lee Kong Chian Reference Library, Level 1, The Plaza</li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">100 Victoria Street Singapore 188064</li>
+					
+<p><a target="_blank" href="/nlb/">Learn more</a></p>
+            </ul>
+          </div>
+        </div>
+      </div>
   </div>
-</section>
+</div></section>

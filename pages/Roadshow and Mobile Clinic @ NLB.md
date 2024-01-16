@@ -1,6 +1,6 @@
 ---
-title: Mobile Clinics
-permalink: /mobile-clinics/
+title: Roadshow and Mobile Clinic @ NLB
+permalink: /nlb/
 variant: markdown
 description: ""
 ---
@@ -202,10 +202,6 @@ description: ""
     width: 1170px;
   margin: 0 auto;
   }
-	.eventToday h2 {
-    color: #07446B;
-    font-weight: bold;
-}
     section{
     width: 100%;
     }
@@ -216,43 +212,71 @@ description: ""
   section.bp-section {
   padding: 0;
   }
+.box {
+    padding: 30px;
+    background-color: #c8bfb5;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+	.play_today h5 {
+    margin: 0;
+}
+	.play_today hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+	.play_today h5 strong {
+    color: #000;
+    font-size: 20px;
+}
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
-	.eventToday{
-	padding: 90px 0 120px 0;
-	}
-	strong {
-    color: #07446B!important;
-    font-weight: 700;
-}
   .m-b-80{
   margin-bottom: 80px;
   }
     .content a {
       color: #01436b;
   }
+	.content li>ul {
+    margin-top: 0;
+}
     table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
     border: 1px solid #dddddd;
   }
-  
+  .small li{
+  line-height: 22px;
+    margin: 0!important;
+  }
+  .small li small{
+  font-size: 80%;
+  }
   td, th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
     border-width: 1px!important;
   }
-	.eventB p {
-    font-weight: 500;
-}
   th{
     background-color:#D4DFF1;
     }
   tr.bg {
     background-color: #83A1D3;
+  }
+    .signup p,.signup p strong {
+    color: #000;
+    }
+  .events ul li {
+      color: #000;
+      font-size: 16px;
+      margin-bottom: 0px;
+      margin-top: 3px;
   }
     .m-b-40{
     margin-bottom: 40px;
@@ -265,6 +289,19 @@ description: ""
     font-family: 'Playfair Display';
     font-style: italic;
   }
+  .events::before {
+      content: "";
+      position: absolute;
+      right: 50px;
+      bottom: -7px;
+      width: 250px;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-image: url(https://i.imgur.com/ymZBFhy.png);
+      z-index: -1;
+      height: 250px;
+  }
     .p-b-110{
     padding-bottom:110px;
     }
@@ -273,6 +310,9 @@ description: ""
       color: #000;
       font-size: 16px;
   }
+  td:first-child, th:first-child {
+    width: 200px;
+}
     .play_today {
       padding: 30px;
       background-color: #DACBBC;
@@ -280,87 +320,25 @@ description: ""
   .content ul > li:last-child {
       margin-bottom: 0;
   } 
-  .eventBlock ul.meta {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
-  .heading h3 {
-    font-size: 26px;
-    color: #000;
-    margin-bottom: 30px;
-}
-.eventBlock p {
-    font-size: 15px;
-    line-height: 26px;
-    color: #000;
-    margin-top: 20px;
-} 
-  .m-t-30{
-  margin-top: 30px;
-  }
-  .eventBlock h4 {
-    margin-top: 30px!important;
-    display: inline-block;
-    margin-bottom: 11px;
-}
-section.event_banner {
-    padding-top: 45px;
-}	
-  .eventBlock h4 a {
-    font-size: 22px;
-    font-weight: 600;
-    text-decoration: none;
-    color: #01436b;
-}
-.event_banner h1 {
-    font-family: Playfair Display;
-    font-style: italic;
-    font-size: 70px;
-    color: #07446B;
-}	
-.eventBlock ul.meta li {
-    font-size: 15px;
-    margin: 0!important;
-  color: #000;
-}
-  .eventBlock ul.meta img {
-    width: 21px;
-    float: left;
-    margin-right: 10px;
-    margin-top: 6px;
-}
-	.event_banner h1 span {
-    display: block;
-    margin-left: 107px;
-    font-family: 'Playfair Display';
-}
   container-fluid{
   width: 100%;
   }
   section.bp-section.is-small.bp-section-pagetitle {
   display: none;
   }
-	a.btn {
-    padding: 13px 70px;
-    background-color: #01436b;
-    color: #fff;
-    text-decoration: none;
-    font-size: 16px;
-    border-radius: 30px;
-}
-	
-    .disabled {
-        pointer-events: none;
-        opacity: 0.4;
-    }
-	a.btn:first-child {
-    margin-right: 30px;
-}
-a.btn:nth-child(2) {
-    margin-right: 30px; 
-}
   a.p-button.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 20px 30px;
+      background-color: #e2a175;
+    display: inline-block;
+      margin: 0;
+  }
+    a.p-cta-button.btn {
       background-color: transparent;
       border-radius: 30px;
       color: #000;
@@ -373,12 +351,22 @@ a.btn:nth-child(2) {
     display: inline-block;
       margin: 0;
   }
+	    a.p-cta-button2.btn {
+      background-color: transparent;
+      border-radius: 30px;
+      color: #000;
+      margin-top: 10px;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 10px 30px;
+      background-color: #feb763;
+      border: 1px solid #feb763;
+    display: inline-block;
+      margin: 0;
+  }
   .content strong {
       color: #000;
   } 
-	.offset-1{
-	margin-left: 8.33%;
-	}
   section.bp-section .bp-container {
       width: 100%!important;
       max-width: 100%!important;
@@ -406,11 +394,7 @@ a.btn:nth-child(2) {
   }
   .col-12 {
       width: 100%;
-      PADDING: 0 15px;
-  }
-	.col-10 {
-      width: 83.33%;
-      PADDING: 0 15px;
+      PADDING: 15px;
   }
   .p-t-80 {
     padding-top: 80px;
@@ -440,9 +424,6 @@ a.btn:nth-child(2) {
       .p-lr-50{
     padding: 0;
     }
-		.offset-1{
-	margin-left: 0;
-	}
     html {
       overflow-x: hidden;
   }
@@ -472,10 +453,10 @@ a.btn:nth-child(2) {
   }
     }
     section.event_banner {
-      background-color: #D0B69A;
+      background-color: #DACBBC;
   }
   .event_banner img {
-      height: 350px;
+      height: 250px;
       object-fit: contain;
       object-position: bottom;
   }
@@ -489,24 +470,39 @@ a.btn:nth-child(2) {
       font-family:'Lato';
       font-weight: 400;
   }
-  a.btn:hover {
-    color: #fff;
-    text-decoration: none;
-    opacity: .9;
+    .events ul {
+      margin: 0;
+      list-style: none;
+  }
+    .events ul span:first-child {
+      font-weight: bold; margin-right: 15px;
+  }
+    .events ul li {
+      color: #000;
+  }
+    .events ul li img {
+      float: left;
+      margin-top: 9px;
+      margin-right: 10px;
+  }
+	.play_today h5 {
+    color: #000;
 }
     @media(max-width: 767px){
     .events::before {
     display:none;
     }
-	.col-10 {
-      width: 100%;
-  }
-	a.btn:first-child {
-    margin-right: 2px;
-}
     .event_banner img {
       height: 300px;
   }
+  td:first-child, th:first-child {
+    width: unset;
+}
+	.box {
+    padding: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
     }
         @media(min-width: 767px)and (max-width: 1140px){
     .container {
@@ -514,47 +510,79 @@ a.btn:nth-child(2) {
       width: 100%;
   }
     }
-	
-	
-    .disabled {
-        pointer-events: none;
-        opacity: 0.4;
-	    cursor: not-allowed;
-	}
-    </style>
-  <section class="event_banner">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-12 banner_b u-align--center">
-					<h1>Plan <span>Today</span></h1>
+</style>
+<section class="event_banner">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12 banner_b u-align--center">
         <img alt="Legacy Events" src="https://i.imgur.com/f6S7lBG.png">
-        </div>
       </div>
     </div>
- </section>
-<section class="eventToday">
-<div class="container">
-	<div class="row">
-		<div class="col-10 offset-1 eventB u-align--center">
-<!--<h2>Booking slots for LPA and ACP are fully booked</h2>-->
-<p>Ready to complete your LPA <!--and ACP-->? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card<sup><a target="_blank" href="https://www.chas.sg/chas-subsidies">1</a></sup>, use this form to sign up for a free LPA<!-- and ACP--> session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
-				
-<p><strong>Date:</strong> 23 February 2024<br><strong>Time:</strong> 2pm to 5pm<br><strong>Location:</strong> 20 Lengkok Bahru #04-02, Family @ Enabling Village Singapore 159053</p>
-
-<p><strong>Slots for LPA mobile clinics will be open on 5 February at 2pm</strong></p>
-				
-<!--<p>I'd like to sign up for:</p>
-<div style="display:flex;align-items: center;justify-content: center;">
-	<div class="btnB"><a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/" class="btn disabled">LPA</a></div>
-	<div class="btnB">
-		<a href="https://form.gov.sg/65487f80a29446001218159e" class="btn">ACP</a></div>
-	<div class="btnB">
-		<a href="https://form.gov.sg/654ae82196770c00114a677f" class="btn disabled">LPA- ACP</a></div>
-</div>
--->
-		
-<p>Have not started on your LPA<!-- and ACP--> yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>				
   </div>
-	</div>
-	</div>
 </section>
+<section class="events p-t-80">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 heading u-align--center m-b-60">
+        <h2 class="upcoming">Upcoming Events</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12  m-b-40">
+        <div class="play_today">
+          <h3>Roadshow and Mobile Clinic @ National Library Building</h3>
+            <ul>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location: National Library / Lee Kong Chian Reference Library, Level 1, The Plaza</span><span></span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>27 and 28 April 2024</span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
+              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>100 Victoria St, Singapore 188064</span></li></ul>
+              <hr>
+					<h5><strong> Eligibility Criteria:</strong></h5>
+ <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
+					<h5>Note:</h5>
+					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
+				  <p>2. One appointment slot per individual. </p>
+					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
+					<p><strong style="color:red"><b>Slots for mobile clinic will open on 8 April 2pm</b></strong></p>
+					<div class="box">
+					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
+            <ul style="padding-left: 30px; list-style: disc;">
+              <li> NRIC and CHAS card </li>
+							<li><strong>For LPA:</strong>
+									<ul style="padding-left: 30px; list-style: none;">
+										<li> - Online LPA draft with Donee(s) and Replacement Donee (if any) having accepted their appointment  </li>
+										<li> - Donor's Mobile Phone </li>
+									</ul>
+								</li>
+									<li><strong>For ACP</strong>
+										<ul style="padding-left: 30px; list-style: none;">
+											<li> - ACP form draft from My Legacy</li>
+									</ul>
+								</li>
+            </ul>
+						<strong> Prepare your LPA and ACP 
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
+					</div>
+              <hr>
+					<p>If you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator through:</p>
+          <ul style="padding-left: 30px; list-style: disc;">
+            <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
+            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
+            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider</a></li>
+          </ul>
+<p>Please check with your preferred service provider on their charges and availability before heading down.</p>
+          
+<p>If you have any queries, check out our <a target="blank" href="https://giftofcertainty.gov.sg/faqs-for-events/"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
+</div></div></div></div></section>
+<section class="p-b-110">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+    <div class="row">
+<div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
+			      <div class="col-3 m-t-40"></div>
+    </div>
+          </div>
+      </div>
+    </div>
+  </section>
