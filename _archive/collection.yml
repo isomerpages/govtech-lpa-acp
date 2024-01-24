@@ -1,0 +1,7 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Mobile Clinic @ Devan Nair Institute.md
+      - Mobile Clinic @ Kebun Baru CC.md
+      - Roadshow and Mobile Clinic @ Nee Soon Central CC.md

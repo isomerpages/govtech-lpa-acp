@@ -1,0 +1,29 @@
+logo: /images/colour_stacked.png
+links:
+  - title: Home
+    url: /home
+  - title: Visit My Legacy
+    url: https://mylegacy.life.gov.sg/
+    sublinks:
+      - title: Make an LPA and ACP
+        url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/
+      - title: My Legacy Vault
+        url: https://mylegacy.life.gov.sg/vault/?redirect=/vault/
+  - title: Choose Your Scenario
+    url: /home/
+    sublinks:
+      - title: I'm Unsure How To Begin
+        url: /i-am-unsure-how-to-begin/
+      - title: I Want To Speak To My Family
+        url: /how-do-i-speak-to-my-family-about-this/
+      - title: I Have Further Concerns
+        url: /i-have-further-concerns/
+      - title: I'm Ready To Get Started
+        url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp
+  - title: Upcoming Events
+    url: /events
+    sublinks:
+      - title: FAQs
+        url: /faqs-for-events/
+  - title: contact us
+    url: https://www.giftofcertainty.gov.sg/contact-us/

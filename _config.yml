@@ -1,0 +1,61 @@
+title: The Gift of Certainty
+url: https://giftofcertainty.gov.sg
+favicon: /images/favicon_2023.ico
+colors:
+  primary-color: "#01436b"
+  secondary-color: "#4372d6"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#6792a8"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: Leave a legacy of love and certainty for the people who matter most
+  to you. Here are some ways to get started.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d2zatkbek6p6qa.amplifyapp.com
+prod: https://master.d2zatkbek6p6qa.amplifyapp.com
+resources_name: lorem-ipsum
+facebook-pixel: ""
+shareicon: /images/colour_stacked.png
+is_government: true
+google_analytics: ""
+google_analytics_ga4: G-D85MR6KN9C
+linkedin-insights: ""

@@ -1,0 +1,9 @@
+collections:
+  wills:
+    output: true
+    order:
+      - WIP PG 5.md
+      - WIP PG 4.md
+      - WIP pg 3.md
+      - WIP pg 2.md
+      - WIP pg 1.md
