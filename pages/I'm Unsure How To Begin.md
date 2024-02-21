@@ -806,8 +806,8 @@ ul.accordion input.toggle:checked + .inner {
 <table>
   <tbody><tr>
     <th></th>
-    <th style="text-align:center">LPA Form 1 Fee<br> (inc. GST)</th>
-    <th style="text-align:center">LPA Form 2 Fee<br> (inc. GST)</th>
+    <th style="text-align:center">LPA Form 1 Fee<br></th>
+    <th style="text-align:center">LPA Form 2 Fee<br></th>
   </tr>
   <tr>
     <td>Singapore Citizens</td>
