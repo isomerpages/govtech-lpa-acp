@@ -2,6 +2,7 @@
 title: I'm Unsure How To Begin
 permalink: /i-am-unsure-how-to-begin/
 description: ""
+variant: markdown
 ---
 <style>
 /* cyrillic */
@@ -810,18 +811,18 @@ ul.accordion input.toggle:checked + .inner {
   </tr>
   <tr>
     <td>Singapore Citizens</td>
-    <td style="text-align:center">$0<br>(fee of $75 waived until <br>31 march 2026)</td>
-    <td style="text-align:center">$0</td>
+    <td style="text-align:center">$0<br>(fee of $70 waived until <br>31 march 2026)</td>
+    <td style="text-align:center">$185</td>
   </tr>
   <tr>
     <td>Singapore Permanent<br> Residents</td>
-    <td style="text-align:center">$100</td>
-    <td style="text-align:center">$250</td>
+    <td style="text-align:center">$90</td>
+    <td style="text-align:center">$230</td>
   </tr>
     <tr>
     <td>Foreigners</td>
-    <td style="text-align:center">$250</td>
-    <td style="text-align:center">$300</td>
+    <td style="text-align:center">$230</td>
+    <td style="text-align:center">$275</td>
   </tr>
 </tbody></table>
 <h6><strong>Table 2: Cancellation Fees</strong></h6>
