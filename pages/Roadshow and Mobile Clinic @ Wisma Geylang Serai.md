@@ -530,12 +530,12 @@ description: ""
     <div class="row">
       <div class="col-12  m-b-40">
         <div class="play_today">
-          <h3>Roadshow and Mobile Clinic @ National Library Building</h3>
+          <h3>Roadshow and Mobile Clinic @ Wisma Geylang Serai</h3>
             <ul>
-              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location: National Library / Lee Kong Chian Reference Library, Level 1, The Plaza</span><span></span></li>
-              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>27 and 28 April 2024</span></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location: Level 1 Persada Budaya (Roadshow) and Level 4 Project Studios (Mobile Clinic)</span><span></span></li>
+              <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>25 and 26 May 2024</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
-              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>100 Victoria St, Singapore 188064</span></li></ul>
+              <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>1 Engku Aman Road Turn, Singapore 408528</span></li></ul>
               <hr>
 					<h5><strong> Eligibility Criteria:</strong></h5>
  <p>The mobile clinics for free LPA certification and ACP facilitation sessions are available for Singapore citizens aged 50 years old and above with a valid CHAS Blue/Orange card.</p>
@@ -543,7 +543,7 @@ description: ""
 					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
 				  <p>2. One appointment slot per individual. </p>
 					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
-					<p><strong style="color:red"><b>Slots for mobile clinic will open on 8 April 2pm</b></strong></p>
+					<p><strong style="color:red"><b>Slots for mobile clinic will open on 6 May 2pm</b></strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
