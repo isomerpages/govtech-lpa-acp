@@ -517,7 +517,7 @@ variant: markdown
               <li><img src="https://i.imgur.com/mc9gYLj.png">Level 1 Persada Budaya (Roadshow) &amp; Level 4 Project Studios (Mobile Clinic) </li>
               <li><img src="https://i.imgur.com/jsREBhu.png">1 Engku Aman Road Turn, Singapore 408528</li>
 					
-<p><a target="_blank" href="/toapayoh-hdb-hub/">Learn more</a></p>
+<p><a target="_blank" href="/wisma-geylang-serai/">Learn more</a></p>
             </ul>
           </div>
         </div>
