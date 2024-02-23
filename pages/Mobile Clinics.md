@@ -536,7 +536,8 @@ a.btn:nth-child(2) {
 <div class="container">
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--center">
-<h2>Booking slots for LPA and ACP are fully booked</h2>
+
+			<h2>Book A Free LPA and ACP Session</h2>
 
 <p> Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are liimited and are on a first-come, first-served basis. One appointment slot per individual.</p>
 
