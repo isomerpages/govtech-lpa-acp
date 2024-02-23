@@ -477,21 +477,6 @@ variant: markdown
       </div>
       </div>
     <div class="row">
-			<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/fx6xiK2.jpg" style="width: 370px; height: 246px;">
-          <div class="content">
-            <h4><a href="/enabling-village/">LPA Mobile Clinic @ Enabling Village</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>23 February 2024</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Enabling Village</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">20 Lengkok Bahru #04-02 Family @ Enabling Village Singapore 159053</li>
-<p><strong style="color:red"><b>Slots for LPA mobile clinic are fully booked</b></strong></p>
-<p><a target="_blank" href="/enabling-village/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
 <div class="col-4 eventBlock">
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/F2j1dEc.jpg" style="width: 370px; height: 246px;">
@@ -522,5 +507,19 @@ variant: markdown
           </div>
         </div>
       </div>
-  </div>
+  <div class="col-4 eventBlock">
+        <div class="inner">
+               <img title="Ismor Events" src="https://i.imgur.com/ipvSNCL.jpeg\[/img\]" style="width: 370px; height: 246px;">
+          <div class="content">
+            <h4><a href="/toapayoh-hdb-hub/">Roadshow and Mobile Clinic @ Wisma Geylang Serai</a></h4>
+            <ul class="meta">
+              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>25 and 26 May 2024</strong></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png">Level 1 Persada Budaya (Roadshow) &amp; Level 4 Project Studios (Mobile Clinic) </li>
+              <li><img src="https://i.imgur.com/jsREBhu.png">1 Engku Aman Road Turn, Singapore 408528</li>
+					
+<p><a target="_blank" href="/toapayoh-hdb-hub/">Learn more</a></p>
+            </ul>
+          </div>
+        </div>
+      </div></div>
 </div></section>
