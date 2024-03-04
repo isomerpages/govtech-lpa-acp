@@ -487,7 +487,7 @@ variant: markdown
               <li><img src="https://i.imgur.com/mc9gYLj.png">Toa Payoh HDB Hub Mall Atrium</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">480 Lorong 6 Toa Payoh Singapore 310480</li>
 
-<p><strong style="color:red"><b>Slots for mobile clinic will open on 4  March 2pm</b></strong></p>
+<p><strong style="color:red"><b>Slots for mobile clinic are fully booked</b></strong></p>
 					
 <p><a target="_blank" href="/toapayoh-hdb-hub/">Learn more</a></p>
             </ul>
