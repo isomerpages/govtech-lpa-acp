@@ -549,7 +549,7 @@ a.btn:nth-child(2) {
 
 
 <p style="justify-content: center;">I'd like to sign up for:</p>
-<div style="display:flex; justify-contents:center;">
+<div style="display:flex;">
 <div class="btnB">
 <a class="btn" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a>
 	<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
