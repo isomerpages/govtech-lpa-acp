@@ -545,7 +545,7 @@ a.btn:nth-child(2) {
 <strong>Time:</strong> 10am to 6pm<br>
 	<strong>Location:</strong> 480 Lorong 6 Toa Payoh Singapore 310480</p>
 			
-<p>TO DELETE</p>
+<p>TO DELETE 12</p>
 
 
 <p style="justify-content: center;">I'd like to sign up for:</p>
