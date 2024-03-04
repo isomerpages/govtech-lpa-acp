@@ -537,21 +537,24 @@ a.btn:nth-child(2) {
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--center">
 
-			<h2>Book A Free LPA and ACP Session</h2>
+<h2>Book A Free LPA and ACP Session</h2>
 
-<p> Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are liimited and are on a first-come, first-served basis. One appointment slot per individual.</p>
+<p> Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
 
 <p><strong>Date:</strong> 23 and 24 March 2024<br>
 <strong>Time:</strong> 10am to 6pm<br>
 	<strong>Location:</strong> 480 Lorong 6 Toa Payoh Singapore 310480</p>
 
-<p><strong>Slots for mobile clinics will be open on 4 March at 2pm</strong></p>
-
-
-
-		
+<p style="justify-content: center;">I'd like to sign up for:</p>
+<div>
+<div class="btnB" style="display:flex; justify-content: center;">
+  
+<a class="btn" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a>
+	<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
+	<a class="btn" href="https://form.gov.sg/654ae82196770c00114a677f">LPA&amp;ACP</a>
+			</div>
 <p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>		
   </div>
 	</div>
 	</div>
-</section>
+</div></section>
