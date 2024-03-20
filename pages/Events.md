@@ -486,7 +486,7 @@ variant: markdown
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>27 and 28 April 2024 </strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">National Library / Lee Kong Chian Reference Library, Level 1, The Plaza</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">100 Victoria Street Singapore 188064</li>
-					
+<p><strong style="color:red"><b>Slots for mobile clinic will open on 8 April at 2pm</b></strong></p>			
 <p><a target="_blank" href="/nlb/">Learn more</a></p>
             </ul>
           </div>
