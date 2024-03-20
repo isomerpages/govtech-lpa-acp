@@ -532,7 +532,7 @@ description: ""
         <div class="play_today">
           <h3>Roadshow and Mobile Clinic @ Yew Tee Point</h3>
             <ul>
-              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location: Yew Tee Point Outdoor Space</span><span></span></li>
+              <li><img src="https://i.imgur.com/mc9gYLj.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Location: Yew Tee Point Open Space</span><span></span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/zk1pxl2.png"><span style="font-weight: bold; margin-right: 15px;">Date:</span><span>22 and 23 June 2024</span></li>
               <li><img style="width: 17px" src="https://i.imgur.com/ElIClpc.png"><span style="font-weight: bold; margin-right: 15px;">Time:</span><span>10am – 6pm </span></li>
               <li><img src="https://i.imgur.com/jsREBhu.png" style="height: 20px; width: 20px; object-fit: contain"><span style="font-weight: bold; margin-right: 15px;">Address:</span><span>21 Choa Chu Kang North 6, Singapore 689578</span></li></ul>
