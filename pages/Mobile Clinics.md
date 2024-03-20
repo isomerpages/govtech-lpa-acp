@@ -541,11 +541,11 @@ a.btn:nth-child(2) {
 
 <p> Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
 
-<p><strong>Date:</strong> 23 and 24 March 2024<br>
+<p><strong>Date:</strong> 27 and 28 April 2024<br>
 <strong>Time:</strong> 10am to 6pm<br>
-	<strong>Location:</strong> 480 Lorong 6 Toa Payoh Singapore 310480</p>
+	<strong>Location:</strong> 100 Victoria Street Singapore 188064</p>
 		
-<strong>Slots for mobile clinic are fully booked</strong>
+<strong>Slots for mobile clinic will open on 8 April at 2pm</strong>
 		
 <p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>		
   </div>
