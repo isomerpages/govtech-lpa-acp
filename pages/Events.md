@@ -511,13 +511,13 @@ variant: markdown
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/OUM3o2M.png" style="width: 370px; height: 246px;">
           <div class="content">
-            <h4><a href="/nlb/">Roadshow and Mobile Clinic @ Yew Tee Point</a></h4>
+            <h4><a href="/yewteepoint/">Roadshow and Mobile Clinic @ Yew Tee Point</a></h4>
             <ul class="meta">
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>22 and 23 June 2024 </strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Yew Tee Point Outdoor Space</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">21 Choa Chu Kang North 6, Singapore 689578</li>
 					
-<p><a target="_blank" href="/nlb/">Learn more</a></p>
+<p><a target="_blank" href="/yewteepoint/">Learn more</a></p>
             </ul>
           </div>
         </div>
