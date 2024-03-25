@@ -366,8 +366,8 @@ a.btn:nth-child(2) {
       background-color: #a5ded1;
       border: 1px solid #a5ded1;
     display: inline-block;
-      margin: 0;
-  }
+      margin: 0;   
+	}
   .content strong {
       color: #000;
   } 
