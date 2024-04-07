@@ -349,6 +349,11 @@ section.event_banner {
     font-size: 16px;
     border-radius: 30px;
 }
+	
+ a.btn.disabled {
+		background-color: #666;
+		pointer-events:none;
+	}
 	a.btn:first-child {
     margin-right: 30px;
 }
@@ -509,6 +514,7 @@ a.btn:nth-child(2) {
       width: 100%;
   }
     }
+
     </style>
   <section class="event_banner">
     <div class="container-fluid">
@@ -528,7 +534,7 @@ a.btn:nth-child(2) {
 <p style="justify-content: center;">I'd like to sign up for:</p>
 <div>
 <div class="btnB" style="display:flex; justify-content: center;">
-<a class="btn" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a>
+<a class="btn disabled" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a>
 	<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
 			</div>	
 			</div>
