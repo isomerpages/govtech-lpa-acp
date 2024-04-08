@@ -199,13 +199,14 @@ description: ""
       font-style: normal;
   }
   .container{
-    width: 1170px;
+    width: 100%;
   margin: 0 auto;
   }
 	.eventToday h2 {
     color: #07446B;
     font-weight: bold;
 }
+	
     section{
     width: 100%;
     }
@@ -348,12 +349,14 @@ section.event_banner {
     text-decoration: none;
     font-size: 16px;
     border-radius: 30px;
+	    white-space: nowrap;
 }
 	
-    .disabled {
-        pointer-events: none;
-        opacity: 0.4;
-    }
+a.btn.disabled {
+		background-color: #666;
+		pointer-events:none;
+	  cursor: not-allowed;
+	}
 	a.btn:first-child {
     margin-right: 30px;
 }
@@ -514,13 +517,7 @@ a.btn:nth-child(2) {
       width: 100%;
   }
     }
-	
-	
-    .disabled {
-        pointer-events: none;
-        opacity: 0.4;
-	    cursor: not-allowed;
-	}
+
     </style>
   <section class="event_banner">
     <div class="container-fluid">
@@ -545,10 +542,16 @@ a.btn:nth-child(2) {
 <strong>Time:</strong> 10am to 6pm<br>
 	<strong>Location:</strong> 100 Victoria Street Singapore 188064</p>
 		
-<strong>Slots for mobile clinic will open on 8 April at 2pm</strong>
-		
+
+	
+<p style="justify-content: center;">I'd like to sign up for:</p>
+<div>
+	<div style="display:flex; text-align:center; align-items:center; justify-content: center; flex-flow: row wrap;">
+		<a class="btn" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a>
+		<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
+		<a class="btn" href="https://form.gov.sg/654ae82196770c00114a677f">LPA-ACP</a>
+	</div>	
 <p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>		
   </div>
 	</div>
-	</div>
-</section>
+</div></div></section>
