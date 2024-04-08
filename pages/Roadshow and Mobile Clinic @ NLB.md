@@ -543,7 +543,7 @@ description: ""
 					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
 				  <p>2. One appointment slot per individual. </p>
 					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
-
+<p><strong style="color:red"><b>Slots for mobile clinic are fully booked</b></strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
