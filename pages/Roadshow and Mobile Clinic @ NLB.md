@@ -647,7 +647,7 @@ description: ""
             </tr>
             <tr>
                 <td scope="row"><strong>Pro-bono SG </strong></td>
-              <td>Pro Bono SG will be able to share about our free legal clinics, latest initative, LawGoWhere, a one-stop legal information portal, as well as the various webinars that are available for registration or viewing of past webinars on our Youtube channel.</td>
+              <td>Pro Bono SG will be able to share about our free legal clinics, latest initiative, LawGoWhere, a one-stop legal information portal, as well as the various webinars that are available for registration or viewing of past webinars on our Youtube channel.</td>
             </tr>
             <tr>
                 <td scope="row"><strong>Community Justice Centre</strong></td>
@@ -682,7 +682,8 @@ description: ""
             </tr>
 					<tr>
                 <td scope="row"><strong>National Library Board</strong></td>
-              <td>Sharing on and creating awarenss of NLB's Seniors Services Time of Your Life's (TOYL) Wellness programmes and resoruces. These include:
+              <td>Sharing on and creating awareness of NLB's Seniors Services Time of Your Life's (TOYL) Wellness programmes and resources. These include:
+<br>
 <br>- Resources/Learning packages
 <br> - Play a round of NLB Memory cards or download (<a href="https://www.nlb.gov.sg/main/discover-and-learn/discover-our-collections/time-of-your-life-resources">https://www.nlb.gov.sg/main/discover-and-learn/discover-our-collections/time-of-your-life-resources</a>)
               </td>
