@@ -618,9 +618,10 @@ description: ""
                 </td>
             </tr>
 					<tr> <td scope="row"> 4.00pm to 5.30pm</td>
-							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
-<br><br><strong>Language:</strong> English-Mandarin
-								<br><br><strong>Details:</strong> Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones' future!
+							<td><strong>Caregiver Stress is Real - The importance of Caregiver Well-Being</strong>
+<br><br><strong>Language:</strong> English
+								<br><br><strong>Details:</strong> A caregiver is anyone who helps another person in need such as an ill spouse, a child with disability or aging relative. Caregiving can have many rewards and make relationships stronger, but the demands can cause emotional and physical stress. Find out more on how to help and support caregivers!
+<br><br>About the speaker: Nandita is a qualified mental health counsellor at Caregivers Alliance Limited (CAL). She also helms the Eating Disorder program and runs two support groups for caregivers of Schizophrenia and Parents of Young Adults. 
                 </td>
             </tr>
 </tbody>
