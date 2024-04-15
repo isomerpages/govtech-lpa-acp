@@ -598,7 +598,7 @@ description: ""
  <tr> <td scope="row"> 4.00pm to 5.30pm</td>
 							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
  <br><br><strong>Language:</strong> English-Mandarin
-								<br><br><strong>Details: </strong>Your care, their future. Act now and make an a CPF nomination to make a big difference for your loved ones' future!
+								<br><br><strong>Details: </strong>Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones' future!
                 </td>
             </tr>
 </tbody></table><p><strong style="color:blue"><b>Day 2 - 28 April 2024, Sunday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
