@@ -461,11 +461,11 @@ description: ""
 }
 
 .banner__content {
-  padding: 16px;
-  max-width: 500px;
+  padding: 14px;
+  max-width: 10000px;
   margin: 0 auto;
   display: flex;
-  align-items: center;
+  align-items: left;
   color: #ffffff;
 }
 
@@ -505,7 +505,7 @@ description: ""
         <h3>Upcoming Events</h3>
  <div class="banner">
     <div class="banner__content">
-      <div class="banner__text"> Announcement : Roadshows 
+      <div class="banner__text"> Announcement : There will be no 
       </div>
     </div>
   </div>
