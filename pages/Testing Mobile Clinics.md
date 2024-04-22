@@ -534,7 +534,7 @@ a.btn:nth-child(2) {
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--left">
 
-<strong><p>Thank you for supporting our 'Plan Today' roadshows and mobile clinics organised by the Agency for Integrated Care, Office of the Public Guardian, and My Legacy, to raise awareness about the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP). We will update with upcoming events once details are ready.</p></strong>
+<strong><p>Thank you for supporting our 'Plan Today' roadshows and mobile clinics organised by the Agency for Integrated Care, Office of the Public Guardian, and My Legacy, to raise awareness about the Lasting Power of Attorney (LPA) and Advance Care Plan (ACP). We will update with upcoming events once details are ready.</p></strong>
 
 <p> For more information on how to start your pre-planning journey by making an LPA and ACP, visit <a href="go.gov.sg/LPA-ACP">go.gov.sg/LPA-ACP</a>. The application fee for Singapore Citizens to apply for LPA Form 1 is waived until 31 March 2026.</p>
 
