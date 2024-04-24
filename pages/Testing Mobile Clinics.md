@@ -251,7 +251,7 @@ description: ""
 }
   th{
     background-color:#D4DFF1;
-		 font-weight: 700;
+		 font-size: 16px;
     }
   tr.bg {
     background-color: #83A1D3;
