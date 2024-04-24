@@ -553,7 +553,7 @@ a.btn:nth-child(2) {
       <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse">
         <tr>
-					<th>To certify your LPA</th>
+					<th>To certify your LPAs</th>
 					<th>To find an ACP facilitator</th>
         </tr>
         </thead>
