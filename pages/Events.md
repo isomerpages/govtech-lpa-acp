@@ -474,6 +474,7 @@ variant: markdown
     <div class="row">
       <div class="col-12 heading">
         <h3>Upcoming Events</h3>
+				<a target="_blank" href="/testing-mobile-clinics/">Here</a>
       </div>
       </div>
     <div class="row">
