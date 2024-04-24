@@ -241,7 +241,7 @@ description: ""
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #dddddd
     text-align: left;
     padding: 8px;
     border-width: 1px!important;
@@ -251,6 +251,7 @@ description: ""
 }
   th{
     background-color:#D4DFF1;
+		 font-weight: 700;
     }
   tr.bg {
     background-color: #83A1D3;
