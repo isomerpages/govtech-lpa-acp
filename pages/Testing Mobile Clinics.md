@@ -561,13 +561,15 @@ a.btn:nth-child(2) {
 			<tr>
 				</tr></thead><tbody>
    <tr>
-                <td scope="row">Approach the following organisations to certify your LPA:
-<p></p><li>Life Point's LPA One-Stop Services</li><p></p>
+                <td scope="row">
+									<p>Approach the following organisations to certify your LPA:</p>
+									<p></p><li>Life Point's LPA One-Stop Services</li><p></p>
 		 <p></p><li>Potter's Place Community Services Society (applicants will have to pass a means test)</li><p></p>
 		 <p></p><li>Mount Alvernia Outreach Medical Clinic @ Enabling Village (only for referrals from MSF or social service organisations and persons with disability)</li><p></p></td>
-		 <td>If you are receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you.
+		<td scope="row"> 
+<p>If you are receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you.</p>
 <p> If you are not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator. </p>
-<p></p><li> Find a community facilitator at: <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator">https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/</a>.
+<p></p><li> Find a community facilitator at: <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator">https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/</a>.<p></p>
                 </li></td>
             </tr>
 	
