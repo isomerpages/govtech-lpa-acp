@@ -251,7 +251,7 @@ description: ""
 }
   th{
     background-color:#D4DFF1;
-		 font-size: 18px;
+		 font-size: 19px;
     }
   tr.bg {
     background-color: #83A1D3;
@@ -553,7 +553,7 @@ a.btn:nth-child(2) {
       <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse">
         <tr>
-					<th>To certify your LPAx\q</th>
+					<th>To certify your LPA</th>
 					<th>To find an ACP facilitator</th>
         </tr>
         </thead>
