@@ -553,19 +553,19 @@ a.btn:nth-child(2) {
       <div class="row">
         <div class="col-12">
       <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
-        <tbody><tr>
+       <tbody><tr>
 					<th>To certify your LPA</th>
 					<th>To find an ACP facilitator</th>
         </tr>
-   <tr>
-                <td scope="row">
+                <tr><td scope="row">
 									<p>Approach the following organisations to certify your LPA:</p>
 									<ul>
 									<li>Life Point's LPA One-Stop Services</li>
 	<li>Potter's Place Community Services Society (applicants will have to pass a means test)</li>
 		<li>Mount Alvernia Outreach Medical Clinic @ Enabling Village (only for referrals from MSF or social service organisations and persons with disability)</li>
 										</ul>
-		</td><td scope="row"> 
+		</td>
+				<td scope="row"> 
 <p>If you are receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you.</p>
 <p> If you are not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator. </p>
 <ul>
@@ -573,8 +573,4 @@ a.btn:nth-child(2) {
                 </li>
 			</ul>
 		 </td>
-            </tr>
-				
-				
-			
-			</tbody></table></div></div></div></section></div></div></div></section>
+				</tr></tbody></table></div></div></div></section></div></div></div></section>
