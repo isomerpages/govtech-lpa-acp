@@ -486,6 +486,8 @@ description: ""
 .banner__close > span {
   color: #ffffff;
 }
+	
+	a:link {  color: red;}
 
     </style>
   <section class="event_banner">
@@ -505,7 +507,7 @@ description: ""
         <h3>Upcoming Events</h3>
  <div class="banner">
     <div class="banner__content">
-      <div class="banner__text"> Apart from our roadshows, explore other avenues to learn about LPA and ACP here: <a href="find-out-more/">https://giftofcertainty.gov.sg/find-out-more-lpa-acp/</a>
+      <div class="banner__text"> Apart from our roadshows, explore other avenues to learn about LPA and ACP here: <a style="color:white;" href="find-out-more/"> https://giftofcertainty.gov.sg/find-out-more-lpa-acp/</a>
       </div>
     </div>
   </div>
