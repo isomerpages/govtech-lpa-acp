@@ -518,6 +518,8 @@ a.btn:nth-child(2) {
       width: 100%;
   }
     }
+	
+	    ul li { padding: 5px 0px; }
 
     </style>
   <section class="event_banner">
@@ -542,8 +544,8 @@ a.btn:nth-child(2) {
 <p>To book an appointment with an LPA Certificate Issuer (CI) or ACP facilitator near you, visit <a href="mylegacy.life.gov.sg/find-a-service">mylegacy.life.gov.sg/find-a-service</a>.</p>
 
 <p>If you require in-person assistance, you may approach ServiceSG Centres, or call our hotlines:</p>
-			<p></p><li>MSF -  for queries on LPA: 1800 111 2222</li><p></p>
-			<p></p><li>AIC -  for queries on ACP: 1800 650 6060</li><p></p>
+			<li>MSF -  for queries on LPA: 1800 111 2222</li>
+			<li>AIC -  for queries on ACP: 1800 650 6060</li>
 		
 <p>Individuals with financial needs may access the following resources:</p>
 	<section class="p-b-110">
@@ -551,27 +553,28 @@ a.btn:nth-child(2) {
       <div class="row">
         <div class="col-12">
       <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
-    <thead class="thead-inverse">
-        <tr>
+        <tbody><tr>
 					<th>To certify your LPA</th>
 					<th>To find an ACP facilitator</th>
         </tr>
-        </thead>
-				  </table><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
-    <thead class="thead-inverse"> 
-			<tr>
-				</tr></thead><tbody>
    <tr>
                 <td scope="row">
 									<p>Approach the following organisations to certify your LPA:</p>
-									<p></p><li>Life Point's LPA One-Stop Services</li><p></p>
-		 <p></p><li>Potter's Place Community Services Society (applicants will have to pass a means test)</li><p></p>
-		 <p></p><li>Mount Alvernia Outreach Medical Clinic @ Enabling Village (only for referrals from MSF or social service organisations and persons with disability)</li><p></p></td>
-		<td scope="row"> 
+									<ul>
+									<li>Life Point's LPA One-Stop Services</li>
+	<li>Potter's Place Community Services Society (applicants will have to pass a means test)</li>
+		<li>Mount Alvernia Outreach Medical Clinic @ Enabling Village (only for referrals from MSF or social service organisations and persons with disability)</li>
+										</ul>
+		</td><td scope="row"> 
 <p>If you are receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you.</p>
 <p> If you are not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator. </p>
-<p></p><li> Find a community facilitator at: <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator">https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/</a>.<p></p>
-                </li></td>
+<ul>
+	<li> Find a community facilitator at: <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator">https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/</a>.
+                </li>
+			</ul>
+		 </td>
             </tr>
-	
-</tbody></table></div></div></div></section></div></div></div></section>
+				
+				
+			
+			</tbody></table></div></div></div></section></div></div></div></section>
