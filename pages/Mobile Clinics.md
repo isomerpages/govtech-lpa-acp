@@ -542,7 +542,7 @@ a.btn:nth-child(2) {
 <strong>Time:</strong> 10am to 6pm<br>
 	<strong>Location:</strong>1 Engku Aman Road Turn, Singapore 408528</p>
 		
-<p><strong>Slots for mobile clinic will opne on 6 May 2pm </strong></p>
+<p><strong>Slots for mobile clinic will open on 6 May 2pm </strong></p>
 	
 
 <p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>		
