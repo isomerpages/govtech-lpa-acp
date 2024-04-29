@@ -486,8 +486,6 @@ description: ""
 .banner__close > span {
   color: #ffffff;
 }
-	
-	a:link {  color: red;}
 
     </style>
   <section class="event_banner">
