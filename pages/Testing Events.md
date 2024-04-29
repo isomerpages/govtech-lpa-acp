@@ -512,21 +512,7 @@ description: ""
       </div>
       </div>
     <div class="row">
-<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/Dpz8XmX.jpg" style="width: 370px; height: 246px;">
-          <div class="content">
-            <h4><a href="/nlb/">Roadshow and Mobile Clinic @ National Library</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>27 and 28 April 2024 </strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">National Library / Lee Kong Chian Reference Library, Level 1, The Plaza</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">100 Victoria Street Singapore 188064</li>
-							<p><strong>Slots for mobile clinics are fully booked</strong></p>
-<p><a target="_blank" href="/nlb/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
+
   <div class="col-4 eventBlock">
         <div class="inner">
                <img title="Ismor Events" src="https://i.imgur.com/ipvSNCL.jpeg\[/img\]" style="width: 370px; height: 246px;">
