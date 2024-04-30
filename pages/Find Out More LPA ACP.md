@@ -537,7 +537,7 @@ a.btn:nth-child(2) {
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--left">
 
-<strong><p>Thank you for supporting our 'Plan Today' roadshows and mobile clinics organised by the Agency for Integrated Care, Office of the Public Guardian, and My Legacy, to raise awareness about the Lasting Power of Attorney (LPA) and Advance Care Plan (ACP). Information on upcoming events will be updated accordingly.</p></strong>
+<strong><p>Thank you for supporting our 'Plan Today' roadshows and mobile clinics organised by the Agency for Integrated Care, Office of the Public Guardian, and My Legacy, to raise awareness about the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP). Information on upcoming events will be updated accordingly.</p></strong>
 
 <p> For more information on how to start your pre-planning journey by making an LPA and ACP, visit <a href="mylegacy.life.gov.sg/find-a-service/lpa-acp/">mylegacy.life.gov.sg/find-a-service/lpa-acp</a>.</p>
 
