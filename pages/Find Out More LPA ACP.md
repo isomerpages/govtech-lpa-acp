@@ -537,17 +537,15 @@ a.btn:nth-child(2) {
 	<div class="row">
 		<div class="col-10 offset-1 eventB u-align--left">
 
-<strong><p>Thank you for supporting our 'Plan Today' roadshows and mobile clinics organised by the Agency for Integrated Care, Office of the Public Guardian, and My Legacy, to raise awareness about the Lasting Power of Attorney (LPA) and Advance Care Plan (ACP). We will update with upcoming events once details are ready.</p></strong>
+<strong><p>Thank you for supporting our 'Plan Today' roadshows and mobile clinics organised by the Agency for Integrated Care, Office of the Public Guardian, and My Legacy, to raise awareness about the Lasting Power of Attorney (LPA) and Advance Care Plan (ACP). Information on upcoming events will be updated accordingly.</p></strong>
 
-<p> For more information on how to start your pre-planning journey by making an LPA and ACP, visit <a href="mylegacy.life.gov.sg/find-a-service/lpa-acp/">mylegacy.life.gov.sg/find-a-service/lpa-acp</a>. The application fee for Singapore Citizens to apply for LPA Form 1 is waived until 31 March 2026.</p>
+<p> For more information on how to start your pre-planning journey by making an LPA and ACP, visit <a href="mylegacy.life.gov.sg/find-a-service/lpa-acp/">mylegacy.life.gov.sg/find-a-service/lpa-acp</a>.</p>
 
-<p>To book an appointment with an LPA Certificate Issuer (CI) or ACP facilitator near you, visit <a href="mylegacy.life.gov.sg/find-a-service">mylegacy.life.gov.sg/find-a-service</a>.</p>
+<p>Please note that the application fee for Singapore Citizens to apply for LPA Form 1 is waived until 31 March 2026. To book an appointment with an LPA Certificate Issuer (CI) or ACP facilitator near you, visit <a href="mylegacy.life.gov.sg/find-a-service">mylegacy.life.gov.sg/find-a-service</a>.</p>
 
-<p>If you require in-person assistance, you may approach ServiceSG Centres, or call our hotlines:</p>
+<p>If you require in-person assistance, you may approach <a href="https://www.psd.gov.sg/servicesg/">ServiceSG Centres</a>, or call our hotlines:</p>
 			<li>MSF -  for queries on LPA: 1800 111 2222</li>
 			<li>AIC -  for queries on ACP: 1800 650 6060</li>
-		
-<p>Individuals with financial needs may access the following resources:</p>
 	<section class="p-b-110">
     <div class="container">
       <div class="row">
@@ -558,7 +556,7 @@ a.btn:nth-child(2) {
 					<th>To find an ACP facilitator</th>
         </tr>
                 <tr><td scope="row">
-									<p>Approach the following organisations to certify your LPA:</p>
+									<p>Individuals with financial needs may approach the following organisations to certify your LPA:</p>
 									<ul>
 									<li>Life Point's LPA One-Stop Services</li>
 	<li>Potter's Place Community Services Society (applicants will have to pass a means test)</li>
