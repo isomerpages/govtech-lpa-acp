@@ -456,7 +456,36 @@ variant: markdown
       overflow: hidden;
     
 	}
-	
+	.banner {
+  background: #01436b;
+}
+
+.banner__content {
+  padding: 14px;
+  max-width: 10000px;
+  margin: 0 auto;
+  display: flex;
+  align-items: left;
+  color: #ffffff;
+}
+
+.banner__text {
+  flex-grow: 1;
+  line-height: 1.4;
+  color: #ffffff;
+  font-family: "Lato";
+}
+
+.banner__close {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.banner__text,
+.banner__close > span {
+  color: #ffffff;
+}
 
     </style>
   <section class="event_banner">
@@ -474,6 +503,12 @@ variant: markdown
     <div class="row">
       <div class="col-12 heading">
         <h3>Upcoming Events</h3>
+ <div class="banner">
+    <div class="banner__content">
+      <div class="banner__text"> Information on upcoming events will be updated accordingly.  Click here if you require assistance to make your LPA and ACP: <a style="color:white;" href="find-out-more/"> https://giftofcertainty.gov.sg/find-out-more-lpa-acp/</a>
+      </div>
+    </div>
+  </div>
       </div>
       </div>
     <div class="row">
