@@ -1,8 +1,8 @@
 ---
-title: Events
-permalink: /events/
-description: ""
+title: Find Out More LPA ACP
+permalink: /find-out-more-lpa-acp/
 variant: markdown
+description: ""
 ---
 <style>
   /* cyrillic */
@@ -199,9 +199,14 @@ variant: markdown
       font-style: normal;
   }
   .container{
-    width: 1170px;
+    width: 100%;
   margin: 0 auto;
   }
+	.eventToday h2 {
+    color: #07446B;
+    font-weight: bold;
+}
+	
     section{
     width: 100%;
     }
@@ -215,6 +220,13 @@ variant: markdown
   section.bp-section .bp-container {
   padding-bottom: 0!important;
   }
+	.eventToday{
+	padding: 90px 0 120px 0;
+	}
+	strong {
+    color: #07446B!important;
+    font-weight: 700;
+}
   .m-b-80{
   margin-bottom: 80px;
   }
@@ -229,13 +241,17 @@ variant: markdown
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #dddddd
     text-align: left;
     padding: 8px;
     border-width: 1px!important;
   }
+	.eventB p {
+    font-weight: 500;
+}
   th{
     background-color:#D4DFF1;
+		 font-size: 19px;
     }
   tr.bg {
     background-color: #83A1D3;
@@ -290,12 +306,21 @@ variant: markdown
     display: inline-block;
     margin-bottom: 11px;
 }
+section.event_banner {
+    padding-top: 45px;
+}	
   .eventBlock h4 a {
     font-size: 22px;
     font-weight: 600;
     text-decoration: none;
     color: #01436b;
 }
+.event_banner h1 {
+    font-family: Playfair Display;
+    font-style: italic;
+    font-size: 70px;
+    color: #07446B;
+}	
 .eventBlock ul.meta li {
     font-size: 15px;
     margin: 0!important;
@@ -307,12 +332,38 @@ variant: markdown
     margin-right: 10px;
     margin-top: 6px;
 }
+	.event_banner h1 span {
+    display: block;
+    margin-left: 107px;
+    font-family: 'Playfair Display';
+}
   container-fluid{
   width: 100%;
   }
   section.bp-section.is-small.bp-section-pagetitle {
   display: none;
   }
+	a.btn {
+    padding: 13px 70px;
+    background-color: #01436b;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 30px;
+	    white-space: nowrap;
+}
+	
+a.btn.disabled {
+		background-color: #666;
+		pointer-events:none;
+	  cursor: not-allowed;
+	}
+	a.btn:first-child {
+    margin-right: 30px;
+}
+a.btn:nth-child(2) {
+    margin-right: 30px; 
+}
   a.p-button.btn {
       background-color: transparent;
       border-radius: 30px;
@@ -326,10 +377,12 @@ variant: markdown
     display: inline-block;
       margin: 0;
   }
-	
   .content strong {
       color: #000;
   } 
+	.offset-1{
+	margin-left: 8.33%;
+	}
   section.bp-section .bp-container {
       width: 100%!important;
       max-width: 100%!important;
@@ -357,6 +410,10 @@ variant: markdown
   }
   .col-12 {
       width: 100%;
+      PADDING: 0 15px;
+  }
+	.col-10 {
+      width: 83.33%;
       PADDING: 0 15px;
   }
   .p-t-80 {
@@ -387,6 +444,9 @@ variant: markdown
       .p-lr-50{
     padding: 0;
     }
+		.offset-1{
+	margin-left: 0;
+	}
     html {
       overflow-x: hidden;
   }
@@ -416,10 +476,10 @@ variant: markdown
   }
     }
     section.event_banner {
-      background-color: #DACBBC;
+      background-color: #D0B69A;
   }
   .event_banner img {
-      height: 450px;
+      height: 350px;
       object-fit: contain;
       object-position: bottom;
   }
@@ -433,11 +493,21 @@ variant: markdown
       font-family:'Lato';
       font-weight: 400;
   }
-  
+  a.btn:hover {
+    color: #fff;
+    text-decoration: none;
+    opacity: .9;
+}
     @media(max-width: 767px){
     .events::before {
     display:none;
     }
+	.col-10 {
+      width: 100%;
+  }
+	a.btn:first-child {
+    margin-right: 2px;
+}
     .event_banner img {
       height: 300px;
   }
@@ -448,99 +518,57 @@ variant: markdown
       width: 100%;
   }
     }
-	imgdiv{
-	   
-      position: relative;
-      width: 300px;
-      height: 300px;
-      overflow: hidden;
-    
-	}
-	.banner {
-  background: #01436b;
-}
-
-.banner__content {
-  padding: 14px;
-  max-width: 10000px;
-  margin: 0 auto;
-  display: flex;
-  align-items: left;
-  color: #ffffff;
-}
-
-.banner__text {
-  flex-grow: 1;
-  line-height: 1.4;
-  color: #ffffff;
-  font-family: "Lato";
-}
-
-.banner__close {
-  background: none;
-  border: none;
-  cursor: pointer;
-}
-
-.banner__text,
-.banner__close > span {
-  color: #ffffff;
-}
+	
+	    ul li { padding: 5px 0px; }
 
     </style>
   <section class="event_banner">
     <div class="container-fluid">
       <div class="row">
         <div class="col-12 banner_b u-align--center">
+					<h1>Plan <span>Today</span></h1>
         <img alt="Legacy Events" src="https://i.imgur.com/f6S7lBG.png">
         </div>
       </div>
     </div>
-    </section>
-    
-  <section class="mainEvents p-t-80 p-b-110">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 heading">
-        <h3>Upcoming Events</h3>
- <div class="banner">
-    <div class="banner__content">
-      <div class="banner__text"> Information on upcoming events will be updated accordingly.  Click here if you require assistance to make your LPA and ACP: <a style="color:white;" href="find-out-more/"> https://giftofcertainty.gov.sg/find-out-more-lpa-acp/</a>
-      </div>
-    </div>
-  </div>
-      </div>
-      </div>
-    <div class="row">
+ </section>
+<section class="eventToday">
+<div class="container">
+	<div class="row">
+		<div class="col-10 offset-1 eventB u-align--left">
 
-  <div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/ipvSNCL.jpeg\[/img\]" style="width: 370px; height: 246px;">
-          <div class="content">
-            <h4><a href="/wisma-geylang-serai/">Roadshow and Mobile Clinic @ Wisma Geylang Serai</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>25 and 26 May 2024</strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Level 1 Persada Budaya (Roadshow) &amp; Level 4 Project Studios (Mobile Clinic) </li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">1 Engku Aman Road Turn, Singapore 408528</li>
-					
-<p><a target="_blank" href="/wisma-geylang-serai/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div>
-<div class="col-4 eventBlock">
-        <div class="inner">
-               <img title="Ismor Events" src="https://i.imgur.com/OUM3o2M.png" style="width: 370px; height: 246px;">
-          <div class="content">
-            <h4><a href="/yewteepoint/">Roadshow and Mobile Clinic @ Yew Tee Point</a></h4>
-            <ul class="meta">
-              <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>22 and 23 June 2024 </strong></li>
-              <li><img src="https://i.imgur.com/mc9gYLj.png">Yew Tee Point Open Space</li>
-              <li><img src="https://i.imgur.com/jsREBhu.png">21 Choa Chu Kang North 6, Singapore 689578</li>
-					
-<p><a target="_blank" href="/yewteepoint/">Learn more</a></p>
-            </ul>
-          </div>
-        </div>
-      </div></div>
-</div></section>
+<strong><p>Thank you for supporting our 'Plan Today' roadshows and mobile clinics organised by the Agency for Integrated Care, Office of the Public Guardian, and My Legacy, to raise awareness about the Lasting Power of Attorney (LPA) and Advance Care Plan (ACP). Information on upcoming events will be updated accordingly.</p></strong>
+
+<p> For more information on how to start your pre-planning journey by making an LPA and ACP, visit <a href="mylegacy.life.gov.sg/find-a-service/lpa-acp/">mylegacy.life.gov.sg/find-a-service/lpa-acp</a>.</p>
+
+<p>Please note that the application fee for Singapore Citizens to apply for LPA Form 1 is waived until 31 March 2026. To book an appointment with an LPA Certificate Issuer (CI) or ACP facilitator near you, visit <a href="mylegacy.life.gov.sg/find-a-service">mylegacy.life.gov.sg/find-a-service</a>.</p>
+
+<p>If you require in-person assistance, you may approach <a href="https://www.psd.gov.sg/servicesg/">ServiceSG Centres</a>, or call our hotlines:</p>
+			<li>MSF -  for queries on LPA: 1800 111 2222</li>
+			<li>AIC -  for queries on ACP: 1800 650 6060</li>
+	<section class="p-b-110">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+      <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+       <tbody><tr>
+					<th>To certify your LPA</th>
+					<th>To find an ACP facilitator</th>
+        </tr>
+                <tr><td scope="row">
+									<p>Individuals with financial needs may approach the following organisations to certify your LPA:</p>
+									<ul>
+									<li>Life Point's LPA One-Stop Services</li>
+	<li>Potter's Place Community Services Society (applicants will have to pass a means test)</li>
+		<li>Mount Alvernia Outreach Medical Clinic @ Enabling Village (only for referrals from MSF or social service organisations and persons with disability)</li>
+										</ul>
+		</td>
+				<td scope="row"> 
+<p>If you are receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you.</p>
+<p> If you are not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator. </p>
+<ul>
+	<li> Find a community facilitator at: <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator">https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/</a>.
+                </li>
+			</ul>
+		 </td>
+				</tr></tbody></table></div></div></div></section></div></div></div></section>
