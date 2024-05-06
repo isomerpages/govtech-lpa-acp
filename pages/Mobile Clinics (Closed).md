@@ -530,7 +530,8 @@ section.event_banner {
 <div>
 <div class="btnB" style="display:flex; flex-wrap:wrap; justify-content: center; column-gap:15px;">
 <a class="btn disabled" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a>
-	<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
+<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
+<a class="btn disabled" href="https://form.gov.sg/654ae82196770c00114a677f">LPA-ACP</a>
 			</div>	
 	<p><strong style="color:red"><b>Slots for mobile clinic will open on 6 May 2pm</b></strong></p>
 			</div>
