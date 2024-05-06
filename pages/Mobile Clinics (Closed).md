@@ -354,12 +354,7 @@ section.event_banner {
 		background-color: #666;
 		pointer-events:none;
 	}
-	a.btn:first-child {
-    margin-right: 30px;
-}
-a.btn:nth-child(2) {
-    margin-right: 30px; 
-}
+
   a.p-button.btn {
       background-color: transparent;
       border-radius: 30px;
@@ -533,10 +528,11 @@ a.btn:nth-child(2) {
 			<h2>Booking slots for LPA and ACP are fully booked.</h2>
 <p style="justify-content: center;">I'd like to sign up for:</p>
 <div>
-<div class="btnB" style="display:flex; justify-content: center;">
+<div class="btnB" style="display:flex; flex-wrap:wrap; justify-content: center; column-gap:15px;">
 <a class="btn disabled" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a>
 	<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
 			</div>	
+	<p><strong style="color:red"><b>Slots for mobile clinic will open on 6 May 2pm</b></strong></p>
 			</div>
 			<p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br><br>For further assistance or enquiries, please do not contact the CC but call us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>	
 		</div>
