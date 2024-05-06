@@ -522,6 +522,7 @@ variant: markdown
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>25 and 26 May 2024</strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Level 1 Persada Budaya (Roadshow) &amp; Level 4 Project Studios (Mobile Clinic) </li>
               <li><img src="https://i.imgur.com/jsREBhu.png">1 Engku Aman Road Turn, Singapore 408528</li>
+			<p><strong style="color:red"><b>Slots for mobile clinic are fully booked</b></strong></p>
 					
 <p><a target="_blank" href="/wisma-geylang-serai/">Learn more</a></p>
             </ul>
