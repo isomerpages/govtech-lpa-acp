@@ -536,13 +536,10 @@ a.btn.disabled {
 <p><strong>Date:</strong> 25 and 26 May 2024<br>
 <strong>Time:</strong> 10am to 6pm<br>
 	<strong>Location:</strong> Wisma Geylang Serai, 1 Engku Aman Road Turn, Singapore 408528</p>
-		
-<p style="justify-content: center;">I'd like to sign up for:</p>
+	
 <div>
 <div class="btnB" style="justify-content: center; display:flex; flex-wrap: wrap; column-gap: 15px;">
-<a class="btn disabled" href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/">LPA</a>
-<a class="btn" href="https://form.gov.sg/65487f80a29446001218159e">ACP</a>
-<a class="btn disabled" href="https://form.gov.sg/654ae82196770c00114a677f">LPA-ACP</a>
+<p><strong style="color:red"><b>Slots for mobile clinic are fully booked</b></strong></p>
 			</div>	
 	
 
