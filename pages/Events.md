@@ -505,7 +505,7 @@ variant: markdown
         <h3>Upcoming Events</h3>
  <div class="banner">
     <div class="banner__content">
-      <div class="banner__text"> Information on upcoming events will be updated accordingly.  Click here if you require assistance to make your LPA and ACP: <a style="color:white;" href="https://giftofcertainty.gov.sg/find-out-more-lpa-acp/">https://giftofcertainty.gov.sg/find-out-more-lpa-acp/</a>
+      <div class="banner__text"> Information on upcoming events will be updated accordingly.  Click <a style="color:white;" href="https://giftofcertainty.gov.sg/find-out-more-lpa-acp/">here</a> if you require assistance to make your LPA and ACP
       </div>
     </div>
   </div>
