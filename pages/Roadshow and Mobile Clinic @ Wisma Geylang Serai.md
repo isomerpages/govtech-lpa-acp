@@ -563,21 +563,148 @@ description: ""
 						<strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
-              <hr>
-					<p>If you are not eligible for the mobile clinic, unable to secure an appointment slot or would like to complete your LPA and ACP sooner, you may contact an LPA Certificate Issuer and ACP Facilitator through:</p>
-          <ul style="padding-left: 30px; list-style: disc;">
-            <li><a target="_blank" href="https://opg-eservice.msf.gov.sg/LPA/CIMapService.aspx">Find an LPA Certificate Issuer</a></li>
-            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">Find an ACP Facilitator</a></li>
-            <li><a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/find-lpa-acp-bundled-provider/">Find an LPA-ACP bundled provider</a></li>
-          </ul>
-<p>Please check with your preferred service provider on their charges and availability before heading down.</p>
-          
-<p>If you have any queries, check out our <a target="blank" href="https://giftofcertainty.gov.sg/faqs-for-events/"> FAQs</a> or you can contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg.</a></p>
+             <hr>
+					<h5><strong>Roadshow Activities:</strong></h5>
+<p>Join us for our talks and activities listed in the table below. You can stand a chance to win a $5 NTUC voucher after completing our roadshow activities. While stocks last!</p>
 </div></div></div></div></section>
 <section class="p-b-110">
     <div class="container">
       <div class="row">
         <div class="col-12">
+      <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse">
+        <tr>
+            <th>Timing</th>
+            <th>Programme^(Free Admission)</th>
+        </tr>
+        </thead>
+				  </table><p><strong style="color:blue"><b>Day 1 -25 May 2024, Saturday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse"> 
+			<tr>
+				</tr></thead><tbody>
+            <tr>
+                <td scope="row"> 10.00am to 11.30am</td>
+							<td><strong>Talk on LPA-ACP</strong>
+                <br><br><strong>Language:</strong> 
+								<br><br><strong>Details: </strong>
+                </td>
+            </tr>
+					 <tr> <td scope="row"> 12.00pm to 1.30pm</td>
+							<td><strong>Talk on LPA-ACP</strong>
+ <br><br><strong>Language:</strong> 
+								<br><br><strong>Details: </strong>
+                </td>
+            </tr>
+  <tr> <td scope="row"> 2.00pm to 3.30pm</td>
+							<td><strong>Celebrity Appearance by Artiste Rahimah Rahim and Mediacorp Personality Bukoh Mary</strong>
+								<br><br><strong>Details: </strong>
+<br>- Sing along with Rahimah
+<br> -Quiz Time: "How Well Do You Know about LPA and ACP"
+								<br><br>Stand a chance to win prizes!
+                </td>
+            </tr>
+					  <tr> <td scope="row"> 3.00pm to 4.30pm</td>
+							<td><strong>Talk on LPA-ACP</strong>
+ <br><br><strong>Language:</strong> English-Mandarin
+								<br><br><strong>Details: </strong> Find out about why it is important to plan ahead and how you can start your legacy planning. Learn more about the various pre-planning tools such as the Lasting Power of Attorney (LPA), Advance Care Planning (ACP) and how to use the My Legacy vault.
+                </td>
+            </tr>
+</tbody></table><p><strong style="color:blue"><b>Day 2 - 26 May 2024, Sunday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse"> 
+			<tr>
+				</tr></thead><tbody>
+					<tr> <td scope="row"> 10.00am to 11.30am</td>
+							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
+								<br><br><strong>Language:</strong> English-Mandarin
+								<br><br><strong>Details:</strong> Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones' future!
+                </td>
+            </tr>
+					<tr> <td scope="row"> 12.00pm to 1.30pm</td>
+							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
+<br><br><strong>Language:</strong>
+								<br><br><strong>Details:</strong> 
+                </td>
+            </tr>
+					<tr> <td scope="row"> 2.00pm to 3.00pm</td>
+							<td><strong>Celebrity Appearance by Artiste Sujimy Mohamad and Mediacorp Personality Bukoh Mary</strong>
+								<br><br><strong>Details:</strong> <br> -Quiz Time: "How Well Do You Know about LPA and ACP"
+								<br><br>Stand a chance to win prizes!
+                </td>
+            </tr>
+										<tr> <td scope="row"> 3.00pm to 4.30pm</td>
+							<td><strong>Celebrity Appearance by Artiste Sujimy Mohamad and Mediacorp Personality Bukoh Mary</strong>
+								<br><br><strong>Details:</strong> <br>
+                </td>
+            </tr>
+</tbody>
+</table>
+          <small>^All talks and programmes have limited seats, on a first come first served basis, sign up not required. Programmes and speakers are subjected to changes by organisers without prior notice.</small>
+<p>
+          Besides talks, you can learn more about LPA, ACP and other pre-planning tools at our roadshow booths!</p>
+      <table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+    <thead class="thead-inverse">
+        <tr>
+            <th>Organisation</th>
+            <th>Booth Information</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td scope="row"><strong>OPG, AIC &amp; My Legacy</strong></td>
+              <td>Find out more information about LPA, ACP and My Legacy website.</td>
+            </tr>
+					                <tr><td scope="row"><strong>CPF Board</strong></td>
+              <td>To share the importance of making a CPF nomination so that CPF members can decide who to give their CPF savings to when they pass on.&nbsp;&nbsp;
+<br><br>Encourage CPF members to review their CPF nomination regularly even after they had made their nomination.&nbsp;
+<br><br>CPF Members who are ready to make a nomination or want to check their nominations, can do so at the booth (mobile clinic area). Note: Only for members with Singpass. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Pro-bono SG </strong></td>
+              <td>Pro Bono SG will be able to share about our free legal clinics, latest initiative, LawGoWhere, a one-stop legal information portal, as well as the various webinars that are available for registration or viewing of past webinars on our Youtube channel.</td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>Community Justice Centre</strong></td>
+              <td>CJC is a charity organisation that provides legal and social support for self-represented persons.
+<br><br>Deputyship Assistance Programme seeks to provide assistance and support to individuals applying to be appointed as a deputy via the standard process using the CJC's free online system. </td>
+            </tr>
+            <tr>
+                <td scope="row"><strong>AIC Grants and Schemes </strong></td>
+              <td>Sharing about AIC’s Long Term Care Schemes &amp; Grants that seniors and family members can tap on in the future. </td>
+            </tr>
+                        <tr>
+                <td scope="row"><strong>ASHTRONAUT</strong></td>
+              <td>Start conversations about the death and dying process so that individuals can better navigate life and end-of-life matters. </td>
+            </tr>
+					          <tr>
+                <td scope="row"><strong>SATA</strong></td>
+              <td>Sharing information about LPA and ACP. </td>
+            </tr>
+                                    <tr>
+                <td scope="row"><strong>Singapore Hospice Council </strong></td>
+              <td>Find out more about palliative care services in Singapore to support individuals with serious illnesses and at the end-of-life.
+</td>
+            </tr>                                
+					<tr>
+                <td scope="row"><strong>Special Needs Trust Company </strong></td>
+              <td>With SNTC, you can plan early and smart for your loved ones with special needs.
+              </td>
+            </tr>
+					<tr>
+                <td scope="row"><strong>Majlis Ugama Islam Singapura (MUIS) </strong></td>
+              <td>[pending]
+              </td>
+            </tr>
+					          <tr>
+                <td scope="row"><strong>Centre For Seniors (CFS)</strong></td>
+              <td>Be READY For Your Next Chapter - We focus on helping seniors to navigate work and life transition. RETHINK your work, health, family, financial and legacy planning</td>
+            </tr>
+					<tr>
+                <td scope="row"><strong>Council for Third Age (C3A)</strong></td>
+              <td>[pending] </td>
+            </tr>
+        </tbody>
+</table>     
+<p>Please contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a> if you have queries.</p>
     <div class="row">
 <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
 			      <div class="col-3 m-t-40"></div>
