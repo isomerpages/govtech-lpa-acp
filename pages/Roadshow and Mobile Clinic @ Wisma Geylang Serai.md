@@ -691,12 +691,12 @@ description: ""
             </tr>
 					<tr>
                 <td scope="row"><strong>Majlis Ugama Islam Singapura (MUIS) </strong></td>
-              <td>[pending]
+              <td>Find out about the religious permissibility of pre-planning and legacy planning tools and get advice on Islamic Legacy Planning (ILP) matters including Faraid, Wasiat, Nominations and Home Ownership.
               </td>
             </tr>
 					          <tr>
                 <td scope="row"><strong>Centre For Seniors (CFS)</strong></td>
-              <td>Be READY For Your Next Chapter - We focus on helping seniors to navigate work and life transition. RETHINK your work, health, family, financial and legacy planning</td>
+              <td>CFS focuses on helping seniors to navigate work and life transitions. With CFS, seniors can be ready for their next chapter, and rethink their work, health, family, financial and legacy planning.</td>
             </tr>
 					<tr>
                 <td scope="row"><strong>Council for Third Age (C3A)</strong></td>
