@@ -584,9 +584,9 @@ description: ""
 				</tr></thead><tbody>
             <tr>
                 <td scope="row"> 10.00am to 11.30am</td>
-							<td><strong>Talk on LPA-ACP</strong>
-                <br><br><strong>Language:</strong> 
-								<br><br><strong>Details: </strong>
+							<td><strong>Beyond Faraid: Wasiat is Obligatory?</strong>
+                <br><br><strong>Language: </strong> English- Malay 
+								<br><br><strong>Details: </strong>Understand Faraid better and learn about the importance and functionalities of a Wasiat (Islamic Will). Join us in this panel discussion to get the chance to have your questions answered by an Asatizah and lawyer!
                 </td>
             </tr>
 					 <tr> <td scope="row"> 12.00pm to 1.30pm</td>
@@ -599,7 +599,7 @@ description: ""
 							<td><strong>Celebrity Appearance by Artiste Rahimah Rahim and Mediacorp Personality Bukoh Mary</strong>
 								<br><br><strong>Details: </strong>
 <br>- Sing along with Rahimah
-<br> -Quiz Time: "How Well Do You Know about LPA and ACP"
+<br> - Quiz Time: "How Well Do You Know about LPA and ACP"
 								<br><br>Stand a chance to win prizes!
                 </td>
             </tr>
@@ -620,20 +620,28 @@ description: ""
                 </td>
             </tr>
 					<tr> <td scope="row"> 12.00pm to 1.30pm</td>
-							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
-<br><br><strong>Language:</strong>
-								<br><br><strong>Details:</strong> 
+							<td><strong>Talk Topic: "Financially Smart in Retirement"</strong>
+<br><br><strong>Language: English</strong>
+								<br><br><strong>Details:</strong> Brief overview of the importance of financial literacy in retirement
+								<br><br>- Assessing income sources (CPF Schemes, Personal Savings, investments etc)
+								<br>- Identifying financial goals and priorities
+<br>- Being aware of common financial pitfalls
+<br>- Strategies for smart consumer decision-making
+<br>- Identifying scams and fraudulent schemes
+								<br>- Utilising discounts and senior benetifts
+								<br>- Importance of maintaining good credit
                 </td>
             </tr>
 					<tr> <td scope="row"> 2.00pm to 3.00pm</td>
 							<td><strong>Celebrity Appearance by Artiste Sujimy Mohamad and Mediacorp Personality Bukoh Mary</strong>
-								<br><br><strong>Details:</strong> <br> -Quiz Time: "How Well Do You Know about LPA and ACP"
+								<br><br><strong>Details:</strong> <br> - Quiz Time: "How Well Do You Know about LPA and ACP"
 								<br><br>Stand a chance to win prizes!
                 </td>
             </tr>
 										<tr> <td scope="row"> 3.00pm to 4.30pm</td>
-							<td><strong>Celebrity Appearance by Artiste Sujimy Mohamad and Mediacorp Personality Bukoh Mary</strong>
-								<br><br><strong>Details:</strong> <br>
+							<td><strong>Beyond Faraid: Are Nominations Hibah?</strong>
+								<br><br><strong>Language: English-Malay</strong>
+								<br><br><strong>Details: </strong>Learn about hibah and permissibility as well as benefits of making nominations (CPF and insurance) and how it will affect your estate distribution i.e., Faraid. Join us in this panel discussion to get the chance to have your questions answered by an Asatizah and lawyer!
                 </td>
             </tr>
 </tbody>
