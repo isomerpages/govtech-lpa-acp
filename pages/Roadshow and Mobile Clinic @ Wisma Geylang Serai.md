@@ -621,7 +621,7 @@ description: ""
             </tr>
 					<tr> <td scope="row"> 12.00pm to 1.30pm</td>
 							<td><strong>Talk Topic: "Financially Smart in Retirement"</strong>
-<br><br><strong>Language: English</strong>
+<br><br><strong>Language: </strong>English
 								<br><br><strong>Details:</strong> Brief overview of the importance of financial literacy in retirement
 								<br><br>- Assessing income sources (CPF Schemes, Personal Savings, investments etc)
 								<br>- Identifying financial goals and priorities
@@ -640,7 +640,7 @@ description: ""
             </tr>
 										<tr> <td scope="row"> 3.00pm to 4.30pm</td>
 							<td><strong>Beyond Faraid: Are Nominations Hibah?</strong>
-								<br><br><strong>Language: English-Malay</strong>
+								<br><br><strong>Language:</strong> English-Malay
 								<br><br><strong>Details: </strong>Learn about hibah and permissibility as well as benefits of making nominations (CPF and insurance) and how it will affect your estate distribution i.e., Faraid. Join us in this panel discussion to get the chance to have your questions answered by an Asatizah and lawyer!
                 </td>
             </tr>
