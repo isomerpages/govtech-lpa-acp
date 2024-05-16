@@ -2,6 +2,8 @@ collections:
   archive:
     output: true
     order:
+      - LPA Mobile Clinic @ Enabling Village.md
+      - Roadshow and Mobile Clinic @ Toa Payoh HDB Hub.md
       - Roadshow and Mobile Clinic @ Heartbeat@ Bedok.md
       - Mobile Clinic @ Devan Nair Institute.md
       - Mobile Clinic @ Kebun Baru CC.md
