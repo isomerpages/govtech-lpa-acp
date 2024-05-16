@@ -589,12 +589,6 @@ description: ""
 								<br><br><strong>Details: </strong>Understand Faraid better and learn about the importance and functionalities of a Wasiat (Islamic Will). Join us in this panel discussion to get the chance to have your questions answered by an Asatizah and lawyer!
                 </td>
             </tr>
-					 <tr> <td scope="row"> 12.00pm to 1.30pm</td>
-							<td><strong>Talk on LPA-ACP</strong>
- <br><br><strong>Language:</strong> 
-								<br><br><strong>Details: </strong>
-                </td>
-            </tr>
   <tr> <td scope="row"> 2.00pm to 3.30pm</td>
 							<td><strong>Celebrity Appearance by Artiste Rahimah Rahim and Mediacorp Personality Bukoh Mary</strong>
 								<br><br><strong>Details: </strong>
@@ -705,10 +699,6 @@ description: ""
 					          <tr>
                 <td scope="row"><strong>Centre For Seniors (CFS)</strong></td>
               <td>CFS focuses on helping seniors to navigate work and life transitions. With CFS, seniors can be ready for their next chapter, and rethink their work, health, family, financial and legacy planning.</td>
-            </tr>
-					<tr>
-                <td scope="row"><strong>Council for Third Age (C3A)</strong></td>
-              <td>[pending] </td>
             </tr>
         </tbody>
 </table>     
