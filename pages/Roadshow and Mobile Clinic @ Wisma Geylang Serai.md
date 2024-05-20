@@ -627,7 +627,7 @@ description: ""
                 </td>
             </tr>
 					<tr> <td scope="row"> 2.00pm to 3.00pm</td>
-							<td><strong>Celebrity Appearance by Artiste Sujimy Mohamad and Mediacorp Personality Bukoh Mary</strong>
+							<td><strong>Celebrity Appearance by Content Creator Sujimy Mohamad and Mediacorp Personality Bukoh Mary</strong>
 								<br><br><strong>Details:</strong> <br> - Quiz Time: "How Well Do You Know about LPA and ACP"
 								<br><br>Stand a chance to win prizes!
                 </td>
@@ -699,6 +699,10 @@ description: ""
 					          <tr>
                 <td scope="row"><strong>Centre For Seniors (CFS)</strong></td>
               <td>CFS focuses on helping seniors to navigate work and life transitions. With CFS, seniors can be ready for their next chapter, and rethink their work, health, family, financial and legacy planning.</td>
+            </tr>
+					  <tr>
+                <td scope="row"><strong>Council for Third Age (C3A)</strong></td>
+              <td>The Council for Third Age (C3A) is an agency which promotes active ageing in Singapore through public education, outreach and partnerships. <br><br> As an umbrella body in the active ageing landscape, with its focus on lifelong learning, senior volunteerism, and positive ageing, C3A works with and through partners to help seniors age well. <br><br> Come find out more about the wide range of courses and volunteering opportunities available for seniors! <br><br><a href="www.c3a.org.sg">www.c3a.org.sg</a></td>
             </tr>
         </tbody>
 </table>     
