@@ -533,13 +533,13 @@ a.btn.disabled {
 
 <p> Ready to complete your LPA and ACP? If you are a Singaporean, aged 50 and above with a valid CHAS Blue or Orange Card, use this form to sign up for a free LPA and ACP session at our upcoming mobile clinics. Booking slots are limited and are on a first-come, first-served basis. One appointment slot per individual.</p>
 
-<p><strong>Date:</strong> 25 and 26 May 2024<br>
+<p><strong>Date:</strong> 22 and 23 June 2024<br>
 <strong>Time:</strong> 10am to 6pm<br>
-	<strong>Location:</strong> Wisma Geylang Serai, 1 Engku Aman Road Turn, Singapore 408528</p>
+	<strong>Location:</strong> 21 Choa Chu Kang North 6, Singapore 6895788</p>
 	
 <div>
 <div class="btnB" style="justify-content: center; display:flex; flex-wrap: wrap; column-gap: 15px;">
-<p><strong style="color:red"><b>Slots for mobile clinic are fully booked</b></strong></p>
+<p><strong style="color:red"><b>Slots for mobile clinic will open on 3 June 2pm</b></strong></p>
 			</div>	
 	
 
