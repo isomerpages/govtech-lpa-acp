@@ -546,7 +546,7 @@ a.btn.disabled {
 <a class="btn disabled" href="https://form.gov.sg/654ae82196770c00114a677f">LPA-ACP</a>
 			</div>	<div class="btnB" style="justify-content: center; display:flex; flex-wrap: wrap; column-gap: 15px;">
 			</div>	
-	
+<p><strong style="color:red !important"><b>Slots for LPA and LPA-ACP are fully booked</b></strong></p>
 
 <p>Have not started on your LPA and ACP yet? Click <a target="_blank" href="https://giftofcertainty.gov.sg/home">here</a> to get started.<br>For further assistance or enquiries, you can contact us at&nbsp;<a href="tel:18001112222">1800-111-2222</a> or email us at <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a></p>		
   </div>
