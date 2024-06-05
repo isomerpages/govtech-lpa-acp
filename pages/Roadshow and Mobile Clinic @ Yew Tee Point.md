@@ -709,6 +709,7 @@ description: ""
 </table>     
 <p>Please contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a> if you have queries.</p>
     <div class="row">
+<div class="col-12 m-t-40"><a href="/mobile-clinics/" class="p-cta-button btn">BOOK A SLOT </a></div>
 <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
 			      <div class="col-3 m-t-40"></div>
     </div>
