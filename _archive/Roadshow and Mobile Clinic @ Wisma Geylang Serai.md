@@ -563,7 +563,7 @@ description: ""
 						<strong> Prepare your LPA and ACP 
           <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
 					</div>
-             <hr>
+               <hr>
 					<h5><strong>Roadshow Activities:</strong></h5>
 <p>Join us for our talks and activities listed in the table below. You can stand a chance to win a $5 NTUC voucher after completing our roadshow activities. While stocks last!</p>
 </div></div></div></div></section>
@@ -578,39 +578,39 @@ description: ""
             <th>Programme^(Free Admission)</th>
         </tr>
         </thead>
-				  </table><p><strong style="color:blue"><b>Day 1 -25 May 2024, Saturday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+				  </table><p><strong style="color:blue"><b>Day 1 -22 June 2024, Saturday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse"> 
 			<tr>
 				</tr></thead><tbody>
             <tr>
                 <td scope="row"> 10.00am to 11.30am</td>
-							<td><strong>Beyond Faraid: Wasiat is Obligatory?</strong>
-                <br><br><strong>Language: </strong> English- Malay 
-								<br><br><strong>Details: </strong>Understand Faraid better and learn about the importance and functionalities of a Wasiat (Islamic Will). Join us in this panel discussion to get the chance to have your questions answered by an Asatizah and lawyer!
+							<td><strong>Talk on LPA-ACP</strong>
+                <br><br><strong>Language: </strong> English- Mandarin
+								<br><br><strong>Details: </strong>Find out about why it is important to plan ahead and how you can start your legacy planning. Learn more about the various pre-planning tools such as the Lasting Power of Attorney (LPA), Advance Care Planning (ACP) and how to use the My Legacy vault.
                 </td>
             </tr>
-  <tr> <td scope="row"> 2.00pm to 3.30pm</td>
-							<td><strong>Celebrity Appearance by Artiste Rahimah Rahim and Mediacorp Personality Bukoh Mary</strong>
+  <tr> <td scope="row"> 2.00pm to 3.00pm</td>
+							<td><strong>Celebrity Appearance by Mediacorp Artiste Xiang Yun and Mediacorp Personality Bukoh Mary</strong>
 								<br><br><strong>Details: </strong>
-<br>- Sing along with Rahimah
+<br>- Exercise with Xiang Yun
 <br> - Quiz Time: "How Well Do You Know about LPA and ACP"
 								<br><br>Stand a chance to win prizes!
                 </td>
             </tr>
 					  <tr> <td scope="row"> 3.00pm to 4.30pm</td>
 							<td><strong>Talk on LPA-ACP</strong>
- <br><br><strong>Language:</strong> English-Mandarin
+ <br><br><strong>Language:</strong> English-Tamil
 								<br><br><strong>Details: </strong> Find out about why it is important to plan ahead and how you can start your legacy planning. Learn more about the various pre-planning tools such as the Lasting Power of Attorney (LPA), Advance Care Planning (ACP) and how to use the My Legacy vault.
                 </td>
             </tr>
-</tbody></table><p><strong style="color:blue"><b>Day 2 - 26 May 2024, Sunday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
+</tbody></table><p><strong style="color:blue"><b>Day 2 - 23 June 2024, Sunday</b></strong></p><table style="background-color:#fff" class="table table-striped table-inverse table-responsive">
     <thead class="thead-inverse"> 
 			<tr>
 				</tr></thead><tbody>
 					<tr> <td scope="row"> 10.00am to 11.30am</td>
-							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
-								<br><br><strong>Language:</strong> English-Mandarin
-								<br><br><strong>Details:</strong> Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones' future!
+							<td><strong>Talk on LPA-ACP</strong>
+								<br><br><strong>Language:</strong> English-Malay
+								<br><br><strong>Details:</strong> Find out about why it is important to plan ahead and how you can start your legacy planning. Learn more about the various pre-planning tools such as the Lasting Power of Attorney (LPA), Advance Care Planning (ACP) and how to use the My Legacy vault. 
                 </td>
             </tr>
 					<tr> <td scope="row"> 12.00pm to 1.30pm</td>
@@ -627,15 +627,16 @@ description: ""
                 </td>
             </tr>
 					<tr> <td scope="row"> 2.00pm to 3.00pm</td>
-							<td><strong>Celebrity Appearance by Content Creator Sujimy Mohamad and Mediacorp Personality Bukoh Mary</strong>
-								<br><br><strong>Details:</strong> <br> - Quiz Time: "How Well Do You Know about LPA and ACP"
+							<td><strong>Celebrity Appearance by King Kong Artiste Marcus Chin and Mediacorp Personality Bukoh Mary</strong>
+								<br><br><strong>Details:</strong> 
+								<br> - Sing along with Marcus<br> - Quiz Time: "How Well Do You Know about LPA and ACP"
 								<br><br>Stand a chance to win prizes!
                 </td>
             </tr>
 										<tr> <td scope="row"> 3.00pm to 4.30pm</td>
-							<td><strong>Beyond Faraid: Are Nominations Hibah?</strong>
-								<br><br><strong>Language:</strong> English-Malay
-								<br><br><strong>Details: </strong>Learn about hibah and permissibility as well as benefits of making nominations (CPF and insurance) and how it will affect your estate distribution i.e., Faraid. Join us in this panel discussion to get the chance to have your questions answered by an Asatizah and lawyer!
+							<td><strong>From Love to Legacy, Making a CPF nomination for your CPF savings</strong>
+								<br><br><strong>Language:</strong> English-Mandarin
+								<br><br><strong>Details: </strong>Your care, their future. Act now and make a CPF nomination to make a big difference for your loved ones' future!
                 </td>
             </tr>
 </tbody>
@@ -677,10 +678,6 @@ description: ""
                 <td scope="row"><strong>ASHTRONAUT</strong></td>
               <td>Start conversations about the death and dying process so that individuals can better navigate life and end-of-life matters. </td>
             </tr>
-					          <tr>
-                <td scope="row"><strong>SATA</strong></td>
-              <td>Sharing information about LPA and ACP. </td>
-            </tr>
                                     <tr>
                 <td scope="row"><strong>Singapore Hospice Council </strong></td>
               <td>Find out more about palliative care services in Singapore to support individuals with serious illnesses and at the end-of-life.
@@ -698,16 +695,21 @@ description: ""
             </tr>
 					          <tr>
                 <td scope="row"><strong>Centre For Seniors (CFS)</strong></td>
-              <td>CFS focuses on helping seniors to navigate work and life transitions. With CFS, seniors can be ready for their next chapter, and rethink their work, health, family, financial and legacy planning.</td>
+              <td>Be READY For Your Next Chapter - We focus on helping seniors to navigate work and life transition. RETHINK your work, health, family, financial and legacy planning.</td>
             </tr>
 					  <tr>
-                <td scope="row"><strong>Council for Third Age (C3A)</strong></td>
-              <td>The Council for Third Age (C3A) is an agency which promotes active ageing in Singapore through public education, outreach and partnerships. <br><br> As an umbrella body in the active ageing landscape, with its focus on lifelong learning, senior volunteerism, and positive ageing, C3A works with and through partners to help seniors age well. <br><br> Come find out more about the wide range of courses and volunteering opportunities available for seniors! <br><br><a href="www.c3a.org.sg">www.c3a.org.sg</a></td>
+                <td scope="row"><strong>National University Hospital (NUH)</strong></td>
+              <td>At NUH, we prioritize to promote a culture of person-centered care, respecting individuals' autonomy and dignity, even in the face of serious illness or injury. Besides Advance Care Planning (ACP), NUH will also be sharing on Palliative Care services such as End of Life Conversations (EOL).</td>
+            </tr>
+					  <tr>
+                <td scope="row"><strong>Fei Yue Community Services (FYCS)</strong></td>
+              <td>Sharing about ACP.</td>
             </tr>
         </tbody>
 </table>     
 <p>Please contact us at 1800-111-2222 or <a href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a> if you have queries.</p>
     <div class="row">
+<div class="col-12 m-t-40"><a href="/mobile-clinics/" class="p-cta-button btn">BOOK A SLOT </a></div>
 <div class="col-12 m-t-40"><a href="/home/" class="p-cta-button btn">BACK TO HOME </a></div>
 			      <div class="col-3 m-t-40"></div>
     </div>
