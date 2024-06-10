@@ -17,10 +17,6 @@ slot per individual.</p>
 <p><strong>Date:</strong> 22 and 23 June 2024
 <br><strong>Time:</strong> 10am to 6pm
 <br><strong>Location:</strong> 21 Choa Chu Kang North 6, Singapore 6895788</p>
-<p>I'd like to sign up for:</p>
-<p><a href="https://www.booking.gov.sg/public/services/XAxJ45l4/availability?anonymous=true&amp;redirectUrl=https://plantoday.sg/" class="btn disabled" rel="noopener noreferrer nofollow" target="_blank">LPA</a>
-<a href="https://form.gov.sg/65487f80a29446001218159e" class="btn" rel="noopener noreferrer nofollow" target="_blank">ACP</a><a href="https://form.gov.sg/654ae82196770c00114a677f" class="btn disabled" rel="noopener noreferrer nofollow" target="_blank">LPA-ACP</a>
-</p>
 <p><strong>Slots for mobile clinics are fully booked.</strong>
 </p>
 <p>Have not started on your LPA and ACP yet? Click <a href="https://giftofcertainty.gov.sg/home" rel="noopener noreferrer nofollow" target="_blank">here</a> to get started.
