@@ -523,6 +523,7 @@ variant: markdown
               <li><img src="https://i.imgur.com/zk1pxl2.png"><strong>22 and 23 June 2024 </strong></li>
               <li><img src="https://i.imgur.com/mc9gYLj.png">Yew Tee Point Open Space</li>
               <li><img src="https://i.imgur.com/jsREBhu.png">21 Choa Chu Kang North 6, Singapore 689578</li>
+							<li><b> Slots for mobile clinic are fully booked. </b> </li>
 					
 <p><a target="_blank" href="/yewteepoint/">Learn more</a></p>
             </ul>

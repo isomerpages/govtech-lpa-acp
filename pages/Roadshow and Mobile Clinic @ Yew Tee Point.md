@@ -543,7 +543,7 @@ description: ""
 					<p>1. Appointment slots are limited, and booking is required. We do not accept walk-ins.</p>
 				  <p>2. One appointment slot per individual. </p>
 					<p>3. An email and SMS confirmation will be sent upon successful appointment booking</p>
-					<p><strong style="color:red"><b>Slots for LPA and LPA-ACP are fully booked</b></strong></p>
+					<p><strong style="color:red"><b>Slots for mobile clinics are fully booked.</b></strong></p>
 					<div class="box">
 					<p> <strong> Things to bring for the Mobile Clinic Appointment: </strong></p>
             <ul style="padding-left: 30px; list-style: disc;">
@@ -561,13 +561,13 @@ description: ""
 								</li>
             </ul>
 						<strong> Prepare your LPA and ACP 
-          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here</a></strong>
+          <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">here.</a></strong>
 					</div>
-					<div class="col-12 m-t-40"><a href="/mobile-clinics/" class="p-cta-button btn">BOOK A SLOT </a></div>
+					</div>
                <hr>
 					<h5><strong>Roadshow Activities:</strong></h5>
 <p>Join us for our talks and activities listed in the table below. You can stand a chance to win a $5 NTUC voucher after completing our roadshow activities. While stocks last!</p>
-</div></div></div></div></section>
+</div></div></div></section>
 <section class="p-b-110">
     <div class="container">
       <div class="row">
@@ -647,20 +647,20 @@ description: ""
         </thead>
         <tbody>
             <tr>
-                <td scope="row"><strong>OPG, AIC &amp; My Legacy</strong></td>
-              <td>Find out more information about LPA, ACP and My Legacy website.</td>
+                <td scope="row"><strong>Office of the Public Guardian (OPG), Agency for Integrated Care (AIC) &amp; My Legacy</strong></td>
+              <td>Find out more information about Lasting Power of Attorney (LPA), Advance Care Planning (ACP) and My Legacy website.</td>
             </tr>
-					                <tr><td scope="row"><strong>CPF Board</strong></td>
+					                <tr><td scope="row"><strong>CPF Board (CPFB)</strong></td>
               <td>To share the importance of making a CPF nomination so that CPF members can decide who to give their CPF savings to when they pass on.&nbsp;&nbsp;
 <br><br>Encourage CPF members to review their CPF nomination regularly even after they had made their nomination.&nbsp;
-<br><br>CPF Members who are ready to make a nomination or want to check their nominations, can do so at the booth (mobile clinic area). Note: Only for members with Singpass. </td>
+<br><br>CPF Members who are ready to make a nomination or want to check their nominations, can do so at the booth. Note: Only for members with Singpass. </td>
             </tr>
             <tr>
-                <td scope="row"><strong>Pro-bono SG </strong></td>
+                <td scope="row"><strong>Pro-bono SG (PBSG) </strong></td>
               <td>Pro Bono SG will be able to share about our free legal clinics, latest initiative, LawGoWhere, a one-stop legal information portal, as well as the various webinars that are available for registration or viewing of past webinars on our Youtube channel.</td>
             </tr>
             <tr>
-                <td scope="row"><strong>Community Justice Centre</strong></td>
+                <td scope="row"><strong>Community Justice Centre (CJC)</strong></td>
               <td>CJC is a charity organisation that provides legal and social support for self-represented persons.
 <br><br>Deputyship Assistance Programme seeks to provide assistance and support to individuals applying to be appointed as a deputy via the standard process using the CJC's free online system. </td>
             </tr>
@@ -678,17 +678,12 @@ description: ""
 </td>
             </tr>                                
 					<tr>
-                <td scope="row"><strong>Special Needs Trust Company </strong></td>
+                <td scope="row"><strong>Special Needs Trust Company (SNTC) </strong></td>
               <td>With SNTC, you can plan early and smart for your loved ones with special needs.
               </td>
             </tr>
-					<tr>
-                <td scope="row"><strong>Majlis Ugama Islam Singapura (MUIS) </strong></td>
-              <td>Find out about the religious permissibility of pre-planning and legacy planning tools and get advice on Islamic Legacy Planning (ILP) matters including Faraid, Wasiat, Nominations and Home Ownership.
-              </td>
-            </tr>
-                <tr><td scope="row"><strong>National University Hospital (NUH)</strong></td>
-              <td>At NUH, we prioritize to promote a culture of person-centered care, respecting individuals' autonomy and dignity, even in the face of serious illness or injury. Besides Advance Care Planning (ACP), NUH will also be sharing on Palliative Care services such as End of Life Conversations (EOL).</td>
+					                <tr><td scope="row"><strong>National University Hospital (NUH)</strong></td>
+              <td>At NUH, we prioritize to promote a culture of person-centered care, respecting individuals' autonomy and dignity, even in the face of serious illness or injury. Besides Advance Care Planning (ACP), NUH will also be sharing on Palliative Care services such as End of Life (EOL) Conversations.</td>
             </tr>
 					  <tr>
                 <td scope="row"><strong>Fei Yue Community Services (FYCS)</strong></td>
