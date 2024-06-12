@@ -566,7 +566,7 @@ description: ""
 					</div>
                <hr>
 					<h5><strong>Roadshow Activities:</strong></h5>
-<p>Join us for our talks and activities listed in the table below. You can stand a chance to win a $5 NTUC voucher after completing our roadshow activities. While stocks last!</p>
+<p>Join us for our talks and activities listed in the table below. You can stand a chance to redeem a free gift after completing our roadshow activities. While stocks last!</p>
 </div></div></div></section>
 <section class="p-b-110">
     <div class="container">
