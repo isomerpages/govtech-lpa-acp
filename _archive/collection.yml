@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Roadshow and Mobile Clinic @ Yew Tee Point.md
       - Testing Events.md
       - Roadshow and Mobile Clinic @ NLB.md
       - Roadshow and Mobile Clinic @ Wisma Geylang Serai.md
