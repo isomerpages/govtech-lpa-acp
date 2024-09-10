@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - FAQs.md
       - Gift of Certainty x The Woke Salaryman.md
       - Gift of Certainty x The Common Folks.md
       - Gift of Certainty x The Daily Ketchup.md
