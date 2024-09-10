@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Gift of Certainty x Annette Lee.md
       - Mobile Clinics.md
       - Mobile Clinics (Closed).md
       - Roadshow and Mobile Clinic @ Yew Tee Point.md
