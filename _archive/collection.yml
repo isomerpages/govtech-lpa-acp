@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Plan Today.md
       - Gift of Certainty x Vulcan Post.md
       - FAQs.md
       - Gift of Certainty x The Woke Salaryman.md
