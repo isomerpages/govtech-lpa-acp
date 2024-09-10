@@ -781,7 +781,7 @@ display: inline-block;
         <div class="image">
           <img alt="My Legacy" src="https://i.imgur.com/AOjOQMn.png">
         </div>
-        <a class="p-button btn" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Make your LPA and ACP today</a>
+        <a class="p-button btn" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/">Make your LPA and ACP today</a>
      </div>
     </div>
   </div>
@@ -845,7 +845,7 @@ display: inline-block;
 
 <h3>I’m ready to get started on my LPA and ACP</h3>
 
-<a href="https://go.gov.sg/mylegacy-lpa-acp"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
+<a href="https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/"><img alt="My Legacy" class="arrow-btn" target="_blank" src="https://i.imgur.com/zkzLJtH.png"></a>
 
 </div>
 
