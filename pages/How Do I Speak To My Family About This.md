@@ -2,6 +2,7 @@
 title: How Do I Speak To My Family About This
 permalink: /how-do-i-speak-to-my-family-about-this/
 description: ""
+variant: markdown
 ---
 <style>
 /* cyrillic */
@@ -735,7 +736,7 @@ padding: 0 15px;
     <div class="row">
         <div class="col-12 action3_b u-align--center">
             <h2>I'm ready to start <br><strong><i>planning ahead</i></strong> today!</h2>
-            <a href="#" class="btn p-button">Get Started</a>
+            <a href="https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/" class="btn p-button">Get Started</a>
         </div>
     </div>
 </div>
