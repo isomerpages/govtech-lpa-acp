@@ -2,6 +2,7 @@
 title: Gift of Certainty
 permalink: /home/
 description: ""
+variant: markdown
 ---
 <style>
  /* cyrillic */
@@ -938,7 +939,7 @@ display: inline-block;
     <div class="row">
         <div class="col-12 action3_b u-align--center">
             <h2>I'm ready to start <br><strong><i>on my LPA &amp; ACP</i></strong> today!</h2>
-            <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
+            <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/">Get Started</a>
         </div>
     </div>
 </div>
