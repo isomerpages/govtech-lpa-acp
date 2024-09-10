@@ -22,8 +22,6 @@ links:
         url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp
   - title: Upcoming Events
     url: /events
-    sublinks:
-      - title: FAQs
-        url: /faqs-for-events/
+    sublinks: []
   - title: contact us
     url: https://www.giftofcertainty.gov.sg/contact-us/
