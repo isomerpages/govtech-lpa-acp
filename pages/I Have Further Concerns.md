@@ -2,6 +2,7 @@
 title: I Have Further Concerns
 permalink: /i-have-further-concerns/
 description: ""
+variant: markdown
 ---
 <style>
 /* cyrillic */
@@ -752,7 +753,7 @@ padding: 0 15px;
         <div class="col-8">
             <div class="inner">
             <h2>Have further questions?</h2>
-            <p>Please call 1800-111-2222 or email us at <a target="_blank" href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a>. You can also consider visiting us at <a target="_blank" href="https://www.psd.gov.sg/servicesg/">ServiceSG Centres</a> to find out more!</p> 
+            <p>Please call 1800-111-2222 or email us at <a target="_blank" href="mailto:enquiries@mylegacy.gov.sg">enquiries@mylegacy.gov.sg</a>. You can also consider booking an appointment with ServiceSG for its <a target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/life-planning-service/">Life Planning Service</a> or visit us at <a target="_blank" href="https://www.giftofcertainty.gov.sg/contact-us/">ServiceSG Centres</a> to find out more!</p> 
             </div>
         </div>
     </div>
@@ -763,7 +764,7 @@ padding: 0 15px;
     <div class="row">
         <div class="col-12 action3_b u-align--center">
             <h2>I'm ready to start <br><strong><i>planning ahead</i></strong> today!</h2>
-            <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/lpa-acp/">Get Started</a>
+            <a class="btn p-button" target="_blank" href="https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/">Get Started</a>
         </div>
     </div>
 </div>

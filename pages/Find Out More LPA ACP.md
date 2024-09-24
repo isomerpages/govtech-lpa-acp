@@ -539,9 +539,11 @@ a.btn:nth-child(2) {
 
 <strong><p>Thank you for supporting our 'Plan Today' roadshows and mobile clinics organised by the Agency for Integrated Care, Office of the Public Guardian, and My Legacy, to raise awareness about the Lasting Power of Attorney (LPA) and Advance Care Planning (ACP). Information on upcoming events will be updated accordingly.</p></strong>
 
-<p> For more information on how to start your pre-planning journey by making an LPA and ACP, visit <a href="mylegacy.life.gov.sg/find-a-service/lpa-acp/">mylegacy.life.gov.sg/find-a-service/lpa-acp</a>.</p>
+<p> For more information on how to start your legacy planning journey by making an LPA and ACP, visit <a href="https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/">mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/</a>.</p>
+			
+<p> You may also consider booking an appoinment for a life planning service offered by ServiceSG to learn more about legacy planning at <a href="https://mylegacy.life.gov.sg/find-a-service/life-planning-service/">mylegacy.life.gov.sg/find-a-service/life-planning-service/</a>.</p>
 
-<p>Please note that the application fee for Singapore Citizens to apply for LPA Form 1 is waived until 31 March 2026. To book an appointment with an LPA Certificate Issuer (CI) or ACP facilitator near you, visit <a href="mylegacy.life.gov.sg/find-a-service">mylegacy.life.gov.sg/find-a-service</a>.</p>
+<p>Please note that the application fee for Singapore Citizens to apply for LPA Form 1 is waived until <b>31 March 2026</b>. To book an appointment with an LPA Certificate Issuer (CI) use the Health Appointment System <a href="https://book.health.gov.sg/lpa">book.health.gov.sg/lpa</a>. To find an ACP facilitator near you, visit <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/">mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator</a>.</p>
 
 <p>If you require in-person assistance, you may approach <a href="https://www.psd.gov.sg/servicesg/">ServiceSG Centres</a>, or call our hotlines:</p>
 			<li>MSF -  for queries on LPA: 1800 111 2222</li>
@@ -565,10 +567,9 @@ a.btn:nth-child(2) {
 		</td>
 				<td scope="row"> 
 <p>If you are receiving medical care at a public healthcare institution, you can ask your care team to arrange an ACP session for you.</p>
-<p> If you are not receiving treatment at any public healthcare institution, you can contact a community ACP facilitator. </p>
 <ul>
-	<li> Find a community facilitator at: <a href="https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator">https://mylegacy.life.gov.sg/find-a-service/find-advance-care-plan-facilitator/</a>.
-                </li>
+	
+                
 			</ul>
 		 </td>
 				</tr></tbody></table></div></div></div></section></div></div></div></section>

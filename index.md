@@ -16,8 +16,7 @@ sections:
         - title: Upcoming events
           description: Learn more about LPA and ACP at our free talks.
           url: /events/
-        - title: Book FREE LPA and ACP session
-          description: Sign up for a free LPA and ACP session at our upcoming mobile
-            clinics.
-          url: https://plantoday.sg
+        - title: Make your LPA and ACP
+          description: ""
+          url: https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/
 ---

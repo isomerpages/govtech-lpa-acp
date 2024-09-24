@@ -6,7 +6,7 @@ links:
     url: https://mylegacy.life.gov.sg/
     sublinks:
       - title: Make an LPA and ACP
-        url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp/
+        url: https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/
       - title: My Legacy Vault
         url: https://mylegacy.life.gov.sg/vault/?redirect=/vault/
   - title: Choose Your Scenario
@@ -19,11 +19,9 @@ links:
       - title: I Have Further Concerns
         url: /i-have-further-concerns/
       - title: I'm Ready To Get Started
-        url: https://mylegacy.life.gov.sg/find-a-service/lpa-acp
+        url: https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/
   - title: Upcoming Events
     url: /events
-    sublinks:
-      - title: FAQs
-        url: /faqs-for-events/
+    sublinks: []
   - title: contact us
     url: https://www.giftofcertainty.gov.sg/contact-us/

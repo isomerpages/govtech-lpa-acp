@@ -2,6 +2,14 @@ collections:
   archive:
     output: true
     order:
+      - Plan Today.md
+      - Gift of Certainty x Vulcan Post.md
+      - FAQs.md
+      - Gift of Certainty x The Woke Salaryman.md
+      - Gift of Certainty x The Common Folks.md
+      - Gift of Certainty x The Daily Ketchup.md
+      - Gift of Certainty x Kids.md
+      - Gift of Certainty x Annette Lee.md
       - Mobile Clinics.md
       - Mobile Clinics (Closed).md
       - Roadshow and Mobile Clinic @ Yew Tee Point.md
