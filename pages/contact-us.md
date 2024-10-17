@@ -20,7 +20,7 @@ locations:
       - Singapore 756973
     operating_hours:
       - days: Mon - Sun
-        time: 10AM - 6PM
+        time: 9am - 6pm
         description: Closed on Public Holidays
     maps_link: ""
     title: ServiceSG@Bukit Canberra
@@ -38,12 +38,12 @@ locations:
       - Woodlands Civic Centre
       - 900 Woodlands South Drive
       - "#03-01A, Singapore 730900"
-    title: ServiceSG Centre Woodlands
     operating_hours:
       - days: Mon - Sat
         time: 9am to 6pm
         description: Closed on Sundays and Public Holidays
     maps_link: ""
+    title: ServiceSG Centre Woodlands
   - address:
       - "#01-21"
       - 1 Tampines Walk
@@ -88,12 +88,12 @@ locations:
       - 166 Bukit Merah Central
       - "#03-3529A"
       - Singapore 150166
-    title: ServiceSG Centre Bukit Merah
     operating_hours:
       - days: Mon - Sat
         time: 9am to 6pm
         description: Closed on Sundays and Public Holidays
     maps_link: ""
+    title: ServiceSG Centre Bukit Merah
 contacts:
   - content:
       - phone: ""
