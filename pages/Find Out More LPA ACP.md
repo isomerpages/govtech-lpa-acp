@@ -560,8 +560,7 @@ a.btn:nth-child(2) {
                 <tr><td scope="row">
 									<p>Individuals with financial needs may approach the following organisations to certify your LPA:</p>
 									<ul>
-									<li>Life Point's LPA One-Stop Services</li>
-	<li>Potter's Place Community Services Society (applicants will have to pass a means test)</li>
+										<li>Potter's Place Community Services Society (applicants will have to pass a means test)</li>
 		<li>Mount Alvernia Outreach Medical Clinic @ Enabling Village (only for referrals from MSF or social service organisations and persons with disability)</li>
 										</ul>
 		</td>
