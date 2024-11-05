@@ -13,9 +13,6 @@ sections:
         - title: LEARN MORE
           description: About LPA & ACP and how to get started.
           url: /home
-        - title: Upcoming events
-          description: Learn more about LPA and ACP at our free talks.
-          url: /events/
         - title: Make your LPA and ACP
           description: ""
           url: https://mylegacy.life.gov.sg/find-a-service/start-preparing-lpa-or-acp/
