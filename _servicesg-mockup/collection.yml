@@ -1,4 +1,5 @@
 collections:
   servicesg-mockup:
     output: true
-    order: []
+    order:
+      - Welcome to ServiceSG (Mockup).md
