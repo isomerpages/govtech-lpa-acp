@@ -2,4 +2,5 @@ collections:
   servicesg-mockup:
     output: true
     order:
+      - ServiceSG Centres.md
       - Welcome to ServiceSG (Mockup).md
