@@ -1,0 +1,4 @@
+collections:
+  servicesg-mockup:
+    output: true
+    order: []
