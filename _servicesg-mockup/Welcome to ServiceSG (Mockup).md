@@ -17,9 +17,13 @@ delivery to serve citizens better.&nbsp;
 <p>It drives a citizen-centric approach to service delivery by integrating
 public services across agencies, organising them around key life moments,
 and delivering them through an omni-channel network of physical centres,
-a central call centre and a digital platform, LifeSG.
-<br>
-</p>
+a central call centre and a digital platform, LifeSG.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_-aSlsDaZec"></iframe>
+</div>
+<p></p>
+<p></p>
 <p>It also strengthens service delivery capabilities within the Public Service,
 and continually works to raise overall service standards across the whole
 of government to improve citizens’ experience of government services.</p>
