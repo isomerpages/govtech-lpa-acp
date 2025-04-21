@@ -24,6 +24,4 @@ a central call centre and a digital platform, LifeSG.</p>
 </div>
 <p></p>
 <p></p>
-<p>It also strengthens service delivery capabilities within the Public Service,
-and continually works to raise overall service standards across the whole
-of government to improve citizens’ experience of government services.</p>
+<p></p>
