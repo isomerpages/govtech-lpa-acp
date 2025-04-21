@@ -2,5 +2,6 @@ collections:
   servicesg-mockup:
     output: true
     order:
+      - Transforming Citizens' Lives.md
       - Welcome to ServiceSG (Mockup).md
       - ServiceSG Centres.md
