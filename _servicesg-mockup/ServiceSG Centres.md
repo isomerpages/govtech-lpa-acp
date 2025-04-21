@@ -8,7 +8,6 @@ description: ""
 <p>The Public Service Division (PSD) has set up ServiceSG Centres, where
 officers are ready to assist citizens who are less confident of transacting
 digitally with the government.</p>
-<p></p>
 <p>Visit our ServiceSG Centres for guidance on government services that are
 relevant to your needs.&nbsp;
 <br>
