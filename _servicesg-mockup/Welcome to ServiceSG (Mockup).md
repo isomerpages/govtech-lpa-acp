@@ -28,6 +28,4 @@ of government to improve citizens’ experience of government services</p>
 </div>
 <p>It also strengthens service delivery capabilities within the Public Service,
 and continually works to raise overall service standards across the whole
-of government to improve citizens’ experience of government services.</p>
-<p></p>
-<p></p>
+of government to improve citizens’ experience of government services..</p>
