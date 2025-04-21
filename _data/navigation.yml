@@ -24,3 +24,5 @@ links:
     url: https://www.psd.gov.sg/servicesg/
   - title: contact us
     url: https://www.psd.gov.sg/servicesg/
+  - title: ServiceSG
+    collection: servicesg-mockup
